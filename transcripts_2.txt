@@ -1,0 +1,985 @@
+You're going to connect the, each of the cardiology rotations you have to graded course rotation, and you also have that course, uh, graded course rotation connected to the curriculum cardiology, uh, course record.
+What we're doing here is, if I'm designated as a director of the cardiology course in the curriculum, I will be able to see, uh, submissions.
+For, um, students that were scheduled for a specific rotation, and that's mapped to the same cardiology, uh, uh, rotation in the graded course rotation.
+So all we need is a check box here that says a lot course director. You can, we can just say, a lot course director- directors to view summative, uh, evaluations or something like that.
+Um, or evaluation allows course directors to view prior performance on summative evaluations. So, cause when, when that happens, if If you have multiple, multiple rotations, let's say cardiology is offered at five different hospitals.
+And it's mapped to the safe cardiology rotation in the curriculum. If I'm the director of cardiology, I will be able to now see summative evaluation for, any student that is going to any one of those five different rotations.
+You don't have to go through every single rotation and set that up. Okay. Yeah. The parent. Okay. So, so the, the design here is, Hello.
+Yep. You asked me to join. Okay. Uh, give me, uh, it took too long, so I started working on it.
+Let me just finish this balloon video. Okay. So, essentially, uh, we're gonna add that checkbox, but we're also going to just clean up this summative form, which I already set up on, uh, on a demo.metrixlab.com under Arnold.
+and just to make it cleaner where you can expand and collapse. Okay. So when they hit new form, is that form going to be completed?
+That's a completed form? If it is completed. Otherwise, it's just seeing as that. So it can, it can be something that they can look at.
+It's not even. You can, you can, you can say, you can say, only show this if it is completed. Uh.
+Otherwise, just show the status. Okay. To make it cleaner. And then, then they would go down to the bottom and, uh, throw that out.
+Um, the other, the other thing that we can display here, obviously is a, is a form name, but we, if it's a graded form, you can also show the grade here.
+Because. because That would also be helpful. Alright, I'm gonna. Yeah. So.
+https://www.loom.com/share/0c98867d71ba440d8337fe299b989c0e
+success
+Creating and Managing Block Schedules for Student Rotations
+First thing that they would do is create a block schedule and then the block schedule will have blocks. Then they go to the lottery page and create a lottery and they can select the block schedule that they created.
+And this would allow them to see blocks for each, uhm, site or rotation, and site and rotation combination. And plug in values for how many students will be allowed.
+In addition to that, we'll also give them a way to set capacity for the site as a whole. Uhm, actually Rio and I had an idea for, I forgot about this.
+We can actually, we can actually give them a setting when they create the lottery that says you want to set capacity at the site level or block level.
+It's never going to be both. Uhm, so you can say, or at least, I don't, so far it hasn't been for both.
+So it's basically saying one or the other, and depending on which you select, it'll change what you display in that, in that ah, blocks page.
+Because it can, if they only need to set it by site, we don't need to display all the blocks. You can just basically say, here's the site.
+And I think we should, we should still have the drop down, so they can open the Yeah, yeah, yeah, yeah.
+But, it's just right out. Yeah, yeah, yeah, yeah, yeah, that's perfect, yeah. You know, inevitably, you're going to have some site coordinator be like, I want to double check that these are all right.
+Yeah, you could, yeah, exactly. Uhm, so that covers this fun, uh, the setup of this page. That will be essentially one task.
+We're going to be cleaning up the, uhm, the lottery creation page. And then we also, I didn't mention this earlier, we don't need to, we can get rid of the whole advanced phase, advanced phase.
+There's no need to do that. As soon as you create it, we can show the blocks button, and then we, there's also a pre-fill blocks.
+This way, it's not, like, if they make a mistake or something, they can always go back and fix it. Uhm, just, the phasing thing just goes away, and it just basically shows you, uhm, block, blocks, pre-fill blocks, and then, If they go back and fix it though, and they have pre-filled, does it need to
+tell them that you, You need to re-check your pre-fill? So, exactly, so that's something to factor in there, so if you go back and change the block, try to change the blocks, it should be locked, and say, you cannot remove this because you have pre-fills.
+So, yeah, that's one way to approach it, or you can say, There's a that says, uhm, if you remove this block, uhm, it's going to remove the pre-fills for these two students, uhm, or if you say, if you change, just change the capacity, you can say, if you change it from five to two, now you have, uh, this
+is going to be over-capacity because you have x, y, pre-fills. So, yeah. You're going to have people that do pre-fills and they change something and then, Yeah.
+So, then, when you get to the pre-fill stage, this is a function, a page that Rio designed last year and it's very, very nice.
+It's scalable, uhm, so that I can go in there and pre-fill people to it. So, there's not really much to change here.
+The, except for, uhm, connecting this to the capacities. So, right now, it shows you, it says two MS3s are allowed here.
+I just, yeah, you can get rid of that. so it'll just say two students are here, or five, or whatever.
+Uhm, and then, what, uhm, we want to do is make it obvious that some, a block is at capacity, capacity.
+Because, what, we, right now if I look at it, if I had three people, it's, umm, this is fine, but if I ask, like, ten people here.
+It doesn't change color or anything like that to indicate. Yeah. Some should not read. Yeah. Which ones are good? Which ones are very, which ones are over?
+Doesn't let you put it over? Yeah. We allowed. Yeah. It doesn't know where you think you are. Yeah, exactly. Okay.
+I should say. Do need to be letting it over? Um, yeah, you can have, yeah, you should have an alert.
+You can have an alert, but here's, here's, I think what we can do is, uh, um, make it a setting when you create the lottery, whether you want to allow for over-filling or not, so that if it's a hard lock, they can just lock it down, and then the otherwise, um.
+When you say I've said yes to all of those, it should be. I'll let you overfill it, but it should just alert you that that's overfall for the color or something.
+Or if they have said no, we don't want to overfill it, then the system shouldn't let you add more than whatever the number is in there, right?
+Yep. Yep. Exactly. I think there should be an indicator of how much you're over.
+https://www.loom.com/share/2c1307fb3be0474b883eed7de9a7250e
+success
+Enhancing Client Relationships 🤝
+I would like to write an email with this, uh, new statement of work that we have with our client. And, as part of our initial negotiations, we had emphasized to this institution that we would like to have quarterly check-ins with each of the schools.
+Uhm, and their leadership. And that, the reason that we wanted to have this is to make it, uhm, this is standardized like we do all of our other clients.
+Where we meet with them every quarter to review their high-level goals. And, uhm, understand, uhm, their, their needs, where they stand on their, uhm, usage of the platform. And set goals for the next quarter.
+Uhm, and also to identify any uncertainties. Any, uh, uhm, challenges or dissatisfaction early. And this is, uh, important because, uhm, when it comes to the students and the faculty members using the platform, if for some reason they are, uhm, unhappy and we don't hear about it due to multiple layers
+of communication, it's possible that they may, they may have a negative perspective of the platform. And in the future, when they graduate and go to another institution, they, uhm, the reputation of our product, can be, uhm, jeopardized.
+That is why we like to have direct relationships, uhm, with these, each of the schools. With the current way we are operating, where we only interact with IT, uhm, or certain, uhm, feedback that don't get to us, and this is, ah, can lead to, uhm, changes, decisions being made that jeopardize the overall
+contract, uhm, and, and, and, uhm, that may not be due to the problem with the platform, but due to miscommunication.
+An example of this is with the BSN program, where, uhm, the, the, uh, large, uh, contract was discontinued because, and without any, uh, clear communication and, and, uh, advanced, uh, warning.
+Uhm, that is why we want to have this to be a requirement, and, uhm, without this, we are operating blind, and given that a TALIM is one of our, uhm, highest priority clients, uhm, that we've been going, uh, above and beyond and doing a lot of custom development, uhm, it is a big risk factor that we
+cannot accept. The second thing that we want to address in this email is that, they are changing the 90 day notice for cancellation to 30 days, which we cannot do either because this is going to impact our operation.
+We want to maintain the 90 day, uh, notice.
+https://www.loom.com/share/225484ec335145f0824aae93153c65f7
+success
+Mobile Testing Feedback 📱
+Hey Ken, wanted to make sure that you're picking up on these, uhm, things for testing the mobile, I mean the Chad Webby was using.
+Yeah, I was using the tool today and I noticed a couple of things. Uhm, so for example. If I go in there and do a password reset, I get an email from them.
+First thing I notice is that this email is coming from team at skimping.ai. I'm not sure what that is. Uhm, but.
+We got to make sure that's documented and something that it should be coming from a metrics email account. Another thing that when I click the reset password, I'm taken to a page that looks like this, and it looks like, uhm, the formatting is all off, it's reset password, enter new password, formatting
+is off, and then the top logo is not fully visible because of the background color there. Take care. Once I enter the password, I'm taken to this page where I have this, uh, password changed.
+It should be capitalized and I mean, we should have a better design for this. It shouldn't just look like this where it's, it looks like it's, uh, malpositioned.
+So we need to come up with a better design for this. And have it updated, but I'd like you to make sure that you note it in, uh, I'm not sure where this is being tracked.
+Uhm, uhm, my recommendation is to create a Google document. under development, if you go into something, this folder here, specs and feedback.
+So you can see here, this was the first round of feedback that I gave them.
+So if you, I recommend starting a document like this where it's showing the problem as well as a description of what the fixes should be.
+Uhm, so in here, you're going to add a second document and use that for providing feedback. October 13th.
+You can see to rename it. I'll dump these images in here.
+https://www.loom.com/share/d28dec66c8df4d47aba05c08139ef382
+success
+Form Building Strategies 💡 **** Summary:
+So when we work on this, essentially we have a limited number of tools available in the form builder. So at the top we obviously have the title or the name of the form and we can call that the, we should use some sort of standardized prefix, maybe ASCII.
+um ASCII and CPX colon Pediatric Patient Note Assessment. And then in the description of the form, so that's the first page of the form builder, we would put this.
+And then as you go down, we only have one thing, one field that we can use for dividing up the sections.
+So we have above the above each question, you can put like a section header, I mean a question title. But here, if we look at this, we actually have history taking and we have chief complaint.
+Uhm, so we gotta kind of figure out how we're gonna make that work. So I would use history taking 20% as the header and then for the first question, I would put Chief Complaint as the question, then the description of the question will have this thing here, and then in parentheses in that description
+you can put maximum two points. Forget this a simple, forget that part, and then you have this being a Likert scale with three options.
+Each of those has a option that says zero. 0, 1, 2, and then the value of that is also going to be 0, 1, 2, and then the NA is going to be enabled if, if necessary.
+Same thing here. This would be the question, question description, parentheses, maximum points, um actually no, I'll take that back.
+So we, we can, what we want to do is something slightly different. History taking. Chief complaint. That can be the header.
+Then question one is. Description for that is.
+So that's the question. And then the options for that is going to be. Zero. One. Two. And then we have HPI.
+Have a good night.
+Yeah. So we got this thing here. This could be the question. And description.
+We could try this. Try putting it here. It's a little long. Do it like this. In the section header. Maybe we can make it shorter.
+Then we got that. We gotta get creative with it. description of um symptom attributes and we can put onset.
+location. So each, each will be a separate multiple-choice question, and we will repeat that same thing down here.
+Uh, when we get to something like this, we can put this as a question, and all of these items will go into the description.
+We won't make separate questions at this because this is all one response. So, hopefully that helps. Essentially, what we're trying to do is take this form and use whatever tools that we have on the form builder to restructure the headers and the questions so that the person is getting the same context
+but not necessarily the same layout.
+https://www.loom.com/share/b0ce8dfb4cba4077b60dd2d0b0b17875
+success
+Payroll Approval Process Update **** Summary:
+Hey Shruti, so they have this time card functionality when they log these hours I'm not sure if I'm getting notifications or just didn't see it But it uh It requires our approval for before it can be paid maybe you can figure out a way to If there's a way for us to turn that off and just auto approve
+I don't really care because there's a cap on the hours and I trust them to put the hours you know it would eliminate one step but if we cannot auto approve then maybe we can tell Pooja to let us know when the hours are in for that week and so you can see right now the payment is period is until the 24th
+so by the 24th when she finalizes the hours we can go in there and approve it. For Ken, he's a similar situation where I've been paying him on cash half because of this reason.
+It would be good for us to uhm get him to get him into this process too so that if we're going to have to approve Pooja we can also just have Ken do it here and avoid using the cash app.
+Yeah, so I will. Check uh she won't want to rent I thought I had was uh so Ken does have shares so he's actually getting guaranteed payment.
+Yeah, Ken Ken does have shares from the last time he was employed here At that time he was salaried and now he's hourly but I think since he Falls into that category I'm not entirely sure if uh he's gonna withhold taxes Yeah, let's not change Ken's out.
+We'll leave Ken the way that it is He's logging into Clockify anyway, but for Pooja. I don't want to I think for Pooja.
+She's not used to doing $10.99 and probably Prefer to have us taking care of the taxes So we can go put her through the normal process
+https://www.loom.com/share/9685b63c8958420e8f07e320300cf1d4
+success
+Requirements Portal Issue Resolution 🛠️
+I'm on the institutional portal, and I'm not seeing any active requirements here, so nothing here even though I went in there, created a new template.
+One thing to note is that I am logged in as Metric support user, I'm not using the super admin. Uhm, so I went in there and created a new requirement called Tosh, test Tosh, and then assigned it to a whole bunch of people, but nothing shows up here.
+I can clear these, and there's nothing. So I think there's something broken. Programs, School of Medicine, and Tosh, test.
+So you can see that it is assigned, but it's not showing up on that page. It does work on the assignments page here.
+On the, or maybe not, it's not showing up here either. Yeah, and I, uhm, think we had also said for this, uh, we can just call it.
+Assignments, rename this to Assignments, there's a small tweak there, uhm, so that it matches the admin portal. So for some reason, uhm, this Assignments page or Active Requirements page is not showing on the issues.
+Uh, the tasks that are assigned to the users. Let me see if I can try it on the admin portal, yeah, on the status board it is working.
+https://www.loom.com/share/b4be434b48214e55a7835092766768ea
+success
+Reviewing Comments and Documents with Students
+In this short video we're going to go over how to review these comments and documents with students. On the Metrics Gradebook generate MSPE page, we can see templates and then we can also have a select the MSPE group.
+So when a student is coming to the meeting, what we can do is open up their document. You probably can do this before they get on the Zoom call.
+So you have it up and have this window open and go through this together with them. And in here you can make any manual edits you want.
+And when you get to the bottom, there is a save button. Clicking that save button will bring up a select new status option.
+So if it was approved without making any edits, you can simply say approved. If it was approved with changes, you can put approved with changes.
+And if something needs further attention, so let's say there are there's a section that requires a new import or something to be added that you don't have access to right now and needs to be handled after the meeting, use this needs remediation option.
+And that will give you a certain status which will be shown on this page. And any time you are regenerating the uh The batch of letters, let's say come up here, regenerate for this group, you can select which statuses you want to regenerate.
+So you can skip anything that's approved or approved with changes and then regenerate for draft or remediation. Under the view column, there is also a way to see history of any changes.
+um have a way to change the status manually here, regenerate one letter instead of the whole batch. You can also download it to a PDF or download it to a document.
+That's really all that is uh necessary on this page. And then if you want to also filter for ones that are draft or approved, you can do that at the top here.
+Another tip here is when you are working with students and going from one meeting to the next, if you hold down the command button if you're on a Mac or a control button, before you click action and edit comment, it will open up in a new tab.
+So that way you can keep this window open and don't have to keep selecting these drop-downs at the top. And it'll open up a new tab.
+You can save it and then close that window. Come back here, search for the next student and continue that work.
+Hopefully this is helpful and looking forward to getting any feedback that you have after you start your series of meetings.
+https://www.loom.com/share/ae85af65403a4d4cac202bbd7937e31e
+success
+Front End Components and User Management Overview 👩‍💻
+This task will be to create all of the front end components and, uhm, pages associated with creating and managing users.
+So, uh, we gotta start with creating the three portals with links at the top, so it's gonna be the company portal, admin portal, personal portal, uh, and the company portal, uhm, on the left menu we will have roles and programs with the ability to, uhm, create a program on a, and it'll show a data table
+. Uhm, on the roles page you'll be able to, we'll be able to create roles with the different criteria, uhm, on the, uhm, admin portal, we'll have the users page, the sites page, programs page, and then system settings.
+And then up custom fields. So on the custom fields, you'll have the ability to create, uhm, different sections, and each section will have, uhm, custom fields getting added.
+Uhm, on the users page, a page, it'll have a data table that shows basic information with the ability to, uhm, uhm, open a profile and see that person's, uh, detailed information.
+Uhm, when they open up that profile, it'll be a user, uhm, portfolio page with all of the, uh, academic information they have collected.
+The users page also have tabs at the top for What, by the way, actually, we're going to call it the peep, uh, the page is going to be called people, not users, and on this page we have a tab called people, groups, and, uhm, invite.
+We won't be dealing with the groups tab in this, uh, functionality in this, uh, but on the users page, you'll be able to create a user, and which brings up a new page to create all the demographic information.
+Uhm, the creation page is going to be the same as the portfolio page, except they would only have access to the about information.
+Once they create the about information, they'll have the ability to, uhm, uhm, fill in additional information, such as documents.
+Thank you.
+https://www.loom.com/share/b28d1e5172164c15ae145ea5d790d8c4
+success
+Understanding the Issue with Nohub and Confirming Correct Actions 🎥
+Hey Mitch, wanted to, uh, explain the, uhm, issue with the nohub and confirm that what we need to do is correct.
+There was a custom field that was created for hub and under case demographic, we have these hubs that are defined in addition to all these hubs, there was a dropdown that was created called nohub.
+And there are 200 items or 200 sites that have the nohub option selected.
+There are also many hubs that have no selection options. So it's just blank. If there is nohub, it should be blank.
+When there is an option called nohub, it's, uh, it has a value. So the optimizer is treating it as if it's on hub, just like one of these other homes.
+Other ones. Uhm, so. What we have here is basically there are a bunch of sites that are blank, which shows up as nohub assigned, and then we also have some that are, that are defined as, uh, hub, a nohub, which essentially, to the optimizer, which doesn't know anything other than values, is going to
+be treating it as its own hub. So what we're planning on doing is turning all of these nohub values that were entered as options in the system, and just taking and putting those as nohub assigned, which is what we, which is the generic, uhm, uhm, value that we are setting that it's supposed to be blank
+. And because there was this value, it's getting confused, essentially. I just want to confirm that there was no other reason why nohub was selected for 200 of them, uhm, and that it was simply to define that it was supposed to be blank.
+And that, I believe, will take care of the, uh, the problems that we've got. The interface with the hub. And it would be also great to, uh, get a list of other issues that you have, uh, sooner than later so that we can try to, uh, tackle them, uh, as soon as possible.
+https://www.loom.com/share/2f79279bfecf4802be7707629f624b8e
+success
+Streamlining Evaluation Processes 💡
+So, for second one, this is a more complex thing that requires, uhm, planning. So, this is the problem.
+Essentially, when we have evaluations coming into the system, we're going to, we have, uh, a field on there. So, let's say this is, uhm, the MSPE demo server I'm using, and if I, uhm, go into evaluations and templates, there's going to be one question usually at the bottom of a form that is they're using
+to collect a comment from the preceptor and it says, it's the comment that goes into the MSPE letter. Yeah, it's like that they did a good job or they need to work on that Yeah, so what happens is, right now, if they want to send that comment into the gradebook, which is where we need it, uhm, for it
+to no automatic way to do it. Either they have to open up each submitted evaluation and at the bottom of it, we have a section called add grade.
+This allows them to select the course, select the grade, and then also set the and the comment into the, into the, uh, this is on the evaluations, uh, yeah, so what I'm doing here is going to the, uh, assignments page.
+Okay, so the email has already been assigned, it's already been done. They have to go back to the assignments page, re-open it.
+And administrate it. So the preceptors, yeah, yeah. So the students even, like, started the email, they sent it to their preceptor, the preceptor opened it, they did it, put in their comment, they submitted it.
+Now, as an admin, I have to go in from the assignments page, on the email, go down to the bottom, find the right course again, plug in the grade, even though that grade exists potentially elsewhere.
+Yep. Well, they're not necessarily doing the grades and metrics, none of our clients are. Um, the idea was that if they want to grade this rotation, they can do this here, but they're mainly would be using it for comments, but it doesn't really work because they're getting hundreds of these forms.
+I was about to say, I was like, so for every student, if they have 10 emails, they have to go into each individual email, select original comment.
+Yeah. And then move that over to the thing. And if they were doing this, so if they, if they are moving this, um, so if they're doing a monthly review, this makes sense to do much.
+Most of our clients are not doing it. So what's happening right now is Chris is doing it. So Chris is MSP season.
+He's downloading it from the evaluation data and doing a bulk upload into the gradebook. So. Okay. But if they're doing it manually, we go back to the form we saw, I understand.
+If they're doing it manually, we're down at the bottom. If they have multiple comment fields, they can pick one, whichever one it is.
+It's going to It's going to be the It's going to be, uhm, So it saves the comment, and then you also have to save the grade.
+So you have to choose, you don't have to enter any of this information in, you have to at least choose which graded core rotation Yeah, exactly.
+So, so, this, this is useless in my opinion. Like, we did this, uh, Yeah, this is, uh, you know, we thought this was gonna solve it years ago, but no one's been really been using it.
+So this, this concept here is to figure out a way to move all these grades into the gradebook. I mean, I mean, sorry, the comments as a grade record into the gradebook either automatically or doing it in a batch so that administrator can do it and Chris is not the one that does it.
+Yeah Yeah So essentially what we need to so so Chris's solution for this Which I think like we have I had talked about it like a couple years ago and at that time what I was thinking about and and he like this is what the the leading idea right now is on the Manage questions page when you build a form
+add a Setting on the question itself that says Yeah, and then and the basically anytime that is submitted it's automatically creating a grade record Yeah, yeah, so, so like, uhm, if you have, uhm, the evaluation is going to get assigned to a rotation.
+Rotation records have a link to the grade book, graded course rotations. So you can use that relationship to find out.
+Which course or rotation you, I mean, a rotation you're going to be adding the grade for, and then if you flag the question This is the MSBE comment question, then every time a submission happens school would have to go in to all of their forms and manually figure out which of the comment boxes is going
+to be the MSBE comment if they have multiple comment boxes. There's usually only One form that they're using and they only have to do it once on the template.
+But they only, they can only have one comment field that goes. There's no, they're not going to be able to, like, go through the day.
+We have two comment fields like that form that we were looking at earlier. Yeah, yeah, so that's, that's the, that's the, uh, something that needs to be, so from a, uh, uh, uh, that's the kind of things that Mike would need to put into the specs as, like, if you have, for example, the way that, .
+. . I would, if we go with that idea, the way that I would need to do this is, and this is the type of things that I would tell Mike in a call or loom video that says, so if I'm making this form, and that's, that, I mean, that's, that's a good example of .
+. the type of things that need to be Mike needs. So for example, if I'm building this form right now, and I'm going to have, um, these objects here that are like a scale, that's the one question, the next question, I'm going to create something that is for, uh, a text question.
+And at the bottom, similar to the way that we have confidentiality we're going to have a setting that says, this is the MSBE.
+https://www.loom.com/share/e1ecb767d72844729f64cc9cb7743c47
+success
+New Version Profile Page Update
+Alright, uhm, so for the, ah, new version, uhm, so you have the left, ah, menu, that's been updated, uhm, will have the expandable and colla- I mean, it can expandable and expandable and collapse, uhm, it's not perfect, probably will need some tweaks, uhm, we'll have, for this particular part of the
+project, we'll be doing the people, and then under system setup, uhm, the, ah, custom fields, uhm, functionality, and at the top, instead of, ah, institution admin and personal, we'll have, uhm, metrics, I mean, or, uhm, I mean, we can call it company, or we can call it, ah, metrics.
+Essentially, that's going to be for metrics employees. And then the admin portal and personal portal. In the, uhm, metrics or company portal, Well.
+We'll have, uh, one menu item right now, which is for, actually, uh, two, two menu items. One is going to be for programs and just simply to create a program record.
+And then another one for, uhm, roles, where you can create roles, uhm, in all the things associated with it. In the admin portal, we'll actually have people, uhm, programs, sites, and, uh, system services.
+In the we'll have, uh, in the system setup, we'll have, uh, the custom fields. Uhm, and for, uh, how that, of, uhm, let me go back to the, uhm.
+There we go.
+So on the people page, uhm, for now we'll have a simple table view. That is modeled after the, uhm, the current, uhm, UI, uhm, with the new data table that is in the UI kit.
+What's, uh, more important for this, uh, first version, I mean, the first task.
+is for us to start building this profile page. And this profile page will have, um, basic information at the top, uh, the photo, which they'll be able to click and hover over and edit.
+Upload a new photo, first name, last name, educators, the user type, then the role, and this person's, uh, primary program.
+This resident is a mistake, we can ignore that. Uh, back to list to go back to the previous page. We have a breadcrumb at the top.
+Uhm? The print profile essentially will.
+We it'll generate a. A printable version. Then their home institution will be here and set up hospital.
+We can just call it home institution class off. It'll show them the class of year. And current rotation will add later.
+And we'll have a status that indicates whether the, the, this person has admin access or not. And then you can ignore this, uh, east wing.
+And then there's going to be an alert section that appears if they're missing or any of their documents are expiring or expired.
+And then we have these tabs for this particular task. We'll only be working on the about tab, but we can add these other ones except for messages.
+And then we have the about section, which you can click to edit. You can ignore the heart. We can, we don't need to show that.
+Then you have the home button. Institution. You can edit their contact information. There's little tools to copy different pieces of information.
+The about account information, um, documents and certification. So when I'm showing you these, uh, mock-ups, this is a concept.
+What we want to do is keep the same fields we have in the existing system, and then it'll be shown under account for information, uh, documents and certification, and then under the demographics, you have a bunch of other fields that show up.
+So if we go back to the current version of Metrix, and open up one of these profiles, this is the information that shows up here.
+Account info, documents, certifications, citizenship status, emergency contact, additional info. So those are all the, all the information that we're going to be showing in the new version.
+And the other thing that we want to do is inline editing. So if I click edit, all these fields become editable.
+I can change it and then click save. We want to store who saved it. And when they did it in our, uh, the last person that saved it in our database.
+Yeah, so this, uhm, is the, uhm, the new page.
+And, essentially, it's all about building this profile in a way that it's scalable because, over time, this, these tabs will get filled with information.
+And one of the limitations that we have right now is it's, it's somewhat clunky and slow, uhm, when you have a lot of data.
+https://www.loom.com/share/bf78084d28d34907b4598851edd55817
+success
+Feedback Review and Manual Edits
+Hi Lisa Here's a video going over what we've worked on. I want to summarize this for you When we initially did the first run of the AI We used this sheet to collect feedback from the LMU team And the reason that we collected that feedback is so that we can help do any manual edits and also see what are
+the issues the AI was having For the second batch, the LMU team made the changes directly to the comment But for this first one, we were applying those changes after looking at the feedback So when we did this, we missed a few of these feedback comments and the final import that was made didn't have
+some of these manual edits So we went through this and identified a few of these that are shown in green here and we corrected it and we're in the process of importing those But while I was going through this, I noticed a couple of things that I wanted to bring to your attention So when you have something
+like a one-word comment like committed and committed and patriotic You know, do we want to turn this into a segment?
+A sentence like the student doctor is committed and demonstrates a strong sense of patriotism Um, flagged it in purple so that you can look at it But a more important item here was It's going take me a little bit to find it Search for negative here There are a few of these that are flagged as negative
+comment And uh, I don't think those um Were all uh corrected Well They may the first one looks like it may have been corrected.
+I would like you to take a look at this and see if any manual changes are needed and if so You can make changes that here and then we'll update those.
+There was one that was flagged by the LMU team as HIPAA. So it said HIPAA violation mentioned students illness. I was wondering if you want to do something different about this comment and if you want to make manual edits, you can and then we'll get that sorted out.
+So currently what we're doing is importing anything that is in green. Those are the ones that we made some manual tweaks to based on the feedback that was given by LMU and the purple one we'll do it separately after we get your feedback.
+Thank you.
+https://www.loom.com/share/65d7396703d449c49e739ee643e912c1
+success
+Veterinary Medical Colleges Competency Management Proposal
+Greetings from Rome. I've been, ah, doing a little bit of work during this trip because we have a large opportunity with the American Association of Veterinary Medical Colleges and, uhm, we had a RFP that we were a part of and, uhm, we were selected as one of the finalists and on Friday I gave a demo
+, a second demo, to the leadership team and it seems like we are, uhm, either at the top of the list or the second from the top of the list and American Association of Veterinary Medical Colleges is an organization that oversees all of the veterinary medical colleges in the United States and they have
+developed a set of competencies that they want to implement across all schools so that veterinarians in the United States are trained according to this set of competencies.
+And what they're looking at metrics for is to provide a centralized platform that can collect the competency data for every vet school in the United States.
+We have not done something like this before, but our clients, We typically sell to the individual universities themselves to do all the veterinary education management.
+This includes competency management, scheduling, and a ton of other stuff. Uhm, this is a, we can support this on the national level without much development.
+Uhm, since they're simply looking to, it's actually less functionality with, than what the universities need. The difference here is going to be, since it is a national organization, they want to be able to provide this tool for each school's administrators to log in and set up.
+Submit the competency data, but we still want to be able to sell metrics to each university separately because they're going to be paying a lot more money for the platform because they need a lot more functionality.
+And these schools also don't want to be using something that is provided by a national organization. For all of their local operations, such as scheduling, because they want to keep their operations separate from what this national organization needs.
+So, as part of our, uh, sales pitch to them, we recommended that they have an ins- you know, uh, let me show you, uh, my propo- my, uhm, presentation to them on Friday.
+So what I proposed to them, I went over a bunch of stuff, but I'm gonna go to the more important things, is that they purchase metrics as a national, uh, a large deployment that we do for them, and then each vet school will have a login, so they administrators can log in and submit student reports to
+them. And then if a school is already using metrics, then we can use an integration to pull that data automatically so the vet school doesn't have to log into it and submit that information manually.
+So there's an incentive for those schools to switch over to metrics. On the local level, and there is an incentive for AAVMC to push us as a platform for all of those vet schools in the country.
+And the idea is that over time, as more schools switch over to metrics, AAVMC's costs will go down because I said we can offer a lower cost.
+The price per year for these schools that are submitting data using the integration instead of logging into the platform, uhm, because we're essentially going to be getting a fee from the university for all the students anyway, and then the AAVMC cost goes down.
+So this is a, a unique, uhm, uhm, pricing model, but it's also a huge opportunity for us as a company because once the AAMC started using this and they're going to be an official platform, the chances of all of these schools switching over to us where there is already a lot of unhappiness, uhm, with
+the existing platforms out there is very high, and there's a chance for us to consolidate the entire market. Uhm, and, uh, AAVMC, I also proposed to them that in the future they can even have alumni access so veterinarians that are practicing out there can log into the AAVMC platform and they can use
+that to keep all of their academic data in one place. Which potentially creates another source of revenue for us and for AAVMC.
+Anyway, uhm, that's a, that's a big picture. But what I'm putting together is a creative pricing model that allows us to maintain, make sure that we close this deal, but also allows us to create a pathway to close all of these vet schools in the United States.
+So here's a, here's a, uhm, a tiered pricing model. That, that I came up with, with the help of AI and analyzing a bunch of data.
+Uhm, so base platform, 100,000 per year, AAVMC, that's going to be the base cost. Onboarding fee, 50,000 broken up into the first two years.
+And then one of the things that they ask is, during the call, is like, what kind of support do we need And I said they need to have at least one full-time person that is working on metrics.
+And in this email to the director, what I was going to propose was, instead of hiring someone immediately, let us handle that work, and we will assign a dedicated account manager.
+That is going to be essentially half of their full-time work is going to be dedicated to you. And what I see for metrics is that, if we can get this agreement, we're able to hire a new support person, and then that person can learn by working with the AAVMC over the first two years.
+They get a lot of support, and then over the next first two years, they can hire an in-house person, and we can go to a standard support model.
+So it's a win-win for them and for us, so that they don't have to hire someone immediately. So this comes out, this is the standard pricing, and then there's a tiered 1, 2, 3, 4, where there's an annual fee that is AABMC pays for each school that will be submitting data for their students into metrics
+as part of the reporting. So this is a scaled pricing based on the number of students per, per, uhm, school, and each will have an account in the system, but they're not going to be logging in.
+https://www.loom.com/share/ac6a84c9ab344f2c8aaf10ed4539d38a
+success
+Communication and Data Management Strategies 👥
+Yeah. She gets our program, and I think she overcomplicates it, and no one on my team feels comfortable that when we communicate with her that she really gets what we're trying to say.
+Yeah. She tends to have an agenda in her mind about what she's going to do, and goes and does it.
+And then lastly, her office. Yeah. Yeah. No, I, I, I fully understand where you're coming from, and I agree. Uh, this is something that kind of, so Chris was, uh, uh, doing the optimization.
+And, and then he took, uh, two and a half weeks to move from Texas to, um, uh, Pennsylvania. And then Maria is the other person that has the, the, the technical skills to do this.
+And she picked up on it. And one of the things that, um, we should have had a, uh, more detailed documentation of your school, like kind of written.
+I just kind of, Chris understood it, I understood it. And then I was, uh, Maria was picking it up and she was, we basically went over with her, but I think, uh, one of the challenges of working remotely is it's, it's, uh, and, and this has been a, one of the, uh, I'm actually going to hire.
+I'm going a project manager in the office to lead all the optimization projects so that it is centrally managed with all the communication happening to that individual.
+And then all the data people are just basically working on the task and then it's, it's essentially organized. Uh, I think what happened here is, uhm, Chris took this time off and then Maria was picking up what, uh, Chris went, uh, left off and then Chris came back and then she had already made a bunch
+of progress and they're trying to get things sorted out. And the, and the other big challenge is the emails that we've been exchanged with files.
+Uhm, there's a whole bunch of Excel files we've exchanged with, uhm, so the other thing that we're going to do next round is put everything into a Google Drive or folder and, and saying we're only going to exchange files through this central means so that we don't end up with a whole bunch of attachments
+on either side. Uhm, and then, uhm, And... But I, but I agree with the challenges. Maria is not typically the person that is doing this kind of communication back and forth.
+Uhm, and next round, most likely, either Chris or I will be the point of contact until we get that project manager hired when we're going to, we're doing multiple optimizations now.
+So essentially, we're just gonna recruit for someone that is responsible for managing all the tasks and the emails back and forth, and then the, and the tasks are getting assigned to the data people to do the optimization.
+Okay. Well, I think that will, will certainly work a lot better and I think. Thank you. It appears that one of the things that is a byproduct of Maria's work, yeah, she has templatized a lot of the stuff in this massive, complicated, yeah, Excel spreadsheet.
+The none of us here know what half those things mean. Yeah, but I'm sure they have a meaning to her.
+It's hopefully it's in a, in a format where it will be making. Thank you. Yeah, and to be candid, they both have different set of skills.
+Chris is very good at getting those things solved, and Maria is better at, so all of those different views that we usually share is usually.
+Maria that creates it, because she can do a lot of things with Excel that none of us can. Uh, but I think what she needed, uh, with that, with, with Chris out of the picture, she's not someone that is used to relaying information back and forth, and she's usually, we just say, hey, can you put this together
+, and she is, she needs to need a little bit more, uh, guidance on that. Where to stop, like, and not to go too far into the data and build something that is over-engineered.
+Um, but I think everything that is, like for example, like you wanted, uh, I think you or Christy had asked for what are the outstanding gaps, outstanding slots.
+That is available that, uh, so she actually, in that sheet that she shared, there is a tab that she built out a hole, uh, with the Power BI, uh, an interface that will now display what are the outstanding slots.
+But just like most of our software developers, they need an interface to communicate with the customers and not just- say, here's what we put together.
+If only we knew how to use it. It was awesome. Yeah. So I think, uh, Chris Sorei being that point of contact until we have that, um, uh, customer facing project manager is going to be the- it's going to be the 20-25 goal that way there- is a person that is kicking off the, um, the project and then also
+doing check-ins to make sure that we're collecting the information and organizing it. And then it also makes it easier for, uh, uh, the other team members that aren't data oriented to just say, I just need to live in the data.
+This is what I need to deliver to the project manager to get this over to the client. But I will say what we have been able to see, because, you know, each time we get something back from Rhea, then it has to go to our team to pick through and make sure that everything is correct and all the students
+schedule the rise up. The ones that I've looked at have been very good. Yeah, very few, um, weird f- Florida to anchorage back to Florida, sort of things for students to deal with.
+So it's been high quality optimization, except for the missing stuff. And then it kind of seemed like we would send it back and that would get fixed and there's something else that's missing.
+So anyway, thank you. So there's actually another component of this that we need to address is. we need to start where we need to prioritize collecting all this information in metrics because that's the other big, uh, cleanup that she was doing where if it doesn't match perfectly with the availability
+https://www.loom.com/share/90df3175c98548f98636af638269b086
+success
+Creating Engaging Graphics for LinkedIn 👩‍💻
+Hey, I wanted to create this short video to explain how to create those graphics with help of AI for my LinkedIn account.
+One of the first things that we want to think about is having a unique style since I haven't really been posting that much.
+And most of my images are all over the place, and I wanted to share a couple of examples. So, for the first thing, is, uhm, simple infographics.
+This guy here, he sort of mastered this by taking pictures. He taking little images, and that communicates an important point.
+It, it's a little, uhm, I don't, I'm not necessarily a fan of the, the way his design style, because it doesn't really apply for, uh, the professional audience that we're going for.
+Each of his posts, he has something that's unique. He's communicating and then a, a simple visual to go with it.
+It will be good for, for, um, us to come up with a, a style that uses, uh, a lot of white space and simple graphics, uh, to communicate with an important point, um, so that it becomes a pattern.
+If I have a post that has a graphic, someone looks at it and they can see instantly that it was made, uh, by me.
+The second, uh, Here is, uhm, I really like, uh, this guy's profile and let me show, he also uses, uh, simple graphics.
+And, actually, this one is a GIF that is communicating one key idea. So, here's a good example of that. Of, uhm, where it's an image, but there's one thing moving on the, on it, so that it, it stands out.
+And, for his post, he's also big on, uhm, carousels that are very clean and simple, and all of his styles.
+You can look at his doc, one of his, uhm, one of his carousels and always know that it's coming from, uhm, him.
+My internet is not great here. And the third example is, uh, Da-Shin-Chi, also uses a, uh, a lot of infographics.
+So, her infographics are typically a one-pager that communicates a lot of value, so someone can see it. and reference it later.
+But, the, the key thing to note here is she has a style. If I look at all of her posts, it's very clear that it's coming from her.
+keeping that in mind, if we look at, uhm, how we can leverage AI, what I did was I copied, I mean, this, uhm, O1 preview is usually what I use for ideas, but it doesn't work with images.
+I this yet, so we can go here and say, this is LinkedIn post draft. Matrix. So I'm going to say, target audience is this, come up with ideas, and, uh, let me, Stop that actually, I want to put the post with it.
+So, it gives us some ideas, ah, to start with. Hey, guys. What I like here, uhm, a couple of these are good.
+So here, for example, showing a circular diagram. I'm not going to read through all of it. I'm going to, mainly picking out this post as an example.
+So let's say if I got something that I like, what I could do then is I can switch over to GPT-4 and then say, uhm, eh, if you want to generate some of the graphics, you can try it.
+Here, uh, I recommend, uh, if you want to use some things from here and mixing it with, um, something that you create, is, is it going to get a better output if he's do everything through AI LinkedIn always, um, always, uh, decreases the engagement.
+And no, no one really sees it because I've tried that a few times. A couple of tips here is let's, let's just try what it comes back with.
+And GPT-4 allows. generation of images. Yeah, doesn't look that, ah, great. So, but, what we can do is, let's see, create a simple vector icon representing competency management in, medical education, and then for, ground, the colors, let's see, if I can, I'm being lazy here, but, it would, it would
+be better if we give hex codes, I'm just gonna, cheat, say, Read this book. It's called me! Yeah, I mean, it's hit or miss.
+Let's see. Okay. I mean, I think, uh, looking at something like this and then laying it out on. on Canva with a circular diagram and then using AI to generate simple graphics like this that can be used on, on the image will be the way to go.
+So, what I've noticed is infographs are graphics that teach something usually will get high engagement. Faces or people's photos will get high engagement.
+Uhm, unfortunately, I don't have any photos to go with this right now. If, uhm, uhm, you know, whenever, whenever possible, it's always best to use photos.
+And if I have a photo to go with, with it, I will attach it with that, with the task. Uhm, one more thing I'll show you is, you know, for our MedEdge blog, uhm, this is the, uh, the style that we've been using.
+With this gradient and a clean, simple background. So, it's best to make, uh, our, my LinkedIn post align with this.
+And you can see sometimes when, like, these graphics that are AI generated, if you were to use it on LinkedIn, it won't get much engagement.
+https://www.loom.com/share/d16a029572be48f0afa4f7eb0e494363
+success
+T-Shirt Design Ideas Discussion
+Rickson, thanks for putting these together. Uhm, I think, uh, for, uh, the t-shirt itself, we can go, cough, cough, cough, with a, uh, black color, and then, um.
+Yeah, black color with white text and orange for an accent. Um, so for, Let's see. You What if we do something and I also we don't need to do it on the front on the back because that's going to be more money so we just do everything on the uhm one side the front, uhm, if we do, uhm, I, uhm, uhm, black
+shirt with i3 in the middle So, and then the, metrics, m, in the, uhm, underneath it, uhm, see how that looks Or we can do i and then integrity with, like, one big i Yeah, I think i3 with the M in the middle See how that looks This one I think is a little too Christmassy be.
+. I like this one a lot out of all of them. I think this one is has enough winter theme and also has.
+. The core values.
+So if we make this into a white shirt for this one, would it, it might work since it a lot.
+So we have it like this and then maybe putting the metrics logo underneath it. Or just the M that might even be enough.
+Anyway, those are some of the thoughts that I had. I think I will, uh, before you work on it, we can ask other people to also share feedback and then do one more round.
+https://www.loom.com/share/4f86483746f047b9a5f88cf4564cb99b
+success
+Medtrics Users - Current Version
+Alright, in this video, I'm going to be going over the entire users module and different functionality that is associated with users.
+So we'll start on the company portal. And in the company portal, we will have the ability to create different roles.
+And, these roles are going to be, uhm, some of this will be pre-loaded into the system, and others will be added as part of the onboarding process.
+Only Metrix employees can create the, uhm, the roles. And, this company portal is also only accessible by Metrix employees.
+Uh, currently, it's only the super admins. They can access it. So, when I create a new role, I can define a few things.
+I could specify, uhm, the role name. Whether it's an internal role, and this means a role will be for users who are employed or enrolled within this organization, or an external role, which is for people that are employed by or enrolled outside of the institution.
+But we'll be visiting this institution. We can also say which personal portal this, uhm. Individual access which in the new version of metrics we are.
+Not going to have this currently we have. Company portal, institutional portal, admin portal, personal portal, and then for personal portals we have four different types of users and each of them have their own unique personal portals.
+In the new version we will have two, ah, three portals. There will be the company portal for Metrix employees, there will be the admin portal for people who have full admin access, and then the personal portal where just will be the same for everybody, but they will see different pages or tabs based
+on their level of access, the permissions they have. Uhm, but continuing down this functionality, so we have, uh, which programs do they have access, have access to this role.
+So this is an important thing for us to maintain. Umm, in metrics, we have training programs, and each of those training programs will have different roles that they have access to.
+So for example, if it's a medical school, they may be using the MS-123 role. If it's a residency program, they may do PDY-1234. Umm, we don't want all the roles to be visible to all the pr- programs since they don't need all of them.
+So then, So that's the creation of the rules, and I, as I mentioned, we'll have company portal, program, uh, admin portal, and personal portal, but are, that's in the new- version.
+Under the current version, we have, uh, all of these, uh, uh, company, institutional, admin, and personal.
+On the, uhm, users page is where we can create the users, and on the users page we have people group.
+Really? Whoops, an invite. Umm. And, uhm, here we have the ability to create.
+We'll see different types of users. Umm, in the current system, we have faculty, staff, resident, student, uh, four different user types.
+In the new version of metrics, we will have. Have a good day. Umm, three user types. There's going to be educator, learner, educator, and staff.
+Umm, and staff is going, so learners are going to be- Students and residents, uh, educators are going to be, umm, faculty members and so on, and staff is going to be IT and other supportive staff.
+The key thing here is- these types are fixed and roles can be created and each role has to be linked to a site.
+That's our to a user type. So, that is going to be the same data structure we maintain. Umm. User types, three of them, umm, and roles are created custom and can be linked to those user types.
+And one, umm, user type, and one role can only be linked to one, user type. We do have, umm, roles that can be changed if you're a resident, finishes their first year of training, they can advance from PGY1 to PGY2. We do want to maintain that, uhh, role.
+We a whole history, umm, in their profile so we can see when their role changed from a PGY1 to a PGY2. This is something that would automatically get created and tracked, umm, we can use, uhh, the g- jango history functionality to do that.
+Uh, a- a history plugin to do that. But we also want to make it editable for our customers because if they, let's say the the student graduated on a certain day and they didn't get to update metrics until two days later.
+They want to make sure that they want to be able to change that they can. So those, that was, um, some topics related to user type, user role, and, um.
+And the, the role of history. Next, um, let's talk about, um, home institution, which are sites, and, um, programs.
+So, in, uuuh, metrics, we have site records, and we'll be having a separate module that will, um, um, we'll, uh, it'll be a separate app in, uh, Jango.
+for sites, um, and we'll deal that with that separately, but for the sake of the user's app, what we want to do is, uh, create the sites model, and then we're going to- to link, um, each user, when they're created, have a home institution field.
+So this is the site that they are enrolled in, or, uh, for their specialty or program. So sites exist, and then every user is linked to one site at any given time.
+https://www.loom.com/share/c7edda8c0b0a4dfe94e21a04ceef6817
+success
+Explanation of AI Feedback Process 🤖
+Lisa wanted to send you this video to explain what we worked on. So this was the initial batch that was sent to us, well the initial batch that was sent to us that we ran the AI on.
+And for this batch, I had asked the LMU team to put the comments or the feedback into these columns, and our team made the edits.
+This was the first time we were running this AI and we wanted to see what type of feedback we're getting.
+And for the second batch, the team at LMU made those edits directly on those revised comments. So this first batch is the only one that we double-checked, and there was some comments that were provided by the LMU team that did not make it to the final strengths.
+So that's what we did and we went through this and flagged any that required manual edits, and we're going to be importing those into the system.
+But while we were going through this, we noticed a couple of things here, and I wanted to get your input.
+So for example, this one it said student strengths committed, MSPE comment committed and patriotic. The AI turned this into student doctor is committed and demonstrated strong sense of patricism.
+Patriotism.
+https://www.loom.com/share/c890880f5fa9418a885fabd99a8c8a29
+success
+Benefits Module Overview
+In this first video, we'll take a look at benefits, or the time-off module within benefits that we currently have in the system and how it's organized.
+So Metrix has multiple portals. The highest level is the institutional portal. This allows the organization to set config, ah, settings that apply to the entire organization.
+Then there is a department-level access, which we call the admin portal. Each department within the organization has its own portal that you can switch into.
+And then there is a personal portal. Personal portal is available to each of the end users, which is going to be the residents, the faculty, the staff, everyone by default has a personal portal.
+If they're given administrative privileges, they can either get access to the admin portals, the institutional portal, or they may switch and be given access to do something in metrics for a specific module.
+In that case, they don't get the admin portals, they just get the additional functionality directly within the personal portal. So when it comes to the time off module, which is under benefits, with this new change we're going to be doing, we're going to get rid of the benefits and just put the time
+off directly on the left menu. So on the institutional level, they're able to create different categories, give it a name, and then also define which category they're going to include in And then some of the categories gets included in our IRIS module, which is for financial reporting, and this defines
+whether it's included. So a category has a description and a name, and it can belong to one or more accounts, and it can be included in IRIS or not included.
+Once we have that, we're ready to find in the administrative portal, we have the ability to review and approve requests from different individuals.
+So we can say these are the accounts. I can open one up, and I can request, or I mean, I can, I can submit a request on behalf of this student and save that into the portal.
+If someone made a request from their personal portal, I'm able to approve it here. Let's log in as a student.
+And as a student I can go in here and submit a request. Here I can say category, whether it's full day or partial day.
+Then I can see the start time and end time. Submit this and it goes to the admin portal for approval.
+And then once it's approved, it shows up as approved. And then also on the dashboard of some of the portals.
+I also have a time off section where I can see, uhm, who's off today, if there's anything to show. And then, every time a time off is approved, the calendar and the schedules are also showing who's been approved.
+Okay, so now, looking at this tool. So, this is meant to be the redesign of time off module.
+We're using the ShadsCN, uhm, library for this. And when I made this, I put all of this on one thing with sheet, uh, separate tabs for each page.
+So, for example, my request is actually for the personal portal where a user can go in there and request a time off.
+So, ideally, we want to put this in there as a single page application and it will show up on each of the portals and depending on which user is accessing it, they may see different functionality.
+So, for example, if I'm a student, I can go in here, I can request time off, select a category, pick a date, end date, and then partial day.
+Actually, it should be slightly different, where I want to pick, uhm, full day, then it shows me the dates, or if it's partial day, then it only lets me select one day.
+And then I can go in there and select that. Set the start time and end time, submit the request. And then, I can search, and I can also view what I submitted.
+Edit. And when I submit my, when I view it, it's also showing me. Uhm, what other shifts, uhm, what other rotations and shifts that happened on that date, so that I can see if I need to have coverage.
+So this is showing me what other rotations are happening on those dates, who's, who else is scheduled. This is showing me what shifts are scheduled that day and who else I need to cover, and if anybody else had taken off that day.
+So this is not current functionality. We're going to be shifting. It's showing this as part of the new, to new functionality.
+I can also view history of what people added. I can delete it. The other thing that, uhm, we can do here is split the strip time off.
+Model's actually not complete. Let me see if I can. This actually should be. Allowing me, uh, when I once I pick the date is supposed to click next and it's going to show me the same information as here and also, uhm, also allow me to attach files.
+So. The existing functionality in metrics. Does not allow for files and it does not allow for viewing of. Viewing of the current rotations and shifts.
+https://www.loom.com/share/b4254762c91c4e519d20f9639e529dce
+success
+Managing Standardized and Didactic Grades
+Alright, so for this one, we have didactic grades and standardized exam grades. So when we look at metrics, standardized exams are going to be stored in exams here on their profile and for each of our clients, we can add different types of exams they want to store in the system.
+You do see that by going to Institutional Portal, System Setup, Customized, Exam Types, and we can add MBEO1, MBOE2, whatever, 123, similar to the way they have Comlex 123.
+Once it's added, if we go to Performance, let's see, I think if you go to, yeah one, uhm, this Exams page only shows up if the program type is Residency, so I'm going to show you how to, uh, uhm, make that work for them.
+So you go to Company, go to Programs, and click Edit, change it to GME, right now it's probably on UME, you can change it to GME, go to the Performance page, which will allow you to, if you import, I mean MBEO grades for all the students, you can do 1, 2, 3, you don't need to do all of them, I think
+she said in the meeting, like when they take these exams, if there's second year students, maybe they only have the first exam, but as long as we have some grades and you can do the import using the CSV, and once you're done with that, you can come back here and change it to UME.
+That's the first standardized exams. For the other grades, which is the didactic grades, we want to put that in the grade book.
+To do that, you go into the grade book, set up, and we would create score types for them, score types are created for courses that are added to the curriculum.
+So if you, it's gonna, when you go in here and add new score category, it'll let you select courses from a particular academic period and define the grade.
+So if we look at this, they want Thank you. grades for didactics and you can put it as up to up to a hundred.
+So it would be add category, select a course, didactics. And out of a hundred published dates you can pick whatever you want.
+And then we can also add score status. A, B, C. And that could be the primary status. That'll take care of this whole setup.
+Um, and then it says to import the grades. We can also use our grades import to import grades for Didactic.
+Didactic.
+https://www.loom.com/share/79f18830311c42e59656edec57a2aacc
+success
+Document Comparison and Graphic Design 🎨
+Hey Erickson, so I compared these two documents and, uhm, we lost a lot of, uh, important things, important points, uhm, when we went to cut it down, so I think, uh, it's going to be fine, uhm.
+Well, let me go through this first, and then we can see if we want to cut anything down. So here, uh, right on the cover, I don't know which school's images that we're showing here, uhm, Like, we're covering three different schools, we're gonna have to have Ross's, uh, information, LMU, and Purdue at
+the top, and then we don't want to pick one of the schools, I think it's better to use something generic about, uhm, like, create an image using the, similar to the blogs that we've been doing, uhm, so that it's more of a product-focused screenshot than a specific client, since we're mixing three clients
+. Then here, yeah, this is fine.
+So this here, improved efficiency, satisfaction. This is good, but if we can make, so this paper explores, uh, how metrics clinical optimizer, and then maybe create a graphic that says, that shows, umm, we want to say that what it's helpful for, um, explores, umm, so for example, clinical rotations,
+lab assignments, and then we can put those. Those two as, uhh, more prominent images, and then, Umm, we can put the three logos of the schools in the middle.
+So, instead of having a paragraph here, essentially, we're gonna say that this paper explores, uh, as a graphics, um, sorry.
+This paper explores how, Metrics, uh, clinical optimizations skip. Can't talk. Let me do something here. Here. Here. Oh, if we take.
+Big. Then, umm, some sort of, graphic to, say, maybe like, a par, uh. To indicate that this, we're going to be helping these two, uh, type of clients.
+And then, on the right side, it would be, with, automated creation of- actually, we can put it like this, and then here, if we say student preferences, um.
+Adduation, requirements, and capacity. So, all of these things are used to create the automated schedules. So, some graphic that visually communicates this, uh, that can go in the middle, and we can get re- of this text, and then we can show the three schools icons.
+And we can keep this paragraph. All right, graph. That is fine.
+Let's see, a clinical.
+So in between these two. We, if we can put together a graphic. Let me see if I can do something here.
+Some, ah, is not great, but something where we can show a whole bunch of different sites, um, and what we want to do is represent, um, you know, if we just have a map of the U.S.
+and the- and just put a little, um, icon, like a location icon in different states all over the map. We're basically saying these are all the different rotations they have.
+And the school has to coordinate between them. Um. We'll see you So this also we can put into a table.
+All right, so we're going of a Let's see.
+so here. Yeah. Put this on the- Umm.
+Okay. Yeah. Put this at the top.
+Just gonna add this to the top. up. So we could go to this and kill this whole page, and then turn this into a, a, uhm, table.
+Traditional solution is not a, And then, uh, for the first two, maybe we can have it, like, uh, one, like, uhm, slightly gray color.
+And then the last one to emphasize how this is, uhm, the best solution, it would be more, uhm, maybe, like, an orange with the, the header, so that it's highlighting that one.
+Alright, so then we get to this page. So, here, uhm, we can create a graphic of input, and now- our input would be ranked student preferences, uhm, degree requirements.
+prerequisites. Total.
+Available. Sites. Available site. Sites and, uhm, and slots.
+Region. Mother. there. Custom rules. So essentially these are all different things that they can give us and then we're gonna have like an arrow and output is going to be optimized schedule.
+And then, so that essentially would, uhm.
+https://www.loom.com/share/1cc5a3d09cd449b891b88d4868debcc6
+success
+Salary Adjustment Explanation
+Hey Maria, so I wanted to, uh, explain what I mentioned in that channel. When, uhm, I looked at Quit, uh, JustWorks, your salary is actually 73,500.
+Initially when we talked I had 74,000. I had on here. This is actually your current salary that you have in JustWorks.
+When, before our meeting, I was trying to get your salary to apply the 10%, uhm, raise to it, and I should have gone into JustWorks to pull it, but I was trying to save time, and I looked at a spreadsheet that we have in Google Drive, and that showed me that your salary was $74,400.
+And I think that spreadsheet, we had a higher number because we were estimating that at this time, we would be paying you that much, uhm, based on, you know, a, a, a growing expenses.
+Some sort of projection that we did, uhm, but this is the actual number. And when I said it's higher than what we expected, that what I meant was $74,400 was at some point in the past, we had projected, that is what we will be paying you.
+Uhm, but instead. October 1st, you're getting the raise to $80,850 and then to, in January 1st, to $85,000. That's what I meant by it being higher than what we had on there.
+Uhm, but the, the, ah, essentially the main. Mistake was, I was not using your actual salary from JustWorks. It was, the number that I had showed you earlier was not your salary.
+It's actually, it was actually, ah, a few hundred dollars, um, higher than that. So hopefully this clarifies it and everything that I said is, is still the same in terms of ten percent.
+Raised is getting applied October 1st and then January 1st is gonna kick in at the 400 per month, um, once the insurance is cancelled.
+https://www.loom.com/share/086f96e2349a4d618545bde8d99db548
+success
+Enhancing Student Retention Strategies 🎓
+Here are the answers to this. I forgot to write back to him. Silvana, you can take lead on this. About retention, we want to point out two types of retention.
+One is student retention. So there are a few things that play into student retention and we can actually research this.
+Yeah, so uhm when it comes to, we don't want to send anything wordy, we want to send bullet points. You know, when it comes to having a centralized platform, it allows the students to be more engaged with the organization and see their schedules and where, what their goals are, see the curriculum, which
+chances are they're going to have a higher chance of success because of that visibility they have. For example, when they are going to a rotation, having goals and objectives delivered to them via email a few days before automatically means they're more aware of what their expectations are and are more
+likely to be successful. When it comes to the advisory relationship, Metrics allows the school to collect data across their academic journey, which means advisors, faculty, and staff are able to intervene earlier.
+However, if there is a problem, they can monitor for their their weaknesses and problems they have in education and come up with remediation plan early.
+If they are collecting information on various systems, chances of something getting missed is higher. Also, currently they're collecting course evaluations on Qualtrics.
+If if that is being done in metrics, the students are able to provide meaningful feedback on their experience, different courses and rotations, and the school can intervene if there is a problem with faculty or education.
+Or, if they're being mistreated, um by having that in one place with automatic alerts, means less chances of those um student reported problems from getting missed.
+And you know, using data to track warning signs, this is key, uh, to make sure of retention. So retention, we can, we want to point out, is not going to be entirely solved by software, but it's all about having a software that allows the humans to identify these problems early and address them.
+And by centralizing their processes into one system, there's a higher chance of that happening. And if there is an intervention that is put in place, metrics can also use, be used to track that intervention and then follow up with surveys to make sure that it's successful.
+And another piece of the retention formula is the sense of community and engagement. It's one of the reasons why metrics is a very engaged, visually engaging platform with photos of their students, faculty members, so that when they are using the system, they are feeling connected to that community.
+The um, uh, the second piece of this is staff and retention, so we can have that as a separate section.
+So metrics is a tool that is very easy to use, and because we're a very hands-on team, we are providing a lot of training and uh advice to these administrators, deans, other staff members, so that they're getting the most out of the platform.
+When someone is struggling to use a software system or do not understand the processes of an organization, they're more likely to leave that job.
+Uh with. With the metrics, with our support and our team, we can make sure that your staff members are productive, happy, and then also able to get up to speed faster if there is a new hire.
+That's the second component that so this other question. This is how granular can get metrics, how granular does get metrics get with scheduling.
+We get very granular. You can get down to specific lectures, labs. You can even You know, you can even have individual students getting scheduled to a specific lab and then all of those changes can be made down to the individual students or groups.
+https://www.loom.com/share/aef987b6bccc4bd9a1784bc3b5d2a5e3
+success
+Understanding Salary Calculation Explanation
+So, I wanted to explain, uh, what happened. When I was preparing this document before our meeting, I looked at the spreadsheet that was in Google Drive and it had, uh, your, your salary to be $6,200 and I multiplied that to get the $70,000.
+$74,400 as your current salary. That's what I had on the document, uhm, but that is not, this is your actual salary.
+The $74,400, I think, was on that spreadsheet because in the past we had, uhm, projected what future expenses would be, and we thought that's where you would be for, uhm, in the future, which we would be now.
+So, we were expecting to pay you $74,400, and, uhm, that's what I pulled initially. And then when I looked in QuickBooks, I mean, uhm, it just works.
+This is what you have as your current salary. So, initially, I was looking at the spreadsheet number, and I applied all the formula to it.
+But, with the, uh, 7,300, uh, 73,500, 10%, these are the correct numbers. And what I meant by it being higher is that spreadsheet had, uhm, 74,400 as whatever the amount where we would be paying you at this time, uhm, but you're actually getting a raise to 80,850, uhm, Thank for your attention.
+That's what I meant by it's higher than what we had on there. So hopefully that clarifies it, uhm, yeah, I, I should have pulled it from QuickBooks in the future.
+I'm gonna do that. I was trying to save some time, uhm, in between meetings because it takes me longer to log into JustWorks, uhm, but in the future, I'm gonna always just rely on that when, when pulling this so there's no confusion.
+https://www.loom.com/share/7f6b794ef22c4c2eb3dffcb9cfbb4ce4
+success
+Feedback and Font Consistency Review
+I wanted to go over this briefly and share my feedback, uhm, overall it's looking great but we wanted to, uh, give some general feedback, uh, and then once we do another round of changes I think our team should be able to take care of any, uhm, tweaks that we need to make on our end.
+Uhm, so, this would be the last round of feedback, uhm, and then, I think it should be the last round of feedback, I'm hoping to, uhm, are we, our designers are able to work with Canva and they make it, make, they can make adjustments as needed.
+it. Just going over the big picture items, one is, I want to make sure that we use a consistent font size hierarchy, uhm, across, across the, uh, product, I mean, across this, uh, document, because I feel like sometimes, uhm, see, so for example, this is 36, this is 30, 12, uhm, 11.5, so it's, I want
+to make sure that, for example, if this is too much text for it to be 12, you can go ahead and, uhm, cut one of the sentences because we're going to be making some adjustments, uh, anyway.
+So the, the most important thing is just to be visually appealing for some of these bullet points. Even if we need to cut back on it to make the font look nicer and cleaner, it's okay.
+Because that knows, after I look through this, I know that we have too much text and I'm going to be making some adjustments, but our team will take care of that.
+But I do want to make sure that the font hierarchy is consistent across the, uhm, ehm, the document. And then the other thing here is, uhm, uhm, I think, uhm, it would be good if we can.
+Make this, like, uh, kill this text here and, uhm, move this up to, there, the five areas that we see.
+Who we and at the bottom, and then, uhm, we can also use this space, like, who we serve and then a bunch of client logos at the bottom.
+Uhm, we can add the logos later if you can put some placeholders. So it'll be basically who we serve and some sample clients.
+And you can see.
+https://www.loom.com/share/dad45a3c49c0493fb3d590ed870dbf35
+success
+Evaluations Overview 📊
+In this video, I'm going to go over some of the evaluations that we've prepared for your program. Excuse my nasally voice, still recovering from a cold.
+But, each of these folders contain sample evaluations that we generated with the help of AI. And, if I open up Internal Medicine here, we have the new ACP.
+And, they've been broken up into three groups. Faculty Evaluation of Residents. We'll have multiple forms here, which are, for example, this first form, General Inpatient Evaluation form.
+And, for each question, we've also identified which ACGME sub-competency we want to map to. You can see there's different forms for different settings.
+If I go to the 360 degree, this is going to be 360 Evaluation of Staff. And, that is meant for nursing or other staff.
+That's going to be working with the residents to have them provide feedback. And, there's a Peer Evaluation form also. What we would like you to do is go through each of these forms and simply add comments of anything that you want to change or remove or add.
+And, then this is something that we could review and, and, ah, show the team how to get this done. Just add it to the platform.
+You can also recommend any changes to the mapping if you want to map it to a different sub-company. Same thing for every single specialty.
+https://www.loom.com/share/644ecbb4ea7142b9a633de97d8d542cf
+success
+Metrics Overview 📊
+So I'm going over uses data for St. James School of Medicine and how they've been using Metrix platform so in Metrix we have 878 users from the St. James Institution, actually 877 because one of them is our admin user, and then if we break that down by faculty and, and, uh, preceptors there are 446 users
+using the system. there are 416 students in the system that have used the platform, and there are 16 staff members that have accounted metrics, uhm, in terms of, uhm, other type of information.
+They are currently not using our time off module. They are not using our attendance module.
+For case, ah, case logs, there are case, ah, seven case logs. that they are using. And then since the beginning of time they have created 57,933 case logs as other students have entered and, uhm, uhm, across various rotations.
+So, if we look at the users that are in the platform, I mean all those users, those learners that are in the platform that have been logged in cases.
+metrics has been used to, uh, track the case law compliance.
+For all of the graduates and signing off that they have met all the graduation requirements.
+for their, uh, curriculum module.
+For the curriculum module, there are, are 91 institutional level objectives that have been added and 25 courses and rotations that are being, ah, managed.
+in metrics with, ah, administrators set up for each of them. For each of the courses, there are objectives that have been added.
+Search. All of the, uhm, the courses, I mean for, ah, for most of the courses that have been added, uhm, they're having, uhm, they're having objectives, and those objectives have also been mapped, at least to the course level, for multiple, for multiple courses, uhm, let's see how many, there are no
+errors in our system. There are 13, uh, 1,341 unique keywords that have been added to the platform which are broken down into, uhm, categories.
+Those, uhm, 1,341 keywords have been broken down into 109 different categories.
+Great. Next, uhm, metric cell.
+Now houses, uhm, the MSPE letter template, and this has been, uh, standardized to the school's requirements. There's, uh, multiple templates that have been configured, one for the MSPE letter transfers that are coming there, as well as MSPE for the students that have been there for the whole time.
+And there are two charts that are automatically been, uh, that have been configured for MSPE letters. One for the core rotations and the other one for preclinical.
+So, 3,000, 4 512 grade, uh, uh, grade entries have been added, uhm, for students for the pre-clinical courses.
+Sorry, that's for the rotation courses. And this has been done for the, uh, MSPE letter. And these grades are also shared with the students, uh, on their portal.
+And for, for, uhm, graduation. Uhm, Metrics Academic Progress Dashboard is tracking 341 students, uhm, and a list of alumni to ensure that all of their graduation requirements have been met, including the required number of rotations, required number of, uh, electives, and the advanced introduction to
+clinical medicine, uh, uh, courses. When we get down to, uhm, evaluations, there are four evaluation forms being used in Metrix, including another four.
+historical forms that have been, uhm, deactivated. These, uh, forms include, uh, MS, 2023, I mean, uh, MSPE review, end of rotation assessment, and, uh, student evaluation of faculty.
+The current academic year, there have been 235 eval, eval assignments that have been assigned through the platform, and out of those, 169 were already completed.
+58 that was overdue, and, uhm, 59 that's incomplete, and 3 that has been unable to assess.
+Since the, the start of the contract, uhm, 2096 evaluations were sent out from the platform, uhm, with, ah, 1399 completed evaluations, 674 that hasn't been completed, 500, uhm, 87 that is incomplete, sorry, the 674 is overdue, 587 has been incomplete, and then we got a, ah, 13 that's unable to assess
+and cancelled, that's been, that's 51. Alright. Resources, there are five different, uhm, resources folder that's been configured to share documentation with different users, including, uhm, rotation resources that have files for each of the rotations that the students are, uh, scheduled to go to, perspective
+student assistance support, uh, folder resources, and, uh, course resource for, uhm, 501 documents.
+Yeah, uhm, 501 documents have been stored in the resources, uhm, folder. There are 23 different, uhm, different clinical sites being tracked with all of their clinical details, I mean, all the addresses and contact information that's made available to the students.
+Oh, I see.
+Yeah, yeah. I thought I clicked it wrong. Yeah, okay. So there are, 3rd and 4th year students being scheduled, uhm, in metrics, uhm, in the 2021-2022 academic year, uhm, 941 schedules were assigned.
+2022-2023, 898, uh, rotations were assigned in metrics.
+https://www.loom.com/share/eb4df40762954cf9a25948256491bf6f
+success
+Content Marketing Pipeline Process 🎥
+Alright, in this video, I'm gonna go over the content marketing, uhm, I guess, pipeline process, and everything else I can think of related to content, so that we have it organized.
+So, the first thing is, uhm, we have a weekly content meeting that happens every Wednesday, and this is where we discuss what are some of the active projects, and also, or new ideas, uhm, in addition to this, we have monthly, the webinar meetings, and, uhm, stand-ups that happen three days a week.
+So, to review all of the, uhm, content that we put out there, let me open up a new Google doc.
+So, we have social, we have have a a webinar, email, and intercom.
+So, for social, we have, uhm, a few items.
+It's going to be Company LinkedIn and then LinkedIn and mainly there's my account, Katie's account and, uh, Silvana, who are actively posting, uhm, in addition to these there are others that have expressed interest in it, but haven't really done much with it.
+When I go to the website, we have, our blog post, and if you go to the blog post, I'm going to call this MedEdge, we call it the brand, the, the content brand.
+That is MedEdge, and the categories that we have here are, let's go announcements, case studies, events, features, MedEdge, team stories.
+And I think these nursing and veterinary is not really categories. I'm going to delete those. So announcements will be something like, uh, new clients.
+Case studies. Let's see, uh, use case. We would publish a case study on the case studies section on the website.
+We would also post a blog article. This is conferences, features, highlight of features. So, announcements, which is for new client announcements and such.
+Case studies, which is for just, uh, having a case study on specific use cases. Events, uhm, event category, blog type is for conferences, retreats, etc.
+Features, highlights new features that were released or things that we want to highlight of high value items. MedEdge, category shows podcast articles.
+So after we publish a podcast on the, uhm, Apple and Spotify, we also create an article from that content. Team stories, stories about the team, new hires, milestones, details.
+And then on the website, we also have a resources section, and this includes all of these items. So resources, case study, webinars.
+Documents, so this is, ah, Lead Magnet, webinars, ah, so we got, documents, webinars, case study, that's it.
+Then we got, our actual webinars that we give, there are two types, there are Metrics, ah, sorry, MedEdge, Academic Leadership Series, so this is what we call our Ex, External Marketing Webinar.
+We call it external because it is, ah, promoted to, uhm, the public. So that includes Newsletter, LinkedIn, Website, EGC, then we got MedEdge, uhm, sorry, Metrics, Client, Webinars, this is what we call our Internal Webinars, it's only for Metrics, client usually Administrators, and these Webinars cover
+, uh, includes monthly product updates and a topic discussion, so we pick out a topic that's relevant to them and cover it in that Webinar.
+And these, we have guest speakers. OK, and then. What do we got so? For both of these we want to templatize.
+The, uhm? Webinar templates in beautiful.ai. The only challenge, so we want to templatize it there. The, uh, only challenge is when we have guests present.
+Speakers, they're not always going to have access to beautiful.ai and may not have familiarity with it. So they may send us the slides in PowerPoint or Google doc and we will need to help them convert it into beautiful.ai.
+Or for those guest speakers. We can just let them use their own slides. Uhm, the benefit of putting everything into beautiful.ai is that we have our own branded look.
+For this same thing, uhm.
+Alright, so then, if we, uh, while I remember this, I want to put it at the bottom, non-marketing assets. So So the first category at the top is Content Marketing, Channels and Assets, and the bottom I'm putting Other Assets, uhm, so that I have it here.
+Uhm, we have Onboarding Meetings. These are client onboarding meetings. We typically create, standardize, and Google.AI, and we also have Sales Presentations.
+Right now we're doing that in, uh, Google Drive, but if we're going to be using Beautiful.AI for other things. We should move this over there too.
+Let's keep that at the bottom. So, so far we have talked about, um, all these next we have email.
+So for email, we are using MailChimp. Let's see. Quarterly newsletter. Adding all of a webinar, I guess.
+https://www.loom.com/share/eed3591538444d968c74609f2057b918
+success
+Improving Student and Employee Engagement through Data Analysis
+So thanks for bringing this up. I was going to follow up, but I got lost in other work and haven't wrote back to him yet.
+So you can take lead on this and write back. So thank you for meeting with us yesterday. It was helpful.
+We touched on one of the points, getting clinical faculty. It sounds easier. Blah blah blah. Question is about retention. We didn't have time to get.
+So for retention, what we can emphasize here is one of the key things for student retention is having meaningful data over time so that they can see how the trainee is progressing and support their ah support them in areas of weakness.
+So when it comes to metrics, the fact that we can collect these evaluations in different settings from different individuals and have that real time visibility means that I do.
+advisors can look at this information, see where there's weaknesses in their uhm uhm in their performance, and talk to them in their advisory meetings.
+The second thing is, uh when it comes to student happiness and engagement, being able to collect feedback from them. About their experience with their courses, rotations, and address any uhm uhm mistreatment or problems early means there's an increased chance of uhm uh a problem being corrected, so they
+they are not dropping out or or leaving. And the simple fact of having a centralized platform so that they are more engaged with the university and their colleagues uhm also plays a role into into engagement.
+As for, that's the first part. The second part is for employee engagement, and other staff. Um and f and have less learning cu to get things up and runn
+https://www.loom.com/share/ad915494afa24fa984f6ce72d6f4f54d
+success
+Development Task Testing Process
+In this video, we will go over how to test different development tasks. So, under the QA board in, uh, Jira, we have these columns, and anything that is in QA dev or QA product can be tested.
+So, to test it, we would click on it, and on the right side, we have pull requests. So, pull requests are records in Jira, where where developers will be pushing code.
+But, since we don't use Jira for our code management, we actually link this through an integration to GitLab. In GitLab, they have something called merge requests.
+It's just essentially the same as pull requests, uh, their lingo. And on here, we have code deployed. And when I click directly into that issue, I get to this page.
+And if it's, if it's already been deployed to a development instance, you'll see this view app. And you can actually see the server name here.
+Every time we have a development task, we are putting up a temporary server, so we can check that one piece of code.
+Uhm, it's not, and this allows us to test in isolation and not see multiple changes in one. To view this deploy, I click view app, it takes me to that temporary server.
+The temporary servers will have the same issue ID as the GitLab merge So 5624.metrics.dev, 5624.metrics.dev If you look at this here, it says CU This means that someone else has tested this before, and they have loaded a Chamberlain database to it.
+If you see the one of these client names here, it indicates that the client database is already loaded. built for Chamberlain, and we wanted to use their data to test it.
+Any of the development servers, we can log in using the dev, insta, dev instances password in one password. And then once I log in, actually for this one I, let me see.
+So this might be a server that has. I'm gonna try the Chamberlain password just in case. Okay, so. I'm not able to log into this.
+This probably has to do with the issue that we've been discussing where clients are deleting. So if that happens, we can make a note on the spreadsheet and move on.
+Let's check it out. check the next one. So for this one, so we have U App and you can see a Metrix Medical Center.
+It means that it's loading a demo database, so it's not loading a client one. And it should work fine. So we can go through the process of, uh, testing it.
+So to test it, these are the instructions. And it has loom video for, each of them should have a loom video.
+If it doesn't, then it's okay to hold off on testing it. And then it has acceptance criteria here, testing it, and approving it.
+And then, uhm, moving it, and updating the spreadsheet. So, typically we would move this into CodeReview, but for the sake of, uh, uhm, this today, we'll simply update that spreadsheet.
+And I can take a look at it and move some of these to CodeReview at the end of the day.
+Another thing we need to note here is, if we go to a branch, and we don't see the view app button, what we can do is, uhm, click, uh, it, it most likely will be stuck on one of these like, check marks, and then there's a, there's gonna be a, a button to redeploy, either on this row, or to the right side
+of, uh, deployed on 5, 6, 0, 8, instead of view app, you would see a redeploy button metrics licensed with GitLab only allows us to have certain number of, uhm, uh, issues loaded.
+Uhm, so if you have too many things in testing, some of these things maybe need to be redeployed, uh, which will take down one of the other branches, and then put up this one.
+Key thing here, is all of this is getting deployed to a dev instance, and, uh, it's not going to production, so it's not going to do any damage, uh, if we click to redeploy, uhm, if we need to test it, so, uhm, don't, don't, uhm, worry if you need to do that.
+https://www.loom.com/share/f493e50378fc41dda464a90ef956f6b4
+success
+Bug Fix for Site Name Display Issue in Schedules 🐞
+So, one of the things that, uh, we're dealing with for MSU is, we have, one of the sites were neat wasn't you renamed so if I go into schedules and then search, open this one up.
+Search for the student. You can see that we have an emergency medicine rotation that is showing Christiana hospital. But if I go to the sites, We only have Christiana healthcare, uhh, care health system.
+So this is the site that was renamed, but the actual schedule still shows the old name. We go to, schedules.
+And, uh, rotations. And serves for, Christiana, you know, Mercy Medicine. We can see that it's also showing Christiana healthcare system.
+So the reason this is happening is, Umm, on the back- in the back end, but not on the front end, we have a text field.
+Umm, a text field called site name on the rotation.
+And record. So, rotations. Edit one of these rotations. And we will have, anytime a rotation is linked to a site, we are saving that as a text field for some reason.
+And this is, Not, this will not be changed automatically. The only way that this is updated is if the administrator goes in there and relinks the rotation to the site.
+So, for this bug fix, what we want to do is remove this, um, name, uh, text field. And then when, when we are viewing the schedules on the grid, we want to make sure that it's showing the name from the site record itself through the foreign key.
+And we're not showing the text field. It's. The same thing applies to, uh, this dropdown. It should show the, uh, the site name field from the site record and not from the, uh, text field that's on the rotation record.
+https://www.loom.com/share/112872c0764044b4945f8735c6244841
+success
+Workflow Optimization Suggestions
+I like where you're going with, uh, with the first part of this. The second part, I have some comments, but for the first part, uhm, I think this works perfect.
+Uhm, I also like it. I like how it's done it in the same. We probably, if we're gonna do this much complex workflow, we probably should put it into a page, um, instead of a modal.
+So maybe, Uhm, what we can do is add, say, create Lottery and we can just have the name, dates, roles, defined.
+That'll create the Lottery, then we, say, configure. Uh, configure availability or something like that, takes them to the Lottery page where they can see one, two, three, and it's not a model as a page, but we'll have to create the Lottery first before that can be loaded.
+Um, so for the second page, the main thing that we need to change here is, every site, I mean, every rotation will have a link to a site.
+So if we select multiple sites, this is not going to work well because that's them saying it's going to show rotation.
+For every, all the selected sites, because they're, these are linked to these. Um, and then we also want to be able to do this in batch, um, which I think your interface got me thinking about this.
+And here's what I was one, what we can do. On the first page, we already selected the site. And the second page where we can call it, like, set capacity.
+Um, what we can do is, for each site. Um, it would be a row, and then they can click to expand it.
+When they expand it, it'll show all the available rotations for that site. And then they can have a little check box for the blocks.
+Say, available, available, available, available. And they can punch in a number in here to put in the capacity. So. So, then they can collapse it, open up the next one.
+And we can even put a little, uh, summary here. Um, we can say, uh, to four blocks.
+With available. Um, um, min, one, max, lock, one, say, basically saying min, uh, that has the lowest availability, max.
+Block five has, uh, uh, allows for five students, and that it will be in, let's say, block three, and then total, only five.
+So when this collapse, they're gonna at least see the stats, so that's saying this would have, let's say if I put it- in here an- an numeric value of one is the same one here, and then maybe for here it's saying- name.
+Five, and then we have, nineteen. So this is showing minimum, maximum, and total. So that way they can actually quickly open each of these up, uh, punch in the values and be done with it, and it's less cl- like-ing or kind of presenting them with almost like a spread sheet-like interface to punch it
+in. Um, and we also are going to be capturing side capacity. We can say, umm, s- is, You know, 30.
+And then underneath it, we can even say what hub it belongs to, hub, or at least. So that will- I think if we put that as the second page, uhh.
+Um, I like- I like, you know, part one, part two. And then finally, for the pre-fills, we could, umm.
+The pre-fills, I'm thinking, We're gonna- they're gonna be pre-filling for every rotation, I mean, every block of every rotation. So, if we want to show it in, like, a table or a card format, uhh.
+Umm, then the card format is gonna be hard to troubleshoot, cause they'll have, you know, a thousand of these, and they're gonna- they're gonna miss things.
+But, if we show it as a table, where it shows the rotation name, rotation code, site name, site code, uhh.
+Uh, block number with the block dates underneath it, um, and then we have column 4, MS3, MS- and another column for MS2, and they can go in there and, uh, select the students for each of them.
+I think that will work if we turn this into- a table, um, and then we can even highlight the rows in orange if it's- I mean in red if it's at- at capacity, um, and- and the view that, uh, Rio has built the grid format, we can still- implement it by giving them maybe two tabs here, one for table view,
+and another one for, um, a grid view. So they can toggle back and forth if they want to see it in different ways.
+https://www.loom.com/share/dbe7ad7796b84a9698abde262bca820c
+success
+Searching Tips with Perplexity
+Hi everyone. I wanted to share this little tip for searching for different types of information. Perplexity is coming up as a popular competitor, popular tool, and it's seen as the next big competitor for Google when it comes to online search.
+Umm, and it's really powerful when you want to get specific information and don't want to dig around on different pages.
+So, for example, let's say we have upcoming conferences, when is the ACG. Give me conference this year. Uh, can you give me the links to the registration page, the exhibitor perk.
+prospectus and abstract submission page. Thank you very much.
+So, essentially, It gives us all the information, and I think, even though it does this as you, it doesn't give you the links, you can, ,get it from the source details.
+So, rather than going to the ACGME's website and clicking around, it quickly gives up the information. And then also gives you the hyperlinks.
+And , Let's see if we can do something a little more advanced. Next. essentially. Gives me, uhm, the results here. So unlike chat GPT, which is not actively searching online and giving you sources, propexity is looking for- these results online and then linking your references on where it got those results
+. Look at that. Weíll be proposed unclear timeline. Sounds like some good schools that we should be reaching out to.
+Save that for our, uh, actually. Yeah, I think we're talking to some of these places already. Uh, save that for our sales meeting.
+So anyway, feel free to check it out. Umm, I've been finding it very helpful. Cool.
+https://www.loom.com/share/20d433b7daa141c78d131a6f6a431241
+success
+Understanding Invoice Confusion
+Hey, Jim. I was reviewing the last year's emails for, uhm, renewal, and I wanted to share a couple things that may have led to this confusion.
+Initially, when we sent the invoice, uh, on November 8th of 2023, uh, we had shared, the invoice for 120 students that, from based on the previous years, and then I believe we had a, a phone, uh, a conversation, uhm, via Zoom.
+And during that call, we talked about optimization for the, uh, next cohort and how we needed to get those students into the system.
+So you had sent this email with different numbers on here. And once we got that email, I had sent over that, a, uh, message that says, assuming that Ross and S.G.
+used to work together, we would need 110 modules and 79 partial modules. This is something that we used to do where we would break it up into, uh, depending on different types of students and what specific needs are, now we are doing essentially what we set of, uh, pricing model for all of the students
+in the school, mainly because it's, it's simpler and it is, every student has access to those modules. Um, and, uh, but given that, um, we have this pricing model in place, uh, for this year, we are still trying to, keeping that as separate, um, which saves the school some money where the, uh, the full
+students that are in clinical year are getting all the necessary modules, and then we're only billing for partial modules for the 79.
+So, that was the, uh, email that we confirmed it and then Mark. had sent the second invoice with the updated numbers.
+And, uh, once we had, uhm, that sent over. Let's see, there was, uh, one more correction that was made here, and that ended up being the $34K.
+Uhm, this was the final reminder, I think, yeah, $34K. and then you had confirmed that it would be sent to the accounts payable.
+So I, I, I think what may have happened, uh, is we had the initial invoice that was sent, and then we talked about adding on the, uh, the incoming cohort so that they can be optimized.
+And then we created the updated invoice and shared it based on the, the numbers you had, uh, provided. Um, and essentially what we're doing is, uh, is renewing for the same, uh, same, uh, set of numbers that we had from last year.
+If there are any changes, we can always make the adjustment. Um, please, uh, let me know if this clarifies the, uh, the confusion.
+https://www.loom.com/share/68b3207a45b74f0f8c7f01e809d16dd4
+success
+Bug Reporting Process 🐞
+A default is going to be the, uh, project is dev, and then there's, the only two that you'll use is the bug in feature, and if it's a bug, it'll show up a template here, and module, it's going to say, let's say this is like users, you're going to be logging in, unable to log in if email has a password
+. And assignee, 01, story points, doesn't matter, just put something, KP, module, users, and and if it's happening on a specific page, you can include that.
+So for this, it'll be login URL. Okay, so I'm going to just create this and send it to you. And then you can just add to it.
+But, yeah, then when you create it, uhm, okay. guille faisio and just make sure that it ends up in upcoming but for something that is urgent like this we can change to to due and post it to, you know, automatically will get posted to this channel a prioritization.
+Well, at least I thought I did. Um, but, yeah, there it is. So, this is something that once you put the thing in there, I can, like, use an ad channel, but the ad channel basically alerts everybody and saying this is something that, uh, can one of the developers look at it quickly.
+Because it's preventing a program director from logging in. Yeah. Yeah, so given that it's Wednesday, I think this is something that, like, I don't think, since it's one user and she's okay.
+Hey, with using each email, what I like to do is just give them an explanation. If Chris said this is a Django upgrade thing, you could tell her there was an upgrade that resulted in this.
+We're going to fix it, but it's going to be, like, by Monday or Tuesday. Okay. And we can have the developers fix it and deployed by Monday.
+Okay. Yeah. Yeah. Yeah. Yeah. Uh. Uh-huh. The grey things are so warm in the day.
+Um, so it's like there are other persons having our code. And the next part is, it is, And so I feel changed with those persons that I've been working with.
+Uh, I've been working with the persons that I've been working with. Um, and I'm in the past, on people and I'm frustrated that it can be the spurge in me.
+And I can find anything to the- I ask you to do something like this. And those times I'm doing a great thing.
+I'm doing a great I'm great thing. Um, and I can't-
+https://www.loom.com/share/6b279d9b057f484cae656a86b174b1bc
+success
+Medtrics Brochure - Stationery (A4) - 6 November 2024
+Hey Afnan, I had a meeting with the team and we went over this and everybody is very, very much aligned on the overall, overall branding.
+I want to give you some major, uh, points and then the smaller things I don't want to go into too much detail now because I think, you know, we can get you.
+helped tweak that up afterwards or we can tweak it up ourselves. Um, so the, one of the main things was about, um, font size.
+So like some of these is using very small font. Um, and I'm thinking that it's best to have the small font.
+Smallest font size be size 12 so that the font hierarchy is based on that, um, is having, you know, like, um, having a standard font hierarchy is going to make it look a little bit cleaner.
+So for example here we're using 9, we're using 8 here, and 11, uhm, so I think the smallest being 12, so when they're looking at it on a screen it doesn't look too small.
+And then for this page, I think we can break this up into a, uhm, second page. So, have one, one thing here, and then maybe we can add a couple more photos, I can, I can pick out new photos, and then put this into a new page, and then maybe we can even use this page to expand later, uh, to other team
+members, or our advisory board. Uhm, so, this is, would be our mission, then would be, you know, healthcare that shows our team, and then our story.
+Uhm, they were not fans of this, uh, uhm, drop down, so we can get rid of that. Uhm, then for when we get into, the platform we serve, we needed to add one more, which is veterinary education, instead of four.
+And down here, uhm, it looked a, a little busy, and one idea that a team member had was, for each of these, these are meant to be solutions, so we don't need to have multiple icons in each, so for example, for curriculum, just putting one icon for curriculum, and we don't need to have these map and delivery
+in here. We can just call it curriculum. Uhm, wait for me. The, uh, the, uh, that's a wait for me.
+Pretty good. Yeah. The preclinical, uh, ever since the election, I've been, uh, uhm, so then we have clinical, preclinical, and the clinical schedules, you can have one item, and then, I think that'll clean it up a little bit.
+Those are the main items that, uh, we had as, uh, feedback. And I also, we, we wanted to keep this background as a darker blue because that is more aligned with the, uh, the original blue that we had.
+So with that feedback, I think, uh, we can continue with the rest of the slides, and then if there are additional items that come up, we could, uh, always do it after the conference because we are going to have this conference this week.
+It would be great if we can get, uh, even if the early version of this is done.
+https://www.loom.com/share/af75da78db264edbb1d1642b307fb756
+success
+Building Complex Components with AI
+Hey Elson, I wanted to, uhm, share something with you, uhm, I, uhm.
+Let's see. Nope, not that Can't seem to find it.
+Yeah, that's why. No, this one, okay. So, one of the things that I was, uhm, attempting to do here was, if we can use these, eh, eh, the AIs to build more common complex components that we can standardize and reuse.
+Uhm, so, for example, I want to create a Vue 3 component for viewing PDFs. Think like a UX expert, right?
+So, I would ask it to create a plan, and then I would, once I have the plan, I can review it and say, uhm, what do I want to, so I'm going to say, go ahead and, uh, implement it.
+So it, it, uh, wrote the code to implement it. Create a document, uhm, uh, documentation for developers.
+And then, I would say, I would, then I would ask, uh, it to see if there's a way to improve the code, and then apply that, those changes.
+So there's a, there's a, first phase is ask it to plan it out, which allows it to create an outline, without actually writing code.
+It's essentially recreating the normal development process. I'm saying, write the specs, then write the code, then, uhm, review the code to see if we can optimize it.
+And then the, then the documentation, and so then we will have the code that's been optimized and then documented. Uhm? Since chat GPT only shows previews, of the finalized, I mean, ah, versions in React, uhm, I can't see the previews of the Vue versions.
+Uhm, so I created three components. Here, one for the text input, like text fields, another one for handling CSV import, so, and addressing a bunch of different validations that we have to do.
+and this this has both the code and the documentation, and also for a simple PDF viewer. So, when you're, you know, doing some experiments with it, it will be awesome if you can give me your thoughts on this approach.
+Uhm, and the other thing that we can also consider is, since a lot of the AI tools are using React to generate things, uhm, if we're doing a full refactoring into a new app, should we consider React?
+And I think in the past when we talked about it, the decision was to stick with Vue, and if you look through the code here, you can check to see how good of a code it's writing for Vue, and if, if you still want to stick with that, again, I, this is not a decision that I want to make, I think this should
+be something that's made by the team. The developers, uhm, so, ehm, but we should decide based on where the company and the product will be in the next five to ten years, uhm, so these are three components that you can take a look at, and the idea here is to see if we can use, uhm, uhm, the AI to plan
+out more complex components that we need. And, and, things like CSV import has always been a problem at Metrix because there's a lot of different types of errors that can happen, and each time we do an import, we have a separate validation that we're doing for all of it, and we don't have a standardized
+way that we're handling it. Now, in the past, uh, we have tried to use, like, third-party plugins, which hasn't worked, uhm, so, so if we can build a standardized component that we can customize for each import easily, that would solve a lot of problems.
+https://www.loom.com/share/0be1fda57b954ee988ed29e735707e5f
+success
+Generating MSPE Letters 📄
+Once we have all of the components of an MSPE letter and charts all configured, we have imported the data, then we can start generating actual letters.
+So this assumes you created the templates, you have created chart templates, we have generated all the charts, and then we're going to be putting all this together.
+To do that, you go under Gradebook, Generate MSPE, and on this page, we would select the template we want to use, the group, and then click on Generate Documents for Group.
+I guess. It's going to, uh, say, Documents are in the queue. It's going to generate that document, and it's going to email you when that generation is done.
+You can see under here, it says Members in the group is 1. It means that one letter will be generated.
+There we go, we have that generated. Uhm, once we have it generated, we can go in there, click the Action button, Preview it.
+This brings it up in a document viewer. It's a PDF viewer. We can also click Edit Document under Actions. Call, uh, dropdown, which allows me to open it up in an editable format and make changes to it.
+Formatting or fixed typos and so on. There's also a history that shows an audit of all of the changes that were submitted.
+There is a change status. Metrics allows administrators to manage different statuses for their letters. By default, it's draft when it's created.
+After changes are made, you can either save it needs remediation, or approved, or approved with changes. So if we change that status, the nice thing is that if you need to regenerate the letters, you can skip the ones that are in approved status so you don't accidentally overwrite some of the changes
+that you made manually. Regenerate allows you to regenerate that one document. Remember that when you regenerate this, it's simply populating all of the text and the same images.
+Let's say if you added new grades into the system, it's not going to calculate the chart again as part of the regeneration process.
+Then we have a send email option. We can write a subject line, message, and then choose one of the recipients.
+The subject line allows us to email this, uh, document to one or more individuals. We have an option to download this under the action column as a PDF or as a docx.
+If you want to, send this out to all the students. At the top right, there is an email documents for group button, which allows us to, uhm, select the, set the document name.
+This is going to be the, uh, merge fields that we use here. Last name, first name, and so on. We can also say, how do we want to send it as a document?
+Which evaluation templates do we want to include if we wanted them to provide feedback on this? You know, let's say we create a form to give us feedback on the MSPE letter.
+We can attach that as a, as a link, uh, when you send out this, uh, email, uh, with the document attached.
+You have a sender label, email, sender email, so this allows us to enter your school's email or name so that it looks like this letter is coming from the school, subject line, and some sample text at the bottom.
+You'll, this can be edited as you see fit. Uhm, there's also this, you a second option to say email zip of documents.
+This is meant to, uh, email the full document set to somebody if they need to have the, everything downloaded to upload to ERAS.
+So our recommendations when working, best practices working with these documents is to if you're going to be reviewing this with the student in a zoom call or in person, um, pull this up in front of them in metrics with the editor, have them go through it and make any changes.
+And then you can go ahead and approve that while they're still sitting there. As long as you change the status next time, if someone needs to regenerate something, the changes that you made is protected.
+Also, when emailing this out to them, it's always best to, uh, send it out to them as a PDF and then ask for feedback in an evaluation.
+If there are any changes to be made, it's best to do it on your end rather than asking the students to edit the document directly.
+When you have students that are finishing rotations late and you have to create these, uh, the students at the later time, you would add them, put the grades in, add them to the user group, and manually generate their letters.
+Uhm, and add them to the, to the, uhm, documents. The, essentially, uhm, This is, this is a process that, Is a little tedious, and our support team will typically help you out with creating these charts.
+Uhm, in the future, we're going to have a way to regenerate charts for one student at a time, so that it's, if these late students are submitting grades after the main cohort had their chart generated, you don't want to have to regenerate the same charts over and over, especially after the review process
+. If you regenerate all of them, the charts may be slightly different. So in the future, we're going to have a way to generate this one by one, if a student needs to submit this at a later time.
+https://www.loom.com/share/d23496271f584396855d1d2b4dd79adf
+success
+Understanding MSPE Template Fields
+Here we're going to take a look at a standard MSPE template and some of the different, some of the merge fields in it and, ah, where that information is typically stored.
+So looking at this template in our system, under, system, under, uhm, institutional portal, documents, templates, and I've opened up our standard, ah, AAMC MSPE template.
+So let's go through this one by one. At the top we have first name, last name. This is stored in the user demographics of that student.
+So to access this, you would We'll go into Users. page and click on the student, click Edit Demographics, and you'll see the first and last name that you can edit.
+Noteworthy characteristics are typically set up as custom fields on their demographics. So, in Metrics, you can create custom demographic fields for users and custom demographic fields for the student.
+This can be done in the Institutional Portal, under System Setup, Custom Fields. So, we typically would create three custom fields, one for each of the noteworthy characteristics, have it in the student's profile, and they can go ahead and fill it out.
+Then we have, uh, Academic History, Initial Matriculation Date, Estimated Graduation, uh, Expected Graduation Date, and, uh, any Remediation Coursework, Adverse Actions, Prior Institution.
+These would all be, uh, living as part of the demographic information also. Uhm, this can be, uh, uhm, uh, created as custom, uh, fields.
+And, uh, used to store that information. So we create these as custom fields. You can also import them in bulk.
+As we scroll down. We go to the preclinical coursework here. You have first name. And then some information that's going in here.
+Uh, class rank, class rank total. These are all coming from, uh, their demographic information as a custom field. Then we have a chart.
+MSPE chart, uh, so this chart information is actually coming from a document in their profile. So if you open up a student's profile, there's a documents tab.
+Documents, it's called documents and certifications. On that page, you're going to have start to see these image files that are getting attached to them.
+Based when an MSPE letter is generated and what we're doing here is inserting that chart into this, uhm, letter. Next, we have clerkships and you can see here this has a great block.
+What this is doing is a group of merge fields that are inserted in a certain way. So that it can repeat itself and insert grades for each rotation.
+So essentially, this one set of, uhm, one set of, uhm, merge fields is going to repeat for every single clerkship that we need to put grades into.
+And it also shows up in chronological order. And if we change something in here, you know, let's say we want to bold this, it's going to repeat that bold for every single grade that we populate in here.
+And then we have another one for, you know, for mandatories, another one for electives. Other charts also appear here in the same format.
+We have a competency chart. This is a separate image that is stored as a file on the document's profile. So, essentially, each of these merge fields are coming from the student's demographic information, custom files.
+Those are the major areas that you're pulling in data to create the MSBE letter.
+https://www.loom.com/share/3e66eae3b9b14e99b797394a39521893
+success
+Data Management and Training Agenda Discussion
+So, all issues, I'm gonna go, they have an AI search now, so I'm gonna say, issues that have type equals feature that has been.
+It's one o'clock. That has status of done, uhm, and created after January 1, what is it?
+2021, don't, nope. So let's go with that. So after January 2021, so it basically gave me a search for that and we have, uhm, wow.
+So we save this fill, uhm. Go. Yeah, I mean a lock is a lot is actually a good thing, which means that where we have more data.
+We are doing something incredible. Uh, so then it's a matter of bulk export, export.
+to Excel, Marketing, and Product.
+Marketing. Biannual update. So, it's a biannual summary, and we can say 2024 December. So, I'm, I'm, I'm like building the steps of the process as I go.
+I've, I've created a folder, I've created a subfolder, and I'm putting, uhm, a way that I can come back here every year to create a new folder, every six months to put a new folder in here where I'm gonna upload the files.
+Uhm, the export, and then open this up, open with Sheets. And what I would do is, just clean this up a little for Mike, uhm, so that, I'm already in here, uhm, columns that I don't need, a feature, status done, project type, main thing, solution, priority, I don't care about priority, okay, assignee
+we can keep, okay, this to here, I'm going to delete, custom.
+Field, I don't care. What are you looking for? Client.
+So. Client doesn't really matter, actually. Well, no, client does. Oh, it was, yeah, it was released for this.
+Yeah, I would organize this table, like, if I were to open this up going to one of these meetings, I would sort it A to Z so I could highlight the ones that I'm that we did for that client that I was talking about.
+Yeah, so. Because that would be the starting point, like, which ones did they request that they're now getting a bunch of value out So here is, uhm, actually, I think there is a slightly better way to do this, uh, just so that it's reusable.
+We have Sheets. I forgot about this thing in here. So I'm going to just copy this query, and And then back to Projects, Sheets.
+And then I'm going to say, Create Sheet, Buy Annual Marketing Review. Ah, crap.
+I'm just going to have it open. What's this one? Stop. Can you guys hear me?
+I miss you guys. I feel like I don't get to see you anymore since we don't have to huddle. Well, hold on.
+I'll give you the gift of being able to see me. I'm not going to be in my G-state. Why don't we, Actually, I was going to say if we want to move this to next week, it's fine.
+Then, Chris is not back either, uhm, we can do this next week when he's back. So, because I think with, it's kind of a good meeting we have everybody, or at least most people that are actually talking to customers, because I don't really have much to add.
+I'm just here to listen. Well, I think real quick while we're here, uhm, Mark, is there anything, uh, that you had for this meeting that you just really need to know real quick?
+Yeah, that's a good point. Uh, I, I have one that you can share.
+You can that. That will affect our advocate percentage. You can, you can also change Florida. Florida Department of Health to Advocate.
+Wow. We're gonna pop some champagne. Yeah, all I want to know is I've been going back and forth with McHill for the past, like, month.
+They're in a, they're in a rough spot trying to reboot their program, and he is insanely grateful that I've been taking my time, even though they're a small contract.
+Yeah, and actually make a note to yourself, Mark. I'm gonna be making an introduction, uh, once they send some of their documents over, uhm, that they will need a light training session.
+Uhm, that I can join and help with if, uh, if no one else has time, uh, cause essentially their entire program essentially stopped, and then a bunch of people left and got hired.
+So we just have to verify people's access and permissions, and then give them a brief tutorial on, like, rotation schedules and emails and stuff.
+This would probably, uhm, it would be in December most likely. So let me give you a rough estimate date range.
+Buh buh buh buh buh buh buh. It would probably be. I would actually say it might happen during the retreat at some point.
+https://www.loom.com/share/d0da3e677a0149bd9e7945d0ca1551d0
+success
+iOS recording - 17 Sep 2024
+Hey Clara, I'm on my phone. Let's see if this works. So I really like the overall design. Um, the only thing I'm wondering if there's a wave, but what, well, as a couple of things I'm wondering, uh, at the top, uh, survey results slash dash evaluation KPI's, um, and then the question underneath.
+I don't think we need both. Um, we can just put that a question in the is in a very, um, larger font and give her to the survey results.
+Because by looking at this, they'll know what their survey results are, that it is our results. And the question came to me, what is your training program's current goal for evaluation completion?
+and then for the background it's better I like to keep it simple and minimalistic with a lot of white space so like we don't need to have that pattern in the background and then we can put the metrics a little on the right side, then my headshot and Tosh, I mean a name on the right, on the left side,
+the company logo on the right side, my image and name. So it's both personal and business-branded.
+https://www.loom.com/share/80bb05ff7b8b4692b09048e74f346000
+success
+Leading Discussions and Assigning Responsibilities
+Hey Katie So The reason I wanted to make a little video is I like you to get used to leading these kind of discussions with Chris and Rio.
+I mean, sorry, Chris and Maria Kind of present the problem and then, uhm, lead the discussion to get to a, eh, solution and then also, uhm, make sure that one person is responsible for each of those items and then, uhm, uhm, eh, eh, the, uhm, uh, the due date for each.
+So, for example, affiliation agreements, what, when you, when you meet with them, what do you want to say to, uhm, uhm, this is more of a Chris, this item, uhm, we can say, we got, uhm, multiple vet schools that'll have several thousand, uhm, uhm, affiliation agreements they will need to import.
+We obviously, uhm, don't want them to be uploading each of these one by one, uhm, do we have a way for us to batch import these, and one of the things that we can do is ask them to name the files a certain way, so it makes it easier for the first question is whether if there is a tool that we already
+have, uuhm, if it doesn't, uhm, is it something that, uh, we can have it created so that when we do onboarding, we can do these batch uploads for the main, in, uuuh.
+Yeah, for them. Cause it will happen over and over. For the side code recommendations, this is something that you can give to Maria, and I don't think she needs any instructions, you just need to, uhm, a son.
+On a due date, and then have her create it. Essentially, what we want to do is, if the site name has multiple words in it, take the first initial of each of those words and just put it together to make the code.
+For schedules, umm. I would actually, I know I said I was gonna review it.
+I would and I will if I have time. But I think this is something that Chris, Maria. Or, and you can work together in that call to decide what's the best way to put this into metrics.
+Umm, it's best to go over it in a call. Uh, because we want to make sure we get the best outcome.
+Umm, and uh, once you come up with the approach, you can, it's what we want to come up with is, how do we structure the block schedules?
+Meaning, are we going to have one schedule with all the students on it? Or are we going to have separate schedules?
+Umm, and then, within those schedules, how do we put the block dates? Or is it going to be, um, do we have the block started and date for each of them, and so on?
+So once we come up with the structure, I can look at it and make sure that I'm okay with, I'm out of a process.
+The same way, um, but this is good practice to come up with it, with Eucharist and, uh, Maria. Um, for the evaluations and EPA's, so the way that, uh, Let me see if I can, um, explain, uh, So, what we need to do is, I think what we will need to do is- uhm, extract each of these questions that are in
+here and create them. As. Create a category in question bank and create all of these questions with these options.
+And we can also create a. Um, comment question for each of the unique comment questions. Once we have that, we will need to, um, import these EPA's.
+As, um, as, um,-competencies. So we'll put the- These are subcompetencies.
+We'll have a- a core competency called EPA's. And the- inside of those car competencies, we'll have each of these as subcompetencies.
+And when we create the forms, we're going to import. These questions.
+And- so when I create the anesthesia, uh, question, I mean, form, I would import each of these questions.
+And then- Umm, add a section header. Here, let me see if I can do this. So the question, Hank. Thank you, We would have a category.
+Sorry. EPA questions. And we're gonna add a- a question under EPA question called.
+All And, okay, so the scale is.
+and exceeds expectations.
+issues. Save. And the next one. It's 130. So.
+You will create these all of them. Come and play. And then go to questions. I mean, uh, templates, rotation based one, anesthesia.
+https://www.loom.com/share/170c3b58197a4470a8407195197b2606
+success
+Preferences and Scheduling Optimization 📅
+So, to create a new lottery, essentially, we go to, uh, schedules, lottery on the admin portal and then from here we can click new lottery, give it a name called medical student lottery, and then there's going to be a few fields like open date, which is going to be the date that the students can submit
+preferences, close date is when the students can no longer enter preferences, run date is going to be the rate, date the algorithm runs to generate the schedule.
+Uh, but again, our algorithm currently does not work, we need to fix it, but, so this is kind of irrelevant.
+Then we say which students do we want to include in the lottery. I'm going to choose MS3 and MS4, third and fourth year students.
+Which sites do you want to include? So I'm going to say these two sites, our clients will have more than two sites.
+I'm going to save it. So this is medical student lottery, opens in five days, and then this is where the UX of this needs to be improved where there's the UX of product.
+So the UX of the product needs to be So, if I click, on the phase one, if I click edit, it allows me to edit whatever I just set up.
+So what I have to do now is click advance phase. Phase two doesn't apparently do anything. Uhm, so then now you gotta go to phase three, which now activates the ability to create blocks.
+So, ideally, in my opinion, when, soon as you create it, there is no need to go to phase one, two, three, we should just let them, take them directly to the place that they can create the blocks.
+And then if I click blocks, I can come in here and say, add block. So, this is going to be, I'm going pick one of this, and when I pick a site, it's going to give me the rotations that are available for that site.
+This is coming from the schedules rotations page. Any rotation that I have created in the system that is mapped to this site will be given me, given to me in the drop down.
+So. If I go to rotations here, and I choose Metrics Hospital Westside, so, so you can see cardiology rotation. That's the only one that I've created that is mapped to that.
+That's why I'm only getting one here. Roles allowed, it's going to give me the roles that I have selected in the Rotary.
+But I'm going to say, this one is only allowed for MS3. Start date and end date. So right now, it's giving me, uhm, whatever dates here.
+One of the things that would be nice for a customer is, if we had a way to create, a standardized set of blocks, uhm, so we, we said, block 1 is July 1st to July 28th, block 2 is July 3rd to 4th, so that every time I create a block here, I don't have to keep selecting dates.
+Because, if I had somewhere else, like, let's say if I go to lottery and I just had, have a tab that says manage blocks, and when I create the lottery, if I select the block set that I want to include, then I can come in here and just click a little check box that says this is for block 1, this, uhm,
+so that I don't have to keep centering the dates. That's a pain in the butt. It's a minor problem, I mean it's a medium problem, because we gave them the ability to import blocks using a spreadsheet, kind of takes care of it.
+Uh, but for right now, if you want to do it manually, you would select the start date and end date, and it's going to say, this, we're going to allow for 2 student, 2 slots.
+So this is saying, 2 students can be at this block. At this site, for this rotation. In our Excel file, we don't really specify rotations, because rotation names are kind of captured with the site.
+But in Metrix, we have to specify that separately. So, so I created one site, rotation combination with slot, and this is giving you start date and end date.
+Now, was those states pre-filled when you selected that rotation? Yeah, I think it's randomly getting pre-filled. I don't know what the criteria is.
+Okay, I was just wondering. Yeah. So, yeah. If I wanted to enter this for a first block, it might be that, but then for the next block, I'll need to go in there and manually select.
+So here's a flaw right here, where it doesn't allow me to select anything in the future, unless, so I gotta set the end date first before I send the, it's backwards, so.
+which is not intuitive at all. Add, so I have two blocks added, and if I want to edit this, it's going to bring it up here.
+Uhm, I don't know why I'm so excited, so it won't let me do anything here for the start date. That's weird.
+Yeah, so I think really messing with these dates here is not good, because people shouldn't be tinkering with this every single slot.
+They should just go in there and say, our block structure is this, because they're always going to be the same.
+It's going to stay the same start date and end date for every block. They should just be able to select what block they want to use.
+So, block 1, 2, 3, and 4 will all be the same dates. Yeah. They want whatever. They're just going to pick block 1, block 2, block 3.
+https://www.loom.com/share/ffd305b7cda9491fb7e797cd0a78f6b6
+success
+Progress on Menu Customization 👩‍💻
+Hi, Elson. Just want to say I love the progress you made on the menu. Looks awesome. And, uhm, I want to, for you.
+Oh, I love this too. It's awesome. Black, dark mode. She wanted to show you this. Let's see if I can, This, uhm, to see if we can, incorporate some of these, uh, items.
+One of the things that our users, uhm, tend to struggle with is if we have all of the menu items, enabled, then it can be a, a lot for the customer to use, uhm, with this, uh, I was experimenting.
+With a way for us to have, uhm, some flexibility, one thing is being able to turn on and off different menu items based on what modules they bought.
+If they didn't buy all the modules, we want to have a shorter menu, and depending on the portal, different menu items will be disabled.
+Uhm, So, if, uhm, and then, that's the first thing that we would control, and the second thing is it'd be nice if there's a way for them to, uhm, bookmark, uhm, certain things that they use frequently so they can show up in the favorites.
+We don't need this recently visited thing. I think it was the AI that added it. It's not good. And then, it also added a bunch of these icons, which I think, I don't like a lot.
+And then, I don't think we need icons for every submenu. Or we can use the same icon for the submenu.
+Uhm, whatever looks better. We don't need to have different icons for every submenu item. And one of the things that I did, it also added was a way to search.
+So if they want to find something. And, I'm also leading the us simplifying our top menu. Instead of having institutional, admin, and personal.
+If we can, uhm, if we do, when we redo the system, we just have an admin and a personal account.
+And then admin can have different things appear based on the level of access. So if they're a higher level of institutional administrator, they may see more items than the ones that are regular admin items.
+And then at the top, we also would need a way to toggle between different portals, sorry, different programs. So.
+Or departments, whatever you want to call it. So this allows them to switch between them. And some of our clients also want to put their logo at the top.
+So instead of us, uhm, All right. Showing our logo, it would be nice for us to show their logo and then have a little smaller, we have a favicon of our M.
+That we can use for our logo. So if the client has uploaded a logo, it'll show up there with ours as like, a smaller logo and then if the client hasn't uploaded it, then it'll show our logo.
+And then on the bottom left, we also have a way to access the knowledge base.
+https://www.loom.com/share/8a43cee778944e8bb5ce0ab023d9953b
+success
+Users, Groups, and Grades Management in Medtrics 📊
+We're going to take a look at some of the imports that we have to do in order to make sure The MSPE letter is generated correctly We'll start with the users page Every year as part of the MSPE Season if you're using metrics for all of your academic data, you would already have your graduating cohort
+in metrics. If you're using metrics only for the MSPE module, then you would have to create all of the students that are graduating as part of that year's class.
+So what we would do is go into the users page and instead of creating each of these users one by one, we can use the import users with CSV option here.
+This allows you to download a sample CSV and then fill it out and submit it, uh, in order to import it.
+One of the key things to note here is the import template allows you to import standard fields, as well as custom fields.
+And you don't have to import all of this information at once. Instead, you can start with creating as much of the information you have, as long as you import the student's email address.
+And, and, or a student ID, then it's going to create that record, and next time you can simply use that email record, email ID, or ID number to match to the existing user, and it'll update those other fields that you're, you need to add later.
+If you ever need to manually change any information for a student, you can simply go to the user's page, click on a student, click edit demographics, and then go through the tabs at the, at the top of the, uh, to switch to the different sections, and fill in the necessary information, information.
+So that's how we create users each year. Next, we would want to, uhm, create groups. So groups are going to contain all of the learners that are graduating that year.
+To create them manually, you create them manually. You the group, new group, and then once you have the group created, let's click on new group, you give it a name, say MSBE Cohort 2025, and we can say this is going to be a, uh, academic, linked to a specific academic period, because this is for this
+graduating class. And you don't need this group to always be visible in the future. So select it, select the current academic period, and it's going to allow you to link it to that.
+And for sites and group tags, you can leave that blank. Once you, once you have the group created, you click on it, then click add members, and you can add all of your graduating students into it.
+If you don't want to be creating all of these manually one by one, there is an upload groups button at the top where you can download a template.
+And then once the template is downloaded, fill it in with all of the students that you need to create, and then click upload and it'll create all those students, all those groups, and, uhm, add them to the, it will create all those groups and then link them.
+Add the students to those groups if you have those students in the template. Next is grades. So to import grades into Metrix, you go to gradebook, grades, uhm, that's where you import things.
+But every year, it's important to double check you have all of the, uh, systems set up correctly. So to do that, go to gradebook, set up.
+And on this page, we want to double check all of the different courses, preclinical, and all of the clerkships, both the rotational rotations and the electives, uh, rotation, mandatory rotations and electives.
+Make sure the code for these courses and rotations are correct, the name is correct, number of credits and number of weeks is correct.
+And if there are any changes to be made, it's best to do this before you start importing grades. Once the grades are ready to be imported, you go to gradebook, click import grades with CSV, and then you can download one of the templates that we provide, fill it in with all of the necessary information
+, this includes, uh, matching codes to those grade set, uh, gradebook set up in here. Uhm, always, for that gradebook, uh, grade, uh, set up, uh, for codes, it's best to use the same codes that you have in your student information system.
+This way it's easy to match it up. So we download the template, we fill it in, and then we come in here and do an upload and it'll populate it into Metrix.
+The upload template allows you to enter all of the information, including, uh, the, uh, link it to the person, choose the appropriate grade of course rotation using the, uh, course orientation using its code, the date of the grade, and you can also enter the date the, uhm, the rotation itself, so where
+it was a site-specific rotation, uhm, that's coming from the, the, the site and rotation that is offered, it has a unique code, start date and end of the rotation, end date, end date of the rotation as well as the number of weeks, the score, Type, which you can define in metrics by going to the setup
+, gradebook setup, and then one of the, uh, score type tab, so this is meant to capture different types of, uh, scores you can enter for MSPE, main thing you need is the final grade entered, then there's a primary status, and that's a secondary status, primary status could be pass, fail, high honors,
+and so on, secondary status could be if your school uses it, a, you know, letter grade, you can kind of customize both the primary status and secondary status in the gradebook setup, uhm, when you import, you're also able to import the precepts.
+They're comments, both the original as well as the revised comments, and then once it's created, you also have the ability to go into the grade itself and make, uh, add attachments.
+So let's say you have these grades added to metrics, uh, for most of the students and and then you start to get some.
+Changes or new grades, uh, one by one, you can always go into the gradebook, grades page, and then manually add a score.
+https://www.loom.com/share/6b7b42cb96dd47dbbe8b7f9a7084385f
+success
+Electric Cars Discussion
+You like to chat with me, or everything else? Do you want a Jeep?
+Jeep Wrangly? No. Jeep Wrangly or Jeep Compass? That doesn't matter. Bucky and I break a lot of letters.
+We have a lot of videos at this. What do you think? Do you have to use it if it's a podium?
+I don't think so, but I imagine most of those cars are going to be diesel. I don't know if you can hear it, but most cars are, uhm, there's more cars than diesel.
+There's a lot more cars than diesel and gas. I think I'm going to have a B. I don't know how important they are.
+I would assume, given that you're ranking it. Charging station for B cars. I don't know if there's any more. In the tower.
+Yeah, this isn't like, that's Tesla we did. This is the 10 year olds. Okay? That's how tall they are. They're height.
+F****** tiny. And it costs a thousand dollars. So you can maybe use it for four years, if you don't like that.
+Yeah. Yeah, it doesn't matter then.
+Whatever's cheaper. Cheaper but not horrible. What? Cheaper but not horrible. To plug it in versus paying for gas? Oh, we're getting gas.
+We're not doing that. That thing that you did in, ah, Disney, where we didn't know where to get, I don't think you should get rental, uhm, It's a hybrid.
+This one's hybrid. Yeah, as long as we can go to a gas station. I think. Yeah, it's a hybrid. That's like a hybrid.
+So the non-hybrid, $3.00. No, but, your Jeep, we don't need this. Yeah, but it really doesn't. I don't know if they I don't know.
+It doesn't have it. Like, this one has A.C. listed. This one doesn't have it. That's absurd. You can't have a car without parking A.C.

@@ -1,0 +1,985 @@
+It doesn't seem like one of these categories that being used correctly. To get down to the cost of sales, that should be in here, software tools.
+So we'll call it sales, and then we'll get into the general administrator. This next one here. This should only be using things on this list here.
+We should only be using the same thing for sales and it will be great if you can highlight into the roles that do not match his list so that I can review it with him.
+So, for a general administrator, you can fill this out. You can see here that this list is highlighted for R&D.
+It seems to be more highlighted than something down here. Thank you.
+https://www.loom.com/share/24dd08a2dc47447ea8094f653065cd0f
+success
+iOS recording - 12 Nov 2023
+Pretend to be a patient with diabetes, I'm going to pretend to be a doctor that is going to be interviewing you in the clinic It seems like you're directing me to a website for detailed information about your software However, I can't access external websites directly, but you can tell me more about
+the fee We're going to do a different roleplay, I would like you to pretend to be a patient Sure, I'm now the patient.
+How can I assist with your role play? What scenario or context are we exploring? I would like you to pretend to be a patient with diabetes, and I'm going to pretend to be a doctor interviewing you in the clinic.
+Got it. I'm a patient with diabetes. Feel free to start the interview whenever you're ready. What makes you come into the office today?
+I've been feeling really tired lately, and I'm having trouble managing my blood sugar levels.
+https://www.loom.com/share/50d896ea01b444ac93757ff60a53f193
+success
+Loom | Free Screen & Video Recording Software | Loom - 12 November 2023
+Good evening, guys. I've been messing around with the new chat GPT app and I want to share something really exciting that that I feel like we can use for training for sales.
+Chat GPT has a new functionality that allows us to talk to it and it'll respond and speak back to you.
+So, I want to give you an example of what I, what I was trying out. So, I'm going to click this button.
+It's on the app. It's a little button that starts the chat functionality. Good afternoon. I'd like you to pretend to be a medical school clerkship dean.
+And I'm going to pretend to be a sales rep at a SAS company trying to sell you an error. Good afternoon.
+As the clerkship dean, I'm interested to hear what your software offers. How can it benefit our medical. Schools educational programs.
+Actually, let me ask you how are you currently managing your clerkship programs? I'm especially interested in hearing about scheduling evaluations.
+And case logging. Currently, we're using a mix of digital and manual systems for scheduling. We rely on a combination of spreadsheet software and a dedicated scheduling tool.
+Evaluations are mostly conducted using online forms and surveys, which are then manually compiled. As for case logging, students mainly use a digital system, but there's still a significant amount of data available. We're definitely looking for ways to streamline these processes.
+How does your software address these areas. Before I get into that, tell me more about scheduling. How are you scheduling the core clerkships and the electives.
+For core clerkships, we schedule them on a rotation process throughout the year. We use a digital calendar system where students can see their assigned rotations.
+This system accounts for required clerkships and balances the number of students in each rotation. Electives. Students are a bit more flexible.
+Students can choose their electives based on interest and availability. They submit their preferences through an online form and we manually assign them based on those preferences and available slots.
+Our process can be quite time consuming and complex, especially when accommodating last-minute changes or special requests. Our goal is to make this process more efficient and less manual.
+How can your software help with this? Well, that must be very painful to have to manually schedule all those things.
+Yes, it can be quite challenging, especially with a large, number of students and limited slots for certain rotations or electives.
+It's a balancing act to meet educational requirements while accommodating student preferences. An automated or more streamlined system would definitely help reduce, ,the workload and improve accuracy.
+How does your software approach these scheduling challenges? I will get into that soon, but I also want to know are your evaluations tied to your, schedules or are you manually sending out evaluations?
+Our evaluations aren't directly tied to the scheduling system. We manually send out evaluations at the end of each rotation or clerkship.
+The process involves tracking which students are in which rotations. And then sending the appropriate evaluation forms to the students, faculty, and sometimes patients.
+This manual aspect can lead to delays and sometimes even missing evaluations. A system that automatically triggers evaluations. So, when you have a preceptor that are working with your students, are you able to get a- It sounds like you're about to share how your software might address these challenges
+. I'm eager to hear about the features your software offers. Especially regarding the integration of evaluations with scheduling and streamlining the manual processes we currently face.
+Could you tell me more about that? I will soon. So when you have students going to different hospitals, do you know which preceptors they will work with in advance?
+Or is that something that is unknown until the student gets there? For most rotations, we assign students to specific preceptors in advance.
+This information is included in their schedule. Knowing the preceptor assignments beforehand helps us tailor the evaluations and ensure that both students and preceptors are prepared for the experience.
+However, there are instances, especially in elective rotations or in certain hospitals, where the specific preceptor assignment might be determined closer to the start date or even upon the student's arrival.
+This variability can make tracking and evaluation more complex. How does your software manage such situations? Do you think your students will benefit from being able to request or initiate an evaluation from a preceptor they worked with?
+Absolutely. That would be a beneficial feature. Allowing students to request or initiate evaluations could ensure more timely and relevant feedback.
+It would also encourage greater engagement from both students and preceptors. In the evaluation process, this could lead to more accurate assessments of their performance and experiences.
+How does your software facilitate this kind of student-initiated evaluation process? So, as you can see, it's very good at pretending to be a Dean and it also makes up scenarios and if we essentially have each person learn how to ask these questions and drive the conversation, it will allow multiple
+https://www.loom.com/share/995cbecb419c4b93ab242d605d81d7dc
+success
+Medtrics - 20 November 2023
+Hi, Karen. Great work on the meeting today. I appreciate how you handled yourself with those questions that came out that came at you, and I also appreciate the energy that you brought to the meeting.
+I always find that communication skills is very important when you're working in a small dev team. So great work there.
+One thing that I wanted to follow up with you that came up after the meeting wanted to ask you to describe in a loom video or any video that you any tool that you use how you would make a platform that is not responsive how do you how would you make it responsive using bootstrap you don't need to write
+any code is more describing what are the some of the things that you would do or what are the some of the elements that you would you to ensure that it's responsive, accurate across multiple devices and I'll I'll do a click quick click through of some of our pages here so you can see this page has a
+profile and then our evaluations page has this table view and then when you open that up you can complete an evaluation and this page shows the schedules and if I open this up I can see this grid view and this is our scholarly activity and you know based on what you're seeing here if you could describe
+what approach would you take to ensure that everything is responsive and responsive and works on different screen sizes.
+https://www.loom.com/share/72e76c62b48a46f296840958f1de51c9
+success
+Min Max of students per rotation – Figma - 10 November 2023
+Good morning everyone. I want to go over this design that our team put together for this min max feature that we're going to add when a rotation is being created in metrics.
+This is under system setup. We're going to have a section called capacity and this capacity section will allow us to select one or more roles.
+So, in this example, we're using medical student, MS2, MS3, and so on, what this applies to medical students, vet students, and each time, Bye.
+When I select a rule, I can define min and max and then add that rule to the section. The system will allow us to add multiple rules so I can have a different requirement for MS2s, a different requirement for MS3, and save all of that.
+Once it's saved, when I'm creating a new schedule and open up a window to make an assignment, when I select a particular assignment, it will tell me how many students are assigned for that block.
+Well, it tells me how many students are allowed as a min and a max for that block and if a student is getting added and the capacity has been met, will also show an alert.
+It says adding an edit. I think adding this trainee to this rotation will exceed the capacity of five and then we can click add trainee anyway and then continue.
+Please let me know if this handles all the required functionality and if there's anything else that we need to discuss.
+https://www.loom.com/share/426566b0d1c5499dbdd4594e027a06e3
+success
+Medtrics - 10 November 2023
+Hi Stephanie. For the Chamberlain server, we currently don't have the resources folder fully configured because it was not a license that was included.
+However, if you look at the AGMP primary care program, you can see how it works. So if we go to the resources folder, under rotation resources, we'll have a subfolder for every single rotation that you have at this in this program.
+And inside of each of these folders, we can upload files or add a hyperlink. Once these are added to the folder, metrics can email them out to the trainees.
+Based on the rotation schedule. So under the system setup settings. There's a curriculum section to send curriculum to trainees seven days before the start of the rotation.
+So if folders are filled with content for each rotation, then metrics will email those out. This is a rotation specific files.
+I believe what you're asking is more site specific files. Under sites, you do have a way to attach documents. The way that this is done is by opening up a site and adding files to this.
+Site documents are not emailed to the students. It's something that they can access in the system if they're given access to the site's page and they can download those files from there.
+I'm not sure if this site management was also purchased for Chamberlain. I wanted to give this information to you and then if either of these are helpful we can explore setting this up and having a pilot.
+And for the, if you want the site documents emailed out to the students, there is a feature that we're planning.
+I don't have a timeline for it for medical students. Essentially, medical schools have a similar challenge where they have multiple rotations at a site and the documents that are being shared are going to be for the site and not specific to each rotation.
+So that is a limitation of the resources right now, but there is a feature that we'll be doing in the future that a feature that will allow institutions to create site specific documents under resources and have those emailed out.
+I hope this was helpful in understanding how the documents can be set up in metrics.
+https://www.loom.com/share/426dcfe1936d4cb98f9178c09b8380e5
+success
+Introduction to Undergraduate Medical Education
+Hello everyone. In this video, we're going to take a look at the medical education journey for doctors. We're going to specifically focus on the undergraduate medical education, but I want to start with the overall journey first.
+Guide to doctor hierarchy. So when a medical student, well, let's start a little bit earlier. When a college student decides that he or she wants to go to medical school, they would first take a bunch of prerequisite courses and then take the MCAT, which is the first exam that you had to take to go down
+the path of becoming a physician. So you would first take the MCAT. If you do good and you have good grades, you're going to get into medical school.
+Medical school is four years long and then after medical school, you will have to get into a residency. Medical schools are held hosted by universities and then after you graduate, you're going to become a resident in a hospital.
+So a residency is when you learn to practice medicine independently and take care of patients. You also have your first year residency is often referred to as the internship or the intern.
+A lot of times people just call it residency for everything but if you ever heard hear the word intern or internship that's for the first year residency.
+Residency can be 2 to 7 years and then after finishing residency you can further sub-specialize and do a fellowship. So let's say you want to become a trauma surgeon.
+You would first do 5 years of residency and then you would do a fellowship. Fellowship in trauma surgery to specialize in trauma surgery.
+Then after you finish either your residency or your fellowship, because fellowship is optional, not everybody takes fellowship, goes into fellowship, you become an attending physician, trained physician, practice practicing their specialty.
+So these terminology, resident and attending came into place from years ago, about a hundred years ago, when doctors in training used to live at the hospital and they were residents of that hospital and the attendings where individuals that would come in during the day make rounds and make, put in their
+recommendations. So they were called attendings. They're attending the hospital and then leaving while the residents live there. So now let's take a look at medical schools specifically and take a deeper dive because that's where a lot of our clients that's where a lot of our current work is happening
+in the medical school world. So for this particular example that mapped out the four years of medical school and we'll look at each of these pieces one by one.
+The first thing that I want to start off with, there are two types of physicians in the United States. There are the osteopathic physicians and the allopathic physicians.
+So if you look at the initials after a physician's name, you'll see either an MD or a DO. For example, my initiation.
+These initials are MD and because I graduated from an allopathic school. If I had graduated from an osteopathic school, I would have had the letters DO.
+There are slight differences in their training, but for the sake of metrics and anything in healthcare, we can treat them as the same.
+So, both there's allopathic medical schools and there's osteopathic medical schools. Both require the MCAT, which we don't really care about from a metrics standpoint because we don't deal with pre-medical students, we only deal with medical students.
+So, we're, here we have four years of medical school. The first two years of medical school, first, second, are classroom-based training.
+So, what that means is they go to a university, there are some, behind different courses in the first year such as anatomy, physiology, biochemistry.
+You can either take the courses, ah, like this, or some schools will teach it based on organ systems. They may have one course for the cardiovascular system.
+Another course for the neurological system. The structure of the courses don't matter. What matters from a metric standpoint is that these are classroom based training.
+So we have anatomy course where you have a lectures anatomy, you may have labs in anatomy, and you may also have small group sessions in anatomy.
+All of this happens on a university campus. In metrics, we handle these classroom based schedules on our session schedules which is part of our curriculum module.
+Well, it's under the curriculum module. But it's a separate add-on if you want to do scheduling in metrics. So this is for the first two years and the second year you may take more advanced courses such as pharmacology, pathology, pathophysiology and so on.
+Then you would take your USMLE Step 1 if you're an osteopathic, if you're an allopathic doctor which is the United States Medical Licensing Exam Step 1 which is the Part 1 that's taken after your second year.
+If you're an osteopathic doctor, or medical school, you would go and take the complex. After your classroom training is all done, you're going to be starting your clinicals.
+So this is where a little, it's a little confusing because some schools, well, all schools will call it clerkships, but it's, there's some interchangeable language here in the world of metrics.
+Clerkships are actual apprentice based training model. So let's say I am a medical student that finished a second year medical school and I want to start my clinicals or clerkships.
+https://www.loom.com/share/04cca4af354642b18c708a80459b488a
+success
+Zeni - Modern Finance Team For Startups - 7 November 2023
+Hi Alejandra. In this video I'm going to go to Zeny, zeny.ai, and you should have an account here. When you are in here, you could go into the reports page, and then here it says quarters.
+Actually, You can click the download button at the top, and then accounts by class, it will do accounts by classes.
+And then snapshot, quarters, and then we're going to do it. We're going to do whatever quarter we need to run the report for. So from here to here, and then we can leave the year to date total. And then run the report. And then we can download the report to a PDF. I'm going to open it up. This is a quarterly
+report. And then we can send that over to the, ah, investor.
+https://www.loom.com/share/bf29cc021a0e49d1a67288b53651f737
+success
+Medtrics - 8 November 2023
+Okay, Mike. So MSU's VED program, they want to use metrics to track how many students, maximum number of students, and the minimum number of students that are allowed into each rotation.
+So, if I go to system setup rotations, we have a list of rotations. If I click edit on one of those, we want to add a section.
+Somewhere in here, maybe we can expand it and into the settings here, it can be capacity and settings. And in the capacity, we're going to have actually we should have a separate section called capacity.
+And in that, we want to be able to select a role and then for that role, define the number of students as a minimum and the number of students that are maximums.
+So it's sort of like a like one of these drop downs, you select the role and you click add. When you add, you'll see two fields, one for the minimum number of students or minimum trainees and maximum trainees.
+And you can put a number into it. So potentially you could put in like we want to let them choose one or more roles.
+So I can say MS3s, they're going to have minimum of two and maximum of five. MS4s. Minimums two and maximum of five.
+We should, we can, we can also let them enter-let me see if I can- I can show you something here that you can borrow the design from.
+If you click into Lottery, Blocks, you can see Roles, Allowed, and then, really, here, we really have a number of slots.
+So, it would be instead of number of slots with minimum trainees and another field called maximum trainees, and then, you can click Add.
+And once it's added, you can do it again. So, at the bottom, we're capturing how many students of each type we can have but this is a multi-select, which means that if I say five students for MS2, 3, or 4, that means, you can have a total of five, but you would only, you would, you can have a mix of
+twos, threes, and fours. But if I put this as twos MS2s and five, that means I would, I can have a maximum.
+Of five five MS2 students. So that's something that we want to add to the rotations page. Second part of that is on the clinical schedules.
+If I open it up, when I try to schedule a rotation, Thank you for your attention. And I select it.
+I want to be shown. Open this one up. If I do this and I choose a rotation, as soon as I select it I want to be shown somewhere on the page.
+How many, what's the minimum maximum for each of the roles for this rotation? So probably you can probably show it right under here, under the name, and if I click add, if I'm at capacity or above capacity, I want to be shown an alert like this that says over capacity, and say, adding this trainee to
+this rotation will we'll put this rotation at over capacity, and if, So we really want to show the alert if you're going above the capacity.
+https://www.loom.com/share/0c1ed1d15b5f41faa11c45f9482f2fa4
+success
+Medtrics - 6 November 2023
+Hey, Mike, while I was at the conference, I had a lot of interactions with curriculum people and I've been thinking more about the curriculum module as well as the updates that we've been doing for the AI functionality.
+So if you look at the AI page that we created, we currently have that on the curriculum map page as mapping.
+It's, you can select a course and then they can, you can see the course and then in inside each course you can see different sessions.
+What I want to do with this is use this design to replace our current sessions page because we have a lot of things in here that is old code that's very clunky and hard to use.
+With this new design, we can do a lot of that and I want to walk you through this and I'll show you the updates that we want to make.
+So if I choose this course here, I can see the list of sessions and inside of the sessions, I have different columns that shows you that it's a lecture type, the, the, the the time, the duration and then if I expand that, I'll see, I'll see the session objectives.
+And I expand that, I can do the mapping inside of it, which is much more intuitive than our current page where I go into here and I create a new session.
+And then once I create the session, I have to go to the objectives tab, create the objectives and I go to the mappings tab and do the mappings.
+It's very, too many clicks to get this done. What I like to, what I like for us to do is if we look at the session details here, we can see it has session, the type, the code the title, under the title we have a description, the session leaders, theme, the schedule groups, Oops.
+And venue, all of this as well as these buttons showing up when I look at a session. So what I want to do here is think about when I expand a session, when I, when I expand a question, of course, and I see these sessions underneath it how we can display all of that detail.
+So for example, we have the name, the description, the session code here, the type and then we don't have leaders, themes, schedules, groups, venue, and the buttons.
+So we gotta get creative and try to put that information in here. I'm thinking that for things like schedule will want to show what the schedule is, but for things like leaders and groups, we can probably show, like, some sort of icon to indicate it.
+Total groups, and then when you click on it or hover over it, it'll show the details. And when, venue, we probably want to show it also.
+And these icons, we can show us small icons with just a logo on it. So that way in this row, we have all that detail shown, sorry, right down here.
+For each of these sessions, we'll have all that detail shown. So I want to, I want you to think about how we can put that in there.
+And then when I click on expanding it, I want to get rid of this, does this diagram here because it's not really showing it's not going to do a lot of justice with the screen real estate.
+Instead I started doing something like this. So I want to have expandable sections so that when I click on this session, I'll have a section where I can open up and I'll see all of these objectives like I have it right now.
+And then I can do the mapping just the same way that it's done in this page, but I also want to show keywords inside the keyword section.
+I'll be able to do the keyword mapping. So you can see here keywords. I can do a look a way to manage keywords.
+And I also want to have instructional methods, assessment methods, and there I can add that materials and then schedules. So the idea here is as a faculty member, I can just keep clicking expand and then work on my session, add more content, close it, then open up a new one.
+I don't have to switch tabs. Everything is self-contained. So a couple of things for you to think about is how we can fit more information here.
+And then also how we can expand each of these sections to show all the information related to a session so that we don't have to go from tab to tab.
+We can possibly for sessions, I mean, schedules. Like we can possibly show, use a modal that we have now, like you expand it and it'll show you what's scheduled, and then you click edit, it'll bring up a modal.
+Yeah, I think it's gonna, it's gonna take a few rounds of back and forth, but what I want to do is mock something up and then go through with Rio.
+And have him work on this, because if we can get this done, then we can eliminate a lot of these old pages which nobody likes using.
+You This transcript
+https://www.loom.com/share/94f6d87216584b408391df6507b2628a
+success
+Medtrics - 6 November 2023
+Hey, Mike. While I was at the conference, I had a lot of interactions with curriculum people and I've been thinking more about the curriculum module as well as the updates that we've been doing for the AI functionality.
+So if you're looking at the AI page that we created, we currently have that on the curriculum map page as mapping.
+It's, you can select a course and then they can, you can see the course. And then in inside each course, you can see different sessions.
+What I want to do with this is use this design to replace our current sessions page because we have a lot of things in here.
+Here that is old code that's very clunky and hard to use with this new design, we can do a lot of that.
+And I want to walk you through this and I'll show you the updates that we want to make. So if I choose this course here, I can see the list of sessions and inside of the sessions, I have different columns that shows you that it's a lecture type, the, the the time, the duration.
+And then if I expand that, I'll see, I'll see the session objectives and I expand that. I can do the mapping inside of it, which is much more intuitive than I can do. Our current page, where I go into here and I create a new session and then once I create the session, I have to go to the objectives tab
+, create the objectives and I go to the mappings tab and do the mappings. It's very, too many clicks to get this done.
+What I like to, what I like for us to do is if we look at the session details here, we can see it has session type, the code code.
+The title, under the title we have the description, the session leaders, theme, the schedule groups. And venue, all of this as well as these buttons showing up when I look at a session.
+So what I want to do here is think about when I expand a session. When I when I'm going to expand a course and I see these sessions underneath it how we can display all of that detail.
+So, for example, we have the name, the description. See you next time! Bye! And then the session code here, the type and then we don't have leaders, themes, schedules, groups, venue, and the buttons.
+Get creative and try to put that information in here. I'm thinking that for things like the schedule will want to show what the schedule is, but for things like leaders and groups, we can probably show, like, some sort of icon to indicate total groups, and then when you click on it or hover over it,
+it'll show the details. And when, when you, we probably want to show it also, and these icons, we can show us small icons with just a logo on it.
+So that way, in this row, we have all that detail shown. Sorry, right down here for each. Each of these sessions will have all that detail shown.
+So I want to, I want you to think about how we can put that in there. And then when I click on expanding it, I want to get rid of this, this diagram here.
+This is not really showing it's not going to do a lot of justice with the screen real estate. Instead I started doing something like this.
+So I want to have expandable. Sections so that when I click on this session, I'll have a section where I can open up and I'll see all of these objectives like I have it right now and then I can do them.
+Keyword mapping just the same way that it's done in this page, but I also want to show keywords inside the keyword section.
+I'll be able to do the keyword mapping Okay. So you can see here keywords, I can do all the a way to manage keywords and I also want to have instructional methods, assessment methods, and there I can add a that materials and then schedules.
+So the idea here is as a faculty member, I can just keep clicking expand and then work on my session.
+Add more content, close it, then open up a new one. I don't have to switch tabs. Everything is self-contained. So a couple of things for you to think about is how we can fit more information here and then also how we can expand each of these sections to show all the information that's related to a session
+so that we don't have to go from tab to tab. We can possibly for sessions, I mean, schedules, like we can possibly show, use a modal that we have now, like, you expand it and it'll show you what's scheduled, or then you click edit, it'll bring up a modal.
+Yeah, I think it's gonna, it's gonna take a few rounds of back and forth, but what I want to do is mock something up and then go through with Rio and have him work on this, because if we can get this done, then we can eliminate a lot of these old pages which nobody likes using.
+https://www.loom.com/share/0d58085dc0e94ed6b15b1cf325b5ed07
+success
+Attention | Home - 31 October 2023
+Okay. Thank you.
+https://www.loom.com/share/20bce105fefb4edebf236642058de97f
+success
+Adtalem 2024 - Google Docs - 30 October 2023
+So for this second package, I want to run through this and explain my thinking here. This is the standard that we presented to them, and the understanding is that Atollum's primary objective here is to make sure that they're controlling I'll see you in the next video. cost and we want to give them something
+that allows them to control the cost, but also takes away some of these nicer things that we have for lowering the cost for the modules.
+Essentially, they will have the modules they have now for 129. It will not include any of the AI updates. They will get the standard updates, but anything that we update that is includes AI, it will be disabled for us.
+For MSPE to bring them down to 129, what I've done here is pull that out as a separate module and then price it based on the volume.
+The volume of letters that they're generating. In the other format we had, it being paid as a module for all four years, here we're saying it's going to be for each letter that they generate, it's going to be $50.
+And for the optimization service, again, they had an issue with the cost to bring that price down, we're saying that as long as the, with the existing rules, it would be done at $13,000 per year.
+If they need to do additional development and build new rules or change existing rules, they'll be charged the hourly rate for development.
+The infrastructure staging. Data warehouse. This is something that essentially for us to just host this, we're not really doing any work is maintaining it.
+They would be paying this much if they need to do any work. And if you work on that server, update anything, it will be under the custom development fee.
+The custom development fee itself, it's 200 we may want to, I'm considering whether we want to break this up into two types of custom development.
+When I put in 200, it was more for features that we want to add to the system that they may be paying for, which we're benefiting from and they're benefiting from where we want them to.
+We want us to be paid for it, but it's going to be released to all clients, not simply for Atalum.
+The other type of custom development that they come up with is specific to Atalum, which is what I can do here is have a higher rate for Bye-bye.
+So this way it's a higher rate for anything that is specific to a TALM, lower rate for features. Since it's going to benefit us too.
+The consulting, that's that. And what I was thinking here was also adding adding a line item here similar to what I did here for 50,000 per year for, for those quarterly meetings with the leadership.
+I had to think about number, but anyway, this is would be a way for them to purchase these hours in advance so that they can get as a slightly discounted rate.
+And that's what's happening at the IT level. So there is no technical lead. All support issues would go through the regular support channel and they would have to escalate it.
+We would have to escalate it to a senior person, like we do for other clients and we would not be.
+We would not be having regular weekly meetings unless they purchase these hours in advance. So $50,000 for 200 hours, they're getting it at $50 discount from our standard $300 dollars per hour, if they pay for it in advance.
+And this will allow them to use these hours for these types of meetings. If they go over 200 hours, we'll be charging at $300 per hour.
+And if it's after hours or weekends, We'll see you again. It's going to be $400 per hour. And for those strategic meetings, I was going to put in maybe a 25 hours per year that they can prepay and we'll have those quarterly meetings and other items with them.
+For the breakdown here, I put in 10% volume discount for Ross because they have 3,400 students. For the other ones, I did not include a volume discount.
+Let me know your thoughts on this and once I get the final round of feedback, I'm going to send this over to them so that they have this to discuss during their meeting.
+The understanding is that what I'm going to state in that email is this is the lowest price that we can go.
+Without removing modules. If they want to go further than this we would have to think about which of these modules they don't want to use.
+https://www.loom.com/share/aa0bef5e780c4c35b3622f991f737221
+success
+Medtrics - 30 October 2023
+Agent. So here's a quick demonstration of how the open evaluations work. I'm going to delete these two, three of them that are in my queue and right now I have no evaluations that I have to complete.
+If I go to the open evaluation form and initiate a new evaluation, I'm taken to the page where I can select a trainee and start the form.
+If you scan a QR code, you are ending up on this page and as soon as this page opens, you have a evaluation.
+So, regardless of whether you complete it or you leave the page, you have a task that's assigned to you and it'll be in your queue until you either complete it or come back and delete it.
+So, if I go back in here and initiate another form. Essentially, every time I click that button, it's the same as scanning a QR code.
+I will see another task that's assigned to me. So, each time they're scanning a QR code, they'll have a new form in their queue and each time we send out an email notifications to them.
+It'll list out all the evaluations that are pending. As for the due date, let me get back to you on that one.
+I believe there is a due date for the request evaluation. I'm not sure if we automatically assign a due date to an open form since this is many, to be an ad hoc form that they initiated and want to complete at their own time.
+But I'll see if there's anything that we do on the back end to capture a due date.
+https://www.loom.com/share/366d4944821546998a490e342c2f1167
+success
+Request Evaluation + QR Code
+Hi Jin. I wanted to walk you through how to set up this form for those scenarios that you described. The first one was allowing the resident and the student, resident and the attending to meet and let the attending complete an evaluation using a QR code.
+Second was allowing the resident to assign an evaluation to the attending and let them complete that at real time or later on when they have, when they have more time to finish.
+So for that, I've looked at your intern evaluation form and if we go to the assignment rules section and we come down.
+To know you have already set this up to be something that's not automatically assigned should evaluate TSP allowed to request an evaluation.
+You can set this to yes and I don't think you need to send out reminders to the trainees. So if that's enabled, it would send them an email a few days before the end of the rotation reminding them to put in a request to one of the attendings.
+So you can turn that off and then the next one. Next one is should this form be made available as an open evaluation and that's already enabled.
+So this functionality here allows the system to generate a QR code and then the number five here allows the resident to have a little widget on their dashboard so they can submit a request.
+So I'm going to save this and then we're going to take a look at what that looks like from the evidence side.
+So I see you. That was intern. So PGY1. And I'm using a copy of your backup. This is not your actual server.
+So I've logged in as one of the interns. And then on the right side, we have the request evaluation functionality.
+From here, I can choose my ICU attending form. And then choose, well, it looks like we don't have a rotation in here.
+Before I submit, I'm going to go back and review where that's the case. Okay, I'm going to change one of these.
+Rotations to ICU. Again, this is not your actual server. Let's try that again. It's not giving me a schedule. So let's troubleshoot the template.
+Okay, so it's only including ICU, A, B, and C. So I'm going to go to the schedule. So make sure that he's scheduled to ICU, A, B, or C because when I last scheduled that I chose ICU, I'm going to choose ICU. A, perfect, go back in.
+Okay, now let's give me the ICU rotation. So you have to have someone scheduled to an ICU rotation or they won't be able to choose a rotation.
+They can still submit the evaluation to an attending. Ideally, it should include, the rotation so you have context. Then I could submit that.
+And now it has been sent to an attending. Again, this is not the real server so it's not going to send out any real emails as I'm testing this.
+So let's say if I want to send this to Okay, it's not, so we'll choose Aaron. Because the program director is not included on the template.
+So I'm going to choose Aaron, Smith, duplicate assignment, and then I can also go to the view evaluation assignments page, and I can see what was already submitted.
+Right now, it, I assigned the same evaluation twice in real life. They're not going to do that and there's actually going to be a check that's added to prevent that to avoid mistakes.
+But let's see what Aaron sees. So I'm going to check out Aaron's account. I'm using a special version of metrics that allows me to preview different accounts.
+You won't be able to do this on your end. You're going to have to create an account to test this out.
+But you can see, as soon as I sent that request, it will e-mail it will send out an e-mail to Aaron and he will have two assignments assigned to them.
+And from here, I can complete that form. So that's the first process. Essentially, we are creating a template. We have rotations on it and we have enabled the ability to request an evaluation and then we make sure that resident has that rotation scheduled and then it's up to the resident to submit that
+request from their dashboard. The second process is using the QR code. So if I go back and click the QR code button, this will give me this QR code and a QR code is essentially a image that represents some text.
+So all it's doing is embedding this URL right here. So if anyone in the system scans this QR code, it will try to take them to this URL and if their role and access matches what's on the template, they will be allowed to complete that form.
+So if I click on this, it tells me that I cannot do this because I don't have the permission to complete this evaluation.
+So what I'm going to do is I'm going to copy this See you next time. And go back and use Aaron's account.
+And now if I scan the URL all. Or scan the QR code, it'll take me to this page where I can actually select a resident, select a rotation, and complete the form.
+https://www.loom.com/share/f38ac6a52f6d479fb116d53dea1ec6b0
+success
+Medtrics - 29 October 2023
+Alright, in this video, we're going to review all of the different functionality that we have on Forms Part 2 so that we could make sure we retain that as we update it to view.
+So first thing, on the Forms Part 2, we have several buttons at the top. When we upgrade this, we don't need to have the new narrative EPA question.
+We can just simply create this as the new question and then we can switch into the competency and keep it simple.
+Is I'm going to start at the top here import question. This allows us to import questions from the question bank.
+We want to make sure we have the ability to add these questions one by one. We have the ability to search as you type.
+We also have filters on the search bar. So if I want to filter by different question type, I can do that.
+I can also filter by different category. The other thing to note here is that on the import question page. By default, we show the non-system generated and active questions.
+We want to keep it that way. We don't want to show any Thank you for watching. inactive questions by default.
+So that's the import question. The next button we have is the import. Competency. We want to make sure that we have the ability to import competencies and this model is simple and it lists out all the system generated questions and we have the ability to add them one by one or we can add them.
+The entire category all at once by clicking the add add all button. Then, for creating new questions, if I click the new question, I have the ability to create competency questions which includes the question, the description, and then for each question, I should be able to create, actually, for the
+new question creation modal, we can use the modal that we have already implemented on the question bank. So essentially use this same modal and it'll include all the features that we need.
+Then we have on the page itself, the ability to preview at the top. The edit and preview tab allows us to toggle between edit and preview.
+We have a way to add a custom title. The title displayed in orange there. We also have the ability to move quickly.
+We have questions up and down using this field here where I can put a value in there and quick move and I'll rearrange the questions.
+We have the ability to preview. Each of the questions. So we have question types, competency, Likert, multiple choice, text questions, numeric, checklist, date, document upload.
+For each of these we can preview it on the page. Under each question we also can see options to allow no feedback, not applicable.
+We also show which questions are shared questions. We can see which questions have subcompetency. Any other competency mappings. We can have a drop-down button to select which options we can send notifications on.
+We have a drop-down to click which options. We have a drop-down to click which options we can send required comments on or require comments on.
+We have an edit button, a remove question from form button. Then all the way at the top we also have a turn on no feedback not applicable for all questions.
+And that turn on no requirements for all question answers button. When we turn on these alerts we also have little icons that appear if any comments are required.
+At an option we show a little comment icon. So those are all the functionality that we have on this page that we want to keep when we update it to view.
+We also want to make sure that this page is saving as we modify it. It's autosafe and you can click save and continue.
+https://www.loom.com/share/4b27b440fafd4869aa25815fa1c14b20
+success
+Medtrics - 25 October 2023
+Good morning, Chelsea. So for this request of the hierarchy of the curriculum, I wanted to give you a quick demo of what the curriculum module looks like.
+So in the curriculum module we have the, there's a sort of objectives. That can be mapped. And then there's key words and themes and learning methods that can be mapped.
+So I'm going to first go through the hierarchy of the objectives. So at the highest level, we have the global objectives.
+These are meant to be your national standards or international standards that you're aligning with. So vet schools often align with the AVMA standards.
+For medical schools, like in this demo environment, we have the American Association of Medical Colleges, physician competency reference set. So you, you can pick and choose which standard you want to use and we will import that and you have that in the system.
+Next level down is the program objectives and here we are adding the school's objectives, institutional objectives. So when you have a vet school provide us with those objectives, we will turn those into mappable objectives under program objectives and then you can use that to standardize and map with
+the global objectives. So for example on the left side we have global objectives, right side we have program objectives and I can use this to map it.
+Next level down we have each of the courses and click clinical rotations that are offered. For those we also have a set of objectives.
+So every course will have its own set of objectives, every rotation will have its own set of objectives and we can map those course objectives to those program objectives.
+So this is a slightly different mapping interface that we use and we can use little check boxes to align the course objectives with those program objectives.
+The most granular of these is the session objectives. We can add all the sessions and then for every session have a way to create objectives.
+This is something that faculty can do themselves and you can give them the permission to create and map it. Mapping works very similar.
+You load up the session objectives, program objectives, and you map that to the session objectives and course objectives, and you map those together.
+Once all of this is mapped, you have a way to search across the curriculum and see the hierarchy for each of the objectives that are part of the curriculum.
+Next, if we go back to sessions, we also have keywords that can be added. So, a standardized set of keywords can be added to the system and a standardized set of themes can be added to the system.
+Then, every lecture, lab, small group session can be tagged with those keywords or themes. This allows mapping across multiple courses.
+The objectives are top-down hierarchy while the keywords and themes are, as are, slices through the curriculum with multiple courses. And when it comes to searching, we can also do search using keyword.
+We'll see you next time. So let's search for anatomy. One of the things you can see here is this demo environment.
+You have duplicates. When we standardize the data for a new client, we often will lock it down. So that it doesn't have, everybody cannot create keywords and is standardized by the institution.
+So you prevent these duplicates from happening. So you can bring up a search result and then click on it to see all the details of that session.
+One of the things that we have also added that is not officially released is AI powered mapping. A big challenge for medical school and vet school deans is it's very tedious to map all the session objectives to the course objectives.
+And many schools struggle getting the faculty to do this in a timely manner. So we've added this functionality that allows institutions to automatically map session objectives to course objectives.
+And this is something that you can click a button, it'll give you recommendations. And when those recommendations are reviewed by the faculty, they can either approve it or deny it.
+If they're approved, then it gets saved. If it gets denied, then it gets cleared out. So this is something that is going to be released next month.
+We're presenting it at a conference. And after that, it's going to be available to all of our clients. So it's going to be included as part of the curriculum module when it's released.
+https://www.loom.com/share/ec10a4f0b41c41d8b4a89ca00e1fc7c0
+success
+Medtrics - 6 November 2023
+Hey guys. Great work on this task. Had a couple of quick comments based on my short test for the set, the custom demographics, this is supposed to show all the information that's in this section.
+So these are the additional information is supposed to show all the custom demographic fields. And they can then turn on whatever they want and include that.
+I'm not sure what is showing here. I think this may be case demographics. It looks like it. So we're not, we're not, we don't want to show the case demographics.
+You want the user custom demographics when we click on that. And for all of these fields that are drop radio buttons, it would be nice if there's a select all button so that they don't have to click so many times they want to include.
+Multiple options. And then for the include the following data, if you update that, it would be nice if we can preview that at the bottom.
+The, when they click submit, they will preview the fields that they selected.
+https://www.loom.com/share/e1ac0bc79c254f8faec2a1dc1f8d2b23
+success
+Adtalem Pricing - 2023 - Google Sheets - 24 October 2023
+Good morning, Chandan. So this is the spreadsheet that we went over during the call, and I wanted to summarize the modules that each of the schools are using.
+So it has three tabs here, and each sheet shows a different school. So the first one here is Ross University, and here we can see that Ross Med is using the user's module which allows you to define all the trainees, preceptors, faculty members, and create different groups for scheduling.
+The calendar module kind of brings all the schedules together and create a unified view for viewing those events. The curriculum module allows you to map out all four years of the curriculum, and we're also releasing this AI assistant functionality which will be included as part of the subscription when
+it's released. This is for the preclinical session schedules as well as for the clinical rotation based schedules. Diagnosis and procedure logging for the clinical students as part of their rotations they can complete the required cases.
+Site management for defining all the affiliate hospitals. Their leadership and defining permission based on those site administrators. The evaluations and competency management is for all four years.
+The great book is for entering the course and rotation grades and also with the comments with the preceptors that's used on the MSPE letter.
+And then obviously the MSPE charts and letter automation. The Outbound module is one module that's specifically built for Ross Med.
+It allows the school to define different email notifications that are triggered when certain criteria are met such as like escalating incomplete evaluations.
+And then down here we have the data warehousing for RosMed. And a couple other things to mention here is we do have one staging server that's available for all the institutions.
+If we need additional staging servers for certain integration projects that's the additional cost. And then for RosVet, all of the modules here are the same with the exception of MSPE here.
+We can remove that. But the RosVet does include Bye!
+https://www.loom.com/share/729a820971bb454b9b2f8f44a7b1dc64
+success
+Untitled – Figma - 24 October 2023
+Ericsson. So a few minor points here. This looks awesome. The font size between these body text on the front page, eliminate spreadsheets, and the questions here let's use the same size and also make sure the font itself is same across the board.
+And for these button text, it would also be make sure that we're using the same font size. It'll create more consistency.
+And for line spacing or spacing between lines, there's the text here. You have slightly different space here versus this based on here between get back to what matters.
+So make sure that we're using equals. Spacing and then for this practice medicine, not software, the gray, let's use the same gray that we're using for the font here, which is hex code three, three, three, three, three.
+And the last thing is I like the look with less curves. Let's adjust the curve on these orange so that the radius is the same for all three.
+So you have one here. And if we adjust this one here to match the ones on the back so that it's consistent across the board.
+And that's everything I have. Great work. Thank you.
+https://www.loom.com/share/3856922c5b624933ab6be5afba44acf3
+success
+Adtalem Pricing - 2023 - Google Sheets - 24 October 2023
+Good morning Chandan. So this spreadsheet that I had included with the initial email had three tabs on here that summarizes the different modules that the schools are using.
+I can go over each of them so that it's clear what these modules are doing. So for the learner and educator management, this is the user's module so each of the schools can define the roles, profiles and create groups for scheduling.
+The calendar sort of brings everything together and provides a unified calendar for all the schedules that are created. This is going to be for mapping out the four years of curriculum and this AI Assist functionality is something that we're releasing soon and it's going to be available to the schools
+as part of the curriculum subscription. The schedules is for all four years, the preclinical and clinical schedules, case logging, for diagnosis and procedure logs.
+We have the site management which allows you to define different sites and also assign different permissions based on those sites.
+The evaluations and competency management which is for all four years of the evaluations 360 different evaluations of the students as well as the courses and the rotations.
+Gradebook and this is something that is used for the MSPE modules as well as to deliver a unified view for the students to see their grades.
+There is an academic progress dashboard which is in there. I'm not sure if the schools are using it yet but it's part of the gradebook module.
+And then MSPE automation and chart generation. The outbound module is something that is used by Ross. It was custom built based on Ross's request and allows you to build email notifications based on business rules and escalate things to different individuals when something is not done.
+https://www.loom.com/share/5460d0fab05c4b6995d41158c9124cad
+success
+LMU - Google Docs - 20 October 2023
+Hi, Mitch. These are the questions that you had asked in those emails. So the first thing is what do you have to instruct?
+What do we have? What do we instruct the students to do when entering their preferences into the lottery? I'm assuming this is in relation to the SPE place holder and other things that you'll be scheduling before optimization.
+If so, the students will see those rotations already assigned when they're making the the ranking list. Again, I believe this was a functionality that we added recently after our discussions.
+I will confirm that by Monday and and it's just the students will be able to see it and they don't have to add anything for those blocks.
+As for the pre-scheduling, yes, you can go in and make those schedules now. In order to do that, you have to make sure those rotations exist in metrics.
+So you just first add the sites. This will be under the institutional portal. Sites page, create those sites, then on the admin portal under system setup, rotations, you can create the rotations that belong with those sites.
+After the both of those records are created, you want to go to the schedules page and add that block schedule for next year.
+If it doesn't exist, it's essentially creating a new block schedule with a block structure. Then those assignments can be made for the students.
+You also mentioned that the CV, CY 2024, 25 block schedule. Contains CVM3 students. So what happens to the schedule when we promote these students' CVM4 role at the end of the year?
+So once they get promoted, those scheduled assignments will still be there. We have a setting that you enable on any historical records so that you can see CVM3 students that have an assignment.
+And as long as they had an assignment, they'll still show up on the schedule. And the second part here is what I reviewed earlier.
+You would create the site. You would create the rotation. And then under the block schedule, you have a new block schedule for next year and you can start making those assignments.
+And we'll review any additional questions that you have and go through this in more detail on Monday.
+https://www.loom.com/share/4a458601909643df9584240e6df7a360
+success
+[SHARED] 2023 - LMU Optimization Process - Google Docs - 23 October 2023
+Hi, Kwemi. I had a meeting with the dean today and we went over this constraint here and I wanted to update you on something that he clarified.
+There's actually three elective forces. There's CVM 78780, 770E, 771E. So when we fill in those electives, we can pull from any one of these three to assign seven blocks.
+If there are no pre-filled blocks, six. If there are no pre-filled, if there's one pre-filled block or five five assignments, if there's two pre-filled blocks.
+The caveat here is that the CVM 770 is another course and then, so CVM 770 is the mandatory version and CVM 770E is the elective version that would be at the same site.
+Same thing for CVM 770 and C770E. Basically, these sites offer two courses, the mandatory version and elective version. If there are two students that need to be scheduled and one of them requires a, let's say there's two students that need, one requires 770 and another requires an elective version.
+If there's a site that has availability with both 770 and 770E, the student that requires the 770 would get the preference.
+We always want to give the preference to the student that still needs to be scheduled. And I think that was something that we'll be adding later. Um, but I wanted to create this video and just make sure that I communicate this. Initially, I thought it was only 780, but it's actually three courses that
+we can pull from.
+https://www.loom.com/share/974a75b96b924de68e93cfa9998de0d7
+success
+Stand Up - Sheets - Jira - 24 October 2023
+Good morning Alejandro. So for these tasks that were added anything that's a feature let me see this one actually this one is a feature for we don't want to use this always want to use either feature or bug so this one would be this one unnecessary work hours it means it's something's not working correctly
+that would be a bug the other thing that we want to do is let's see bug next Thank you. So let's change to a bug and for these tasks that don't have any spec like details you want to use that backlog status and then that way that it doesn't show up on the developers board so for and that's and you can
+see that when you click on it anything that you had added you'll see in here status created by Alejandra and then you can change that to a backlog.
+I'll just take care of these. I'll just take care of these. Hello? Good morning, Andrew. Yeah, yeah. Yeah, yeah. In another day, Yeah.
+Yeah. Out. No, no, no. No. No. No. Okay. Okay. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Okay. Yeah. Okay. Okay.
+Okay. Yeah. Yeah. Okay. Yeah. Yeah. Yeah. Okay. Okay. Okay. Okay. Thank you.
+Thank you. Thank you.. Oh, oh, oh, oh. Oh, oh, oh, oh, oh. Ooooh, oooooooh ah, ah, ah ah, etc. Watch my videos!
+Ugh ugh, ugh, ugh, ugh, ugh, ugh! Yes! Nice! Nice! Nice! Yes! Yum! Alpha, Delta, Gamma, Gamma, Gamma, Gamma... Thank you.
+Thank you. Bye. . . Oh no, it's okay. I don't want anyone to join this fight. I see that, I'm just looking pretty with you.
+Hello hello, hello. What's that? I don't have a cup, I don't have a cup. She's in a straight. I hate it.
+What's your weekend? Pretty good. Went to my daughter in those birthday. Okay, yeah, how was that? We were so happy.
+Yeah. We did it. I thought I made it. What did you go do just dinner? Yeah, it's dinner. Early dinner.
+And then we stayed at failed date at night. Cheers. Thank you. Thank you. See you then. How about you? How was dinner?
+Yeah. I saw your fingers. Yeah. Oh. Oh. That's my name. That's my name. That's my name. Thanks for watching! See you next time!
+Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Thank you. See you next time!
+Bye bye! Thank you. Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Okay.
+Thank you very much. Thanks for watching. Thanks for watching! Thanks. Thank you very much. Thank you. Thank you very much.
+Thank you very much. Thank you very much. Thank you very much. Over here, that's fine. Good morning everyone. How are you doing? That's it. It went well. How was your weekend?
+Well, it's Tuesday now. I haven't seen you since the weekend, so how's your weekend? I was wet. Is that again?
+You're just raining outside? Oh yeah, my daughter had soccer moves in the rain all We'll see you next week. Okay, so you had to be out there.
+Yup, that's good. It's good to actually my son, he loves going out in the rain. So even though he doesn't have any soccer yet, he, as soon as he rains, he wants to put his boots on him and plane the yard, which means I'm out there.
+Thanks for watching! I'm used to, I'm used to, he's a year and a half so I can't just let him out and say come back, come back when you're done.
+We I was, we were in Phoenix this weekend. My wife had a conference last week. So I was the the babysitter slash dad who's my wife gets really upset when I say I was babysitting.
+So you're not babysitting, you're being a dad. Yeah, it's not, you know, but it was really nice because I took the two days off and then we, Thursday and Friday, it was just me.
+And my son the whole time with the, so we went to the Philly's game out in Phoenix. He was clapping with the Diamondbacks fans because we sat with the Diamondbacks fans the whole time and every time they clapped he clapped and and, and then they didn't score for like six innings and then finally they
+scored and everybody went crazy and he got scared and started crying. And the guy behind me was like, don't cry, don't cry little buddy.
+We're, we're just very happy. And then he looked at me and it's like, I think your son's a Philly fan.
+I was like, yeah, We'll see you next time. We're from Philly. Yeah, it's fun. So is everybody today? Yeah, I'm just, I'm not sure Stephanie, I thought Stephanie would be joining us.
+So other than that, our team, a lot of the CRSs are out doing a regional type visit with some of our students so they won't be here in Dr.
+https://www.loom.com/share/48d1907807994d148559944dcc41b48a
+success
+LMU - Google Docs - 20 October 2023
+Hi, Mitch. I wanted to answer these questions that you had on here. What do we have to instruct the students?
+I'm assuming this is for the pre-scheduled rotations. So if you're putting someone into SPE and they're putting it on their schedules, what the students need to know.
+I'll confirm this with before Monday, but I believe we added that capability for students to see anything that is pre-scheduled.
+So when they go to the schedules page or the lottery page, they'll see anything that was already assigned and they don't have to add anything.
+Well, they know that it's already assigned for that block and they don't have to add anything. Any additional requests for that block.
+For the second question here, can we go ahead and enter those now? Yes, you can create those block schedules now.
+In order to do that, simply have to go to the block schedule and create a new schedule and then you can make assignments.
+If it's an SPE that's not in the system, you have to create the sites first, then add the rotations for those sites, then you can make the assignment.
+To add the sites, you would go to the institutional portal sites page and add new sites either as an import or manually creating it.
+Than for the rotary. For rotation, it would be under system setup, rotations on the program admin portal. The last piece of that would be under the block schedule.
+https://www.loom.com/share/7a8394149f574668a754fcd2d91fcc24
+success
+LMU - Google Docs - 20 October 2023
+Hi, Mitch. Thank you for sending this information. I do have some questions that we can discuss on Monday. Most importantly, the, I was under the impression that these groups, the grouping the UGA rotations was not something that was needed this year.
+Because I believe we had gone over in a call and thought they were changing that rule, but we could talk more about it on Monday.
+As for the other items students. I would have to check to see. Yeah, so if I'm understanding this correctly, 770 versus 770E, it is automatically going to work like this because the mandatory courses will always get priority over the elective courses.
+I want to make sure we can talk more on Monday and make sure that we have that correct. So, down here you had a couple of questions for entering the seven confirmed slides.
+171 to the schedules for optimization ahead of optimization. That's correct. We will have a SPE placeholder and n-a-v-l-e prep is going to be manually scheduled and
+https://www.loom.com/share/162cd4edd54543b2931b62417acc5b2c
+success
+LMU - Google Docs - 20 October 2023
+Hi Mitch. So for these questions I wanted to send you this video and then we can go into more detail on Monday.
+So the first one here, what do we have to instruct the students about entering the press preferences into the lottery tool?
+I believe, oh, if I understand this correctly, if it's already pre-scheduled, then it will show up on their view so that they don't have to do anything and it will show up as something that's already pre-scheduled.
+I will confirm that for Monday and then the second question here is for those pre-scheduled rotations, you would treat that like your normal block schedule that you did for this year.
+You would have to first add the site under the institutional portal, then go to the system set up into the program portal and create the rotation and the rotation, when you create the rotation, you can select that new site that you added.
+Once the site and the rotation are added, go to the block schedule and schedule the student for that time, which I believe you're already doing.
+Outlining here in the second email, build the site, build the rotation, and then it would be going into that block schedule and scheduling them.
+The second question that you had on here was when you promote those CVM three students to CVM. Before, we do have a script that we run so that all of the historical schedules will maintain those students on there.
+So you're not going to lose them from the schedule. This way, as long as they as long as they have an assignment on that schedule, they will show up.
+And this is something that we can do, and I believe you could do on your end too, when you edit the schedule.
+There's a check box at the bottom for saying that this is a historical schedule. But, I wouldn't do that yet.
+We can work through that later. But it will still preserve those schedules in the system so that when their role changes, they will be showing up in the new schedule, but the historical data will still be preserved.
+And I'll explain that in more detail on Monday when we meet. But for now, if we want to start creating those schedules, the first thing is add the site, then add the system, set up rotations, add the rotation, and then this will allow those rotations to show up on the schedule, and then the students
+can get that schedule assigned to them.
+https://www.loom.com/share/b6f1535721cd47249a071556efda0357
+success
+CU Programs in Medtrics - santhosh@medtricslab.com - Medtrics Lab Mail - 20 October 2023
+Good afternoon, Brandon. I hope you're doing well. I wanted to create a short video explaining the the pricing for Chamberlain.
+This document which I'm sending with this email was put together in 2022 to show how the Chamberlain pricing would be structured.
+At that time, we discussed with, well, I discussed with Keona that the Chamberlain programs would have a total of 9,000 students and we negotiated a volume discount based on that 9,000.
+Once we had established the discounted rate, we learned from Chamberlain that there is no set schedule for when these programs would switch over to metrics.
+And typically, with every other contract we have done, if there's a volume discount, the volume discount is applied. When all the licenses are being activated, essentially the school is saying, I'm buying all these licenses now and we would add that volume discount.
+We have never done this in a staggered implementation. But as a courtesy for Talaam, we provided the discounted rate of $40 per trainee.
+For Chamberlain and allowed the programs to start when they're available. So we started with AGNP with a hundred trainees, then PMH with another 300 trainees.
+And then last year we started onboarding for FNP, DNP, but the FNP, DNP program at the last minute, what's pushed into 2020.
+23. So Chamberlain adjusted the SOW to state that we would get, collect the payment for it in 2022, but the licenses would start in 2023.
+At that time, we also adjusted the SOW to be more specific with the largest cohort and document that those, students will be activated by the end of 2023.
+So we're now at the end of 2023 and we still don't have those students activated and we're learning that it will be pushed into next year.
+So that's becomes a big challenge for us because that's the largest cohort in this volume discount. So our proposal is that we are okay with keeping the volume discount as it is.
+We would like to see that BSN have a set date for Go Live and be able to capture that payment before the end of this year for this fiscal year.
+So BSN program or the Chamberlain Group will be benefiting from only activating the licenses when they are ready to go live and they're not paying for any unused time.
+Metrics will be able to capture that payment in this fiscal year and then also start the custom development that is required for that BSN go live.
+So that's our request here. If we cannot do that then the other option is for us to come up with an adjusted volume rate for 2500 trainees because that's the only that's the total we have right now in this system.
+And it's been almost two years now where we've been granting the reduced price without having that large cohort in metrics.
+So let me know what questions you have and I'm more than happy to go into more detail when we meet on Tuesday.
+https://www.loom.com/share/0fd9b640399a41a3a963d9f5e00289a4
+success
+CU Programs in Medtrics - santhosh@medtricslab.com - Medtrics Lab Mail - 20 October 2023
+Good afternoon, Brandon. I wanted to create this video summarizing this pricing document that I shared with Keona last year when we were coming up with the rates for Chamberlain.
+At that time, Keona and I worked together to review the student count and come up with rates that include a volume discount for 9,000 students.
+So my understanding at the time was that we would have a pretty quick onboarding for these students, similar to the way that we did with the Met Vet program.
+Unfortunately afterwards, we learned that Chamberlain is not like the medical schools. And that it would have to be staggered over a period of time.
+So as a courtesy, Metrix agreed to provide the volume discount, even though we didn't have the volume. And the AGNP started first, then PMH started, and that was a total of about 400 students.
+And then this year, the FNP and DNP started, and that brought the total count to around 2,500. And when the FNP program started, we had a conversation with the team at Atalum, and we adjusted the SOW to be more more specific.
+On when BSN would start, and the SOW now states that BSN program would start by the end of 2023, or we would adjust the volume rates to account for the actual volume, which is about 2,500 right now.
+And that's the, the issue that we have to resolve, because if BSN is getting pushed into next year, then we don't have the volume for the 9,000 students.
+So the proposal that I shared in the email was similar to the way that FNP was paid at the end of 2023.
+To, but when live in 2023, we can do the same thing with BSN where the payment is processed in 2023, but the student licenses are activated in July of 2024.
+So that way Chamberlain is still benefiting from only paying for the licenses when they're activated. We're able to capture that revenue this year and also get started on some of the custom development that Chamberlain needs.
+And this would also allow us to keep the volume discount in place. You know, we need that volume to justify the discount because otherwise we were operate like, you know, we're operating and providing support for all these programs that are already live with a significant discount on that subscription
+rate. And this timeline here shows what we initially proposed, which was in 2022 we would have all of the students activated.
+But now it's the 2023 and we still don't have a the licenses activated for BSN. Until next time, have a
+https://www.loom.com/share/f6eaa41ec3f54fa7af91bad94087ff87
+success
+Loom | Free Screen & Video Recording Software | Loom - 20 October 2023
+Good afternoon, Asya and Demo. I wanted to create this short video to include with this proposal and go into some more details.
+So this was a proposal that was created based on our discussion. And it includes a summary of some of our other offerings too.
+So for example, this page outlines the different modules that we offer, as well as the different services such as live chat support.
+Thank you. And then a few of them that I want to emphasize here is it is a live chat. For example, all of the.
+The administrators are using the system will have a chat window at the bottom right and you can open up from any page and send us questions as you're using the system.
+This is something that is useful after you finish onboarding. And I'll be going into the onboarding process in the next doc in one of the few, one of the pages later.
+But once onboarding is done, live chat is one of the common ways that clients get help from us. There's also training that's provided during onboarding, and then we also provide additional training as needed throughout the year.
+So if someone is starting in your organization that's new, we can create a. A zoom call and set up a training session for them as needed.
+Metrics also includes a knowledge base that includes several videos and articles for each of the modules. There's also continuous updates for all the modules.
+So throughout the year almost every month we have updates that are going out. Then we have webinars that explain what those features were.
+In terms of our support that's included, 8am to 8pm, we have phone, email, and live chat. So most of our clients are reaching out to us through the live chat because it's a quick way to reach us without having to open up your inbox or submit a ticket.
+And then when we respond, if you're not logged into the system, it'll email you back. And we also have a back.
+Backups of all, all of your systems so that if something goes down, we're able to restore it pretty quickly. And backups are taken every eight hours.
+This is the onboarding and I'll get to that in a second. So all of the onboarding that we do is broken up into projects.
+So typically we do one project for a curriculum, one project for preclinical, one project. Another one for MSPE. It all depends on what the institution is setting up.
+We will start likely with the curriculum module. And that's about three months. And those three months in, includes us meeting with you every week for 30 minutes where we define different processes and migrate your data and also configure different settings in metrics.
+And the most important, one piece of that is the process development. We're working with you during that time to look at your current curriculum and define new processes for the new platform.
+It's done. You test everything out and then we train additional faculty members and go live. So that's the standard onboarding process.
+If we do that for a clinical or preclinical, we'll have a different team on your end that's meeting with us.
+That'll go through a similar process of configuring the system for their processes. These are the different modules that we have included and it's not everything in the system.
+It's ones that you had requested. And this has a slightly different names on here. There's a learner and educator management.
+That's the training portfolios. There's a learner in attendance. Clinical schedules include pre and the preclinical schedules. So the schedules includes both.
+And the site management is managing for all your affiliate hospitals and when you're sending students there you can track all the institutions and their contact there.
+For site management it also includes expiration tracking for any affiliate hospitals if you need to track that. The evaluations and competency management, that, is for all four years that allows you to build out forms and deliver them automatically based on your schedule, then also track different competencies
+. So this pricing is for 844 students. And then for the curriculum, it's a mod, we call the standalone module because it is something that institutions can purchase without student access.
+You can, you use it to map out all forms. Four years of your training and the, the module will also include an AI powered assistant.
+After next month, we're releasing it at the AMC conference. Allow you to do curriculum mapping from session level objectives to the course level objectives you are using AI.
+I think I may have shown this during the demo. If not, it's meant to give faculty a way to click a button.
+It will show the mapping that the AI is recommending and then you can approve it if you agree with the mappings that the AI did.
+Or you can do it manually. And in terms of presentation, we put this in here for one project and we're planning that for the curriculum project.
+https://www.loom.com/share/ea4c480cf2fa4ac7aa956ff7c4ecc4aa
+success
+(9+) My first business went bust at 24. - 3 October 2023
+So even though this has test emails and websites on mobile, this gave me an idea for a post. One of the things that I read a few years ago when I was writing a lot of sales emails is how it's best to keep emails to about five sentences or keep it as short as possible.
+But the five sentence email is something that's been promoted in a, in a way to keep everything very concise so that when someone is looking at it it's actually from a guy Kawasaki who's one of the, the evangelists for Apple.
+And essentially, who are you? What do you want? Why are you asking me? Why should I do what you're asking?
+What's the next step? So this is a, a good post for my LinkedIn because a lot of physicians and healthcare leaders, they write emails, but they're not they write very long verbose emails.
+And when you're emailing someone, you know, an authority figure, like a CEO or hospital director. They don't have a lot of time.
+And if you write an email in a very concise way and get right to the point, they're more likely to respond to you.
+And the other thing is a lot of people use this their email on their phones and if those emails are very short and concise, you're more likely to get a response than if they're keep scrolling and trying to figure out your what you're saying.
+https://www.loom.com/share/09162f7ff5b64225a1acb590beed0ca7
+success
+Add Rotation To Templates – Figma - 3 October 2023
+Hey, Mike. So this is a feature that I already started designing that you can pick up essentially when When we are creating a rotation When we're creating a rotation on the system setup And I'll see you next time.
+Bye-bye. Rotations page and I click add rotation. We can create a rotation anytime. But one of the things that the faculty members or administrators have to do is after the rotation is created, they have to go to the templates page and add that newly created template rotation onto a template.
+So sometimes they can forget to do this, which means you're stuck with a rotation that's not getting assigned evaluations. To fix that, we're going to add this functionality.
+So at the bottom of this page, we're going to add a section that's called add rotation to evaluation templates. And this will list out all of the rotation based evaluation templates.
+Remember when we create an evaluation template, we have different form types. We're only going to show the ones that are active.
+And form type is rotation. And then when I create this rotation, I can check off the ones that I want to link this to.
+It will also have, when you come back to edit, it will show all the rotations that all the templates that this rotation is linked to.
+So any existing forms, we will show them as linked to the forms. So if I go in here and I open up this let's say urgent care rotation at the mod at the bottom of this existing rotation, I will see all the templates that are active.
+That a rotation type and anything that this urgent care rotation is added to, it'll have a checkbox turned on. So so I think the only thing that we need to do.
+To essentially write this up and for this I have added this as a link. So if I click on the link, it should open up in a new tab and go to the Evaluations Assignment Rules page so that that way they can tweak any addition.
+And then when they save, we want to show a sweet alert that says, please confirm that you want to have this rotation added to the following evaluation templates and they can confirm that.
+https://www.loom.com/share/0ecef17ca84444ea8eaf53e6b3303610
+success
+Medtrics Proposal - University of Kansas
+Good afternoon, Azia and Emma. I hope you're having a good day. I wanted to send you this video to go over the proposal this way to clarify some things and then and Provide some more context on how we put it together So this proposal was includes the modules that you requested based on our discussion
+but also give you some more details on how we onboard and support our clients. Second page shows the different modules that we offer.
+We haven't included all of them in this proposal and we also have some of the services that we offer such as live chat support, on-site training if needed, data migration, customer success, and out of those, I want to highlight a couple of things here.
+The live chat support. This is something that is commonly used by our clients to reach us when they have any questions.
+You know, so we have about a few months of onboarding that we go through where we're talking regularly on a weekly basis.
+But afterwards, once it is onboarded and implemented, live chat is something that is available on each of the pages on metrics.
+You can simply click on it and send us a message. And if we respond and you're not logged into the system, it will get sent you an email.
+So that is one of the common ways that clients reach us. For training, this is also included as part of the onboarding process.
+However, afterwards, if you need additional training, we're able to accommodate that using Zoom meetings and there's no additional cost for that.
+So if you have a new staff member that's starting, you can go ahead and schedule the meeting and in our calendar with the, with our support team and we'll put, provide more training.
+Metrix also has a built-in knowledge base that is now AI powered. So when you have questions, you can ask the, the chat interface and Metrix will deliver answers from the knowledge base so that you know how to use different modules.
+Metrix also includes continuous updates. This is one to twice a year. Twice per month. We roll out updates, tweaks to the system, bug fixes and then we also cover that during the weekly, the monthly webinars.
+As for support, we're available 8am to 8pm Eastern time. And then you can reach us via phone and email, but also the live chat that I mentioned earlier.
+Metrix is also backed up every 8 hours so that any data that you add to the system is not lost.
+If there's some sort of server failure. I'm going to skip this next page and I'll come back to that later.
+So for our implementation slash onboarding, we typically break up things into projects and measurable objectives that we want to do. Accomplish and each project has three individuals working on it from our end.
+One is a physician to is a technical lead. Another one is a project coordinator. So these three individuals will meet with your team on a weekly basis for 30 minutes.
+And this will include a. An onboarding discussion about what are the things you want to accomplish and then process development.
+So we spend a lot of time creating new processes so that when you are moving into a new platform, you're taking full advantage of it and not simply recreating something that was already in another platform.
+So, this gets us a deep understanding of your system, your organization. And then make sure that by the end of those three months, you're ready to train your faculty and get started.
+When it comes to the modules, we have included the curriculum, the evaluations the trainee profiles, faculty profiles, calendar, and schedules.
+So this page shows the pricing for a year. This is the total pricing per year so the total pricing is for the first years this much and then after the first year is $5,000 less for each year.
+For the learner and educator modules this is for managing all the profiles for the students, faculty and preceptors and then also be able to create different groups that are necessary for scheduling the calendar and attendance.
+For viewing all the different curricular and extracurricular events on a unified calendar sync with external to metrics. It also gives that personalized appearance for the students where they can see what events they go into in different color coded views.
+Clinical schedules and preclinical scheduling. Preclinical scheduling is closely tied with the curriculum module and allows you to deliver those lectures in labs and content that is in the curriculum to the students.
+And the clinical schedules is our block-based scheduling where you can schedule them to a certain number of weeks. Site management is for managing all of your internal and external sites.
+These are high-level. Hospitals that are, or clinics you're affiliated with. You can even add those affiliation agreements into metrics and track their exploration.
+Evaluations and competency management is for all four years. Helps you manage all the evaluations that are assigned, including student evaluation, preceptor evaluation, faculty evaluation, course evaluation, rotation.
+Evaluations, all of that is captured here. And then you can also have a unified set of competencies that is managed all throughout those four years.
+https://www.loom.com/share/2b41eefe90c344138d9c32a24064643b
+success
+Medtrics - 3 October 2023
+Hey, Mike. So for the medical school program, we have an option to map a rotation to a gradebook rotation. And this is something that they do when they create the rotation.
+And there's a section called map to gradebook. So if you're manually creating these, you can do that. But the problem is when we do a bulk import using the spreader, sheet, we don't have a column to map it to the gradebook rotation.
+So what we want to do is update the spreadsheet that we have in here. So we add a column called gradebook rotation.
+And in that column, we could enter the code. So you can see the code is here. It says IM or PBI 630.
+And if the end, it's called, it's going to be a column called Gradebook Rotation Code. And if they enter the code, we will map that newly created rotation to that Gradebook Rotation.
+So if I'm importing, let's say, 50 rotations at the same time, at the start of a new client's onboarding, we're going to be able to create the rotation and map all 50 of them to the Gradebook Rotation.
+So essentially adding a new column to the import. And then explaining that that import is going to be used to make the link from the rotation to the Gradebook Rotation using the code.
+Also update the design here for the rotations page. Instead of saying curriculum, we can replace that with Gradebook Rotation and then it'll show the code of that Gradebook Rotation.
+https://www.loom.com/share/1b1f452c82a04612b7cd06fefc7a548b
+success
+Medtrics - 3 October 2023
+Hey Mike we recently fixed a bunch of stiff stuff on this page and I think there may be more issues going on so I'm gonna let you see if you can test this.
+This is when you're creating a new template going to the questions page, click new question, and then if I Bye!
+Let's say I create a question with these options and then I click edit. If I try to change it, go to preview, I go to multiple choice and I try to preview it, it's not showing multiple choice.
+I go to numeric and it's still showing Likert questions. I go to competency, it's not showing competencies here. Preview is off.
+So it looks like when you're editing a question, the preview is not working properly. And this bottom section is not getting updated properly.
+So if I go to text works, but if I go here. It shows that if I go to competency, you should have changed your competency questions, but it's not changing anymore.
+I also. Yeah, I think the best way to. To figure this out, it's to go to the questions page on the left side, and you create a new question and see how this page works.
+The other page should work exactly like this. The design is slightly different because this was I'll be right back. It's not upgraded.
+But what we need to do is look at this page and make sure the other one works like this. Like, if I create an option and then I switch to Likert, you can see, It appears differently in the preview.
+Show up. Go to multiple choice. The preview will show up.
+https://www.loom.com/share/4c6919fcd7f1409f92e0b243d43ebbb0
+success
+Medtrics - 10 September 2023
+This is meant to address a couple of bugs on this evaluations and templates pages. Is first, when we create a new evaluation template, for the, we wanna add these.
+Descriptions, and right now, on the Kaisa server, we have, on the Kaisa server we have all the descriptions, we don't have that loaded anywhere else, we wanna make sure that it's updated.
+And when we do update it, we want to make sure that the general form description is fixed, because right now it says, use this form, type to, when you are trying to collect feedback on an entire training.
+That's actually a program eval type. So what we want to update that to, say, is use this form type when you want to survey the people.
+Ah, period. The form type does not allow you to evaluate a person or, or situation, or situation, period. It's, it's meant to collect general feedback.
+And only has, and does not have an evaluate t assigned. That's the first part. The second bug is, when we open up QR code and click on this.
+It gives me an error. So right now it's probably giving me an error because I don't have the role of whatever role is enabled here to start that form which is fine.
+What we want to do is instead of showing a 500 error give the user a sweet alert that says you do not have permissions to open this form.
+You do not have permission to initiate this form and then say please contact your administrator to update the form assignment rules if you feel like this is meant that this is showing an error.
+So that will give them the information to correct the mistake if they need to. That's the second item. The third item is this import template button that we added.
+The import template button was added to the right side which is not the best place to put that because the rightmost action on a page is always meant to use for creating whatever record exists on that page so as we create action.
+So we want to make sure that we move that to the left side because import is always on the left side.
+So we can put that on the import template button over here and that'll make it obvious to the users. Otherwise you're always going to be clicking this by mistake and then getting confused.
+https://www.loom.com/share/e1d1add8245a4f488144a2dfe0fa66f7
+success
+CY2024-25 Rotations List - Smartsheet.com - 6 October 2023
+Alright, so here we go. In this Google Drive folder, I have put all the files that are necessary for this project.
+So to start with, these are the two documents, the LME Availability Final and Rotation List Final that they sent over that includes information about availability.
+This has the relevant columns are going to be the site codes, site name, and all these available discussions. What this does not have is the course code.
+So for us to get the course code, we have to use this document and match it based on the, the name of the site, I believe.
+And this also contains the note whether it's mandatory or elective, which is not that important, but we have it here.
+So we can combine these two documents to create the availability document, which has a site code, clinical site, subject, which is going to the course code site, a rotation name, which is also on here.
+That's the full name here. That's called the rotation name. Then available slots, that's on the LME availability number of slots and each of these are going to be the blocks.
+So once that, done, the next thing is the preferences. They have shared last year's preferences and this contains the rotation name the student's name.
+We had to create a new column for student id. And the site name here has a list of all the sites but the thing is we don't know if any of these sites were removed for this year or any were added.
+So one of the things that we have to do is check to see if all of these sites on are in the same in the availability document.
+So essentially do a lookup and see if there's anything that's missing from the availability. If there's something missing from the availability we have to decide whether we want to keep that in the preferences and add more rows to the availability document or vice versa.
+Remove it from the preferences and keep it consistent with the availability. So the first thing to do is just simply identify what's different.
+I think adding additional rows to the availability is probably the best thing because we want the student document to be as accurate as possible.
+On this document the weight here indicates the ranking. So on our preferences document we have student name which can be the concatenated first and last names, student ID if you had to make up, subject, site code, remember site code we're also making up, rank which is going to be the weight and then
+the block. So for block we have this column, we simply want to replace it with the block number. We don't care about the error a and b which we can sacrifice and any, when it says any time frame we can simply remove that from the preferences.
+The optimizer will automatically assume that they need to do those. Alright, so that's the everything. Let me know if you have any questions.
+https://www.loom.com/share/2b72416a96b04636b02e6f4937d54057
+success
+(9+) Experience and Headline Section - 1 October 2023
+Hi Stephanie. So for this about section, I really like the flow of it. What I wanted to point out was when I started this company I wasn't really impacted that much by the evaluation system or at least That's it.
+I wasn't really the primary problem that I was solving at the time. I was a medical student and I was working with a faculty member who.
+Was very frustrated and I saw firsthand some of the challenges he was having some of the other faculty members. And the residents were having so they were walking around the hospital with paper evaluations and then having to go and drop it off somewhere and it was essentially a big waste of time.
+In my opinion, this got the discussion started with my faculty and he encouraged me to start creating. Designing something and it was me observing this and getting encouraged by my faculty member that I kind of started this process.
+I wasn't directly held back. Well, I'm sure I was, but at least that wasn't the. Problem that I faced and I also don't want to really say that I was negatively impacted by medical, but my medical school because that's a potential client in the future.
+And I have a Dean's and from my medical school that is part of my LinkedIn and this still applies. Yeah, and the rest of it, I think it still applies.
+And I also wanted to share something I've been putting, together. Essentially, I've been trying to craft some marketing material, well, not necessarily marketing material, like setting a clear vision for the company and it's still a draft.
+And I'm iterating. Working on this myself and before I show it to the team and getting presented to them at the end of October.
+So for example, the mission essentially kind of settled on a, we build technology for people shaping the future of healthcare.
+At least for now, I'm still, I'm still trying to find the best way to work. This but it all, it all stems from the same message.
+Mainly trying to say the, say it in a more concise way, but essentially as a company, I've been trying to focus on the message of the people rather than the the software aspect of it, but at the center of it is the people and how we are helping those people shape the future of healthcare.
+And also been drafting a guiding principles of metrics. And these are a few of the ones that I have outlined.
+That I'm going to be polishing up, but I figured I'd share those with you also because my message through LinkedIn should also align with the, the company's guiding principle because these are all coming from me.
+For example, embrace the infinite journey, make decisions that will impact healthcare. For a hundred years. You know, we don't want to play the short game.
+We don't make decisions about the quarter or the the year. It's all about the long-term growth of the company. And as a company, we also want to be confident, but approachable.
+So we want to make sure that we're respected by our clients, but it's not an, it's not a, a robotic authoritarian language that we use.
+It's more of a approachable, friendly language. And then, like I said earlier, prioritize people and their stories over. Software stepping outside of the box, essentially take risks while also being true to our values, seek simplicity, transform complex solutions into clear solutions,
+transform complexity into clear solutions. And then, pursue tomorrow, challenge challenge the status quo for a better future, take ownership, act with integrity, and always be learning.
+So, it's going to be it. I'm going to be continuing to iterate on this over the next couple weeks but I wanted to share this with you. Since some of the About Me messages on my LinkedIn page should align with this message.
+Hopefully that makes sense.
+https://www.loom.com/share/f8ae12bfd7884870aa084bb4dcd9b067
+success
+berkshire medical center - Google Search - 29 September 2023
+So in this video, I'm going to go over Lincoln Memorial School of Veterinary Medicine, so College of Veterinary Medicine is one of the larger ones in the United States, and we are going to be hearing from Mitch, who's the Dean there, and he has a background in tech software.
+Before he became a veterinarian, so he's a big fan of metrics. We talk to him regularly and I think he's going to be a great person to highlight.
+And when we do the interview we can focus on a few key areas. They purchase metrics for their clinical years, clinical students, and the they switched over to us from a platform called e-value.
+And it'll, without saying names, it'll be good to compare what the experience has been with metrics and what are some of the key differences that he's seeing in managing his training program.
+And also what are some of the key differences in working with the metrics team. I actually received an email so funny I was just on the website and I saw her name here, Dean Stacey Anderson.
+She's apparently the top dean above Mitch. And I got an email someone sent an email to Stacey Anderson. They thought you might find this metrics report useful at some point.
+This is for the first four blocks. And Stacey Anderson, the top dean, was like, those case numbers are insane. Is it because metrics are insane? Is it so much easier for logging?
+And then Mitch was like that's most likely it. And it's much easier to log cases in metrics than in e-value.
+So this, this is a, you know, we can bring this up and talk more about the reaction that Stacey Anderson had about case logging, which is a big component of what vet schools do.
+They go to different hospitals or animal hospitals and clinics. When they do a procedure on an animal, they will log it into the case book and then to keep track of all the different diagnosis that they have.
+We're also doing, we built a whole module for them to help handle e-portfolios and that's something that we implemented with them.
+Another key change that we did was when they were on the previous system, they only kept track of different sites and hospitals or different sites and clinics that students were going to.
+These sites, they didn't track the specific experience they were having there in their platform. In Metrix, they're putting down what exactly they're doing there as part of a clinical experience.
+So if they're going there to see small animal or large animal experience, they're putting that into Metrix as a rotation which is tied to a hospital.
+So when they're scheduling, they're being more specific as to what they're being scheduled to instead of saying you're going to the hospital.
+Act. And oh, the other thing that we did with LMU is we actually had a structured onboarding process where we had meetings weekly for three months and each week we implemented different parts of the system.
+And we can, we, I wanna, this would be a great video for us to highlight our onboarding process and what it was like to meet with us weekly to review things and have their multiple team members on that meeting.
+When they finished onboarding during their onboarding process, different things came up that allowed us to customize the experience for them and help them create new processes that they implemented.
+When they one of the things that came up during the implementation was they wanted to track all this custom fields for their hospitals.
+So we actually expanded our custom fields to support fields for hospitals. So now they can see a lot of granular information about where the students are going.
+So that's, that's some of the highlights I can think of.
+https://www.loom.com/share/e515439675dc40809ce2174bd4b00508
+success
+Medtrics - 10 September 2023
+So this is going to be a bug that we're going to address, a couple of bugs actually on this evaluation templates page.
+So the first thing is when you select an open evaluation and you click QR code and you click. Let's go let's click on QR code.
+I click on this, I get a 500 error. If I'm logged in and, like, if I choose a general form type, and I make it an open eval, and then I try to preview it as a user.
+So what we want to do is make sure that it doesn't show the 500 error, and that if the user should not see that form, we show a sweet alert that says you do not have the permission, you do not have permissions to see this form.
+Period. Please contact your administrator to update the assignment rules if you feel that this is being shown in error. Period.
+So that will give, and then they can click OK, and it'll take them. It'll close the suite alert. So this is something that will allow them to be aware of what's happening and not email support team when they cannot preview it.
+The second bug is really usability issue. We recently added this import template button. On the right side, we want to move that to the left side because the rightmost button should always be for creating a new record for that page.
+So for example, if you go to the user's page, the rightmost button is to create a new user. And then the import is on the left side.
+So if we go to the case log templates page, this is where we create a new record. So we always want to be consistent with our UX design because people will build muscle memory and they'll always gonna click that right button without reading it.
+So keep that consistently allow them to learn the system better.
+https://www.loom.com/share/2398b463507f43c8b1c7d478fafea33e
+success
+Medtrics Proposal Ashmore Hospital - PandaDoc - 6 October 2023
+Hey PJ. So it's a video as I was going through it. One of the things, the names here is Ashford, Ashford Hospital.
+The other thing that I noticed was that for here, we have 15 min hours of allocated time. Then we say 25 hours here.
+It's, this is a template that we simply have to improve. I'm just going to remove that there. So that doesn't say 15 hours here and then 25 hours there.
+We typically do weekly meetings and then at the bottom we have three months of 15 hours. That's perfect. And then this is good.
+And here we're listing out some of the modules. I don't think it's necessary because it's not a complete list so you have a complete list up there.
+And the one more thing that I believe they needed was iris. And this is going to be for residents. Since they're a GME, it's going to be residents and that's it.
+And I usually kill this page and once It's all done. We can actually send it out directly from here. It would allow us to track who's seen it and all of that.
+The only thing to keep in mind is that once we send it, we cannot make any edits because it'll ruin the link.
+That's the only caveat. So if we find a typo or something, we cannot. If you fix it, you have to generate a new link so I think it's worth sending it from the system so we can see it, what it works like, and and then send it.
+And then you can also follow up with a short email that includes the PDF.
+https://www.loom.com/share/015bbf2b1cb74934be3acb3d3801f775
+success
+Front (1405) - 2 October 2023
+Hey Marcus, thank you for pointing that out. I missed that email earlier, so I love the video and these are a couple of notes that I wanted to make.
+One was, do we have any other images that we can replace? Some of these very Hollywood looking images. For example, these earlier images, they look very genuine and doctor-patient type photos.
+Even this one is a little bit too Hollywood and I think it loses impact. When you have some of these glamorized photos.
+If we have anything else that is more like these images, Like this one here I love. I think it'll keep it more consistent because some of these images, look like this one right here is very real looking as opposed to like this this one this one and I think this this one here goes three if
+you have any other images that would be good especially this one like I'm not a fan of this one at all and if we can do something where there's teaching or something since that's what we're talking about here that'll be a better better image and then the the last section here this background
+like this grayish background and this grayish background. It's rather than having these things in the background to make the text stand out.
+It'll be better if we keep it more it will look more simple and cleaner. We can do that gradient. So here's what I mocked up in Figma.
+Essentially, what I did was once the video comes on, we can overlay a linear gradient across the entire screen, so it's kind of fades it out to white, and you can still see the people and the smiling faces.
+But the text will be more clear, and we also want to use the logo and the tagline without anything behind it.
+And then the, I didn't add the boot at the bottom. We put AAMC 2023, oop 216, this is the hall.
+This way they know this is not going to be shown in the exhibit hall so they know where to find us.
+So let's, if we can do this it would be awesome that way it makes it, it makes it look a little cleaner.
+I apologize for Alexander in the background.
+https://www.loom.com/share/9ba38ed2989e4c2c8f81ea2d9bddf94b
+success
+Medtrics - Members - Webflow - 6 September 2023
+So on this page, once you log into Webflow, you'll see our website and then you click the dot dot dot.
+If you go to editor, it'll take you to a page where we can edit the content. And once the page loads, you'll see this menu at the bottom.
+And from here we can go to pages. And if I go to home page and click setting, you can see all the content that's on the web page.
+Let's see and then, Hmm, not sure. Actually, I'm not sure where we edit that so I think if you come here you can actually replace the images directly from here.
+So just click over that and you can edit the images. And then once it's edited, you can save that and if you want, you can have someone review the page and make sure that everything is good and then we can publish it.
+https://www.loom.com/share/921fe526b5c74755b9c6a19e0b201333
+success
+Round trip to Seattle | Google Flights - 22 September 2023
+Hey Alejandro, so what we have to do is book flights for the Seattle trip and This is the flights that we want to book and it's gonna be for me PJ and for Rio and what you can do is get their information from Slack and it has their birthday and then for PJ I'm gonna send you his middle name and also
+for Rio I'll send you the full name. And then once you have the link in one password I've added you to the finance vault.
+So if you go here you'll see the PNC. Debit card information here. So the PNC debit card has all the details that you need to fill out this.
+So this, this is a something that you want to make sure that you're only taking it from one password and entering it here.
+And then anytime you need it, it'll be available in one password. So it has the address, all the verification numbers, and if you, you may need to log out and log back into one password if you don't see it immediately.
+https://www.loom.com/share/d0a5c9dff3654579adc5caf82e660a02
+success
+Medtrics - 25 September 2023
+This is a bug on the institutional portal under permissions and institutional administrators when we are searching for administrator. There's a couple of things that's happening.
+One is, well, the search doesn't work. No matter what you type in here, it'll always give back to a 2818.
+This is on the MSU, but we can try it in other places too. The other issue here is that you can see this UI is messed up where the pagination is shown up on the right side.
+There's another issue where this bar is grayed out for some reason and then if you do type something in there and you close it and come back in it still retains that we should clear that each time they reload it and it's saying that it allows us to search by name, email, and class off even though there's
+no class off. We want to remove that because this is for administrators and we're never going to set a student as an administrator and it'll be good for us to use our standard table people.
+Here with the color coding that matches the standard table and instead of searching by class off, it'd be nice if we can do name, email.
+And, actually, name and email is fine. So yeah, so there's a few different small issues that'll clear up this user, clear up their user experience.
+https://www.loom.com/share/ddacc6a687a4409a87f676a4e82bd65f
+success
+Re: Zeni Tasks - Google Docs - 6 September 2023
+Hi Ericsson. So I went through the image and I really love the new look. It looks a lot cleaner. And a couple of smaller tweaks that I wanted to mention was, you have these text increase compliance outside of the browser.
+Let's do the same with Unipod. You can identify your team and remove the browser and put that in the background here and then use a similar color scheme so it's matching what we have and the font also.
+Like a match both and then put that on the top right. Another thing I'm noticing is believe this the line height between these two tags is too close so if you take a look at website golden ratio and choose the font that we're working with and I put let's say 65 content with it'll give us Some ratios
+like if you're using size for 65 what the line height should be and then you can adjust that So you want to have that type of typography have good ratios between them That's the only suggestion that I had.
+Once we make these changes you can go ahead and update it in Webflow and replace the images that's on the home page and if you don't have access to it let me know.
+I'll make sure that you have an invite to the administration side and then if you need help with using it, talk to Le.
+He can give you a link. I'll give you pointers on how to edit the content on there. And again if you, if you get stuck, message me and I'll show you.
+Thank you.
+https://www.loom.com/share/e42e4509027449fba545be68b7f853ac
+success
+Medtrics - 22 September 2023
+Hi, Suzette. I wanted to review this process with you on this video. First thing that we want to do is go to the evaluations page.
+This is a copy of your server. I'm going to go ahead and create that custom milestones category. You don't have to do this part since I already did that on your server.
+But once we have that, we go to the questions page on the questions tab on the questions page. And then we're going to choose the custom milestones category.
+Right now it's empty. Then I'm going to click the new narrative EPA button. Go to link sub competency and select the sub competency that I want to edit and click the plus button next to it.
+Then I will go to the edit tab and click the import link option. Then I can choose the option to import the link.
+This will now let me edit the text here. So I'm going to say editing and by the way at the top where the question it doesn't show the phrase PC2.
+So if you want to add that you can edit the question also and then click save. And now we have the edited version.
+So we want to repeat that process for all of the. Narratives or the PAs that that you want to add it.
+And once it's edited, we can go to the template, go to the team template and then what I'm going to do.
+Here is remove all the existing questions. If it gives you a problem with removing it the easiest thing is for us to simply create a new form.
+You can click for example in this one. It gave me a an arrow and I try to delete it wicked and create a new form and avoid that.
+Call it end of for the team. One, two, keep it simple here for the next page. And then we're going to click the import competency and this will allow us, sorry, import question, not competency.
+The competency one will give you the one that is preloaded, but we don't want that. We want our edited version.
+So we're going to click import question, click filter category, and then search for the custom milestone. And now we're going to add our custom version.
+So notice how I edited it and add the word editing at the bottom at the, at the end here. This is now showing me my custom version.
+So that's the process we have to follow to. Create the custom milestones and then add that to the, the template.
+So I recommend to make this easier instead of deleting all the forms, all the questions on the form, simply archive it and make a new form.
+So that way you don't have to go through all the steps of deleting all the questions on there. And if you get stuck and have any additional questions, let us know and we can help you with that.
+https://www.loom.com/share/e2a130745db840a08df279844f1449df
+success
+Medtrics - 6 September 2023
+So, this is a bug that's happening on the admin portal, I'm sorry, the personal portal. If you look at TCCADA, go to Logs, logged in as Mark Kilgis.
+Once I logged in as Mark Kilgis, I can go to the Logs page on the left menu and I can see a list of all the logs that are pending.
+And if we look at the rotation column, we can see it's listing out a multiple rotations here, even though this only has one rotation that the resident selected.
+Go to the admin side and go to logs and I'm going to choose. Not here and if I go down to July 23rd 27th case here.
+You can see that it only shows one entry. Let me go down here. And all of these we're seeing one rotation but on the personal portal we're seeing multiple entries.
+We want to make sure that we're only showing the rotation that the resident selected. And, let me see, I want to see if I can pull up a, this is what the resident sees, and you can see that when I select a date, it asks me to pick one of the residents.
+So, they're only selecting one, but we're showing all of them. That's the first this bug that we want to fix, and then while we're updating this bug, let's also modify the width of these columns so these dates don't get smushed into two rows.
+It'll look cleaner. We have locks created. If we increase the width a little bit so that it can see, it can show all of the text in one row.
+It'll make sure that it's, it's easier to read. That's for the locks created. We have the entry state and the case column.
+https://www.loom.com/share/576ca31542e94349abb438f090de8eeb
+success
+Zeni Tasks - Google Docs - 6 September 2023
+Hey Ericsson, great great work on this by the way, I really like the updated look. So let's also get rid of this browser around this text.
+So you have increased compliance and other text kind of floating in there and this one is in the browser. So if we can put that floating out there like this text.
+Then it'll match the rest of the text on the other images. Also, I feel like this, the line spacing between the two rows of text is a little close and if you check, ah you can check out this website, it may be helpful, so if you choose this color and put a font side here and let's say the width is and
+then it'll give you the pixel size for the text and the height so that way we can make sure that it doesn't look too cramped here.
+That's the only tweak that I have and then once we have this tweaked if you have access to Webflow you can go ahead and update the images there.
+If you don't have it I'll go ahead and invite you and you can talk delay. About learning how to use it and then and now you can update the images.
+https://www.loom.com/share/5360ced0a5e34761a3e235b081375560
+success
+Medtrics - 21 September 2023
+Ijake. So when the Mpass team collects these evaluations as anonymous, you can see here it'll say anonymous for the Evaluate Tor, I mean the rotation in the Evaluate Tor.
+And the rotation name is also remote and as well as the rotation dates, but what they can, and if you download it to PDF, it'll also show anonymous on that PDF like I said in the screenshot.
+What you can do is go to the view recent response and there's a reveal button and they'll show who the evaluator was and the rotation details if it applies.
+In this instance, I guess it doesn't, it didn't have a rotation name. This reveal functionality can be used to identify who completed the form.
+So I don't Thank you. Thank you. I think this is a good permanent solution because you're going to be doing a lot of manual work as faculty or deans collecting these forms and then manually downloading them and sending to the students.
+The question is whether this process is going to be manageable for a short period of time. I would say by before the end of the year, we can add a feature that will hide the reveal functionality from the students.
+As long as this temporary solution works, then you can proceed with the implementation. And the other thing that I want to add here is the other the second way to get this information out of metrics is to run a report.
+So you can run a report for the student and see what evaluations were submitted by preceptors for a specific date range.
+So let's say. A rotation starts July 1st and ends on July 28th. It's a four week rotation. You can select a date range and then run a report for a specific student and it will give them the feedback they've received for that time frame.
+So, even though it's anonymous, the student will know which rotation that they, ah, that they're receiving the feedback for.
+https://www.loom.com/share/36c8adb23f2d44058bb9f007f55964aa
+success
+AAMC Curriculum Inventory - Google Docs - 27 September 2023
+Hey Mark, so if you can help reformat this in this, in this way where we have a section at the top for the tasks and they'll have key questions and then what we can do is during in the meeting is go through.
+And work through some of these questions with them after showing them the general curriculum module and I can write down the notes that they give us at the end of the meeting will share this with them and they can expand on it and continue at their own time.
+I'll take care of cutting down on the content when I read through it and clean it up and rewrite some of it.
+I'll probably do that tonight. But if you can help with the formatting and make sure that it's in this table format, all you gotta do is copy this whole section.
+To the bottom and then, like, take the cold thing, paste it in here and then replace the questions and the tasks.
+Actually, I'll put this in here. Without any data. So you can actually keep copying this. And we'll take this and put it into Thank you.
+And we're going to turn this into a collaborative document and we can save this as a template. Next time we have to do a curriculum training.
+For a faculty team, we can use this. Awesome work. Thank you.
+https://www.loom.com/share/173db3622fa94eeaa473dc2ba2c5c15a
+success
+Medtrics - 15 September 2023
+Hi guys. So for medical schools and all horses, essentially, when you create the curriculum, you right objectives for that curriculum.
+So let's say if I were to go into a anatomy course, foundations of anatomy, and we have these course objectives, of course, goals.
+So you can see learning outcomes, people call it different things, and each of these courses will have a set of objectives.
+And then every lecture, every lab session, every small group session will have its own objectives. And what the faculty have to do is align your lecture objectives with your course objectives to make sure that you're not randomly teaching something.
+So it's called a Curriculum Mapping that they do. And they have to do the same thing with other exams. All of that has to be mapped to the course objectives and those course objectives, in turn, has to be mapped to the school's objectives, what the medical school set out to teach.
+What the American Association of Medical Colleges have done is, they have put out a national set of objectives that medical students in the United States should be following these set of, or should be taught these set of physician competencies.
+When a medical school creates their objectives, they align it with the American Association of Medical Colleges objectives, which, so it's a top down hierarchy.
+The highest level is the American Association of Medical Colleges. Then the medical school has its own objectives, which map to the course objectives, which map to every single lecture lab that the school offers.
+We allow them to build that whole curriculum in metrics and map them together. So traditionally, what we had to do was if I was creating a course, for example, I would have all my course objectives in here and then go to the course.
+Objective page and I can edit things in there. If I go to the mapping page, I can go ahead and select.
+It's not a great example. So you have your course objectives on the left side, your school's objectives on the right side, and I can map it using an interface that allows me to select course objectives.
+What we have done now is created an interface that allows them to use AI to assist in this mapping. Every faculty that teaches a medical education course has limited time and medical schools often struggle to get their faculty members to do the mappings.
+Especially on all the lectures and labs to the course objectives because there's too many lectures and labs and each of them have its own objectives.
+So this module, the way that it works is you go to a page called Mapping and I can use my filters at the top to select a particular course.
+And then once I have, you can select a specific academic here and then it'll show you all the courses that you have permission to see.
+And then if I expand on a course it'll show me all of the different lectures, small group sessions, and labs that are a part of that.
+And if I expand that, for this particular session, small group session, there are three of them. And I'm supposed to map each of these objectives to my core objectives.
+So when I click expand, I'll show, I'll see the core objectives on the right side, and what I can do is manually map these to one of the more core objectives.
+So that is still possible. They want to manually map it, but this Run Metrics AI Mapping button, they click on it, Metrics will connect to an AI model, and find objectives that align with this session objective.
+So this session objective says something, and it's going to send that objective with all of the core objectives, and ask the AI to find the ones that align the closest.
+And then they will get recommendations here, and the faculty simply have to click approve on these recommendations, or say that's not good.
+So now I have this objective mapped, I can go to the next one, do the same thing. And I can approve it if I agree.
+And that took me a fraction of a second, then just sit there and think about how this text aligns with each of these texts.
+So with this, this tool, schools will be able to give faculty members something that will get their job done in a fraction of the time.
+And currently, this is not even being done because the amount of time it takes them is not available to the faculty.
+So most schools don't even have this mapping done.
+https://www.loom.com/share/cdddf7048bb24b9cb132acd7ae2ea3eb
+success
+[#7824108] LSL 2023 Sponsorship Discussion - santhosh@medtricslab.com - Medtrics Lab Mail - 6 September 2023
+Hi, Ericsson. Great work on this. Love the changes. One thing one last thing that I wanted to talk about was the unify your team.
+It's, it's, it'll be better if we put that outside and remove, like, remove this browser so that it's like the other text.
+So kind of put it up to on its own and since, since all of the other images have text kind of floating in there and it's not inside of a browser.
+And the other thing that I wanted to ask you was if you can check the line height between these two because can you check if it's it should be around 1.5 times the pixel size.
+So for example, if it, if increase the font size is 100, then the line spacing between it should be around 150 pixels.
+So you can check to see if that's the case, because I feel like it's a little close to each other and compared to like the rest of the web, the rest of the text on the page.
+Again, I'm not sure if I'm I would have to see the font and see. If it's, it makes sense visually, if you can tell me.
+https://www.loom.com/share/98dedc09df3e42819d1b40e54ad8c4d1
+success
+[CO-320] Redesign images on the homepage - Jira - 5 September 2023
+Hey, Ericsson. So we've been looking at these images and for the website for the real support from real people. Let's go with this image.
+And for the font, we want to use the same font that we have on the website, and we're using, how do you say that, Monet Rhett?
+I'll send it to you. That's the font that we're using, and we want to make sure that this matches that.
+For next image, which is for the increased compliance let's use the same color combination for the text, we have the real support from real people, and let's use orange.
+And for the, the browser window here, let's use something less thick and use a lighter gray. You can use the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, gray that you were using on this keyboard here, or the laptop here, and then make it about half the size
+and also, All of the, yeah, I think there's a difference between the the thickness also between one screen to the next.
+We want to make sure that it's relatively the same, because otherwise it looks out of place. Yeah, so we'll change the apply the font use the orange and the blue, and we can also get rid of this period here at the end, we don't need that.
+And that'll finalize the design for increased compliance.
+https://www.loom.com/share/c79996bac0e641b9981bb73f1c5e7dc0
+success
+Untitled – Figma - 6 September 2023
+Okay Mike, so this is going to be an upgrade to the existing feature in metrics where we added the ability for students to request evaluation request switching of their rotation.
+So the best way to do this is on msu.com, so if I log in michigan states server Bye-bye. And go to and if we go to a test student account.
+You'll see that on the schedules page, I have the ability to request a rotation change. Once I request a rotation change, it'll say schedule request change submitted.
+And then that will come to the administrative side, and on the administrative side, have a way to review and so it's a button called save, it's really approving it, and then there's a close button.
+What we want to do is give them the ability to approve and decline. And then track the decline ones. Right now you can only see pending, open it up, and save it, which is essentially approving it, or you can delete the request.
+There's no way to decline it. So this feature that we're going to be adding is going to give them a approved decline, so a green approve button, a red decline button, and a close button, and then also give them a way to add a comment field here that says notes, administrative notes, and then when they
+decline it it'll change to decline status that they can look at, and on the student side, it will go back to it will go back to status.
+Where it'll say request was declined, it'll say, I already started the design for it, so you can continue with it, request, change, decline, and then they can click on it to open it up and make edits to it.
+So this is the administrative like a view and then they can see the comments, but if they're editing it, it'll say request declined at the top with the comments and they can resubmit it.
+And we had to finish up the design for the administrative side where if I have something declined and I'm coming back to looking at it again, we're going to show the comments at the bottom and then they can also add another comment so you can put that in. It's essentially a proven decline multiple
+times and each time they'll be able to add a new comment. So this is the Figma design for it and you can go through the process.
+On the MSU server of submitting a request, approving it and seeing what happens and then finish the design and then if there's any usability improvements that we need to do you can also add that and then that's going to be the one task.
+The second follow-up task is we want to send an email when something is approved or declined that has the information in there with a link to go back to the same page where they can edit it.
+So, last year you had added you had designed the email notifications, I think, for benefits when they're approved or rejected.
+You can probably look that up and copy that. So that'll be a second task. So the first task would be adding the ability to decline and have all that tracked.
+Second task would be email notifications.
+https://www.loom.com/share/5af7fe9d6edf41649cf7e5db425d53e1
+success
+Loom | Free Screen & Video Recording Software | Loom - 15 September 2023
+Hey, Marcus. So in this video, I wanted to go over a couple things. First is the couple ideas that came out of the meeting of the team today.
+They really like the concept and Mike had a good idea of overlaying some sort of graphic that will show some indicate timeline or progression so that as they're watching it and the series of images are coming, you know, when some when the video along the video is I had this gave me a thought and maybe
+I remember a a Minecraft that I've seen in the past and a lot of physicians have seen and this is called administrators versus physicians graph shows the growth of administrators in healthcare.
+For the past what, 20, 30, 40 years and versus the growth of physicians, here's a few different things to note here and what this is showing is how healthcare.
+Their administration has gone up. Quality of the care or the number of physicians that are providing care has not changed much.
+What I, what we were thinking about was sort of overlaying a bar graph that is progressively growing. While the, or not even a bar graph, like some sort of line that is progressively growing as the video progresses.
+And I also like, I'm assuming this was intentional, like your video has, initially the videos, the photos are growing. Up slowly and then it's sped up.
+So we can kind of use that as a time on as the first part is kind of slow. And then it accelerates how quickly the videos are the photos are showing up until we get to the end.
+And that's when we. You should lead into the the final, the call to action or our company's information. So the first idea that came out of that meeting, the, another Rio had a comment that it was a little too long and we needed to maybe cut it down to 15.
+I don't agree with that one. I think it's we can accomplish the 32nd timeline and just make it engaging so that people will stay there and watch it.
+And even if they miss it next time they come back, they're curious and we'll finish the video. What I'm currently sending you is in my experience with Mid-Journey yesterday on how to generate some of these images and what I can do there is based on the images that you found online, if you get the
+high quality ones, I can use that to generate additional images that match them. So it's a, but the quality of that is going to be good and maybe we can use some of the older photos that we're finding in the earlier phases and then create similar images for later as they become colored.
+So the other video shows how Mid-Journey works and I can create some graphics now. And the other thing is also, we can also set the aspect ratio to be 16 by 9 when we generate those images.
+And then see, there was one more thing that I wanted to go over. So, having this was something that I started typing yesterday.
+The, the text on the screen putting, like, we wanna put it, sort of, front and center, cause since we don't have any audio.
+And as we progress through those messages, you know, we are painting the picture of healthcare as a whole and such as EHRs and various things that has, administrators frustrated.
+But I also wanna, make sure we tie it back to medical education and the audience that is looking at this, they're going to be mostly medical school deans and administrators.
+And some of them may not be directly involved with the hospital work which some of the text was focusing on.
+So this one, I'm not sure if it's how useful it is. I was thinking of you know, like, a lot of the doctors are frustrated with it, with the fact that they can really spend enough time with their patients.
+And, you know, when you're in medical school and when you're in the past, you will spend a lot of time having face-to-face conversations with patients.
+And now, patient. Visit times are cut down to like 15 minutes. And most of the time they're sitting over on a computer just writing down information and just asking questions without even talking to the patients.
+Then coming when it comes to teaching because they don't have any time, they're not spending much time teaching to the residents and students.
+And if they are teaching, then they're staying late to do so and getting home late. And then the other third one here is like when it comes to how they felt in medical.
+This is something I mentioned the other day, how medical students are very excited to start their career and excited to be practicing medicine.
+So this particular one is talk trying to tie those medical school deans and emphasizing how students feel about medical school and trying to ask them asking them, remember how you felt when you were in medical school.
+We'll see you next week. How excited you were. And then the last thing is like, get back to what matters, your patients your student your students and then pj had this idea of your passion and then practice medicine, not software.
+So, I wanted to throw this at you and, you know, you can work your magic and, you know, even if we don't use all of it, the only thing I want to try, want to make sure that we do is tie in medical school and medical education into the, into the mix of the texts that shows up.
+So, that is directly relatable to the deans.
+https://www.loom.com/share/fdc82d65f3774c5e827f65f5551bcb64
+success
+Curriculum - 13 September 2023
+Hey, Mitch, thank you for sending that second file. Wanted to ask if you have a copy that has the information in one document because we have the availability on here.
+What we need to do is be able to populate the course code here so that, and then we can also add the, whether it's the foundational or elective.
+So for example, University of Georgia, I need to be able to say this is a CVM 771 and that is it's a required foundational course.
+So if you have a version of this document that has the site codes in there, we can Thanks for watching!
+Do an excel lookup and populate it. Otherwise, if you have a availability spreadsheet that has the course codes in it, that would also be helpful.
+Because without this information we're not able to convert this into what we need for the optimizer. And for the required column, we can take care of populating that once the course information is added.
+We'll simply look at the website and populate it with the yes or no based on whether it's required or elective.
+https://www.loom.com/share/a5f4e210789147eab22e89bca3769f62
+success
+(2) Discord | #general-1 | Midjourney - 15 September 2023
+Hey Marcus, so we're been looking at mid-journey and the PJs here too. I wanted to share this video with you so that you can see what mid-journey can do in terms of creating these images.
+So I'm logged in as to the Discord account which is how you prompt and get images back. So once I've logged in I can put slash imagine prompt and then I can say like different, there's a article that I'll share that shows you different types of prompts.
+So I'm gonna say use cinematic lighting. And then in the style of Ansel Adams who's a famous black and white photographer, I'm gonna also add a prompt at the end that says aspect ratio 16 by 9.
+And then click enter. The annoying thing in Mid-Journey is like you have this chat where you see everybody else's images even with the paid version.
+So, it's gonna take a few, like a minute to generate. So you can see it kinda while it's generating. 31% Now I would say mid journey is probably the equivalent of chat GPT in terms of quality that it's going to be the best one And also there's a lot of advanced prompting that you can do like I only
+use the aspect ratio, but they can do a lot more So here's the concepts that it came up with and, you know, we can customize the prompt to say female doctor male doctor.
+Then once we have this we can. This U1 means that upscale one, it'll make it a larger size image. I want to move forward or I can also take one of these and create variations from it.
+Let's say I like this last one. I can click this and it'll take create. Four variations from this one and I like this one.
+I can also upscale it and it'll give me a high resolution version of that. I just got a little dot and go to the bottom and here's a high resolution version.
+I should have said a black and white photo. That's why I made a color photo, but I think. I'm going to send a video with this with this video to show some of the images that I was able to create using your notes from this from the storyboard so we can compare.
+And see if this is something that we want to spend some time and generate images or simply go with the stock photos but either way the concept is really nice and we should move forward.
+So here's the four variations. Once I got from that same image I could use the same doctor in different views.
+https://www.loom.com/share/33da28dc760944f6a1acca9d47c0837b
+success
+Type Scale - A Visual Calculator - 1 September 2023
+Hey PJ, so once I log into Webflow I can open up the designer and in the designer there is going to be a way for me to select different pages and so let's say if I choose feature servers, it will show me this page and I can click on different elements here and adjust the font size the location,
+font color and all that on the right side. So this is a for us to make adjustments to the page.
+I haven't fully figured out. I've got everything on here. I want to give you a head start. If you want to take a look at it at some point next week.
+And then there's also a way to publish things to a staging server, metrics.webflow.io would be the place that we can publish it before and test it out before we put it on the production.
+What I'm focused on is specifically the font hierarchy. I want to get this right across the website and I'm gonna do some more research and then I'll create a scale that I want us to use consistently and then we can implement that.
+But feel free to feel free to play around with it and learn.
+https://www.loom.com/share/9b4af3b7bbd847e3b1303d1797666e28
+success
+Medtrics - 13 September 2023
+So it looks like there's a front end bug on the Work Hours page, Violations tab, Work Hours the violations page and then when I switch from the violations to the individual tab.
+Nothing shows up on this table even though there should be a violation, I have to refresh the page and then it shows up.
+And then once I'm on the By People tab, I can't go back to the other tab. A bug we gotta fix since we're, since there's similar bugs.
+On the, another bug that we have is in the curriculum setup page. If I go to the permissions. Director level permissions it shows up at the bottom instead of.

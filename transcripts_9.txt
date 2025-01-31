@@ -1,0 +1,985 @@
+And combine information from different sources and it's pretty much mimicking what a human researcher would do. So that's one thing here.
+Another thing I did. Here was I went on Slack and, And went to customer stories and I saved a few of their case studies here as PDFs.
+And then attached those PDFs here. And I also saved the transcript for our discussion with Joe. And then I said, I'm attaching three case study samples, text file contains a transcript.
+And then. And I told the AI to use the transcript to write a case study in the style of what slacks case studies are being done.
+So, that's what it did here. So you can see that what it's doing is it's writing those articles in the style of what slacks format is.
+So, It's something to experiment with and, you know, none of these things are perfect, but you can see here it's started incorporating some stats here that we may want to use in our system, in our, in our article.
+https://www.loom.com/share/80cc655d31dd4ea08edb8c39cde6edc4
+success
+Working on Lottery Functionality 🎲
+Hey Marina. So we've been working on lottery functionality and there's a few different tweaks that we So we've been working on lottery functionality and there's a few different tweaks that we So this is a task that is time sensitive because our clients are looking to use lottery to collect information
+from the students. And unfortunately this has been sort of stuck in limbo. And one of the challenges here is the student portal has never been completed.
+So if I go to lottery here, I have this lottery that's enabled, select preferences. And when I click on this new preference button, nothing happens.
+I'm supposed to bring up a modal and let's see if I go to, Chris and I have been talking about a report, which I think it's working fine.
+So we don't need to bother you with that. But this is. Something that Rio built a while ago. And you can see here, it's supposed to bring up this modal and then I can select a site, a rotation, and then pick which blocks that I want to include.
+And then it's supposed to update this table where I can see what blocks I selected, and then I can change.
+And then once the order of the preferences here by dragging and dropping up and down. And then once the students have And then once the students have added everything, the lottery is supposed to run.
+So I'm hoping that what you can do is work on this first part so that I can finish testing it.
+And it's supposed to bring up this model to let me add add all the details. And this Figma file shows you what that looks like.
+You can see the order, the rotation and you can ignore the stuff on the right side. And you can ignore the lock.
+But the idea is to drag and drop to change the order.. And select and unselect here. So I'll send you this and then we can talk about it and see what else needs to be done.
+And there's already a good lab, I mean a Jira issue for this. So Jira. Frenzied, closes later guest preserved. If you would like a clinics and frenzied, closes later guest preserved.
+I'll add this video to that.
+https://www.loom.com/share/b3ac6d65dcd74275982de8c8c49ca171
+success
+Organizing and Reviewing Conversations for Knowledge Base
+Hey Maria so for this to work what you have to go to is inbox search tag look for how to so this this is all these are all the conversations that were tagged as how to buy the pot in the the best way to approach the this is to take it a little at a time and because trying to do this quickly
+I found that it's not going to get all the inside that we need. So open one up and look through it and see what question can be formed from this and this AI tool can help with this.
+So for example, somebody clicked how to, she needs to act.  to the admin portal. This is more of a user error and they didn't see the admin button at the top.
+So, this is another one where they need to know how to use from the GMAC work out report. And if you want to try using the AI, here's what I did.
+I selected all the text and I clicked in here and I used note because we don't want to accidentally send them a message.
+I paste it in here and I use the prompt create a. Okay, if a few questions for our knowledge base from the conversation above, write a detailed and then there's this option called custom prompt and what it does is takes all of the time to see what happens.
+How do I run work out GMI report? And there you go, this is a response. So you can take this and put it into a spreadsheet.
+And I believe it would be good for us to create a new tag that's called like how to review it or something.
+So once we take care of reviewing it. And creating a question out of it, then we could change the tag.
+So we have a list that we're working down from. Otherwise, it's gonna be hard to know what we have completed or we haven't completed.
+And you can this is something that can be split up. For example, if we do a bunch and then create a process by which someone else on the team like Alejandra can help with, then it might make it easier for this to be done over the next quarter.
+And each of these needs to be reviewed and make- sure that it's meaningful questions and also later on we'll also review to make sure we already don't- we already- we haven't already done that.
+Okay, that's something that we can do after we have a spreadsheet of other questions.
+https://www.loom.com/share/a4ad0cbed1034e8ea2cebf45a49677d1
+success
+Exploring the Webflow Dashboard 🖥️
+Hi Marcus. So when we log into the dashboard for Webflow. You'll see this page and here we can have a couple options.
+One is go to the editor or going to the the settings or the, actually these three options editor, settings and designer.
+So this, the settings page you can, I'm not sure if you're, you're having access to this page. Maybe only for the admins.
+If you do, this is what it looks like. It shows some basic information about the website and there's a. I think that time zone is wrong.
+Let me correct that while I saw it. Alright, so one of the more useful things here is there's the form that we use to collect information for sales and the different submissions that we have received.
+It shows like a summary of those. We also have the SEO page. But for lay that more important. Worton is the editor.
+So if I go to the editor page, it'll open up the web page and at the bottom, we're going to have a bar.
+Worton is the editor page of the bar. That shows pages which shows a list of all the pages. And then we have collections which are sets of pages for different parts of the system.
+So use cases for the use cases. Worton is the editor page of the bar. Worton is the editor page features for the features page, blog posts, author profiles, testimonials.
+So testimonials, for example, is a set of collections that we have a widget for. And anytime there's a widget that is displayed on the page for testimonials, it'll cycle.
+Through the testimonials. Then we have documents. These are the different articles that were download that are being downloaded blog posts.
+. Forms. And then anything that is drafted, you can see there's a couple of unpublished changes. And looks like Lay was working on the case.
+So, I'm going to share this with you. And then if you have any questions, let me know. So, it's pretty straightforward once you get in here.
+I'm sure you'll be able to figure it out.
+https://www.loom.com/share/1cdff32b288e437bafcbe483da997056
+success
+Setting Up Invoice Generation Access 📝
+Hey Mark, wanted to set you up with the access to generate these invoices yourself. Let me see. This transcript could include filler words which are transcribed when they appear as a part of the transcript.
+So under sales, under sales, we go to invoices. There's gonna be some outstanding invoices that we're still cleaning up, but if I wanna create a new invoice like that.
+And you can actually. Look up. Customers. As you can see, we have the residency. So, let me see how we can put this in.
+Thank you. So this is kind of tying it back to the bookkeeping, even if it's not done, you could do that later.
+It's also good to show it. So I don't have any discounts directly on the invoice. So, I took that total in there and then, So, a flow rate of discount.
+And we've got this one. Okay, and that's correct. It comes out to the same total. Okay, six, six, seven, eight.
+Okay, six, seven, eight. So, let's check that again. So, we have, online. I'm not here. It's very hard to work on a laptop here.
+It's 5, 2, 4, 5. I just found that much. Next one is, It's all by a few cents, you can take a look to see if I missed something or you missed something or you can play that cleaned up.
+We got to move from this location, so I'm going to save this for now.
+https://www.loom.com/share/a60fec99758144e2b53f133ccedae07b
+success
+Simplifying and Personalizing the Portal
+So based on the things that we discussed this morning, we're going to have, let me see. Shhhhh. So. I think we should simplify the number of images we have on here, like, like this top section we can remove and then have instead of having coursement.
+Irls mentor and trainee separately, because there's no, there's no need to have this separate because course mentors is a specific thing for LMU.
+What we want to do is keep it simple and personal portal. We're going to have for me and about me.
+And for the for me, we're going to get rid of this whole section at the top. And it's going to be this whole section.
+And then there's going to have, we're going to have a a filter at the top for whatever's incomplete and or pending and completed.
+We can probably put those as two buttons here. Pending and completed and it'll show whatever they have to do on this page.
+And then the completed if they click on it will show them whatever they have already completed. And the we're not going to have the archive button on this page.
+When they click view, it'll open up in a separate page like we currently do. And we also don't need to show the last reviewed here.
+Because we're going to do all the review stuff from the reviews tab. So essentially we're removing this section, have the pending and completed.
+We're going to have this table at the top. Under pending and completed. We're going to get rid of archive. We're going to get rid of awaiting your review.
+Anything to do with reviews. And then for the about me thing. It's. Going to be we can have two two buttons here also.
+One is going to be anything. Actually, we talked about viewed by me. Yes. No. Instead of. Having it as dropdown, we can have it as new and viewed.
+So it's going to be one button that says new evaluations. And then another one for. Viewed evaluations. So that way they can toggle it and see what they have any evaluation that we're done on them.
+They'll be able to see it. If it's new on the new tab, a new button. And then if it's already looked at, it'll be under the viewed.
+And same things here. We're going to get rid of the archive the review status. I mean options reviewed count. And.
+We don't need to show this highlights here because all of them in this is going to be completed because there's somebody's completed that.
+And we can also remove the archived. So that's going to be the simpler for me and about me. Both of them are going to be missing this top section.
+It's going to missing the archive and it's going to be missing the. Review stuff and it'll have two buttons at the top one for pending for me and completed and then for about me it'll be new and viewed.
+And then the last tab, the reviews tab is going to be the more complex one where we have all these filters at the top and the page looks like this.
+For the review status, we're going to simplify that and saying. I'm waiting review and then waiting review by me and then and then awaiting review by others.
+With reviews, we can open it up in a modal like this, but for the about me and the for me, we're going to open it up in a new page like we currently do.
+So if I go to the evaluation, this page pending valuations. So I need to have this submit as unable to assess PDF and delete for the for me.
+So it'll have the, So we're keeping this filter, basically at the top that's showing all that it's pending and all that is completed.
+I forgot about cancel and unable to assess. So maybe we should have this as, the drop down with the top instead of a button.
+So this drop, this filter at the top and it'll show pending by default, but you can switch and do the other ones we want to.
+And then we also need to show the same old, some of it as enabled to assess PDF and delete if it's a open evaluation.
+And then the about me same concept here. You'll see the what's viewed and what's not. I still need to be viewed.
+And this also needs to have the PDF. And then we're adding that viewed here. And for both both of these we had to open it up.
+It should open up in a separate page.
+https://www.loom.com/share/4235ffd02de34e0ebbb5f75a74759d9b
+success
+Medtrics - 28 June 2023
+All right for Tammy's call on Tuesday or Monday whenever that is happening There's a lot that we can cover there Tammy and And Tammy's program started with us when they were first Getting started with their residency program and they actually purchased metrics a year before they were actually accredited
+for the sponsoring institution. And they, Tammy was the first coordinator. And then there was a DIO who's, who's the actual program director.
+He played dual role in as a program director and the DIO because they only had one sponsoring institution with one program.
+And Tammy had been recruited from another department. She had never worked in graduate medical education. So we were essentially working with her in the beginning to do a lot of teaching on some of the best practices.
+And she relied heavily on Chris and I to learn about medical education. And we I actually drove out to Kentucky one for their training and I met Tammy.
+And the program director and we let me see if I can find it. Not that one. We recorded a video testimonial at that time.
+Unfortunately, that program director was left and it didn't. So it's not very impactful anymore because you went to a different institution.
+But Tammy stayed there and she is essentially the person that is holding the program together. She even. Though she's a coordinator, she kind of been there since the beginning.
+And then she has another coordinator that worked with her. Her name is Melody. Last year they contacted us to add on the student program.
+So they have an internal medicine residency program and I. We talked to Tammy and they said they have about 100 medical students that are coming there each year.
+And they wanted to centralize the data for the medical students, along with the residents. So we have both the residency program and the medical students using the same platform.
+So this is a very unique story. They told me what are the benefits of using metrics for both the students and the residency in one platform?
+And what are some of the things that they're using the data for? And why, for example, like retention, being able to try, to track the students from the beginning of their experience at the school and seeing if they can retain them as residents.
+And then after they graduate, can they keep them as faculty members? So it'd be interesting to get her perspective. She, Tammy is also a big fan of our support team and how we, are available to her when she needs it.
+So we can definitely talk about that and her experience working with our onboarding and supporting process. And when it comes to the platform, she has seen other demos of systems and she always tells us how easy it is to use metrics.
+So we can talk about that. And the thing that Tammy is also Tammy's also someone that is involved with other areas of the hospital because she has tried to connect us with the nursing program even though they decided not, they got a free platform, they
+ended up using that. So it's something we can speak to the bigger impact that Metrix is having for the organization.
+Let me take a look at some. So ascended. 6%, two-percent overdue evaluations. That is really good stats out of 3000 assignments, evaluations that are assigned.
+So they're getting great data from the system. They're using all of our functionality. They're using the time off. They're using the announcement.
+The upcoming events. So there's a lot that this institution is using, even though they're small. And I think it's also important to highlight the background of why ARH started this residency program, specifically like the program.
+And so you know, I think it's also important to note that I think it's also important to note that we have a we have a board of directors that was involved with this in the beginning and Tammy's the one that worked with them.
+So I think it's also an important point to highlight from a metric stamp, not necessarily metrics, but the organization.
+https://www.loom.com/share/d4cd690b9e1444f9bcf67866812cc174
+success
+Sorting Users by Type 🎨
+On a shift template, when they have different users being added here, we have different color codes that we use for roles.
+The goal of this task is for us to sort these individuals. By type, user type. So all the residents will show up at the top, then students, then faculty, and then staff.
+And we'll have, one color code, one color for each of the user types. So all the residents will same color, students same color, faculty same color, staff the same color.
+And then we're gonna show the role next to each of their names. So it'll be Christopher and the role will be.
+In parentheses.
+Or instead of parentheses, we can just put dash and then italics, so less characters. Yeah, and that's it. So basically, color code by user type, put the user types together.
+So it shows the residents at the top, students second, faculty, and then staff, and then Then it shows the residents at the top, students third, and then staff, and then staff, and rolls next to it with dash and roll with italics as a roll.
+https://www.loom.com/share/5a22a497197a46a1a0aa2fab3898ceeb
+success
+Update to Weekly Email Notification 📧
+So this task is for us to update our email notification that goes out weekly. This login button at the top is confusing people and it doesn't because people click on it and it takes it to the login page.
+They don't realize that. They need to click on these buttons down here. So what we want to do is get rid of this login button or move it all the way to the bottom and saying Although it's the bottom and saying if you need to access metrics.
+If you need access metrics, you can use the button below to log in and then have the login button. This way they're not going here and running into trouble.
+The other thing we can do is, under this pending evaluations, we can add a little subtitle with this type of font that says you can complete evaluations.
+Click Respond. To complete evaluation. Actually, we don't need that. It's fine. As long as we get rid of this. And the other thing that clients how to work is a our email notification doesn't have anything about the institution name or program name so what we wanted to up update was I'm thinking about
+whether we, if we add the program name, whether it's going to be useful, but nothing that's going to help because program names are different for each of the institutions.
+Yeah, let's tackle this for now.
+https://www.loom.com/share/a450e2d15be747ddb79e787599d5546c
+success
+Data Migration to Google Drive 📂
+Hi, Alejandra. So for this project, it's going to involve moving over some data from this sheet into Google Drive. What we need to do is on this page, you'll have all of our different milestones.
+So I'm going to go to Google Drive, shared folder, client onboarding, and there's going to be a page called assets.
+And we're going to create a sub folder called competencies. And inside that I'm going to create three folders, GME, UME.
+So we're going to create a sub folder called competencies. Nursing, and before one more, Allied help. Then inside into these folders.
+We're gonna have subfolders. So for example, this first, first one is actually going to be a zip file with multiple attachments in it.
+So we're gonna have to open that up and break it up. Each one we want to save it as a CSV.
+So for example, this one here, we're going to do is it's under GME. I'm gonna go into GME new folder, save this name.
+And then I'll download this file. And inside this folder, attach this file. So I do the same thing for all of these.
+So we're gonna move this all over. And you can see that what folder is determined by the type, and then the name of the subfolder is going to be this name here.
+For this one, let me open this up here. If you extract this folder, you'll see that there's multiple files in here.
+So these are all going to be GME files. And we're going to create subfolders for each. So those will all go into this subfolder.
+So everything that's on this page, each of these will have separate files and separate folders, except this one at the top, which you had to download it and extract it.
+And then that'll be a separate folder. And let me know if you come across any questions as you go through it.
+Thank you.
+https://www.loom.com/share/857b8c5d65b14a09afb7388899ac738c
+success
+Bugs and Issues with Managed Documents 🐛
+Alright, so on the institutional portal under Managed Documents, we have a few bugs that we have to fix. First, the document categories are not showing up on this page.
+Even though if I go in here, select a site, name, then choose this. Now, and let's go to, ccc. Report.
+So it uploaded. And I forgot where I uploaded to. So there you go. And name. Document. The other thing that I'm, we have an issue.
+So this problem number one. Problem number two is when I click on it. And I can. Upload a new file when I upload a new file.
+I'm showing a different model here than when I'm. This is the personal portal. This is a personal documents model. Instead of the institutional documents model, so it needs to be showing the institutional documents because this is showing categories that are for personal documents.
+So that's one thing and then the. The other thing is both for the personal documents. And for institutional documents. We also need to add a delete button and yeah, so we need to delete the button.
+We need to add a delete button so that it has a sweet alert that pops up says, are you sure you want to delete this document?
+And then if they click yes, then it'll allow them to delete it. So one bug is the category I'm showing.
+Second is the model is incorrect for documents for site and program. And the third thing is we need to be able to delete documents from both both sheet.
+Pages and the personal documents. I saw this something looks different here. So we have this button showing up on the options role under personal documents.
+We don't have that. So we can use this. Same view as the other one so that you have an options role.
+So this way the button's done not stack like this. So those are three issues on this page. A program document, let's try this too.
+Let me do this one more time so I'm going to use site. We should also clear. If I choose a site, we should clear the program.
+Or if I choose a program, we should clear the sites. So that, I mean if it's easier to do, if it's not easy, don't worry about it.
+Alright, so the description does show up at the bottom. That's good. Alright, so that's three bugs there. And then, let's go.
+Go to system setup settings and here. All of these fields appear to be broken. All of these fields appear to be broken.
+Thank you. So. I don't have a way to search. It will be very helpful also to figure out when this broke these fields.
+There's a way for us to, because we haven't touched this page in a while. I want to, I want to know if there's a way for us to look back the code and see when it was modified because so that we can try to prevent it in the future.
+Another thing. On this page for, so that was an institutional settings I showed earlier and for program settings. Same thing here, none of these fields of this is everywhere.
+So something changed and all of these fields for program settings and institutional settings are broken. So we got to check every field where you can select a person to make sure that is correct on the institutional settings and program settings.
+https://www.loom.com/share/3a8b83a0362c484c82026da2da2b1176
+success
+Adding Administrator Approval for Credentialing 📝
+So this functionality is for the case templates and what we want to do is add a way for administrators to approve when a resident has completed all of the requirements for their cases.
+What we're going to do is add, under the enable field section, we'll add another checkbox that says require to call it require administrator approval for credentialing.
+And if that's turned on, we'll, On the users page, if I open up a resident, under, cases, we have a way to mark the missed credential.
+So what we want to do is add a new column that is called, credentialing approval and when it'll have a checkbox or a check button like this and you can click on it and it'll mark the, person as approved.
+And if the case template has a requirement for administrative approval, we will not automatically show this credential date. Instead, it will only show the credential date once the administrator has clicked the second checkbox.
+The first checkbox we can call instead of status we can call it minimums The first checkbox we can call instead of status we can call instead of status we can call it minimums and the second one will be administrator approved.
+And the credentialing will be tied to the second button. On the CCC report, which is under the performance. Arment's page, For case logs, we have the case templates, log required completed.
+I'm going to add one more column that says approve. I mean now. Administrator approved. And then that will allow us to see which ones And then that will allow us to see which ones And then that will allow us to see which ones And then it will allow us to see which ones is have signed off on.
+We also want to show the credentialed date. So it'll be approved and then I'll show the date that they, sorry, why don't we do this?
+We'll call the column credentialed slash approved and if the administrator has It will show the date that it was approved.
+If it was credentialed automatically, then it will show that there. It will show the date of the metrics automatically credentialed them.
+It will show the date that it was approved. I'm thinking through this. So essentially it'll be case type required, log completed, and then credential slash approved, and I'll have a date column there.
+https://www.loom.com/share/482628b6854f426491b963098e22ab06
+success
+Issue with Editing Hours and Missing Alert
+So it looks like when I'm editing the hours here, let's say by add Something here. One, it's supposed to warn me, that there's supposed to be an eight-hour difference.
+So for example, if I adjust it here, it'll show me that warning. Cause eight-hour, double-check your entry. So if I create it using this, modal, it doesn't allow, it doesn't show me that alert.
+I also think that we lost some CSS here. I believe these were meant to be little gray buttons. But it's a, It's not a big deal for now.
+But one thing that I noticed is that, so there is no eight hour gap here. If I finalize this, Even though I was warned I'll get an eight hour violation, I'm not getting that.
+So, for some reason we lost that eight hour violation check here. It is getting the 25, or more than 25 hour hours here.
+https://www.loom.com/share/9e479c6c09cb4d8794db2148617a7354
+success
+Updating Evaluation Forms 📝
+As a follow-up from our meeting, I wanted to share this video summarizing what needs to be updated to get some of these evaluations completed without having to select a rotation.
+If a form has already been set up as a rotation evaluation, then to change that, we need to go to the Edit page, and then you can use this form type to update that to a program evaluation.
+If the form has already been used and has assignments, then the form type cannot be changed since you already have data.
+So in that scenario, you would need to make a copy of it, and then change the form type on the copy and deactivate the original evaluation template.
+But if a form is is going to be collected using a QR code, that form has to be set up as an open evaluation.
+So the first part is to, would be to, if you wanted to change it to a program type, you had to first change that to a program type.
+And if it also needs to be an open evaluation with a QR code. You'll have to go to the Assignments page, go to the question number six, which is, should this form be available as an open evaluation?
+And then you have the yes here. And this will enable the QR code. And now I can. And click on this QR code and go directly to that form.
+And on that form, I'll be able to select a resident and complete this evaluation. If I don't want the attending to go straight to the form, instead I want them to see all the open evaluations in my program, this open evaluation QR code is the better one to This will allow the faculty member to see a
+list of all the open evaluations in the program and then choose a form they want to complete. Each QR code that is linked to a template will take them directly to the form where they can select a resident and complete it.
+The QR code at the top will take them to a page where they can see a list of all the open evaluation and they get to select one form and then select the resident.
+One more thing that I want to highlight here is that residents should be encouraged to use this. This is a personal device, keep me logged in functionality so that if they're logging in from a smartphone.
+Phone, they're going to be logged in automatically. This means that they don't have to keep entering their password.
+https://www.loom.com/share/7d50678834a3474e92b9994d639c9f71
+success
+Updates on CCC Report and Evaluation Forms 📊
+Good afternoon, Jin. I hope you're doing well and that you have a long weekend ahead and not on call. I wanted to take a couple of minutes here to update you on two releases that we had put out to the service this week.
+One of them was related to that CCC report and updating the field that is available for the administrator to select a resident.
+Instead of using that, the radio button fields, we have switched it to a dropdown which makes it. Easy for the administrator to see what resident they're working with.
+And then if they need to switch to someone else, they can easily do that. This will avoid any issues with selecting the wrong resident or not clicking on a specific field and accidentally getting the same report again.
+So. With this change we're also working on a way to select multiple residents in the future. And that project will allow the administrator or the coordinator to select all of the residents and have multiple PDFs, email to them.
+This will save them time before the CCC meeting. And have everything in a one email instead of having to do it one at a time.
+So that was one of the updates is a drop down and a second part that we're working on is the is being able to select multiple that's actively being worked.
+And it'll be out in the near future. The second update that went out is related to creating evaluation forms. When we had spoke last time, we had gone over some usability issues on the questions page.
+So when you're on this page, if you change the question type and then save it, it was in. And always retaining the fields, hmmm.
+And updating to what you're selecting. So until you refresh the page. We have optimized this. So that it automatically refreshes that.
+After you save the model. So let's go to here. And then dragging and dropping, I believe this was already resolved.
+That was that was also something that was checked when we did the optimization. So make sure. That there's no issues with that.
+Heh heh.
+https://www.loom.com/share/769058dc703c42fea1cbb8ee6679e187
+success
+Making Mobile Experience More Intuitive
+Hey Mike, so this task is about how do we make the mobile experience more intuitive? And what I want to do is for us to look at what some of the other companies have done to make it for someone to add their app to the home page.
+So when you get to the home page, when you get to the metrics page, we want to show something a pop-up like this.
+That is customized to their device. So if they're coming from a Chrome, or Safari, they'll see an iPhone one. And if they come to the homepage from an Android, they'll see the Android version.
+And And what we want to do is when you click the Add button, it'll bring up a window, a modal window.
+And what we want to do is when you click the Add button, it'll bring up a modal window. That shows the instructions for adding it to the home page.
+So for example, here. You can see this thing pops up and then it'll show me to select the Add to the Home Stream button and then I can rename it and then I have it on my home screen.
+A little pop-up that comes up similar to this here that lets it with a button that says view instructions opens up a mo- gives you that gives you how to do that and once it's added to the homepage we don't show it anymore so it basically shows up and then We can at the bottom of it.
+We can have a little checkbox that says Do not show this anymore and we'll store it in the database So that it won't show it to them any after they confirm that So this way we are encouraging people to Use a mobile and save it on their phone and also stay logged in.
+https://www.loom.com/share/730706d68b2f49b6a8b035286521b5f1
+success
+Updates on CCC Report and Evaluations Page 📝
+Good afternoon, Jin. I hope you're doing well and that you're all for this long holiday weekend. I want to just spend a couple of minutes sharing updates with the two of the issues that we had discussed in our last call.
+On the CCC report, we had talked about an issue where if a, coordinator is selecting a resident and then searching for another resident, they don't actually click on the second resident's name.
+The system was generating the same PDF as the first resident they searched for. So to avoid that error going forward, We have switched out the type of field that we're using for selecting a user, so there's no mistakes in who you're picking in this dropdown.
+And this is also, this is already released and we're also working on a second part of this that allows the core, coordinator to select multiple residents at a time and then have those PDFs email to them.
+This way they don't have to do one resident at a time before the CCC meeting. So that's one of the updates.
+A second one is related to the, evaluations and templates page. On the form builder under managed questions, we had gone over some issues where if you're, selecting a question and you're changing the question type and saving it, the page wasn't getting updated until you refresh the page.
+So we have changed that, so any updates to the question will also get changed on the page immediately so that it doesn't create any confusion.
+The drag and drop functionality was also checked at the same time to make sure that it's not impacted with this change.
+The one, so both of these are updates have been released to the server and if you are making any changes in the future this will be something that you'll notice.
+One piece that I found after our call and we started talking about it was related to the linking of the question and making changes to that.
+And how it wasn't always showing what was linked when you're going there to edit this. I had also submitted a request to the dev team about addressing that scenario so that if a program director in the future is coming back.
+And editing some of the existing links to the milestones to make sure that it's always shown. And that there's no extra clicks that are needed.
+This is a third task that is still being worked on in the next week or so. That should also be addressed.
+So hopefully that will make this whole process seamless for you or anybody else in the system that is working on updating existing forms.
+So I also have, I had reached out to your chief residents and they mentioned that they have the help that they need for the basics of metrics from the existing chiefs or the other graduating chiefs.
+And I mentioned they're okay for now. If there's any other questions that comes up, I'll let them know that they can reach out to me.
+https://www.loom.com/share/7b3da4b35f3f4627866701137b81ee77
+success
+Uploading Resources to Improve Our Process 📈
+Hey Mark, I wanted to record this video to explain something I'll be posting to the sales dry folder and This is, so over the past year or so, I've been collecting various resources as I read content on LinkedIn.
+And there's stuff regarding content writing. There's stuff from leadership, marketing, sales. So these are a lot of small articles and posts that has really good information.
+And I saved a good ones that I came across. Some of them I copied and pasted into a document. Some of them I saved as a PDF.
+What I'm going to do is upload these to a Google Drive folder. And what I want to do is start going through them and incorporating some of these things into our process.
+So for example, this first set of things that I have in here, it talks about four ways to build genuine connection.
+Join early. Have two or three questions ready for an observation. Listen to them. Build report and gives you ideas of like Good things to use when you're trying to build report with someone So for example, a lot of people talk about the weather zoom issues, which is not a good topic Something that is
+basic is not good, but if you have something that you found out about them from their profile, that's more valuable for a conversation.
+So for this, what we can do is before if we, have a demo tomorrow, we can spend a little bit of time researching the person that we're meeting with, the organization, and come up with two to three questions that we can start the conversation with.
+And that you can start the conversation with, and that is not necessarily about our product, but to build a relationship with them.
+Then there's other sections here so you can read through it. Some of this is something I'm going to have to work on, some of this which you're going to work on.
+And this is little by little we can improve our process if we use these tips that others have shared. So what I'd like you to do is read through these and then simply for each Section Section ideas that you can think of how we can incorporate that into our process.
+So this one has one, two, three, four, five, six, seven, eight, nine, eight, nine, eight, six, seven, eight sections. So, you can simply just put a, like under here.
+Put a bold text and then type what you think are good ideas. And then you and I can discuss them and incorporate those ideas into our process.
+And I'll also be uploading more content like this over time. You know, we'll do like one or two. Every couple of days and over this this way little by little our process is getting better
+https://www.loom.com/share/1f991d11b3cc47e18a92a834d35bcdb9
+success
+Medtrics - 21 June 2023
+On the calendar page for the institutional portal, program admin portal, we're going to add a new button above the calendar.
+Right here on the counter page right above the buttons for timeline week month and list view in between the two white sections here.
+We're going to add a standard blue button that says, create event. And when they click on that button, it will bring up this event model to create the event.
+That's the first update here. Second update is on the list view. We don't want this to be showing this blue background here because it's hard to read.
+You should all see, shown as white background. And then we also want to show on this page the name of the speakers, If there's a speaker.
+Selected and the internal speaker or the external speaker. So that's the second change. The third is a bug here. When I'm selecting a date and going in here, put 130A.
+Let's say I choose 11 a.m. To 12.30 p.m. Or let's put something incorrect. Here. It says enter date. If I choose a start time that is on the calendar event creation model.
+If I create a start time that is after the end time. I get an error that says end time must be after the start time.
+So this is a correct error, but the problem is that this save button is grayed out, even if I fix this problem.
+It still won't let me save an event. So we should not gray out this save button. And so that the user can save it, fix the problem and save it.
+https://www.loom.com/share/16e49ec5840c4dff84489ffad9a2d112
+success
+Bug with Email Notifications for Speakers 🐛
+This is a bug that is happening with email notifications for speakers. Currently we are sending an email to the speaker, Letting them know that they are a speaker for the event.
+It says the event QR code is shown below, but there is no event code being sent to them. So we wanna show the QR code here.
+We also wanna update this text message. Text that says event QR code. The event QR code below can be used to log a text that says event QR code.
+The event QR code below can be used to log a text that smart phone starting for tune-in minutes before the event, we can say the QR code below can be used to log attendance during the event.
+You may put this on your presentation so that the attendees can scan it and log their attendance using their smartphone.
+Attendance can be collected 15 minutes before the event till 15 minutes after the event. So we're gonna update the emails, include the QR code.
+And update the event text to say that new text.
+https://www.loom.com/share/f46faba84c374a498f5b73d848932ccf
+success
+Medtrics - 15 June 2023
+So this new feature, we're going to be adding it to the benefits module and when a new request is being submitted, we show on the benefits module when I go to the accounts page, go to a specific resident, open up their account and then click on submit request.
+I'm able to select the start date and date. The category and write in a description. What we want to add here is a way to select the start time and end time.
+If the user is selecting the same start date and end date. This transcript could include filler words which are transcribed when they appear as a part of the transcript.
+This transcript could include filler words which are transcribed when they appear as a part of the transcript. This transcript could include filler words which are transcribed when they appear as a part of the transcript.
+https://www.loom.com/share/08a6971d4d124340a522567dfa652f13
+success
+Medtrics - 15 June 2023
+So this is going to be an upgrade of the time off page and under benefits time off We're going to be able to click on one of the accounts such as select a resident Anthony click on the residents account vacation.
+And when I click submit request, if the user selects the same start date and same end date, we want to show two additional fields.
+Two different fields. One is start time and end time. And then if by default, it should be from midnight till 11.59 p.m.
+So it's a full day. But the use users will be able to adjust that to whatever start time and end time they want.
+If they select more than one day, so for example, if I choose June 15th to June 30th, then we won't show the start time and end time and it will be working exactly as it is right now.
+You won't have any changes. The idea, the goal here is to give users the ability to select specific start time and end time if they are only logging one day.
+If they're logging more than one day, they won't be able to select the start time and end time. And once it is saved on this page, we want to show request a dates shows when's the dates here.
+If there's only one entry and it has a start time and end time, we want to show it as such.
+So it will be Wednesday, September 1st, 2021. And then 8 a.m. Till 5 p.m. So it'll show the time here.
+If there's multiple days being entered, it will, on the table view, it will not show the time. It'll simply show the dates and as it is working right now.
+On the dashboard page for the personal portal and the program admin portal. On the time off section, we're going to show the same thing.
+If it has a start time and end time and it's a single day entry, we will show it. If it's a multi-day entry, they will not.
+Not be able to see this time. It'll just show the dates on the calendar view. If they, if they're looking at the calendar and it shows time off entries, if it's single day, we'll show the time off.
+With the hours, if it's a multi-day entry, we're going to show the full start time and end time. Same on the block schedule page.
+If I'm, if I have a resident that is taking time off, then it will. I'm going to show the time.
+If it's a single day entry and if it's a multi-day entry, it'll simply show vacation or whatever the actual account is.
+So you can see here, it says work related travel. November 28. Two December 1st. But if it was a single day entry, you would have shown November 28th, 8 a.m.
+To 5 p.m. So to summarize, what we want to do is give users the ability to select a start time.
+The time and end time if they are entering time off for one day. And on all of the pages where we show time off, we want to show this start time and end time if it is a single day entry for multi day entry.
+We don't want to show that. The time only. The time of the day is this also applies to email notifications that are being sent from metrics.
+So any email notifications that has the start the time off, if it's a single day entry, we'll still just show the start time and end time.
+https://www.loom.com/share/aca3f78dadaf43e587f9283b160f1cdf
+success
+Medtrics - 20 June 2023
+This is a bug that's happening on the evaluations page 2. Evaluation templates page 2. So on the program admin portal, go to evaluations, templates, and then, open up any of the templates that are in the system that have competency mapping.
+So on the demo server, it could be the cardiology and evaluation form. And on this page, if I open up a question.
+Let's say if I click Edit question and then go to the Link question tab, you can see that even though the system is telling me there are three core competency links, when I go to the Link question.
+Actually, so if I come to the page, go to link question, it doesn't show anything. But if I go and cancel out, of it come back in, then I see links here.
+But I don't have a way to change this. If I clear it, then I'm, I can't do anything. Thing. Let's go back in here.
+But if I refresh it, click edit, then I don't see the links. But if I unclick, then I can change it.
+So it's very buggy how this page works. What we need to do is make sure that if I'm clicking edit question, go to link question, it should show what I've selected and it should also allow me.
+To change those options if I need to. So if I click here, go to link, if I go to, if I go to the page, it should let me add selection to the right side.
+And then also if I want to remove something, I can unclick it, remove it. And then once I unclick it, the core competency sub, competencies of competency levels and milestones button should reappear and The best way to solve this is to apply a plug.
+On this model that we have created for the question bank. So this uses a different view, different page selector. And We can take this model and apply this to the other page.
+If there are any issues with doing that, please let me know.
+https://www.loom.com/share/cae5df8d4dc14de381f10a132358a92c
+success
+Planning for the Future of Talam 📈
+Good afternoon Kevin. Thank you for taking the time to go back and forth about these issues. I wanted to make sure that we are planning out our future with the Talam in a way that it's fair and You users that we have in metrics that are not deactivated.
+So in my previous email, I had mentioned that both Ross and AUC have over 8,000 active students. So, and many of them that were added.
+This year. In our discussions from last year, from the email sequence that you had shared with us, from the conversations with David, it was brought up by David that was brought up by David.
+When users are audited, if they are not deactivated, the numbers can be off. And as part of the initial discussion from what I'm reading here, David D had also, ah, acknowledged that there's an issue with, users getting deactivated in metrics, and there may have been a problem with the integration
+, but it was never corrected. And then, ah, David, and worked with you and Kevin McClaugh to come up with the process of totaling the numbers.
+Without deactivating the users which is not entirely a true count of the users in the system, because a user can be added to the system and either did not have some some data added to, ah, meet the, so for example, if a user
+https://www.loom.com/share/0293f713b24046bb8814f515c7e1c4ad
+success
+Metrics Update 📈
+Good afternoon Kevin. Thank you for taking the time to go through these issues and work through our concerns. I also appreciate you having a meeting with the team at TALM to plan out any changes for the future and we're okay with discussing that for next year.
+But there are, there is one concern that we need to get resolved for this year and that's the fact that we have over 8,000 trainees in both ROS and AUC that are still active.
+According to our SOW that we are working through metrics, ah, licenses are calculated based on this criteria here. Ah, each year the supplier will examine data on each server to determine the amount of unique student accounts utilizing any of the student modules.
+So the user's module is something that is being used by anyone that is, ah, that is active. So that's really how we define a user in the system.
+If they are act- if they have an active account and they can log in, That's- an active license. For historical data, if someone is a graduate and their account is made inactive, then that's being stored in metrics for historical data and it's not considered an active license.
+Last year when the count was being determined, there was a conversation between David Capach and and you and the team there about inactive users.
+Let me see. See if I can find it here. So initially the count was too high because there were users that were deactivated and.
+There was a conversation about the API not working properly and banner statuses were not getting synced into the system. So those users were not deactivated and there was a plan to manually clean that up, but it was never done.
+Instead the the report was used to calculate the numbers without looking at the active column. So what we need to do this year is fix that problem with the data so that we are, using that active status to, ah, determine if someone is a, ah, user in metrics.
+So if we clean up the inactive users, the count still, should still be the same because only users that are enrolled at the university for the, past year should have an active status or have data that has been added into the system within the last year.
+And if we look at metrics right now and select student users that has the active, active status, we have 8,523 users.
+And these are students that can potentially log into the system. This needs to be corrected on all of the servers, mainly ROS and AUC.
+So the active users are an accurate representation. Students that have been enrolled there. For any alumni that needs to have an MSPE generated, then they would also need a license since they're using one of the modules.
+But any alumni that is being stored in metrics for the sake of historical records, archiving, then that doesn't count towards any, a student license.
+And let me pull up. This last report here. So we can see here on this, this is the, ah, is active column.
+And once we update the users and metrics, then this also needs to be a factor in whether or not a user is active.
+Because this determines whether they're using the user's module and it's a a user that should be able to log in.
+https://www.loom.com/share/ff8e037a8938447f9190e9d597ef8350
+success
+Medtrics - 15 June 2023
+This feature what we'll be adding is an upgrade to the CCC report. So on the evaluations report sorry on the performance page under CCC report when you select a date range and choose a resident.
+Well, one small one issue that we have to fix here is whenever I choose a date range for the start date, I receive it a pop-up that says the end date must match with the start date.
+Must be before the start date but I that shows up before the start date. Before I even select the end date.
+So we should only show that alert after they select the end date. And then the other change we want to make here is when we when the administrators want to select residents, we want to change it to a radio button and from a radio button to a multi select so that they can select multiple residents
+and if they select multiple residents, we want to change the download as PDF to a button to e-mail report to me.
+So if there's only only one being selected, it will be download as PDF. If it is something that they're selecting multiple residents, we will show a button that says e-mail report e-mail reports as PDF.
+And when they click on that button, they will be e-mailed separate PDFs for each of the residents. And then,
+https://www.loom.com/share/d6f330c9dcdc4fe485925ac4bc86e260
+success
+Addressing Concerns About Active Users 👥
+Good afternoon Kevin. Thank you so much for taking the time to talk through these issues and for bringing this up with the team at Italian.
+We are fine with talking through the changes for the rate for next year. There is still one outstanding concern that we need to address for this year.
+Is the number of active users that are on these servers. So reviewing our SOW, the way that the SOW stated, we're going to be doing an audit to determine the amount of unique student accounts utilizing any of the student's module.
+The students module, the user's modules is one of the modules that is being used by a Talam for all of the schools.
+If a user has an account in metrics, they're technically using the user's module. But in reality, there are two types of users in metrics.
+Some are alumni that are being added for archiving. And there are users that are enrolled at the institution. So the active status is what determines whether they can log into the system and they're considered an active student.
+Last year, when the audit was being performed, this was a issue that was raised by David Kepatch, who mentioned that the counts may be off because users were not deactivated.
+And there was an exchange of email and David D had also mentioned that if the integration is is not deactivating users in metrics, that should be corrected.
+And in the meantime, the list, the list can be cleaned up. And then David sorry, Kevin MacLeod had mentioned that instead of doing it that way, can we do it using the number of logins?
+So that's not a good way for us to audit the number of users because login doesn't indicate whether or not a student is active.
+Because a student can complete tasks in metrics by never having to log into the system. Have email notifications that go out.
+They can click on a link and complete a task. You can add a schedule to the system and they and, and, and, or store data about a student.
+And that's still considered a student license. The that's why we rely on a. Combination of data points such as whether there was a schedule evaluations.
+But, and one of the data points is the active status. And that was something that was included on the audit report.
+But when, when we, when the calculation was done. It used the logins instead of the active status. And we never corrected the, any issues with the integration to update the, the status.
+So this methodology methodology has that one flaw, which is, and this was something that was discussed in an email with the and agreed upon last year.
+Okay.
+https://www.loom.com/share/a5ff9d03820f4638982ce595f66b7fa3
+success
+Update on Active Users 📈
+Good afternoon Kevin. I wanted to create this video so that there's more context to the issue that we're discussing with active users.
+So reviewing the email exchange from last year that you shared with us, there was a concern that was raised by David about deactivated users.
+Being in the system and that resulting in elevated student counts. And at the time there was a plan that David D had brought up about fixing the banner integration.
+So metric statuses are getting updated with banner statuses. And in the end, in the short term, the plan was to deactivate any users that are no longer active.
+But at that time I'm not, it doesn't seem like that that fix for the integration was done and nor was the users deactivated.
+Instead there was a change in the plan and the report that was generated looked into a few different data points.
+And then a total was estimated. I believe this, the estimate is accurate, but that we still need to clean up the active users, because according to our SOW, the, the way that we are meant to count these users, and this is consistent across all of our clients and industry standard.
+If an active, if a user is in the system, system and has an active status, then that's an active license.
+If they're graduated and they're no longer logging into metrics, their account should be deactivated and then it wouldn't count towards the license.
+So since a user's module is one of the modules that is being factored in. We have to address that. And if we take a look at the raw server and go to the users page and we have student user type, affiliation status is active.
+There's 8,523 students in here. This needs to be updated so that alumni accounts are deactivated and they can no longer log into metrics.
+And any users that are being added to the system for the sake of generating MSPE letters, those users will need a license.
+Since they're using one of the modules and they can be left active. And this is the same situation for AUC.
+There's over 8,000 users that are in both servers. I had a listed out the total counts in one of my previous emails.
+Here this was the count for until for May 2nd, 2022 through May 1st, 2023. And both of these methodologies. Should result in the, well, it's really, it's the same methodology.
+All we're doing is cleaning up the active users. The, because those users should not have an active status in metrics.
+And it was meant to be cleaned up last year. And once they are deactivated, we should. Get the same count that we're getting with the number of students that have data in the system or have logged into the system.
+And this is a column that we have on the report where is active is has a true. That is if it's false, then they're inactive.
+Please let me know if you have any questions about this and if you want to go over to Nicole, it can be available later this week.
+Thank you. Thank you.
+https://www.loom.com/share/a871141dc22c4d1eb4a9716471f164d5
+success
+Metrics Update 📈
+Hi Cathy, I got your voicemail today with the faculty members being added to the system. It's a great work on that, thank you.
+So for when we are using metrics, we'll have all the faculty in the system and, You can also see on the invite tab that when it's ready to be launched, you can go here to invite the faculty members into Metrics.
+So you simply go in here, select and click invite, and then it'll send them a log. In to access metrics.
+We don't need to do that yet, but soon. For incoming residents, if you need to get them into the system, this will be the same way you can do that.
+One thing to note here is the activation date for each of these are set to June 1st and and 14, this means that they will not be able to log into metrics until then.
+So if you, if that's okay, that's fine. If you need them to log in sooner than that, or if you need to send out any emails to them before that, you can adjust the activation date to an earlier date.
+The other thing that I noticed is that on the, rotations page, we started adding the supervisors here. So if all of those are done, then then metrics will be able to start assigning evaluations.
+If there are any missing, you can always go in here and click the icon to update them with the, supervisors.
+For evaluation templates we have in the system, the only other piece that's missing is going to be making sure that we have enabled the appropriate roles for those templates and the evaluate a role, evaluate the roles, and then we also have the next assignment date entered.
+So for example here, no active roles. So if I go to the assignment rules, I can. Check should this be automatically assigned if so then I can choose yes and apply the rule.
+So you can check all of them to make sure that the roles and the dates for the relative dates. Have been added.
+And then for schedules, whenever we have finalized it, we can always go in. Here and publish the schedules. So publishing it will make it available to the residents in the system and for evaluations module to start assigning evaluations.
+So let's click the publish all button. And lastly, under advancement, we can set that up. A rule to advance the trainees from incoming resident to PGY1.
+So if I select all my residents except for the PGY4s, I can collect advancement and then do we want the role to be changed to PGY1?
+You can set that on a specific date or have that updated today.
+https://www.loom.com/share/09ec01cf31b94d56985467137dbe0c15
+success
+Bug on Calendar Page 🐛
+This is a bug on the calendar page. I go to the calendar and I click print date range and I choose The from date and try to click one of the to date It doesn't it keeps closing the The calendar and the key popping up on the from date.
+So when I let's do it again. Click print date range go to from and then try to click to and it keeps closing the calendar and then opening the calendar in the from date as you can see in this video and there's no way to enter the to date for me to generate the I was able to generate it by typing in
+the dates. The data that comes out of the system doesn't match what's shown on the calendar. So you can see here Thursday, Friday, June 1st.
+Okay, so it is showing up here. And I guess what we need to do is make sure this we want to make sure the date range the two field works and then on this view we can adjust the font size a little bit so that it's the title is a little bit smaller and the dates are a little bit smaller And we can also
+show the venue and the speaker on there. Because otherwise they're not, actually we do have the venue and the speaker, yep.
+So the only thing you need to do is make it a little bit, bit smaller and that should be sufficient.
+And at the bottom it says quiet here. That fixed the filter for the end date. Adjust the, size of the font so that it's not so disproportionately big compared to the I think it's best to use size 10 font as the smallest.
+And then for anything that is Thursday calendar use size 10 font and then for Actually, I would use, let's try using size 10 font for everything and see how that looks.
+And we can use formatting such as bold or italics to select. And show. So for example, each of the dates can be bold, but they're all using size 10 font.
+That'll make it look more concise and how. Better aligned.
+https://www.loom.com/share/5f607001c53a470693a579754b4a4e18
+success
+Untitled – Figma - 1 June 2023
+So this is a update to the cases page on the training portal and if I go to cases we'll see that we have added this blue thing here where it shows the This is a update to the cases page on the training portal and if I go to cases page and I go to cases page and if I go to cases page and if I go to cases
+page and if I go to the case template, every time I select the case template it shows a description here.
+But there's a problem with this. One is it shouldn't show this text. Here, every time there is no description. It's unnecessary and it creates clutter.
+And the other thing is, it always shows the first one which is not convenient for some of our clients because they may not be logged in the first case.
+And you can see it just takes up space. So, what we want to do is slightly redesign this with the following updates.
+One will turn this into a card where we select, you put the field here, select a template. And when they select a template on the right side we will show case description.
+If there is no description to show nothing will show up on the right side. If there is only, by default, if there is only one template we will pre-select it.
+But if there is more than one template. We will show it as blank and they will have to pick one to log the case.
+The other updates that we want to do on this page is this bottom part. We can clean this up a little.
+In general whenever we create a table we should set the width to minimize the number of rows that we have.
+Because it looks cleaner when you have that. So for example increasing the width so that we don't have these arrows showing up in a separate column.
+And for something like status we can use icons and get rid of the text to save space. So we view the pencil the pencil icon and the delete and when they hover over we can show a tooltip that shows that means delete.
+And for the create date we don't need to create, show the time created for each of them. We can simply show the time with the date.
+And it'll be Monday, December 22nd, 2022, 2pm EST. And that will be it. That will cut down on the rows here.
+And for diagnosis scene and procedure scene, the preview button doesn't work or the hover doesn't work. We want to put that in the same color as this view and make sure that it's, works as a popover.
+I think we can use it as a tool tip. Currently it says NA if there's we can show it directly on the table.
+If there are several, we would actually most of the time there's only two things that are going to be logged.
+So primary and secondary. So let's make it so that it will show the primary diagram. And and the secondary diagnosis by default on the table listed out.
+And if it doesn't, if it has more than two, then we will show the preview as a popover or a tool tip.
+And then. Performance, same thing. It doesn't work right now. We want to fix that. And when we hover over, we will show the performance and for all of these columns, let's fix the width so that we don't have these arrows showing all over the place.
+And for search, let's update the search so that we rename it to Case, like, it should tell. The user, what they can search.
+So we can put parentheses case name, case name here. And faculty name. And for the these changes that we're making, we'll also want to apply the same thing to the for the table, to the faculty portal and the admin portal.
+And we'll also apply the width and making sure these models and popovers work and changing it to the icon.
+https://www.loom.com/share/e34c001fcc654b22910668520ec28232
+success
+Medtrics - 12 June 2023
+So in this video we're going to be reviewing bugs that are happening on the Performance page in the Program Admin Portal.
+And on the Program Admin Portal if we go to Performance and then go to the Competency tab, we'll have, a, sorry, not to the Competency tab, but to the CCC Report tab, we have a Select User field.
+And on this page, if I search for one of the residents, click on the individual's name, click Download PDF. It'll download the PDF for that individual.
+In this example, I'm downloading an exam report for Jacob Luther. If I'm an administrator that has several residents, and I type in the name of the next resident that I want to download the report for.
+It looks as though I have selected the next resident. In this example, it's Madison Meek. And it looks selected on the screen and I click download.
+And the problem is that you can see on this PDF, it's downloading. The report for the first resident, Jacob Luther, his report is being downloaded again, even though the system, the, the, the field looks like it's selecting the second resident.
+This is dangerous because a coordinator accidentally downloaded the the same report for several residents by mistake and then brought this to a meeting.
+And, and, and she did not realize that it was downloaded in the same report over and over because she simply typed in the name of the each resident and click the download to PDF.
+What we have to do is make sure each time the rest each time you start typing into the field and searching, we clear the radio button and force the user to click on it.
+Or. We only enable or, or we make sure that when they are filtered down to only one person, the person that is, the radio button that is enabled match the PDF that is being downloaded.
+That would be a. Better solution. Either we had to make sure that the radio button is cleared or make sure that the PDF aligns with the person that is at the the radio button is showing us selected.
+A couple of other bugs on this page, the select individual. On the competency graphs and the scatter plot tab. We want to make sure that the select individual or individual field is searchable.
+We can use the same searchable field that we can use. We have on the reviews tab and apply it to the competency graphs and the scatter plot.
+https://www.loom.com/share/e30bbded74a24b428c18ae82f5d17aae
+success
+Medtrics - 12 June 2023
+So this is going to be a bug on the performance page. If I go to competency and go to the on the program admin portal, then go to the CCC report tab.
+And on this tab, we have select user field. And the problem here is that if I search for one resident, let's say I search for Jacob.
+Luther, and then select the date range, click download as PDF. And then I want to do, ah, a report for another resident.
+I come in here and type in the name of the next resident. It looks as though this resident is being selected.
+So I can click download. Download, but you can see that that the system is downloading the re- the report for the first resident that I ran the report.
+So, it's very confusing for the user because is if I'm searching for someone and it looks like it's being selected, I could accidentally download the report for the wrong person and send that to someone that shouldn't see the data.
+Uphold camera and E like, ah, like, ah, like, ah, like, ah, like, ah, ah. . Similar to this. So,
+https://www.loom.com/share/339e4f2a3a1645a0a8ceed25559d2aca
+success
+Summary of Outstanding Concerns 📝
+Good afternoon, Kevin. Thank you for taking the time to talk through these concerns and for bringing them up with the Italem team.
+So as for the rate adjustment, this is something that we can talk about in more detail in a future call and work through that for the future.
+There is still one outstanding concern that we have about this year's renewal. I wanted to summarize everything in this video with more context.
+And but I am available to meet if we want to talk about this in more, more in more detail. So according to the email chain that you had shared with me for last year, one of the outstanding concerns that David Capach had brought up in the email was the number of users that are, that are
+still of active status. Users who should be deactivated is usually the reason why the numbers are off. So if someone graduated from the school in the school, then their account needs to be activated so that it's, they cannot log in and they're considered an inactive user.
+That is one of the, one of the ways that we audit how many licenses this university is using. So this was brought up by David the CAPAC last year.
+And David D had also mentioned that if a student status is supposed to be coming over from Banner and it's not working, that needs to be fixed.
+And and then there was a plan to manually deactivate it. And then shortly after, after that Kevin McClaw had brought up an idea for calculating the log actual logins into the system to determine anyone use the system.
+So that's not a good way to use the use the the or calculate the number of students because the fact that users data is being stored in metrics for different academic processes means that it's, it's an active account and we're responsible for that data.
+And some of the tasks can also be completed without log. Being into metrics so evaluations can go out and people click on the link and complete the task without having to access the the, the interface.
+So this audit report does factor in multiple things that user has used, such as whether evaluations were completed. Case logs are completed and active status was also one of the things that are on that report.
+However, this is not something that was used when when the total numbers were calculated last year. Instead it was, it was.
+Based on the last login and not the active status and the number of active users was never corrected. And technically any one of those students can be logging in because their account is active.
+So. What we need to do is update their statuses. So the number of active users in metrics lines up with the number of enroll students.
+And this is also consistent with our SOW. Which states that an audit of actual license usage for the particular school of the proceeding here will be completed by the supplier, vice-applier via examining data for each user.
+E.
+https://www.loom.com/share/54e630ab76e94ca6bb3ba5464b89688d
+success
+Medtrics - 1 June 2023
+Hey Mike, for this functionality you can go to demo server, go to im program, scroll down to system setup integrations, and then choose trainee and choose one of these two trainees and you will see what data comes in through eras.
+The problem that we have is when we come, when we get this data, we only have a way to create a user.
+We don't have a way to select an existing user and update their data. We don't have a way to start using what's in here.
+So what we want to do is at the bottom, we turned this into a card and inside the card, we will have a radio button that says create new user in metrics.
+And when that is selected all of these fields would show and the second, and function exactly as it is right now.
+The next option, the second radio button will be. Actually, that may not work because that may prevent people from looking for it.
+What we can do is instead do a step by step thing where. Or at the bottom it says search metrics to see if user exists.
+And then what we want to do is. Give them a button.
+https://www.loom.com/share/ce360ce4f80a4c268e91cef3e751e897
+success
+[DV-1549] Design Task: Clinical Schedules - Feature for Notifying Residents and Faculty of Schedule Changes - Jira - 1 June 2023
+Hey Mike, so for this feature, what we can do is add a setting under System Setup Settings, Hey Mike, so for the setting under Schedules, it will be enabling notifications for schedule changes.
+And we can under it, we can say if the setting is enabled, metrics will send out a summary of schedule changes.
+At the end of at the end of the day. So it will be one email that summarizes all of the changes to the block schedule and all of the changes to the shift schedule.
+And what we want to do is. Take the. Go to the site rotator report and we could create. A table like this.
+On in the email, so. Each change will show and. The old and the new so that the person knows that it's a.
+Like a. Whether was it? It. Schedule those edited. Or I guess I guess what we can do is.. It can list out.
+What was removed one section that says what was removed another section that shows what was added and it will show both.
+Shift schedules and block schedules and we want to include the first name last. I'm sorry that not the name because it's only going to one person.
+We want to include the site site name site code. The date. The start date and date. Start the time. If it's a shift, start time and end time for shifts and the rotation name or shift name and the rotation code.
+Depending on what it is. And we can also have a bootstrap tag that shows that whether it's a shift or a.
+Rotation. So. Hi. On. Or we'll do added first. It'll be two tables. One after the other. And type. And that'll be the bootstrap tag which is shift or rotation.
+And name. Or it'll show the code and the rotation. Or it'll just shift name. And the same thing here shows you all it's removed.
+And it'll be one summary email that gets sent out at the overnight of all the changes that were made that day.
+https://www.loom.com/share/bebf3e25494341c49ef067c43af7e8ba
+success
+Clinical Learning - Google Docs - 12 June 2023
+In this video we're going to cover the process for handling the clinical learning evaluation. This is a custom process that we have created based on how the evaluations are done for the laboratory courses as well as for the clinical courses.
+Going to go through this step by step. And the first thing that I want to cover here is we have two sections in this document, clinical learning evaluation, laboratory courses, clinical learning evaluation for clinical courses.
+And for each of them we have different set of forms that we're going to use. The goal is to drive this automatically based on when the students and the faculty members need to complete certain things.
+Under the paper format that we, the school is currently using, they are having access to everything at once and they're filling in.
+Handing it out and then handing it at the end handing it into the school at the end. Here, the goal is, as they progress through the eight week section, different things will get assigned to different individuals and they'll complete it and that may trigger some other action that someone else has
+to take. So let's go through each of these. First thing here is laboratory courses. And let's do that. Laboratory courses.
+For this, we're focusing on the evaluation components. I know that this document does have skills sections. And return demonstrations on here.
+That's going to be handled in the case logging module. But for this discussion in this video, we're going to be on on the discussing the competencies and the comment fields that they have to complete.
+So. We have broken this up into five forms. So we have. The midterm, the final, and then the weekly feedback.
+So the midterm is going to have two forms, one for the student, for the self-evaluation. That will contain. All of these competencies and the section from here, which includes the comments and, the goals areas progressed on, areas to focus on, as well as the.
+Overall evaluation. So if we go to metrics and we open up the laboratory courses form, you can see the competencies and at the bottom we have overall performance, student learner comments, goals, areas progressed in.
+Areas to focus on. Then the idea is that our outbound module will. See that the student has submitted their evaluation and then assign a faculty evaluation.
+The faculty evaluation will have the same set of questions for the competencies, the overall performance, but their own different set of comment fields.
+And we're going to use our summative, summative evaluation functionality so that the faculty members can see the student's evaluation. When they're completing their own form.
+So you can see here, faculty CLE form, open that up. So I'm looking at it as if I'm a faculty member and you can see this was assigned for this rotation here.
+I'm using chamber lens post license program as a for the courses. So that's why it's joined those courses. But when the BSN program is set up, it'll show those, the appropriate courses here.
+But you can see I'm a faculty member. I've opened up a form for. For completing an evaluation for this test user right at the top.
+I can view what the student has submitted and read through everything. Including the comments, and then I can fill out my own form and submit that to the school.
+So it's a streamless process for the student to submit it that to trigger a evaluation from a faculty member and the faculty member being able to submit it.
+You're able to see the student's submission at the top so that they can they don't have to go to a separate page to look it up.
+The same thing will apply for the final. So I have a final form for the student. When the student submits it, faculty's form will be assigned.
+And then they'll be able to complete that. We can also set it up so that both forms assigned at the same time and the faculty can see that the student hasn't completed it.
+That's also a possibility. It's just a setting that we have, it's simply a setting that we have to enable. Next thing here is going to be the, ah, weekly formative feedback.
+So if I look at this form, we have our, weekly formative feedback for eight weeks for that. We're going to have.
+This simple form where it will be assigned on a weekly basis. Add a new basis to the students. And when, when the student submits it, the faculty members will be able to.
+Write a comment and then the faculty and the students can then go back and review the comments and acknowledge they have reviewed the com, the feedback from the faculty.
+So let's take a look at that. So you can see here this is a weekly formative feedback comments that was submitted by our test student.
+If I was to open it up as a faculty member. I can see the comments and then come down and submit my review.
+https://www.loom.com/share/4eaadbf2ee3b4b51b97de1bae26f6f10
+success
+CU - Return Demonstrations
+For return demonstrations, again this is going to be the case logging, since it is a case log that they're entering.
+The difference is going to be for return demonstrations we're going to have to keep track of the first and second attempts.
+So we can have one form template. Which will have all of the diagnosis, that'll be for the first attempt and then that's a copy of that for the second attempt.
+So the faculty when they're seeing a student perform one of these demonstrations, they'll use the first form initially and if for some reason they failed it and they need to repeat it.
+They'll have a second form. For the second attempt and that way we can use a second form to trigger a CLC if needed.
+And then from the student side. They can keep track of the different procedures and whether or not they met the requirements.
+So for this example, we loaded the return demonstrations, but you can see we have an update of the minimums. It's, it's going to be.
+One and once they have successfully logged a return demonstration, have it approved, it'll have met the requirement. And if they, if they log it and it's it's a failure, then they'll be able to we'll have that.
+That in the record but it will not give them credit. And then the second time they submit second time they attempt the return demonstration.
+If it is approved, then it'll give them credit. If it did not get approved, then they will, we'll be able to.
+Use that submission to trigger a clinical learning contract. So that part will need to be custom developed, but I believe that will give the faculty members the easiest workflow.
+So I made a note of that here. We have to. Add the ability to generate a CLC from a case log submission.
+And then we'll also need to figure out how we're going to notify the retention advisor if the student fails the course.
+https://www.loom.com/share/920ac9de6b684cfeac845126588f230f
+success
+Medtrics - 31 May 2023
+Good afternoon. I wanted to create this video to review some of the setup that we have done already and also to make a list of things that we had to finish up.
+So starting with the users page, one of the things that I noticed is that we have all the residents in the system.
+We also want to start working towards creating any of the faculty members here. Starting with the residents, we created them from eRAS.
+So this will usually bring in the eRAS email address and showing their medical school email address or Gmail account. You could.
+Once they have a email account with your organization, you can always go in there and update it. So it's possible for them to use your institutional email to log into Metrix.
+So that's done by clicking the button, clicking on the person. Click Edit Demographics, and then changing that email address when it's, when it needs to be updated.
+And then currently we're using incoming resident for their role. When it, when it comes to New York, we will want to come in here.
+And update this role to PGY1. Next, about the faculty members that are going to be training these residents, we need to create those accounts in metrics too.
+So this can be done two ways. One is using the add person faculty option, and we can use this to create each account one by one.
+And when we're making this account, we need to specify the first name, last name, email, address, and then the role is going to be mostly post core faculty members.
+But if they're someone that's not part of the core faculty, you can put them as supervising physicians and everything. Everything else is optional.
+If someone, if a faculty is being created and they're going to be managing a specific rotation or set up rotations, what I mean by managing, I mean there are going to be completing evaluations for a specific resident.
+You can add them as a supervisor for that rotation directly from that user creation page. So I can click this and choose one of my rotations and then any time a resident is assigned to this individual.
+So that's the manual creation process. There's also a bulk import functionality in the top left. So we can do a spreadsheet and then do an import and that will be a create multiple faculty members at once.
+So on the users page, create making sure the residents are updated with their contact information and ensuring that the faculty members are added are the two next steps.
+Anybody and anybody that is added to the system. We'll need an invitation on the invite tab so they get a temporary password.
+They're able to log into metrics. Then on the calendar page, you could create events for any of the things that's going to be happening in the residency program.
+This could be orientation events. It could be a noon lecture that's going to be happening. So the residents are all going to be having morning lecture or noon lecture.
+You can go into the calendar and create an event and then invite them using their roles. One thing I want to emphasize here is right now they're all set up as incoming residents.
+Whenever we invite them, we will also want to use the PGY1 role because we're going to be changing that role later into PGY1.
+And you can create, repeating events if needed for any sort of lectures and stuff that's going to be happening on a recurring basis.
+Then we have the schedules. To set up the schedules, we have to make sure that we have the, rotations added.
+So on the rotations page, let me make sure I'm accessing it as a, There we go, okay. So on the rotations page, we have 20 rotations added.
+Want to confirm that everything that we need is in here. Linked to the correct site. And once we have the correct site linked, you can also specify which faculty members are going to be in charge of each rotations.
+So that's done by clicking on a specific rotation and choosing this. Icon for faculty slash staff. And then I can say this individual, Kathy, is going to be a faculty member for this particular rotation.
+So once you have, this is, this can only be done once. The faculty members are added to the system. The last piece here is content.
+So if you have goals and objectives that are created for each of these rotations, you can click on the View Resources button and that will open up this folder and I can add a file that will be sent out to the right.
+So this is going to be for capturing any sort of goals and objectives or other resources they have to be aware of before they start a particular rotation.
+Once we have the also. So. If this particular site is not in here, we would want to create that on the sites page on the institutional portal.
+So. Now all sites have to be added from the institutional portal. Even though you can't see them on the person on the admin portal, all the institutional administrators can create new sites.
+https://www.loom.com/share/f0d0657dd0c742259f162f5cc6ad1b1a
+success
+Clinical Learning - Google Docs - 12 June 2023
+Good morning everyone. It's been a few weeks since our last call. I wanted to put together this video to summarize what we've been working on.
+Over the past month or so, we've been looking at each of the different processes that CU has for the BSN program and then figuring out how we can digitize them.
+And I'm very excited to share this document with these videos so that you can review them and provide any feedback.
+And I believe we, with this onboarding plan, we can fully digitize the entire BSN journey. And there are some customizations that we have to do.
+The goal was to try to, how do we get this fully in metrics and easy for the faculty and students to use.
+So let's start with the, the attendance process. So attendance is going to be handled using case logging and the schedules module.
+And we're going to be loading the clinical experiences into the block schedule for eight weeks. And that's going to be what is tied into the case logging.
+So when a student logs a cage, metrics knows which site or rotation that they're going to be going to. We'll have two templates, one for lab and one for clinical, and each of them will have a different set of questions.
+And one of the questions on there will be what type of activity are you completing? And if we go into metrics, this is a demo environment that we were using to test out these functionality.
+So if we go into case log, we have a few fields that we added here, but you can add. More, you can select the age, the case setting and the date.
+And when you select the date, it'll automatically select the appropriate rotation if there was an attendance record entered or it was a schedule entered.
+And then you can select like the activity type. So again, this is a proof of concept. You can have as many fields as you want here that captures all different details about the case.
+What we were trying to do is mainly capture the case log type for this testing. When we actually do, the onboarding, we'll be able to add additional fields like the diagnosis type the, ah, more details about the, ah, the, ah, site and anything else that we want to add.
+So two case templates, one for key, ah, clinical logs, another one for, lab case logs. And you can see here, for this one, I had added some duration field.
+So we'll be able to add the same thing for the clinical and capture how long the case took. And the date will give us the attendance that we need.
+https://www.loom.com/share/020cd0cf54144bb190c25af50887d16b
+success
+DreamStudio - 30 May 2023
+Hi, Ericsson. So for using this Dream Studio platform, what we want to do is I've set up an account for our Hello Metrics account, so you can use it for generating images, and you can see click generate image, and there's different styles that you can use.
+So let's say we do origami. And then the prompt is going to be what it uses to generate the image.
+So this is just a direct, this is a sample prompt that it created. I can click on this to create a random one.
+And then there's also a. Way to edit how many images it generates. You can usually generate four at a time.
+So this each time I generate is uses some credits. That we have purchased. Feel free to experiment as much as needed.
+And then. So if I click generate. So it created this. Then here, let's see if I want to do a doctor getting an award.
+Then you can see that I changed the prompt image based on that. So if I don't want to use origami and I want to use a different style, you can change that.
+And you see that this one for example looks pretty good and we can probably use that. It takes a bunch of experimentation and you could come up with different images.
+And then you can download it and use it. And it also, keep in mind that this is not, doesn't have to be the final output.
+You can probably export this, bring it into another software and make edits to it.
+https://www.loom.com/share/dc8c73d321714cae8f397c4f7c613d7c
+success
+Write up Dev Tasks - Google Docs - 30 May 2023
+Alright, so in this video, I'll review how to go from a loom video to a Jira task. So let's say one of the team members put together a short video explaining a bug or a feature request, and I created a sample for us to use.
+And we're going to use this prompt to write up the bug or feature request. So to get started, I'm going to go to the loom video, go to transcript, and have that ready.
+Go to the prompt here. I don't need this top part. I'm going to say new chat. GPT4. Taste. And in the transcript section, copy.
+Paste. And let's see what it comes back with. Okay, so we have what we need and you can see that it picked out.
+The the bug option and it created the bug report. So to do this now. I take this. For here. Create.
+And since this is a bug, we'll create as a bug. And what I'm going to do. First is just. Paste this in here.
+Move this up to the top. And put this here. Off. This go under here. And then, ,and then we also have a video, the original loom video.
+We'll get at it here. So you can see that it made a mistake here. I put demo.retrixlab.com. There we go.
+So we have an overview of everything that's covered. And for whenever we're using this, we always want to watch the video and ensure that what the system, see wrote is correct and not I'll something that it if there's any mistakes we'll do manually correct that here.
+https://www.loom.com/share/96fcfa1078c34019abacb278d8c01e24
+success
+Untitled document - Google Docs - 8 June 2023
+So this is going to be a summary of. Ross universities meeting with us to review the plan for the new curriculum.
+Ross university is going to be migrating to new curriculum starting fall 2023. Their current curriculum. Follows a spiral format. The spiral format where the normal and abnormal are taught separately.
+New curriculum will have both the abnormal and the normal talk together. So for example, Physiology, the abnormal physiology start. In a different course than the normal physiology.
+The curriculum the new curriculum will have single module format where the physiology, for example, will have the abnormal physiology And normal physiology in one module.
+There'd be two modules offered per semester. There are three terms per year, 15 weeks each, and each of those terms will have two modules.
+The first semester that, or the first term. That we'll use a new curriculum is fall 2023. And this will start on September 2023.
+And we'll, as part of this new curriculum. There will be a change in the mapping of the objectives. In the new curriculum, we will have global objectives.
+And we will have to program objectives. Program objectives map to course objectives. Course objectives map to session objectives. So for the first semester, the school has already.
+We finished the mapping and that information needs to be imported into metrics. Going forward after every term, they will have.
+A new set of modules starting each term, so there'll A term for the spring and they'll have. Two new modules that is switching over to the new curriculum.
+A module is made of.. Okay, so the action items for the school administration is the following. They have to the school has to create.
+. New. To create new course content. Including the objectives and the mappings for each each of the modules that are changing.
+So for the fall and. Spring each of those two modules that are changing. They have to create that content from by mixing.
+The existing modules. Yes. The existing modules will be mixed together. So the first step will be to. Think. Decide what information sh the first step is setting up the d levels that are switching o we will want to create t import the data using s Sprehm machine convert Source and that can be done
+when it comes to the coding We also want to use a coding structure that uses the name.
+https://www.loom.com/share/bb802deaee644b0d98622f0f1fc07971
+success
+Medtrics - 25 May 2023
+Hey Marcus. So for St. James, they came to us in I think 2019 or 2020 and initially we work with them to streamline their curriculum module and migrated all for you.
+Here's their curriculum to metrics. Then I reached out to them about expanding to the clinical side and I I'm not sure what they're doing.
+It's based out of. Anguilla. I don't know how to pronounce that, but they have. Students that go there for the first two years and then they come to the United States and do clinical rotations at various hospitals.
+So Joe and his team manages the clinical experiences. So these are going to be the clerkships and the electives that the students have to do in the third and fourth year.
+So Joe's team includes, Joe's the manager and he includes multiple coordinators. They take the students that are coming into clinicals and they find clinical rotations for them in different hospitals or the students find them sometimes and they make sure that that site is approved and schedule them
+there and then they collect performance evaluations from the students and the preceptors there and once the evaluations are collected they also put in any sort of funneled grape.
+So, the big projects that we have worked with them on is about scheduling. So, we have created various schedules for all their students and these metrics and then as they go from one location to the other, their schedules are configured in metrics and published so that students know where they're going
+and administrators have one step to the other. So, we have a central place to manage this instead of doing it via Excel and then also the external site coordinators at each of these hospitals can have access to metrics and those hospital administrators can see which students are coming there.
+In advance. And they're also using our case logging module for keeping track of various patients that they're seeing at these hospitals to make sure they have good clinical experience.
+And they're also using evaluations to collect feedback from the preceptors that work with the students. So streamlining all that process for that team and coordinating everything in one platform has made it easier for them to send these students to different hospitals across the country and keep
+track of where they are. Make sure they have all the academic requirements. And we are ready to be graduating and completing their medical training.
+We also work with them over several months to streamline these processes. We do 30 minute calls with them where we discussed their process and helped them clean up the data and centralize it.
+Everything Joe was included in the initial presentation. So he was not the decision maker, but we demoed to him and his team.
+And they provided feedback to the leadership to purchase metrics. So it's it's definitely a. He was involved with the buying process.
+The fundamental problem I would say is, is, is going to be that clerkship scheduling and, and scheduling is probably the number one, but then collecting that data associated with those students are scheduled there with case logs.
+And evaluations is a secondary thing. But but the scheduling is probably the number one. So how has life changed since then?
+They can manage everything in one platform, provide real time visibility to all the stakeholders, including students, and then keep them updated or any of any changes.
+So purchasing decision was made by me talking to the the vice president of the medical school, and then Joe and his team was brought in to look at the demo and then make provide their feedback.
+And once it was purchased, they started using it. And okay, hopefully that helped. Please let me know if I can provide anything else.
+https://www.loom.com/share/10301226bdb14ee5b21dc71bb99145d5
+success
+Medtrics - 26 May 2023
+So this change that we're working on will apply to the personal portal. There are four personal portals that we have faculty, staff, student, and resident, and it's going to apply for all of them.
+And what we're doing is consolidating the reviews. The reviews evaluations page with the evaluations page over here. And. We also have these rotator report and evaluator report that shows up under review.
+. That we'll leave there for now. In the follow up task, we'll consolidate that too. But what we're doing is taking the evaluations page and putting it.
+Like the review evaluations page and putting it as a separate tab on my evaluations. So. For. Each of these pages.
+Mike's video will go into the specific detail. And the main thing is that we're applying the same.. Same code that we are using for the advent side and we're trying to consolidate the views into one.
+Page that shows different data based on who's using it. So on the. The evaluations page will have the reviews evaluations will be moved to reviews here and it'll have the same.
+Now that we have one of the things that I wanted to make sure that we adjust here is. That we have here.
+This first. First page has the original view that we currently have. And this is the new view where we. So status evaluation status.
+This actually, we only need to have one status. We will need two. And then. A value t roll. Actually Mike, so there is, so evaluate t and evaluate tour when I was discussing the role here.
+It would be for, It's eleven o'clock. So, yeah, so if it's gonna be selecting the value at, you can select one or more, or you can select the whole role.
+And the archived. The archived, yes or no, we don't need it. Since we're gonna be including it as a status.
+The status and the top so they choose archived, it will show the archived ones. It will be good if we can use a different color.
+So maybe on archive would be green and then archive would be red. So it stands out when we're looking at it.
+YMak 1k f8eatingf8
+https://www.loom.com/share/c76e050954c84c028c06670ab640e04d
+success
+Course Mentor Reviews
+In this video we'll take a look at how a course mentor can look up portfolio items and provide feedback to the students.
+As a course mentor, when you log into Metrics, you'll see a evaluations and assignments menu item on the left left navigation.
+So, if you click on it. Evaluations, a sub menu will open up and it'll have an assignments page. On this page there'll be several filters at the top that can be used to narrow down the student or the portfolio items that you need to work with.
+One of the filters, for example, will be the Evaluate Tour filter that can be used to find the student's name and there's also a filter called Forms that can be used to find specific form that you want to work with.
+The status of a submitted status of a portfolio item should be submitted in order for you to provide that feedback to the trainee.
+So if you scroll to the bottom, you'll see a table with all of the submissions. And if you click on the view most recent response button, that will open up a new window where you can submit a review.
+This is what that window looks like and at the top it'll be the name of the person that submitted the form.
+And then there'll also be questions that they answered or the attachment that they submitted with the portfolio item. And although at the bottom, if you look at a section called review and sign, there, there will be a field to write any comments and a drag and drop section to attach a file.
+So if the student sent a file with their, with their portfolio document, you can download that file, open it up in your local computer, review it, and then put any comments into that document and attach it back into this, this window.
+And then when you click sign review, it will send the comments along with the attachment back to the student. And the last screenshot here, we're looking at what the review will look like after it's submitted by the course mentor.
+We have the signature of the course mentor and the attachment that they added. And the student will receive this on their end and their portal and they can download it, look at it, and resubmit the portfolio item with the feedback incorporated into it.
+https://www.loom.com/share/146ce3a85ebd4c78b8fc16926575fddc
+success
+Medtrics - 8 June 2023
+Hi Claire, so for this staging server, it will have a backup of your production database loaded every day. And in order to log into the staging environment, you have to use a loaded every day.
+And in order to log into the staging environment, you have to use a sign-on for accessing metrics right now. You will not have a login in metrics.
+So what you have to do first is in your version of metrics, the production environment, you can go into your profile by clicking on it, click edit demographic.
+And then go down to change password and then set a password for yourself. And what happens is overnight, this database will get loaded.
+Into the staging server and then tomorrow you're able to log into metric using this password that you set. So the first step is in the production environment, create a password.
+Then second step is tomorrow, go to the staging URL and log in using that password. And then once you are in staging, you.
+Can do whatever you want and the staging environment gets wiped out every day with the new database from production. So any of the changes that you make will only be there for one day.
+If you need to be testing it for multiple days, there is a way for. Just to keep the backup from getting loaded.
+You can let us know if you need that. Otherwise it gets refreshed every day. But since the password that you created was set up on the new database is loaded, it will have the same password.
+https://www.loom.com/share/1705e04af0a54598869aaa9ec87aa14d
+success
+DV board - Agile Board - Jira - 1 May 2023
+So this video I'm gonna go over how to quality check the specs. So some of the things that I'm looking for when I'm looking at these items in WIP.
+So the first thing I'm noticing is that some of these tasks are put in as tasks. I'm not sure if this matters.
+I'll leave it alone for now. And my assumption was we had to put as feature. Or a bug. And then the next thing I'm looking for is whether it, what is written here is clear.
+It's not necessary for the, functionality check to figure out exactly what is wrong with the system. If the person doesn't know the functionality.
+But fairly is making sure that what's explained here is, is makes, in the sense users program administrators button, the model should only show users that are active administrators.
+So, this is pretty clear. The things that are missing here are the URL and a video. It's missing those two items.
+So, I'm going to put this as, Design done. What we need is to fix, Finish up the specs. Next up, Dashboard for admin users only when several videos are added to the announcement section.
+It breaks out of the container. It breaks out of the container. So this is something that we will need. We need to show the devs how to recreate it in a loom video.
+And unless this is, if this video is still on the AUC staging server, we can. Show it on a loom video and use that.
+So it's missing a loom video, basically. And the other recommendation that we want to have here is what should a dev do?
+Is it, if they have four videos like this that are added, should they? A shrink it down and show it in there or should they stack them on top of each other?
+So that's something that we want to put a recommendation in there. So essentially for quality checking, I'm seeing the problem.
+And I'm seeing the problem here, but it's missing the solution. The devs are,yeah, so these are all just sample text.
+It's not giving the dev what the solution, should be. And it's also missing the loom video. Hm.uh. Nuts seeing the.
+Design status. On the feature. Anyway, so that's if I had the field, I would have added as. Design in progress.
+Next up we have. This is. So I'm. Noticing a problem here. With the workflow. This is currently. In a whip.
+It's missing details. And there's no way to. Sign off on it as being ready. Since we don't you we don't have the design status.
+For bugs. Anyway, so continuing on. We'll figure that out later. For. This task here. Benefits time off accounts really confusing because we will don't understand what.
+There's not really anything here. So I'm gonna move this out of whip. Indicate. The clase duration, feed migration at an hours.
+. Yeah, this is doesn't have anything in here, so I'm not sure what why this is in whip. And I don't have a way to.
+Put a design status here. Use the high black schedule. High pass.
+https://www.loom.com/share/726dc92803b947e5b921c4f40c44bfe9
+success
+Medtrics - 24 May 2023
+So for this task, what we're doing is taking the curriculum course summary report, and then we're going to put that on the personal portal.
+So if we, go to curriculum, setup. So we go to curriculum, setup. And permissions, we can give view only access or edit access to different individuals.
+And we can also give director access to individuals. So if someone is given full curriculum access or they're designated as director of a course, they'll see the curriculum in their personal portal.
+So let's. Pick. Don't think we have any test users here. Let's use metric support and we can see curriculum here.
+Go to reports and then we have a set of curriculum reports. What we want to do is add that other report here.
+So when, We run the criteria. We can select the courses that we're in charge of. If I'm a course director, I can only see the courses for my the my courses.
+If I am a, leadership person that have access to the full curriculum, then I can run the report for the entire curriculum.
+So if they have view or edit access to the full curriculum or if they have course director access, we'll show that report and then be able to select the courses they have permissions for.
+https://www.loom.com/share/6b3428309f894b7d854328a1acbad520
+success
+CU BSN User Access - santhosh@medtricslab.com - Medtrics Lab Mail - 2 June 2023
+Hi, Faria. I hope you're doing well. And I'm looking over these comments here. I'm assuming this is for the different users that will be engaging with metrics for the BSN program.
+So first thing that I want to comment is the, User categories will likely be created as separate metrics roles. And we create the roles on our end once we have decided what's appropriate.
+And in general, it's always best to be generic. Then use roles that match any sort of real world titles. So for example, like Dean of Academic Affairs versus Associate Dean of Faculty.
+In metrics, we simply will create a role called Dean. And that should cover any of the metrics. For something like Faculty of Record or Primary Instructor, we would simply either use like core faculty or faculty or primary instructor.
+And then, it, a clinical visiting professor would also be a faculty. A preceptor may need to have a separate function functionality metrics so we can create that as a separate role.
+And a good way to think about this for metrics is think about how information will be assigned to them. So for, if you have evaluations that are going to be assigned, we can target different evaluations based on people's roles.
+So if you have a bunch of evals that are going out for preceptors, then you want to have a separate role for them.
+If those evaluations are, you don't want that those to be assigned to faculty. Another thing here is faculty primary as well as secondary roles for.
+https://www.loom.com/share/520b825c846a4a6ea8e319c9fad16da4
+success
+How to add new faculty and set them as Rotation Supervisors
+This video will take a look at how to create a new user. To create a new user, Click on the users page, go to add person and then select the type of person you want to create.
+I can choose faculty, then I can add a photo by clicking add photo for the name of the program. I'm going to select the specialty, then first name, last name, then an L address, and then home institution, role, and activation date.
+Those are going to be the required fields that must be completed to create this user. They all have a little morehammed v they also have an L address 15 ribbon and om faculty member you can add them directly to a rotation by clicking on this update rotations button it'll show a list of all the rotations
+in my program then i can click add and it'll connect them to that rotation so instead of having to go to the rotations page and selecting faculty members it can be done directly from the user creation page so when we add a rotation supervisor it's telling metrics that this individual will be responsible
+for completing evaluations for that rotation. So once it's added you simply have to maintain the schedule for the resident or student and metrics will automatically distribute evaluations to the rotation supervisors.
+So that's why it's important for us to designate that here. This once you update it here you can always go back to the.
+The rotations page and change the rotations of advisor if necessary.
+https://www.loom.com/share/fc312826e63b42518bea0785fc4eac85
+success
+AACOM Conference.pptx - Google Slides - 26 April 2023
+So here's a slide d*** for the AECOM conference. When you're meeting with the people that come to the booth, first thing to find out obviously is to what institution they're coming from, what's their, role, and once we find that information, then we can kind of customize our pitch to what their
+needs are. This starts off with the overall big picture of our, our company and how we are focused on making sure that the medical students and the educators have more time to teach and learn by making the platform user-friendly and being able to get things done fast.
+And then the next slide kind of covers some common trends that we've noticed in the market and where the trainees and the faculty members are frustrated with software It's difficult to navigate, administrators are frustrated with the amount of TD's work And here you can ask like how do you manage your
+schedules for your pre clerkship and clerkship And the pre clerkship they may tell you that they're managing it on google calendar or outlook or spreadsheets And for clerkship they may be managing it on a excel and emailing it back and forth And that gives you an opportunity to get into the conversation
+about how metrics would streamline that And make a personalized calendar for the pre-clerkship students For ACOM schools or the DO schools that personalized calendar has been a huge hit Because most of these schools are creating some generic calendar Then their students have to reference a spreadsheet
+and figure out where exactly they're supposed to be and what group they're in So for MSU, KICOM, Kansas City They were all excited about the idea of having a personalized schedule for the students And for the clerkship, the big things are the schedule that allows the student the site administrators
+to have visibility to who's going to come there, being able to collect evaluations and case logs and emphasize the importance of case log and how they can track whether or not the students are having enough exc- exposure and whether the site itself has enough patience.
+So those are the things that's, that can be branched off or from the administrators being frustrated. And the last thing is the IT and how the metro- metrics is able to integrate with other platforms and the deans and people like that may not really care too much about that.
+But they, you know, you can mention the idea that metrics plays well with other systems. And this slide. It's not really a lot to go into here other than to highlight a few major things here.
+The requirements module in medical school, they call it compliance tracking. So we're, we're trying to emphasize that metrics. Track the compliance documents that students have to complete when they first start.
+We have the ability to manage the full curriculum and we also provide training on how to standardize it and clean up the data.
+Evaluations and assessment for, all four years. Case logging, MSPE and scheduling for all four years and outbound for advanced business notifications based on their business rules.
+So if you can highlight a few of these things depending on their role and then lastly getting into how we typically onboard medical schools and essentially there are a few different projects that we complete with them.
+And first is the basics. Well, one of the projects is basic science. So each of these are the basic sciences where they can get personalized student calendars, curriculum, course evaluations.
+Then clerkships can have the core elective scheduling, 360 degree evaluations and case logs. And then a separate project after that will be curriculum which so each of these projects probably take about two to three months to onboard.
+And a organization that is switching to us for the full system may take a year, year and a half to go through everything.
+So I always tell them in the meetings what is the number one thing that you are interested in. We typically start with that and then you can branch into the other areas over time.
+And finally, it's also good to go into metrics and highlight the user. It's an ability aspect of it. Don't need to show everything.
+That the couple of things that gets people excited in the medical school world is the, the, the curriculum tree map and how they can see everything connected together.
+The evaluations and the assignment rules. And showing how easy it is to set up those rules by answering those questions.
+And the MSBE and being able to pull up an MSBE and show how all that data comes together. So Chris can set up a couple of tabs that.
+Whoever else is going to be demoing can pull up these, these those three things. And that's all we need to show.
+We don't need to show the full system. They want to ask about scheduling. You can pull up a block schedule, but it's not something that you have to spend a lot of time.
+And the, you know, this is a summary slide that basically emphasizes, and our main focus is usability. And when we come to onboarding, we also in.
+We engage a physician to help the deans build processes. And then we also have a one platform that can use for classroom and clerkship.
+https://www.loom.com/share/2c98a842709c4666a50082dfcd6fdbb8
+success
+Re: Medtrics - 1 June 2023
+So this is an update to the schedules page that can be accessed by going to slash schedules and to try out the goal is to add a couple more things here that will allow us to give more value to different client types.
+So for example, one of the things that we want to add here is a rotation filter so that if I'm a rotation director I can filter by my rotation.
+And see who's coming there quickly. Some people may not figure out they can search down here. So having that rotation filter at the top on this page and on the timeline view will make it easier for them.
+The other update that we want to do here is make it so that. We can have a little icon next to each of these names, little small hospital icon, so that when you.
+Click on it. It'll bring up a modal that shows the site details. So. The name of the site, the address.
+The site leaders. In a modal. So if I'm working on a specific site, I can look that up here. And then for.
+Next to the name. If you click on that, it'll bring up a modal that shows details about the resident or the other user.
+So it'll show their photo, their first and last name. Class of. Role. Home institution. Phone number. Secondary phone number. Email address.
+Page your number.. In that modal. So. Two icons. That one for, this can be a little, little. Actually, instead of icons, maybe cleaner for us to make these into links so that they can click on it.
+I don't know, we can try, see which one looks better. And then when they click on it. It brings up the model.
+You kind of see that here. And I'm clicking on a person and it's bringing up the details about that shift.
+Phone number. I mean the secondary phone number. Photo roll. And on the timeline view. Same idea. Click here. If I click on.
+Well here if I click on it, it goes to the users. You know, it would be nice. Like when I click on this, it'll go.
+... And. And. Deeper into the big thing, but. It's not always. It's not gonna be obvious. For the user that they call.
+They get back to it. . And then I click on the previous thing. So like I have to go here. And to click here.
+To reset everything. So people may not know that. It would be nice if at the top right. We have a bright button.
+Like an orange button that says.. Reset. Reset button. That'll clear the people and the schedules that they have clicked on.
+And as for bringing up the site details and the people of person details. Since these things are clickable already, we'll want to do a an icon in here.
+So I can click on the icon it'll, or we can have a little site button here. And if I click on it, it'll bring up the model for the site.
+If, and then next to the name. We'll have another icon that brings up the details for the, the user. So to review, we have rotation drop down.
+We have the. The ability to click on the link or an icon to bring up the site details. The ability to click on and bring up the people's details and then the same thing on the timeline view.
+And then on the timeline view also adding a reset button that will reset the things that you've clicked on.
+https://www.loom.com/share/4d8fd71b3a744b209d9b08cc87b5bb5f
+success
+Medtrics - 26 April 2023
+Hey Mike, so a couple of things that, two small tasks I'd like you to add is a meeting with Zandra from Garnet.
+And she's using metrics a lot. For requirements. And one of the things that she's having issues with is on the assignments page.
+When she goes to the filter, she has 30 different requirements and she has to. And she's trying to turn on each of these one by one, which is a pain in the butt.
+So, and there's two categories of these type of requirements. There's institutional and then there's program level requirements. What. What we want to do is use that you tree select that has the nested.
+Let's see if I can find it. Yeah, this thing here. The, where you can select the category and all items in there will be selected.
+So this first one will be in. Institutional requirements and then it'll list out all the institutional requirements. Second one will be program requirement.
+List out all the program requirements. So she can click on the category and it'll show all, it'll select all the institutional ones.
+Unless she wants us to pick out individual institutional requirements. So, the task would be for us to update the, Select requirements drop down on the institutional and program admin portal on the requirements slash assignments page to use the Butri Select field that allows these institutional requirements
+to be grouped and the program requirements to be grouped so she can select all of them at once. That's the first task.
+The second one is this thing that I'm discussing in bug prioritization. This can go up so routine, but non-critical on the institutional portal where we have the ability to deactivate a requirement.
+I mean a site, but we don't have a way to deactivate a we don't have a way to delete. Them.
+So what we want to do is show the delete button. If the requirement does not have any records. Linked to it.
+So we have these other records in here. If they haven't added any rotations, records have been added the delete button will be grayed out.
+And if they hover over it, we'll show a little tool tip that says site cannot be deleted. Unless the associated records are also deleted.
+Yeah, you can decide whether we want to do the tool tip or we can show a, modal, like a sweet alert that pops up when you try to delete, when you try to delete it.
+Actually, here's the three options. One option is to not show the delete button at all. You can delete it. Second option is to do a tooltip.
+And a grayed out delete button. Or the third option is to show the delete button, let them click on it, and it'll show an alert with instructions that says, you have to delete all of the records that's associated with this before this site can be deleted.
+https://www.loom.com/share/2b8b476aaca24a1484d862614b73eec2
+success
+Medtrics - 25 April 2023
+Hey Gary, thank you for pointing that out to us and notice that when you're saving the draft, it's telling you that it's going to be saved on to do.
+This tab used to be called to do, that's why it was that alert, it's a lot outdated, we need to change the text on there.
+Now it's called for me and then about me. So if you have a draft, it's going to end up on the Z this for me tab.
+So it's basically for me to complete. And the other question that you had about the due date if you manually assign it or if it's automatically assigned it should show.
+So, for example, if I go back to the homepage here, we have 103 evaluations and the due date shows up here.
+And if I go to the evaluation. There are due dates for anything that is overdue. So this filter up here allows.
+The user to filter by different statuses and see what's due and what's Overdue and on the dashboard, it will show a due date as long as one was selected when it was being manually assigned.
+https://www.loom.com/share/0d88cffa8a9b4023bf959a7ddcabe19e
+success
+Front (673) - 24 April 2023
+Image. So the reason that you're having that issue is because Site Rotator Report doesn't allow you to filter by inactive sites.
+So if I go to the institutional portal sites page and search for image. So with Shable Veterinary Hospital you can see Site Code 538 is under the active tab and then so there seems to be a duplicate site and one of them is inactive.
+So the best way to correct this is you have two rotations that are linked to this inactive site. You can go to the admin portal.
+Go to system setup rotations and have that site remap to the active site and then remove the inactive one. So this way you're not you don't have duplicates and the report will work properly.
+So I'm not sure why we have duplicates and why one of them was inactive. It might have been something that we were, like, long ago, past few months as we were setting it up.
+And we have duplicates and the report will be deactivated. One more thing I want to point out here is since they both name the same, it'll be easier for you to identify the active one if you make a temporary name change.
+Both low-lun dash or something afterwards, make the change on the rotations and then come back here, rename it back, and delete the inactive one.
+That should take care of the issue. And one more thing that, we can discuss later is whether or not we want to include inactive sites on that report for reporting.
+So, right now we're not including it. It'll show the data for all the schedules. But if you go to the drop down at the top and you select an inactive site it won't work.
+https://www.loom.com/share/d276487b8b1f4883bab8be298b2d4850
+success
+Medtrics - 1 June 2023
+Yeah, Mike, so for this particular update, we're going to be adding a, a rotation sketch. Rotation schedule drop down here.
+This is on the cases and on the, under the left many in the program admin portal under cases logs will have.
+A way to select user schedules. So we'll call it rotation schedule and we're going to apply that to. All of these tabs.
+So procedure scene, diagnosis scene procedure compliance, diagnosis, compliance. And also noticing there's a bug here. So if I go to the diagnosis scene, the procedure scene, procedure compliance.
+Tab disappears. So we want to make sure all four tabs are always visible. And we're going to be adding a new drop down.
+So this drop down.
+https://www.loom.com/share/0269d3b79e4548fd9a6a03d4f2900073
+success
+Webinar Registration - Zoom - 16 May 2023
+Hey, Alejandro. So, in Google Drive under metrics organized, executive assistant projects, I've added a new folder called bookkeeping and there is a file here.
+This is meant to capture different expenses that we have on a monthly basis that is not salary. It should be everything else except for salary and what I want you to do is if you look at this second folder called statements it's going to have two.
+Files here. And then. This has. A few different files here. Just combine these for you. Okay, so we got one file in here.
+Okay, so we got one file in here. Okay, I have two files, one for the bank account and one for the credit card.
+What I'd like you to do is review both files and then go into this.. It's file and essentially for wherever we have a digital ocean payment.
+. Can say. Okay. You can see that it's called. Okay. Digital ocean. And for May.. We have 12. Hi. If you hold down the control button and click on it, you'll see that it's total six thousand eighty eight thirty one cents.
+So that would be. Six thousand. Thirty eight. Eighty one cents. So I want I want us to update. This for.
+. And after we updated it, we can say. Five minus six all right. And I'll put this on the both files.
+You can see here sometimes it's getting holding. I'll take a look at the second column. Yeah, so what we want to do is for both of these files I'd like you to update the totals for each item here.
+And. Then if you see, if you see something that you don't recognize, you can just let me know. And anything that you update, you can add, turn the chat.
+And then I will review it to see if anything that we're missing. Okay, and then, so we're gonna do this for January, February, March, April.
+And. May, we will do it at the end of the month. So let's do it for the first four months, and then I'll review the numbers.
+https://www.loom.com/share/0fe4376f35114dfc844dbaee601afec3
+success
+Attention - Medtrics Meeting w/ Rachel Gee - 24 April 2023
+Okay guys, want to let you know that I'm already enjoying your platform and the summaries that it's getting and I especially love the email functionality.
+So a couple of minor, minor things that I wanted to bring you, bring to your attention as a small you.
+Actually tweak ideas when I first came in here I clicked into this field and I didn't realize this was a dropdown.
+So. So unless someone goes in here and clicks on this icon, they're not. Gonna know that this has a lot of great options in here.
+So for new users, it would help if this is a dropdown or at least if I click into this, the menu opens up.
+Another thing that I noticed is that I wrote an email template and this is what it looks like for action items that I want to summarize.
+And if I go to my conversations, and let's say this one here, email, click this, generate email. Alright, that one's taking a little longer than expected.
+Let's see if I had one that, So, one feature that will be helpful, is for us to specify certain type of insight or email template that we always want to preload.
+So, for example, we're going to need to send out meeting summaries for, all of our onboarding meetings and instead of having to wait for it to generate, nice if I come in here, it's already generated, and I'm able to use it.
+So it doesn't have to be for all the templates and all the insights because I know, it costs money to generate these things, but if we can specify one of the templates as our default template or primary template, and then that would generate it.
+Or for insights, it's specifying one of the, like the long summaries or short summaries and generate that by default. Because otherwise we're stuck here.
+And we'll come back. And maybe this is already a planned item. At some point it would be great for us to have folders.
+So if we have conversations that are onboarding and we can create client folders and put those conversations. In there. So for enterprise clients, it's we talked to them multiple times during the year.
+It'd be nice for us to have the client's conversation all organized in one, one folder. And what I wanted to show you was something that I noticed when I was looking at the email template.
+If for some reason it was working great and at the bottom of that email that it generated, it also showed some of the raw transcript.
+I'm not sure why that was happening if it was something that I did wrong on the template. But it was.
+Let me see if I can pull it up for a screenshot. Let me see if this works. So you can see here that I got the summary of the list of action items.
+And then I also have a bunch of. Raw content from the transcript. So it's either a bug or there's a problem with my prompt here.
+That's preventing it from working properly. So I'd love to hear your feedback on this and all the other things that I mentioned as ideas and features.
+They're not urgent. I know I'm simply suggesting ideas for the future. It would be helpful if we can figure out this problem.
+Thank you.
+https://www.loom.com/share/eaa7fdd44764420dac633803143423df
+success
+Medtrics - 15 May 2023
+Hi Mitch. So we added this new permission and I'm gonna turn this on for your account. But we, I would want you to test this with a someone that does.
+That have Advent access. But for this example, I'm gonna use your account. And then if I go to manage evaluations, and then we can turn on some of these templates.
+And then we're gonna turn on these roles. Save. And then now. If I go to Users. Actually this is something that you won't be able to do on your end, But I'm just going to access the account.
+As your portal. And then if I go to Review, Evaluations, we will see evaluations that were submitted. Using those templates that we set up.
+And on this, I can view. The status. And I can also review and sign here. So one of the things.
+But this is also showing is the way to add a grade. But we're not using that functionality. But you can see that the review does show up.
+We may need to decide if we want to hide this at grade. But for now, even if it's showing, it's not going to be able to do much.
+You may hear my son Alexander in the background. He wants to learn about metrics. So yeah, so in order for us to deploy this, we're doing some testing.
+But I wanted to Chris is working on some testing, but I want to create this video for you so you can take a look at it too.
+My recommendation is to go to the admin portal and then go to permissions, set up the permissions for someone that is a course mentor, and then go to the user.
+But because it's The local API, because it's a Martord's page. Arkinhours page or like create a new user called course mentor, 25% so that you Mandalore can use it for testing.
+And then log in as that person after you give them permissions and make sure they're seeing everything. And it's best to test it as a course.

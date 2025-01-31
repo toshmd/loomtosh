@@ -1,0 +1,985 @@
+Hey Chapin. So I made some tweaks to this task. And the first thing is on the comments section here, instead of showing it texts that they can type stuff into, we're going to show a dropdown where it's going to show a list of all the comment questions.
+So at the top, you can see that here, we're showing two common questions, and we're only going to include questions that are actually comments.
+We're not going to include any comment fields that pop up. When you click on a Likert scale, this is all they're going to be questioned type that are comments.
+So in this case, we made sure to have them in here, question six in question seven, let's say I choose questions seven, right under that, we're going to show, um, the response so that they can write the revised comments.
+Like I choose question seven and response is going to show the text that was in the field. And then they can save that once you, when you submit the grade, this is going to get added to the grade book.
+And we also need to update that grade or score, um, object to have a link, a foreign key to the original form response so that there is a connection between that grade book entry and into the, uh, to the original evaluation where the comment was pulled from.
+And another, uh, no that I want to make here is that this schedule, it should be pulled from this evaluation itself.
+So the evaluation submission has a link to the user schedule and that's what we're displaying here.
+https://www.loom.com/share/8d55e31b142a482b86db807dbc2d97e6
+success
+Medtrics - 11 February 2022
+And Mike. So for this, um, benefits task, just to recap, uh, what we talked about under institutional portal, time-off, we're going to add a column to the left side of categories called accounts.
+In that accounts category, we will give them the ability to, uh, edit and deactivate different accounts. So it'll be an act it'll be account names and a status active or inactive.
+And then we can also update the status column in accounts tab to be a red or green, depending on whether it's active or inactive.
+Um, same thing in the categories, red or green, a bootstrap labels to indicate whether it's active or inactive. And then the accounts column we'll have, um, accounts tab with the action column.
+We'll have the edit button, which allows them to edit the name or deactivate what, when will allow them to deactivate and then the categories, which is what we're looking at right now.
+Um, any category, any category that belongs to an account that is inactive should also become deactivated. Um, even account is inactive, but in this page, we're also going to add a category.
+I mean, add a account.
+https://www.loom.com/share/68ffc94957c84ae6880e2ce3d6809947
+success
+Select user schedule log to change | Django site admin - 13 April 2022
+Hey, Mike. So for this, uh, task, what we're trying to do is create a new report for evaluations and under the evaluation section in metrics reports page, we're going to do a new report that says up block schedule, um, audit report.
+And this report is going to allow them to select a date range and export to changes that are made to the block schedule.
+And you can see here, this is in our database. We capture, um, these changes to the system. So you can see, uh, we're capturing the name of the rotation, the resident's name, um, the start and end date, as well as the, um, the date that change was made.
+So the name of the person first and last name, the role, we also want to show plus the rotation that was updated, um, with the site name, block, the, um, start date and end date, the old start date and end date to the date.
+It was changed, who changed it and what the change was. So we captured three different types of changes, addition, editing, and deletion.
+So you can come down here and you can see the edit. When you have edited, you have the old dates and the new dates.
+So basically we're creating a report that is an Excel report, and we're going to have the same columns that we have here with the addition of the role, as well as the site for the rotation.
+And then we're going to put that into the reports page in, um, under the evaluation report, sorry, schedule reports. I'm going to call this a schedule block schedule, audit report.
+https://www.loom.com/share/c673436dad044672ac3503f46215903b
+success
+Schedule – Figma - 6 June 2022
+Hi guys. So for this a feature where we're going to be doing is on the program admin portal, under settings admin, under schedules section, we're going to be adding a new option here, enable block schedule reviews.
+This will enable a checkbox for each assignment, so it can be marked as reviewed. So once this is enabled, um, what we're going to do is show a check box on the Marcus reviewed section off the user assigned.
+I mean, it usually schedule Simon modal. So under here, we're going to say, mark has reviewed where for the user schedule model, I'm sorry, the backend a table.
+We will need to add a bullying field so that we captured this reviewed. Um, and we can call it a review status.
+And if it's reviewed, the check box will be turned on. If it's not reviewed, they will uncheck it. And that's what we're showing here.
+In addition to this, we can also do a little cleanup on this model. We want to remove this whole section at the top that says rotation duration had evaluations.
+This is no longer applicable for this model and an old piece of code that we never removed so we can get rid of that.
+And the other thing that we want to do is once we enable this feature and something is marked as reviewed, we are going to show a, um, let's do it like this.
+So what we're going to do is if a rotation is not reviewed, if it doesn't have the checkbox turned on, we're going to show a red R next to that assignment.
+And once they click on it and turn on the checkbox, the red, um, are, will disappear. So at the top, we're going to show a count of the number of reviews that have been completed and how many that are pending.
+And let's, um, also, and I remove this for now. Keep it simple. Um, and then on this page on the list view, which is the schedules page, the first thing we want to do is if there is an, if there are no unpublished blocks, let's hide this text here and geo, because there's no point in saying that there's no unpublished block, so we can always just hide that.
+And then if, um, there are, well, if there are assignments that are pending review on published, we'll show a count here in this format.
+So 50 pending review, 50 unpublished. So this is something that will replace this text here. And if it's zero we'll, we won't show anything.
+https://www.loom.com/share/3d5e4a6ad9354d71b84acb9216b6fca6
+success
+Select user schedule log to change | Django site admin - 13 April 2022
+Hi RN. So I wanted to follow up regarding one of the discussions we had yesterday about tracking changes to the block schedule.
+So this is a view that we have access to an RN that shows you some of the information that we track in the system when a schedule is updated.
+So we can see here that this column shows the name of the resident, the rotation, the dates, if there was a change to the dates, what the old dates were and what the new dates are.
+Um, the date that change was made, who made the change in the actual change. So the first role here, we're looking in addition.
+So Elliot Reed had a new urgent care rotation added. And if we scroll down here in this case for Alec curve, there was a change to the block schedule.
+Um, there's also tracking for when something was deleted. So Anthony here had the family medicine rotation from, uh, seven, seven to seven 16, and that was removed by metrics support.
+So this is something that we capture for all of the block schedules, and we don't have a report that exports us from the system.
+I asked the team to put a request in to create a report like this over the next few weeks, but at least we're tracking it for all the changes you're making.
+And we're going to build a report that allows you to export this into a spreadsheet, uh, in the future.
+https://www.loom.com/share/5803c7ae7800417681905ac0d1886f70
+success
+Meetings | Fellow - 14 April 2022
+To later in the PR. Okay, got it. Yeah, that works. Okay. Um, and then again, not, uh, like we said, our agile folks aren't being too strict, so we're just gonna keep this as a rollover one and I'll just work with APO to figure out how to, how they want us to do that, do that a new world order.
+Um, okay, so we'll tag, so these two need to be tagged. Um, and then this item, we don't need any resources to support, um, uh, from our, uh, other teams or banner anybody, cause this is going to be no integration.
+Um, and I don't know if I called it out by well. Um, And you can, uh, and I don't, I know you're not really using this yet, but as we start to use this more, um, this is totally your team space or whatever.
+I just put stuff in there usually to kind of, you know, from a high level and, but, um, feel free to Use that.
+Okay. So in order to gration for this delivery, and then we're going to follow up in PI three w with a sense of urgency to get the integrations in, um, for both these programs.
+Okay. Is this, um, Dave, how do you feel, uh, for this on your team as this, um, feeling like it's too much just right.
+Or not enough work for your team? I feel fine about this. Okay. Yeah, we got Kevin McCloud is, is his focus will be on the UC and Ross, Jake we'll focus on CU and then we'll be tagging the other teams and we'll set up meetings with them during PI planning.
+So they understand what their, their, uh, asks are going to be as well. Tosh. And Chris, how are you guys selling with, um, the work for the next couple of months?
+Yeah, we're, we're good on that, uh, timeline, the, uh, we just need to figure out the exact, exact start date for psych mental health, Psych mental health.
+Oh, segments. Okay. Okay. Um, so the exact start date of when you're going to start. Yeah. When we, when we do need to be available to start that implementation.
+Got it. So we need to get the sow and everything is done with that. Um, okay. So I will work on that piece, um, and really quick, this is not including obviously the need to do the planning and discovery for potentially all of CU, which is going to be, um, what we're working on in PI to, uh, with the hopes of starting either MP3 or PI four, depending on what the, the, um, decision is.
+Okay. Anything else again? Um, this is a great conversation. I just want to make sure that we were, uh, at least very clear on, um, PI two.
+Um, can we say we're good to go into PI planning, um, day, or do you want to keep our sessions for PI planning and, um, for next week?
+I think I'm okay. I mean, okay. I'm afraid if I need to add one, I'll reach out to you, but I'm going to go in and, and tag the teams and make sure that it looks all right from my end.
+I'm going to change them to ready whenever it's supposed to be changed to. Yeah, I think I already put them in writing just because I had to have them in ready just to talk about them yesterday.
+I wouldn't have got it, but it was just like, I don't, whatever. I just need them to show up on this list.
+So, Um, So yeah, they would stay in refinement and yes, you would determine ready usually. So, um, uh, neither here nor there.
+We do have a standing meeting on Monday with this group. I'll keep it just so as we digest this, if there are questions that you want to come back to the table with, we have that Monday meeting already there.
+If you get into Monday and you're like, Nope, we're good for planning. I don't need anything else from, uh, in the clinical management.
+We'll cancel that. And then we don't really need to do anything else until planning starts. Okay. So Tosh, I'll be in touch again.
+I know this is very specific to, um, uh, getting us ready for, uh, our planning session. It'll be of other things that we need to, um, solidify as well.
+Um, anybody else have anything burning that we need to make sure we address? Um, just do you have everything you need?
+Yes, I think I'm good. Thank you. Okay. I'm Jake. I owe you some feedback and we have to wrap up some stuff.
+So I'm so sorry. PI planning got in the way of this week. No worries. Um, Uh, one minor thing, cause uh, we keep these in his term PTI and 2, 3, 4.
+So we just get dates like a little table of what Absolutely. Um, I'll share the calendar Going along, but you know, know that case are, I'm like, okay.
+One goes out to the other. Yeah. But they should be quarters. Like, um, We got a little side, um, you know, acquisition and trying to, uh, you know, um, get this, this marriage underway.
+Uh, we, we took a little long with RPI one, so RPI two is a bit shorter to kind of get back on track.
+So it's just, it usually is April, may, June. So, um, uh, but you know, you, you have dates and, uh, we'll send that to you.
+https://www.loom.com/share/4b212ceb5998418d99de84cd587c40bb
+success
+Loom Message - 22 March 2022
+Hi Janell. So I was, this is a copy of the Kaiser data and I was testing this shifts issue just to make sure that I CA I, I looked at everything one, um, then they don't want to point out this may not be the issue and this, this is completely unrelated.
+But one thing that I wanted to point out is that, um, if I go into a shift and I click edit and I go in here and I remove this entry, it will allow you to click into the next shift and add people to it And updated.
+But it, the initial one is not removed because initially I didn't, I went after that, made the change here. I didn't click update shifts.
+So you always want to make sure that the update shifts is clicked, uh, when removing someone before clicking on the next, a shift where they need to be added to, um, we're going to add a re an alert that pops up if someone is removed from a shift.
+And then if, if, uh, if the page is clicked without clicking update shift, it'll pop up and say, Hey, there was a change made to this shift.
+Uh, please confirm that it needs it. You want to make those changes. So that's something that to be aware of.
+Um, again, I have no idea if that is the issue that happened, uh, it may not be, um, we're going to add those alerts and see if those, um, help with that process.
+And if it happens again, we'll have to see if we can recreate it.
+https://www.loom.com/share/169ae6eca22840c6b774a00bb293850c
+success
+Medtrics - 13 February 2022
+So this functionality is to help us prevent mistakes when evaluations are or identify mistakes, when evaluations are not assigned properly.
+What we want to do is add an alert like this on the dashboard that shows trait number of trainees with no evaluation assignments or less than X number of evaluation assignments during a specific time period.
+So Actually what we can do is show number of trainees, um, with completed rotations that have no assignments done on them, where they're in an evaluate evaluator or where they're, uh, there are no evaluations for them when they're in evaluate toward the complete on others.
+So basically an alert that says, um, ex uh, people with missing evaluations, and then it's going to X training. Let's do X trainees with missing evaluations.
+And when it comes up, we can bring up a modal. And in the model, we'll have maybe two tabs, one where it says, evaluate tour.
+I want another one that says, uh, evaluate T and then, um, it should let them see a list of all the trainees that have no assignments.
+I have no assignments for specific, uh, rotations that were completed. So on the block schedule, they have rotations that have, uh, where the end dates have passed already.
+And there, they have not been assigned any evaluations where they're in evaluate tour or any evaluate T uh, and this way an administrator can look at it and then they can see the name, click, maybe expand, and it'll show a list of all the rotations that are missing evaluations and look to see if this happened because an assignment rule was not set up correctly.
+Something a schedule was not an, uh, publish, whatever it may be. So two tabs, one for when they're supposed to be an evaluator, another one where they're supposed to be evaluated T social, a list of the names, and then they have a way to expand it so that he can see the list of the block, uh, rotation assignments with no evaluations linked to it.
+And then they can, uh, go on troubleshooting.
+https://www.loom.com/share/0cd74ab8ba2647c09e279e5ec0529f28
+success
+Demos Questions.docx - Google Docs - 19 April 2022
+Hey, Mike, this is a document that we're working on for UT Southwestern. It'd be great if you can spend a little bit of time on some of these questions, because I'm not sure if I'm going to be able to finish all of it.
+Um, so for example, kind of going through it, looking at what Chris wrote and, uh, this video, and it's, for example, if we look at this one, I already wrote the response.
+Um, you can see if there's anything else we can highlight about our announcements module and then maybe drop a screenshot of what that looks like.
+And for this one, overall calendar admins can do this by overlay a particular users. So this one, Chris is describing the program admin portal.
+And if you go to the calendar, you can select a specific user and see, um, an individual schedule. So we're kind of, we can take a screenshot of the, um, calendar page, draw an arrow to that individual section there, and then explain that all administrators have access to a unified calendar and where they can turn on schedules for different courses or clinical schedules.
+And then in addition to that, there's an, a way to select an individual on that page and see what that individual's schedule looks like.
+Um, I should probably start at the top So we could, for this question, we could explain that on the administrative side, we are able to create different types of schedules and calendar and events.
+And each of the faculty members and students have their own dedicated, um, portals where they see relevant material and personalized schedules for their, uh, use case.
+And we also emphasize that these, um, schedules can also be, um, merged from multiple different, uh, admin, um, events. So if they have core schedule, uh, schedules versus a regular event versus a clinical schedule, they all flow into one unified calendar for each person.
+This one allow individuals to post personal appointments. So I'll take care of that one allow calendar view from, yes. So you can kind of describe this and say, metrics includes the ability to access the platform from anywhere it's a SAS platform and it is a available for on phones and tablets with the system adapting to, to the screen size.
+And then also emphasizing that our can be sinked with all external calendars, such as Google, apple, and I Cal sorry, Google, apple, and outlook.
+So I think that's what they're asking here. Yes, it does support outlook. We can say that there are men. We did not have, we, we do have a mandatory and required.
+Um, actually I can take care of this one. Yes. This is something that you can explain, um, that we have the ability to attach files to co uh, sessions, and it can also provide a link to an external repository and the student view that you created, you can pull some screenshots of it and explain that course materials can be viewed on there.
+I'll take care of that one. We can say, Yeah, I'll take care of that one. I'll take care of that.
+I'll take care of that. Yes. And we can explain that our changes are pushed to the, uh, I mean, uh, uh, people can subscribe to our calendars and those calendars can pull the changes in, well, we can't push to external calendars cause that set a setting on the other calendar, but they can configure that to be pulled in it as many times as we want.
+They want, we want to limit them. Yes. Uh, explaining that yes, we do send out reminders of and um, update them about changes.
+And we can also include a screenshot of that email notification. Do you creator for calendar events Change? Yes, we do do that.
+I'll take care of that. Yeah. That's pretty much it. Um, I'm going to work on the rest of them, but if you can add, um, help with some of these questions, that'll be awesome.
+Thank you.
+https://www.loom.com/share/2edc997021cf4d60ab04f0fdb37c2038
+success
+Loom | Free Screen & Video Recording Software - 6 January 2022
+Hey, David. So I'm going to have to meet tomorrow to go over the, uh, OKR. So we already have a meeting for tomorrow that we'll can do that at 2:00 PM.
+Hopefully that's still okay with you. If you need to change that, we can do that. Um, I want to send over a couple of things to think about before the meeting.
+So the first thing is, uh, first thing I want to talk about is, you know, which what you want to do down the road, because it's been difficult for me to figure out where your interests lie and what the plans are for the future.
+And it's better for us to talk about it and figure that out. Um, whatever you decide is fine, you know, I'll work with that.
+So the first thing is if the plan is to, um, you know, if you're not happy at metrics and you want to find something else, then we can plan for that.
+Um, but if you do, uh, if you're, if you are interested in getting more into the finance of business side of metrics, um, the part that I want to work on this quarter is figuring out a more structured, um, timeline for working together and collaborating more closely on different, uh, areas of the business, such as, um, learning about the sales process, how to communicate in a, in a, uh, uh, different, uh, um, communicate and negotiate from a sales perspective.
+So that as a CFO of the company, you're able to make decisions that are necessary for the team and be able to, uh, support different, um, processes that are related to sales and getting new clients up and running.
+And then also from a second part of it is just selling your ideas to the team and getting, um, your ideas to the team or even to investors in a effective manner.
+Uh, because a lot of times this last year, it's been difficult to, um, um, you know, it's, it's partly something that is difficult to do remotely, but even like, for example, most recently, you know, the health dashboard, I feel like you put a lot of time into it and it's, it hasn't been used as much.
+And I feel like this has a lot of potential in it. And unfortunately I haven't had the time to push, um, the team to make use of it and do things with it.
+And I'd rather meet with you and talk through what are some of the ways that you can push and meet with the team and drive that process, um, to sell your ideas to them and get them up and running.
+And, or even from the investor update perspective, what are the ways that you can get the team to, um, proactively communicate with you?
+And it needs to also start some processes to the financial that if people are not submitting like a, you know, randoms, slack messages about certain things, which have a more structured way to communicate, um, or some of things related to finance.
+So anyway, so there's two types of discussions that I want to put into the . One is more, uh, general business slash, um, sales discussions about how the company operates.
+So you have a more intuitive understanding of everything and able to do more than bookkeeping, um, and you know, filling out forms.
+So in the past, you know, the, the work that you've done is super helpful and it's been helping us move forward with the finance and organizing the netbooks books.
+Um, but going forward, you know, it needs, you know, the bookkeeping part of it, it's, it's something that can be outsourced if we need to.
+What I would need you to do is sort of focus on the strategy, building the strategy and the relationship building aspect of the CFO role, because that's the role, that's the area that we need to scale.
+Um, and then otherwise it's difficult to play that role and, and purely be, uh, you know, just maintaining the books and paperwork.
+And then from a development perspective, if this, if your interest is getting into this and doing more of this, we need to offload the development side.
+And it is, you know, I've mentioned this a few times in the past and trying to figure out strategies for that.
+You know, since you started, we have hired, uh, so many, uh, five or six developers and we need it's, uh, something that we have to figure out a process and have that offloaded so that your default work is not development work.
+Your default work is the, the business side of things and develop into something that you're helping with if needed. Um, and then down the road, it's, it will cause I, I don't see a way to build out the CFO role or the skills for that without cutting back on this.
+And, but if you want to focus on this, that's fine also, and then handle the bookkeeping. And then, uh, but I, for me, it's important to know what the plan is so that I can figure out accordingly for the future.
+Um, so the, the, um, these are the things that I want you to think about, and then we can talk through the details and maybe turn this into one or two.
+Okay. Ours. And in addition to anything that you're planning.
+https://www.loom.com/share/d14fc01393e845ecbd96b29938a568b0
+success
+Medtrics - 17 January 2022
+One more thing to cover, um, about users is we want to emphasize and just cover these fields. There's email address and there's, um, student employee, and, um, trainee ID.
+These are unique identifiers that we use to link data to the system. So if a user is being imported to the metrics, we'll check the student ID to make sure that, um, it's, it doesn't exist.
+And then you create that user account. There's also the metrics activation date users will not be allowed to log into metrics before this date.
+And there's also a variety of other personal details that can be added, but we don't need to go into all of that on the users page.
+There's two things that we want to cover first of the invite tab, and then explain to them that users can only be, uh, only logged into the system.
+If they've been invited, there are three different statuses that we show here. There's the invited and not invited, and then last logged in.
+So if this is the last log, then it means they have a least, they have, they have access to metrics.
+If it's invited, that means they have been invited, but they have never logged in. And then on the people tab, there's one thing to cover is the filters at the top allows us to toggle between active and inactive users.
+And you can also filter by roles search here. And when you want to deactivate a user, you can click the deactivate user allows you to select what you want to do with their data.
+Uh, we never delete anything. It's just basically canceled things out. If we need to cancel it out and you can only delete an account if no data has been linked to it.
+So if Anthony's account was just made and there's no data link to it, you can delete it. Otherwise you're going to lead deactivate a user.
+https://www.loom.com/share/3f7a0cd9859941fe96aa7f3d94a26675
+success
+Medtrics - 29 December 2021
+So for this feature under curriculum set up and, um, director permissions, we're going to add a couple more check boxes that are turned on by default.
+The first one will be saying, allow of course directors, we can, you can probably clean this up a little. So having a course director section and a session leader section, so that it's easier to manage.
+And then, um, maybe with this, uh, select all option anyway, so course director giving them the permission to view evaluations for the course, uh, for the view evaluations, um, Don on the student, uh, on the, on the users, uh, scheduled in the course.
+So allow course directors to view evaluations done on, um, people's schedules to the course. And the second permission allows course directors to view case log submitted, um, by users scheduled to the course or people's scheduled to the course.
+So giving them a bit of abuse evaluations, but not all evaluations will the evaluations that are done on the student.
+Um, you don't want to see the, you don't want to give them the access to the evaluations that are done by the student on the course itself.
+https://www.loom.com/share/45aec6b438a34286ad01baff6819d656
+success
+Loan payback - Budget - Google Sheets - 9 January 2022
+Hey, David. So I didn't get a chance to look at it earlier in the weekend, so I I'm getting to it now.
+Um, I started a, a stream on fellow under other streams. You'll see operations and finance figured we have a centralized place for tracking, um, operations and finance.
+I already added you to this. This is for any discussions or meetings we have related to the company. And then the one-on-ones can be anything that is related to the use specifically like OKR and stuff like that.
+So there's a few things I wanted to, uh, include in this video. You can review with a video and then I'm going to add a call for later, eh, probably tomorrow on Tuesday, um, where we can go through anything from this meeting, this video, as well as plan out any, uh, details for the novel presentation.
+So the first thing about the reimbursement, sorry, uh, debt repayment. So I've reviewed this, uh, um, items in here. I'm assuming that Ben Franklin, Matt, Terry, and Don, uh, good for my loan.
+I'm assuming it's coming. All of this coming from QuickBooks. One item to point out is for my loans. This was a document that I had created, um, some time ago and in this, when I made it and, uh, shared some notes and try to match up all the payments, there were a couple of things in here, like misclassified and QuickBooks.
+Um, I'm not a hundred percent sure if, um, this was ever corrected or reclassified. So like here, it says $900 Chris's account touches money.
+Um, this is because Chris, um, some reason I couldn't make a deposit from my account and we needed to make a payment for rent or something.
+Um, but anyway, so if this is, if there's any questions about it, um, I can help clarify it or anything after June, 2019, it should be very clear in QuickBooks and it's all going to be classified to me when the earlier ones, the ones that may have issues.
+And then for the first salary, there are some items missing here unless, uh, I forgot something and I was paid for it.
+Um, wanna, maybe your class, you, you, uh, adjusted, uh, based on what I was paid. Um, so I wanted to confirm that from here.
+So after my shares vested for four years, that's when I started adding my salary, uh, here July onwards. So this is the schedule for that.
+And I see that this from here, it's starting from January of 2019 onwards. Um, so it, it may be that you had, uh, accounted for something here.
+Um, but anyway, I wanted to make sure that I didn't get a chance to double check it, but I'll do that later.
+But I wanted to confirm that this was factoring from 2017 onwards and for 2021 from October 1st onwards, for me, Rio and Chris, we had a new contracts that were drafted for us to be, uh, have a salary adjustments to account for, um, the, um, after our shares had bested, we had never had a salary adjustment to count for the market rate.
+So we had that changed and it had a new contract made. So I wanted to make sure that that was being captured here.
+Um, same thing for Chris and Rio. Um, you may be capturing it somewhere else. I want to make sure that's addressed.
+And then for this expenses, assuming that is coming from here. So those are, those are the two things that I wanted to mention with deferred salary, um, from 2017 onwards, the newer changes that were accounted for whether that's going to be captured here or not.
+Um, and then for under the other external debt depths are, I'm not sure if that company still exists. Uh, I would have to look into it.
+I believe the founders all left and they started another company. Um, either way we can keep it on the books and then a follow up if we need to.
+All right. So that's the first thing, the second thing. So I did look into the things that I need to sign in Carta and had a Question here So, um, my question was, is this thing that I need to sign for the second year?
+Um, or is that different or was it for third year? Cause uh, when I had looked at the agreement, um, and then from what I recall also, we had, uh, started in, on a 1, 1 20 19, uh, with a four year vesting period.
+And it was the, at the end of one year, there was a $60,000, um, bonus for a meeting, uh, meeting a certain goals.
+And I believe that was maybe captured at west part of this. And then it was for 24 months, um, for overseeing being the, basically the, the lead developer and, uh, taken on the extra role of finance for the first 24 months.
+There was the thousand shares, well, uh, playing the role of CTO for the first 24 months, the thousand dollar, a thousand shares per month.
+So, uh, what I wanted to clarify was if this was for, if this is something that was forgotten to add for a second year, or is this is for the third year, because, uh, the way that it's, it was only meant to be for 24 months, because that was the time period where, um, it was the only developers on the team where you marina and, uh, Rio.
+And there was a lot of, uh, extra development hours that needed to be, but, and then after that we had a hired, um, multiple additional developers.
+And then the assumption is that after 24, during that 24 month period, we addressed the, um, responsibility so that there's multiple developers that were added.
+https://www.loom.com/share/927b232589414c58acf70ecab61d14ce
+success
+Renewal call
+Hey, Ken. Um, so I finished what I needed to do for RFP. So I figured I'd record a little video on what I was going to, uh, present to or talk to Tammy about.
+So, uh, first thing is sort of, um, uh, introducing that this is renewal time and we are reaching out to, uh, speak to her before we send out the paperwork, wanted to let her know that this is something that, uh, uh, over the past year we've been working very hard with the team here to continue to grow metrics.
+And we hope that she's been seeing, um, um, that from our end, ask her for any big picture feedback, um, that she has.
+And then the areas that I want to address, uh, before the renewal is in the past, we had discussions about, um, adding several new programs and we have provided quotes for it.
+Um, but after Dr. Sergeant, uh, left, the understanding was that programs was getting pushed back. Um, was there any updates on these programs and is there anything else that we took count for when we send the renewal information?
+And then the other piece of it is, um, um, is there other, you know, are there any adjustments in the number of trainees that are going to be part of the system in the upcoming year and, uh, the total number of residents that they need that they will have?
+And the third thing is if there's any medical students that are coming there for rotation, would they be interested in considering metrics for those medical students?
+Um, and, and as far as the, uh, the pricing, the, it is going to the same pricing as last year.
+There was some minor adjustments that we do annually to adjust for inflation, but aside from, if there's no changes in the numbers, it would be the, uh, uh, the same pricing and we'll send the paperwork over, um, uh, as soon as possible, uh, unless there's any changes to be made for the number of programs or any new trainees, uh, that need to be added to the system.
+And then lastly, before ending, the call would ask if there's any other problems that they're, uh, uh, facing, uh, not just in metrics from an organizational workflow that they would want to consider metrics for.
+And if there's anything that we can offer, um, because we've been working with different institutions to add new functionality, there may be use cases that they haven't really, um, um, and that we haven't really encountered.
+So if there's any broad things that she's working on, um, we can make note of that. And it's also a good time for you to put her on this quarterly, uh, schedule.
+And, um, just tell her that after this call, we'll send her a calendar invite for a recurring reading for every three months.
+And, Uh, if she can, we'll put on the calendar and if she has to change it, we can adjust it as needed.
+So that's a good, a good approach. And if she, if he doesn't pick up, um, for sales calls, if they don't pick up, I use a, send an email immediately saying, uh, Hey, Tammy, I try to reach you.
+And, uh, w Rishi voicemail wanted to check in with you to, uh, have a goal or a few items before we, um, send over a renewal paper for core metrics and ask if she can, uh, talk tomorrow, uh, tomorrow, the day after.
+So it was very effective right after I call, if I send the email immediately, that way she sees the missed call, then she sees the email and either she'll call back or, or, um, email back.
+https://www.loom.com/share/a7aff336876e4c33a03e69f03a980109
+success
+Next Block Button – Figma
+Hi, Mike. So I think this should work. So I was playing around with this design a little bit and trying to incorporate some other ideas and things that we need to address also for the nursing and the medical schools.
+Um, so I, what I did first was I just adjusted the scale of this image so that we're incorporated where we're on the same scale as a text.
+So the size 12 text looks, um, appropriate on the screen. So then you can set the Hierarchy of the other elements.
+So here, Um, I added a second at the top and this, you can redesign this from scratch. I'm just marking up ideas.
+Now, um, we have a section at the top that where we're showing the trainees information. If they want to contact that person, we can include their phone number, email, and pager.
+And then we also need to ref when we write the specs, we need to tell the developers, which field to pull this information from.
+And you can get that by looking at the user demographics, where am I going to the users page and clicking, edit demographics on one of the abusers and seeing which field has this information.
+And here, what I'm I'm borrowing from is the assignment rules page on the evaluation templates, where we can have these accordions and you can click on it to open it and collapse it.
+So what I'm thinking is on the grid of the block schedule, when you click on a particular block to edit, it will bring up this model and it will have that appropriate block opened up.
+So if I click on block three, you'll have block three, opened up for the others will be collapsed. And then inside of that, we will include a way to add one or more rotations for that.
+And then, um, when they're first opening it up, it'll just say block duration. And then, um, nothing is scheduled or like 28 days unscheduled.
+Let's see, We want to call it 20 days on unscheduled. And then if they fill up all the dates, so this image is actually incorrect.
+It shouldn't show a checkbox here. You should just be blank. And then after they fill up all the dates, it'll show a check box next to it, to indicate that everything is scheduled.
+We don't want to show an ax here to indicate that everything hasn't been scheduled, because that may not be a, um, an error because some of our programs only log only enter assignments for one or two blocks for the year, depending on if they're, if they're a visiting trainee.
+So we will only show a checkbox if the entire block is filled with assignments and show just the block name otherwise.
+And then, um, on the right side, we're showing the number of days that are unscheduled and also number of days that are filled.
+Um, and on the bottom left, um, I'm thinking we should have a way to show, um, statuses because we save all this information as they're editing it.
+So we don't have, they don't need a submit or save button, but we, as they're being saved or deleted, we should have those inline success or RMS does it show up here so that they know that it's saved already and here, uh, for each of these items, I wrote down some, uh, tool tips that we can include.
+Rio had a little tool tip icon that we can borrow from and just put the icon next to it. When they hover over it, it'll show these tool tips so that they know what they're talking, what these items mean.
+And, uh, so yeah, this is just what I can come up with right now. If you, uh, you can actually take this redesigned from scratch and, and, uh, so that it's properly designed and incorporate any other ideas that you may have.
+https://www.loom.com/share/a7dbc045114942d4a65c93246d97589f
+success
+Untitled document - Google Docs
+Hi, Ken. So we, we didn't need to discuss anything before you sent it. Uh, w I mainly wanted to give some feedback on why I've changed a few of these so that we can sort of build a consistent style for the follow-up.
+Um, so, so the first thing is these little videos have been very helpful for them. So whenever we need them to do something, it's good to include like a loom video, kind of showing them where to find it and how to do it.
+Um, and then this is great. I didn't include the, what we discussed in my last with, so it's good that you added that.
+And then for here, one thing that I would also want to add here in the future is like, when we expect to have that done.
+So for having action items, uh, when we'll have that done, and then for the, anything that they need to complete, making sure that they know how to do it.
+So in this video at the top, I covered how to fill out the rotations and where to find, um, that, that those spreadsheets.
+And I also have the link here and then for the CU follow up items, um, let me just pull up the original.
+So the tweaks that I made here was, um, does it, cause it said designate all institutional administrators, so it's better to be literal and in terms of what we want them to do, like when you said re-designate institutional administrators, um, they won't really know what to do with that info, that specific phrase.
+So it's better for us to say email us a list of all the users who should be administrators. And then I also put in there for managing sites because that's the reason that we want them to be administrators and then update the users, um, upload with program name with, uh, either primary care or acute care and reapply them to resources.
+So this is very specific on what they need to do. Um, but if, if we just say, add information to users, upload at primary affiliation column for each, each, uh, user, they may or may not be paying attention in terms of that.
+They may remember what a part primary affiliation is, but here I'm just telling them saying, add the primary care or acute care for the users.
+And then re-upload them to resources. So include preceptors and the upload spreadsheet. Um, again, I'm trying to assume that they may not have remembered everything or, and they may not have wrote down everything.
+So I put it in here, add the PR preceptors to the user approach spreadsheet or the pre-cert tourist tab in the rotation spreadsheet, which is what I covered in the video and specify.
+https://www.loom.com/share/dac90360eb2f44c9917637accb508605
+success
+Medtrics - 20 December 2021
+Mike. So for this curriculum functionality that I was talking about, what we need to do is write up a feature or we can first design it.
+Where right now, if it's a school of medicine, we see the curriculum. But if it's set up as a internal medicine or a residency program, we don't see curriculum at all.
+So what we need to do is set it up in a way that if it's a residency program, we have less of this less content being shown.
+So for example, we can remove the curriculum map, um, global objectives, program objectives, um, and then simply keep the courses in rotations and sessions page remove the, um, the search page also.
+So once we have just the course in rotation, um, we only need to have this course on rotations and sessions page, and then we can remove everything else.
+And then when we, inside of the courses of the rotations tab, we will, um, we'll actually rename it to, um, just call it.
+https://www.loom.com/share/7f697401941d4cfcb3dfb620a2784727
+success
+(9+) Ability to run IRIS tests from program admin portals
+So for this feature ability to run Iris test from the program admin portal, what are we going to do is we're going to make the tests that we have in Iris under data review, under test Iris data.
+We're going to have these tests available for the program administrators to run. So we're going to do is add a left menu item called Iris.
+And on that page, we'll have, um, some custom design, I mean, uh, uh, update here. That explains what those pages for, and this left menu item will only show up if Iris is enabled.
+And I put in there how to tell if it was enabled for that institution and then we'll list all the tests, just like we have in the previous institutional portal.
+The only difference is going to be, there's going to be a handful of tests that we're not enabling. And it'll just have a bootstrap alert that says, this is only for finance admins, but we still want to show it mainly because I want to maintain the numbering scheme of these tests.
+So we don't want to hide it. And then the other thing is on the right side, where it says last run, we only, we would only want to show the dates of when it was run from that particular program.
+So of internal medicine runs, it will show the dates for that. And when running the day, uh, this report from the institution institutional portal, we are checking for all the trainees that need to be checked when you're running your fund, the program portal.
+For example, if I'm running for internal medicine, you'll see here that we have an alert that says metrics are the only check that data for trainees in the primary program of internal medicine.
+If I was running, if I was looking at this page from surgery, it'll say primary program is surgery. So we need to add an extra layer of filtering.
+So that only users with the program primary program equals internal medicine or whichever respective program it is are, are being tested.
+https://www.loom.com/share/eeee18b3d27e4ec993eb745a440bf8d5
+success
+Medtrics - 20 December 2021
+So, this is a brief summary of things that we talked about for MSU and what are the things that we want to cover during this meeting?
+So the first thing is for schedules, we're going to have them create separate block schedules for each of the sites they have and these sites, um, we'll have, uh, those schedules named in such a way that this would be, um, I know the name of these, uh, session Genesis made that up, but they'll have Ascension Ascension Genesis as the first site.
+And then on the app, we're giving it the name of the site as a scheduled name. And they're going to select the appropriate site name here.
+We'll just make this system here, Schedule. And then down here, we're going to select the administrator. That's going to be able to edit this schedule from his or her personal portal at the bottom here.
+We're going to specify.
+https://www.loom.com/share/2e03f0bccddf408da6e899ca293c9362
+success
+Medtrics
+Good morning. I wanted to clarify something from yesterday's call. When we create a user and metrics on the users page, they will only have access to the personal portal.
+Every user in metrics, whether it be faculty, staff, resident, or a student will have a dedicated personal portal that allows them to complete certain tasks and view their academic data.
+In addition to that, we can give them admin privileges. So anybody that requires admin privileges, once we get them the permission, they will see an extra button at the top to switch to the admin portal.
+So all of these users that were added, uh, we'll be giving them admin privileges, but we wanted to make sure that if they contact you saying they don't see the admin portal it's because, um, they're right now set up as a regular user.
+And when we update the admin permissions, they'll have this second tab that they can switch into. So it's a personal portal and the admin portal.
+And in addition to that select individuals who will have access to the institution portal, where the sites can be added.
+I also wanted to use this opportunity to specify the, um, rotations that we need, uh, uploaded. So on the same document as sites, there's a tab for preceptors and, um, you can use this to specify all the rotations and the site they belong to for preceptors.
+Um, you can put the email address for the preceptor that we'll be covering that particular rotation. And then the preceptors can go on the preceptors import or the users.
+This is a safe, this is a copy of the user's import. And the key things here are the unique ID, um, and the email address.
+And when we look at the rotations, you'll see that the email address is used to link the person, um, to the rotation.
+And there's also core practicum forces. The co code that you can add here, this will allow us to figure out where to map this, uh, rotation to.
+https://www.loom.com/share/9760141325a647e3b450b3a13d77cd2e
+success
+Retreat 21: Building an Infinite Culture - Google Docs - 15 December 2021
+Hey, Ken, I wanted to create this quick video to give you a little bit more context on this document and some of the goals for this discussion, because I feel like with your experience working in hospitals, you can add a more unique perspective on culture and organization and how people operate.
+Um, the, it is, um, in addition to talking about some of the, we have, in my opinion, we have a really positive culture already as a small team.
+And the purpose of this is not to say we, we have to change a lot of things. It's more of what are the things that we actually do that that is good.
+And how do we turn that into something that can scale? And while we do this, it's also important to look at, um, the things that we should avoid and, uh, having experienced in hospitals, um, you know, there's a certain level of culture that happens with healthcare and the cover, your ass approach, the modern healthcare has that is leading to a lot of burnout, and there's a lot of lessons to be taken from there that we can apply as things that we should avoid.
+Um, so it'd be good for you to sort of, um, during this discussion share any experiences that you had, um, that, you know, made a work difficult, um, or it had other, you've seen other people have hospital jobs that, that they were unhappy with.
+And then, you know, that would help us have a more meaningful discussion on how we should set up by identifying what are the things that are important for us to, um, put into policies in the future.
+And again, this is not meant to be an entirely a philosophical discussion. I also want us to focus on real practical things.
+So one of the things that we do want to approach in the near future is having some sort of minimum time off policy so that everybody is taking time off.
+I want to make sure that people, um, we do have a way to add some benefits over time. Um, so those are practical things also for us to consider, but at the same time, we also want to make sure that we talk about anybody that has experience in different organizations.
+We incorporate that feedback. So I'm hoping you Maria and Ken, sorry, Maria and Mike can have, uh, some things to share about that.
+https://www.loom.com/share/2df7c26827f243d08ae42b7a65938cf4
+success
+New Issue · Medtrics Lab / Medtrics · GitLab
+So this particular task or we're going to do is update the CCC report a little bit. So the CCC report is on the performance page, under CCC or internal medicine here.
+And what we're going to do is add a couple more items to this filter. You'll see here, we're going to add sub competency averages below competency averages, and then we're also going to add work hours.
+So let's take a look at other changes. So if I check, if I select just a competency averages and do not select sub competency averages, I'll just see these bold entries.
+So they should all be moved up. And I'm just going to see the averages for the core competencies name. And if I choose to sub competency, average just turned on, then it'll show these sub competency averages.
+Next. We'll also rename the peer to the role that we're averaging by. So this is a PGY one resident, and we're going to add average by PGY one.
+We'll sew PGY one here. So that'll be easier for the, uh, administrator to understand that we're averaging by PGY one.
+When we add the work hours, it's going to show the compliance percentages. Again, this is going to be for the selected date range, uh, priests compliant percentages, total miss days.
+Um, this is going to be then the days with, uh, no entries and no days off entries and violations, any total count of the violations.
+If there's none, we'll just show none. And for the compliance percentages and miss days, um, you can check out how we're doing these, um, uh, start on here right now, but there is a alert we have for compliance percentages and shows, uh, all the days.
+So if we can do the same thing, we can use, probably use the same, um, uh, query to get that information.
+And then last thing is we're going to enter for the exam score section. We're going to add a column VU, PGY average.
+So that's going to show the role of this resident and the average for all the PGY one or so if it's a PGY one resident that we're looking at, the report is going to average for all the PGY ones.
+If it's for a PGY two, it's going to average for a PGY two. So we're just going to indicate that the role and then the average and we'll show the average for each exam.
+https://www.loom.com/share/2444cc5f67f24a1a9db4729f1deda50f
+success
+Medtrics
+And Mike, so this is something that it's fairly easy for us to build and it'll help us with onboarding. Um, so what I want to try to use the metrics, resources, folders for us to onboard clients.
+So when a new client is starting with us, we can go in there and create folders for onboarding so they can submit their, uh, documents to us instead of having to go use that Google doc or something.
+So in order to do that, we have to have email notifications. So what I wanted to do is inside of each of these, a folder for each folder, um, we want to have a icon for notification settings.
+So some icon underneath click on it, you're able to specify one or more individuals that should be notified whenever a new file is added to that particular folder.
+So, and then we need to design an email, what it looks like. It will list out all the files that were added there, who added it, and the tack time and day that it was added.
+So setting for each folder for notification who will get notified. And then, uh, the actual email template that shows the list of the new things were added, um, the date that was added and who added it.
+Um, and we can also have some sort of alert, not alert, some sort of tag, um, in the details section to indicate that it is, it has an alert set up.
+Um, so maybe something that's there that says, um, alerts or, or notifications. Um, so this just so that if you're looking at a bunch of folders, you'll see which ones have notifications turned off.
+https://www.loom.com/share/9d0c6201e74c49caa7af5c7ad445551c
+success
+Retreat 21: Building an Infinite Culture - Google Docs - 15 December 2021
+They can. So I wanted to create this video to give you a little bit more context on this discussion. And I feel like, um, with your background working at different hospitals, it's, um, you may be able to add more to the conversation then anybody that hasn't had that experience.
+So I wanted to explain what the goal is. So we, as a company have pretty good culture in my, in my opinion, we, you know, look out for each other and, and do things that are beneficial for the team.
+And a lot of great things that we can emphasize that in the beginning. But I also want to use this discussion to talk about some of the things that we would want to make sure we avoid in the future from especially things that are happening in the healthcare or hospital culture, where it's a cover your ass.
+And, um, people looking out to make sure that they're not getting sued or protecting themselves instead of their colleagues. These are the things that are causing burnout in health systems, among healthcare workers.
+And we want to make sure that from a company perspective, we are putting people and processes slash policies in place to make sure over time the culture evolves into something that is basically a very different than some of the, uh, hospital culture that is leading to burnout.
+So it'd be good for you to, um, think about that. And this includes, um, not just, uh, the attitudes of the people, but also practical things, um, such as the minimum, um, time off that we want everybody to take and, uh, putting together, uh, benefits over time and putting it together, some sort of, uh, um, um, feedback mechanism or, uh, for, um, for, for how we, uh, um, how we can address any problems that may arise as the team grows and even, um, more practical things like, uh, how do we, what are the things that each individual needs from compensation and, um,
+https://www.loom.com/share/616a2d3bd4d7427c9b9b1cf0f03ee04b
+success
+Medtrics
+And Mike. So another one, this is purely for email notifications. So we have our projects module, which allows us to create different projects and then assign different tasks to people.
+One of the reasons that this thing was never used much was because we don't have email notifications for it. So all we want to do is, um, use some of those email notifications that you have designed in the past and sort of use that as a model and create a few different notifications, that updates users on different statuses of a project.
+So for example, when I create a project and if I add certain individuals to a project and you can, we can email them, letting them know that they were added to a project with the details of the project, including name and date and so on with the link to go view the project.
+Another thing is when you're assigned to a particular task, we can notify users saying, Hey, you were added to, uh, assigned to specific tasks on this project.
+Um, along with, um, along with any, uh, every time there's a change in the deadline, um, we can have a notification that goes out H status was changed on a task, and it, if it's deadline assigned, uh, the person that was assigned or any updates that was posted to a project, we can send them an email notification.
+Um, so there's when you're added to a project when you're added to a task, when there's a change in the deadline status, whether it's chain marking it as complete or the deadline, and when there's an update posted, those are the times that we want to send an email notification.
+https://www.loom.com/share/0d899d9764754562b487fd72d96dabbb
+success
+Medtrics
+Hi, Emily, in this video, we'll take a quick look at how sights and rotations work together. So under, um, the system, we have all of the sites that the institution is affiliated with.
+Typically we start off with adding the school of medicine as a site, as an internal site, that all the students are set up as their home institution.
+And then for all external hospitals at the hospital that the school is affiliated with, there'll be added at external sites in order to set up a site, we simply need their name and an ID number.
+So if they don't have an ID, you can just create that. And it's just has to be unique for each site as for the contact information address and things like that.
+It's not really necessary at this point, if you have it readily, readily available, it can be imported. Um, but we just need a site and an ID number.
+Then once we have the site set up, the rotations are linked to each site. So every family medicine or internal medicine that happens at each of these different sites will have a separate record and metrics.
+And so for example, this family medicine is linked to metroplex hospital Southeast. This one is linked to the metrics hospital south, and that import file will have a separate record for each of those four.
+Once we get to the next step after sites and rotation, we'll also be adding different administrators and supervisors that are part of that rotation.
+Um, and they'll be having, they'll have accounts and metrics and we'll be using this information to match up evaluations. So that's how sites and rotations are, are, um, connected together.
+And if there's anything that's, that's, uh, not available or does, uh, does not need to be shared at this time, it can limit that.
+And then we can get started with just the, the, just adding a site name, site ID, rotation, name, rotation ID, and then, um, add the rest later.
+https://www.loom.com/share/ef1b8da303b246328375cdfcc2781077
+success
+New Loom Recording 🎥
+And this video, we'll take a look at how sites and rotations work together. So for every medical school that starts with metrics, we will start off by creating a, um, site for the medical school itself.
+That will be the service, a home institution for all the students. But as a, as a students are sent to different hospitals for clinical training, we'll also capture every external site in, in the system so that we can link the rotations to it.
+So for creating a site, there are some basic information that can be added. Um, but the main thing that we need is it's the name of the site and a, uh, an ID for it.
+If the site doesn't have an ID can just be made up. Um, so that it's a unique identifier for that site and that's where the contact information and, uh, uh, any other details, it will be good to add, but it's not necessary for us to get started.
+And then once a, um, site is added, we're able to create rotations and link it to those sites. So for example, on the rotations page, under system setup of a program, we have every rotation that's offered and you can see that family medicine is linked to site metrics, hospital, south, south.
+And then if you have another family medicine rotation, that's offered at a different hospital FM, and let's say, this is going to be at Metrix hospital Southeast and save that.
+So now we have two family medicine rotations being offered at two different places. So that's how we are setting up the rotations.
+Every instance of that, a rotation that happens at different hospital will be added a separate entry and linked to the appropriate site.
+And each of these rotations can also have supervisors, administrators that are part of that. And those individuals will have accounts in the system.
+And we'll be getting to that as a, uh, as a next part of the setup for now, the first part is the sites and then the rotation names that are linked to that.
+So we can set up their
+https://www.loom.com/share/cec5704be564407f9653b45069930202
+success
+Medtrics
+Hey Vish. So for this task that we just recently completed, I wanted to, uh, make some design tweaks. So the first thing is that when we have these, um, items that are, um, longer text instead of a button, it's better for us to use what we use here, like, uh, uh, something more subtle so that it doesn't really, um, pop out on the, on the screen.
+It's, it's better. We use something like this, where we have a link that says view more. Um, so we can copy from the dashboard, the other, uh, piece here when we have these buttons that are, um, next to each other, let's keep it consistent with, um, stay.
+This is also not a great example. Let me see if I can find another one. See here, there, the spacing between them, this is what we should normally do.
+I use everywhere. It's a, I think how many are, I think maybe one or one or two pixels, um, so that it looks cleaner.
+And then for, um, when we do the, uh, groups, uh, we want to put this at the, uh, bottom, uh, instead of a floating in the middle with the same amount of space between that.
+So sorta like we, what we have on the calendar, see with this line and then at the bottom, right?
+https://www.loom.com/share/002f7b616b474eacbaba14316981d6a7
+success
+Streams | Fellow - 14 December 2021
+Thank you. So basically if I look at the first one, this is easy to do. I don't need to delegate, um, uh, cost created custom user field.
+This is also something that can be easily done. This, uh, David is serving as a point of contact. You would just make sure that it stays in his radar and are, you know, huddle.
+If by Thursday or Friday, we don't have it. This checked off. Then we need to say, Hey, we need to check in with them.
+Finish the attending evil. This is for them. We don't need to do anything until next week. Um, if we want, we can do a little check-in on Next Friday, I told her we will review the, what she did in the next meeting.
+Then user import, we have, David's going to send that over to them so that they have it again, checking with the status of the low score notification, Chris wasn't on the meeting.
+So he is not gonna really know all the use cases. So what will we just need to check with them?
+How soon it will be out, because if it's going to be out in the next week or so we should this new form that we're making sure just be set up properly instead of having them do the thing that I told them today and then having to change it.
+Um, but if it's going to be out in a month for now, then we're not going to wait for that.
+Right. Next thing is, yeah. Yeah. So anything that's in development, Chris is probably the best person to ask. Um, Rio may also know, but in terms of Chris is the one testing.
+It, there usually ends up in his queue last. So this is something that you can test. Um, cause I remember in the call, I said, if an attending has a bunch of evils, they can approve it in bulk in the system.
+But I don't know what happens when they get an email. Like when you click on a link, it goes to a page.
+I think those pages just allow you to approve and then go to the next one automatically you can select a bunch of them, right?
+So if that's how it works, then we can probably add a button that says approve, all right. Case law was or something, right.
+Um, or we can make it so that they are, they have to log in and go into the system and do the bulk of rule there either way.
+The first step is to figure out how it currently works by doing a test on demo, um, or on your learn dot metrics.
+Um, and then, so this is a bug here where, Uh, I took a screenshot. So you can see we made a competency Val and there was an overlap here.
+So for this one, you're not going to write the up. I don't want you to like get caught up with all of the write-ups it's, it's more of, you're going to communicate this with the Mike and Mike can take, Mike's a UX person you're going to, I would just make him a loom video in those loom videos.
+You need to tell Mike where this came from. So I made this by going into the, uh, demo server and I created a competency question with these options.
+And then I went to the assignments page and downloaded a PDF of that. So the best thing is Emily already did this on her.
+So one of the devs can just pull down Emily's MSU server. They don't have to set up anything. All they had to do is go to the assignments page and see what, so it skips all the setup process.
+So I would tell Mike, Hey, this is something that you can go to the MSU server on staging or production and see what Emily did.
+I need to out to download the PDF. You'll see that this is coming up as overlap. And when he writes up the issue in that issue, he's going to tell the dev to pull up back up off the production database for MSU, and they will be able to see this problem and fix it.
+So we don't know if it's a copy paste thing or no, this is not a copy face thing. It's just a format.
+They need to space this out. So if there's only so many options, it needs to use this full width of this bar.
+So you can make that in a little video and then this next one HTML code showing in the admin portal.
+So if you go to here on the assignments page, if I open up and again, I would just use, um, MSU server, because if you wanted to do it yourself, you would ask to take the time to go to demo and recreate it.
+So save the time and let the, and tell Mike to make sure to include this in this instructions for the developers, because otherwise they're not going to be able to recreate it.
+And if they don't, we don't tell them to go to MSU. So there's, here's the two problems here. One is this HTML code shouldn't be showing here.
+Do you have tags? It should just be showing in separate lines. Then there's no rotation shown here. But on the, when we looked on the personal portal, the rotation digital up here.
+So for some reason we need to fix this book. So the name of the rotation neurology was what we select it.
+https://www.loom.com/share/b5299265c32049f083c4746936cd248f
+success
+MSPE + Student Report
+Hi, Jessica. So reviewing these two documents that you sent over this first thing is a great report. This looks very straightforward and simple.
+And what we could do is incorporate this as a custom report, um, into, well, not a custom report, a great report.
+That's part of the platform and have it, have it, um, ready for you by the next, uh, the second onboarding next August.
+So this is something that we can commit to do, and we have included that in our proposal. Um, again, this is for the, uh, by the time of preclinical stars that we can incorporate this.
+And since, as long as you're okay with that timeline, we can do it at no cost. If you need to have it done sooner.
+Um, depending on the timeline we would, we could, we could do it for a custom development fee, um, if, if that's needed otherwise, uh, given that we have a year, we can include that in our normal development and have that added as for this, uh, MSPE, uh, we already have a way to automate part of this.
+And, um, this is the, the document generation tool metrics, which allows you to create a template. They can just use our formatting tools to create the document.
+It, uh, includes the ability to, uh, include the logo, insert image. Uh, I just didn't add it here when I was messing around with this.
+And there's also a way to, um, populate their first name, last name. There are some things like the, the notable demographics.
+Um, we don't have a way to add a custom demographic fields into the here yet, but that's part of our updates that we're working on now and the ones that's us done.
+You can put these as custom demographic fields for the profile and what I was added there. It will appear in here, same with some of these other fields.
+Um, but even if you wanted to get started today, uh, now, and start creating a style and a standardized template and just have blank sections in here so that whoever's working on the MSP can just generate it.
+It'll populate the basic information and they want to manually create the rest. You could do that, but once our updates are done, you'll have these custom fields that can be added and populate this additional information.
+And the third piece of it is the performance data. So there's all of these charts and performance data that needs to be added.
+This is something that needs to be customized to your organization. So we'll likely, uh, whenever, um, towards probably the middle of next year, um, we can work with your team to add a custom, uh, template fields in here for the match, your organization's performance data, and this will populate it with the charts and layout, and that will require custom development.
+Um, we're not able to provide a quote for that part right now because we have to finish our project updates.
+And some of the things that we do we'll we'll cover most of what you need. And when the time comes, if we need to add these charts, we could, um, provide you with a flat rate for that, and that will allow you to have it fully automated.
+So either you'll have the option to just partially automated and then use it and put the chart to yourself, or we can do a custom project to have it fully automated.
+And I also want to let you know, this is the same project, a similar project that we're doing for, um, uh, Talem.
+They are going to be using it for automation of your, their MSPE. Um, and then as part of that, we're also going to be doing, uh, customizing the, their template to put their performance data in there.
+This is the one thing that's hard to standardize because each school, uh, shows information slightly different. So those are the two things.
+Uh, so this, this part we're going to be including in the, have included in the proposal for the MSPE part.
+Um, we have a section in there that outlines what updates we're adding, and then for the performance data, um, um, probably after our updates are done, we can provide you with a quote for having these charts and, uh, that is unique to your organization added to the template.
+Um, it's going to be something reasonable and to be a one-time fee, just setting it up and you can keep using it over and over each time you need to, uh, populate it with the, a MSP.
+https://www.loom.com/share/e921c45453524e7f90bbc1278b54d728
+success
+Medtrics Lab - Calendar - October 2021
+So Maria for, we have written up issues for this one and for the M One up here. So here's another one that we can, you can add at the bottom of the attend log attendance page, where it just keeps showing, loading over and over and over.
+We can write that up as a book where it should not keep that, um, image from a, it just stopped that image as soon as the page is loaded.
+Okay. I'm trying to see if there's anything else. So under the user profile. So when you go to the user's page, open up a user's account and go to the exam scores tab, we can update the buttons here to use our new buttons, which is the standard edit, delete, and View buttons over may open up.
+Um, So if I go to let's say one of the newer pages, We have edit and delete icons here, and we don't have a view button, but if you go to sites, for example, this is a view button that will open up a modal.
+Like we have.
+https://www.loom.com/share/ace6dbc2b79d46be8b1b20c068f42eb4
+success
+Medtrics
+So evaluations and then manually assign I'm sorry, under search assignments. And I have all these evaluations that are assigned. And if I click on full form, it should allow me to complete this form, which is good.
+But if I go to the form, I go to the form and edit require signature, going back to assignments for a second and then go to quarterly live review, and full form.
+Let's assign it again. <inaudible>.
+https://www.loom.com/share/cadbdcdd96944a5cbe8f5c995fb116a9
+success
+Untitled – Figma
+For this feature, we're going to be updating the courses page on the curriculum module. The problem that we're facing is the groups sometimes have several, you know, 50 to a hundred, maybe 150 groups linked to this course.
+So in order to address this, um, this page becomes very long. And so we're going to try to make this a little bit better by making it so that if there are more than let's say, um, um, if there's more than a six groups, we will show it as, um, um, 23 groups.
+We just basically showed that the count. And when you had to click on the count or the group to bring up the model for updating and seeing what the groups are linked to it, and we're also going to move this groups button to this, this column, um, and, uh, show it at the top.
+If there's, um, nothing shown, we'll just see the plus groups button. If there's, if there's a, you know, five or six of them shown, then it'll show it underneath that.
+And then if they click on either the selected groups or the button, it'll bring up the model to edit and update the groups.
+A couple of other minor changes we want to do here is if we can make this course in rotation, uh, twenty-five percent less width so that it doesn't, um, uh, these other columns are a little bit of wider and it doesn't get, looks much like this, so we can even it out.
+So they have a little bit more space and use some of the space from the, uh, course in rotation to make that, make that arrangement.
+And then let's also bold the title of the course, all the title. And then on this page, we always want to, uh, just show, um, just show pure text the, with this, uh, description field for courses, a Wiziwig editor.
+Uh, but if there's any sort of text formatting, we want to ignore that and just show it in text so that we're not ruining the page a formatting.
+Um, and then we can also have a maximum number of, uh, characters here, maybe like, um, let's see, uh, like 300 characters.
+And if there's more than 300 characters, we can say like view more and bring it up in a, um, a model, the, uh, the, the course, um, details.
+And we already have a model that can be used for this Where, sorry. All right, sorry. Uh, we don't have to produce a model.
+We can just say view more and it'll just expand and show if there's more than 300 characters. So just to review all the changes we're making.
+So the first thing is we want to make sure that if there's more than six characters, six groups, we show the count instead of listing everything out, we're going to move the button for adding groups and editing groups to this second column.
+I'm sorry, the groups column. And then if there is a, if there is a click on the groups or the, um, if there's account and you click on account, it'll bring up the same model so they can update the groups.
+And then for making some more space on this, we're going to want, we want to widen the duration directors and groups, um, and the action column.
+So they're not all smushed. And then we'll, um, um, we'll slightly decrease the width of the course in rotation so that we may have some more room for that.
+And then I just thought of one another. One of the things that we can do is, um, um, when we have the course in rotation, bold, the course name, and then also put a character limit of 30 characters, said 300 characters for the description.
+If there's more than 300 characters, show a view, more button view, all button, and then lastly it's, um, um, let's see, that's it?
+Yeah, that's it.
+https://www.loom.com/share/5f6bc69b129c44aeae7fc99479675c15
+success
+Medtrics Curriculum
+And the second part I wanted to introduce our curriculum module. The curriculum component of metrics is something that is typically made available to our UME clients, for medical schools to build out all of their academic careers curriculum for preclinical and clinical, um, training.
+It is a very large module that allows the organization to do a lot, including mapping the curriculum to the AMCs accreditation standards and things like that.
+But from a residency standpoint, as we talked about, there is a potential use case here where each department can create a, a, um, a course for their training program, um, which has internal medicine or family medicine.
+And then each course can have a variety of different sessions. So these sessions are meant to be lectures that are given and a session can have the speaker, the, um, the content.
+And then you can also have key words on what is taught there, the different, uh, attachments such as, uh, um, PowerPoints or lectures that are tied up to tie to that it can all be linked to this session.
+And then when the, uh, the content is taught students, uh, the residents can be scheduled to this session and these sessions will show up on their calendar.
+Are they able to download the content and view everything? Um, um, as they would on a regular calendar event, the objectives, um, can also be created for each, uh, session.
+And then that can be mapped to some, uh, global objectives with data if that's needed. But the core thing is, uh, having a series of lectures, uh, content associated with it, organize it, and then you can able to roll it over from one academic year to the next.
+And just to come back to the calendar functionality, our metrics calendar is something that brings the clinical schedules as well as the lecture schedules together on one page.
+So if I want to go back to this, uh, example we were looking at in the other video, um, and I go to the calendar.
+You can see this calendar has a series of lectures that are happening on a daily basis. Attendance can be taken using a QR code.
+And then if I were to look at this resident from a, um, individual schedule, you can see that his rotation schedule his clinic, schedule his lecture, schedule all coming together on one page.
+And this is how the residents see this calendar. And if I click on it, then I'm able to download a different piece of content from it, uh, if they're linked to it.
+So the curriculum component is something like I said, is not something that typically made up, uh, available to, uh, residency programs.
+But if this is something that the department has an interest in using, we can make that available, um, as part of the full system to build out the residency programs curriculum.
+https://www.loom.com/share/6db572f82e5f4cdcbd171d3af551fcd2
+success
+Medtrics
+let's, uh, eventually we'll get out to the other types, but right now you're just going to be shown rotation. So if I arrive Here, I got a check.
+I'm going to select evaluation as the first module. I mean, as the module, and then I'm going to, Once I select evaluation, I will be given a Thing that says select Context, And this will have a dropdown blank.
+It wants me to select something. So this dropdown will have the three options in it. Three options, Options, Evaluation type status.
+And then next, what I'm going to do is I'm going to select, I'm going to select, let's say I pick evaluation type.
+It keeps doing that. The evaluation type is selected. Now, once I select evaluation type, it's going to know that I entered one.
+And it's going to say, you want to trigger The evaluation type. I'll tell you once I select this, it'll give me one more criteria to pick the right side of it or whatever one I don't care.
+But this is saying evaluation type is this. And you have to pick, this is going to be a dropdown with all the evaluation types listed in there.
+Okay. And then I click add another trigger. And then This will let me Pick A new trigger, which is going to be, give me the same dropdown again.
+But with now with two options, I guess I will have, and Now I can choose what, what is, what do we have remaining?
+We have assignment date, the assignment or status, doesn't matter. It all just getting joined the other. And then this will also, this will, this particular one will have a field.
+Let me type in a number because Yeah. You're not selecting from the List. It's exactly. And Some Days then now, like it still has one more option I can potentially select.
+So it's going to still show at another context. And then let's say, if I pick that, Now this is going to not show anything else and it's going to Automatically know what the remaining One is that we can do.
+We can basically either just show dropped down with just one or just show the last one And select. So that's also an end, right?
+Yeah. Yes. So this trigger will only happen if all of these criteria are met and there's all those criteria are met, then we're going to look into who should we send this to, Um, an audience.
+So this, this, this whole process, again, repeats to select audiences. So now we have an audience dropdown with these items on here.
+I select site leaders, and then I can do, I had another audience. Okay. And that will, if I want to do just, I'm not going to do it.
+But if I wanted to, I would select, let's say, if I select a rotation, administrators, I can choose roles for that.
+If I, if I just choose evaluate teas, there's nothing to select. There's only one. Right. And so, but you can do, and for this also, and then let's say, I want to send it out to a site directors, site leaders and the evaluators.
+Okay. So, um, and then the other thing I didn't really talk about in this design is how you make a mistake.
+You want to be able to remove it, um, That had a backpedal or just Exhale X out of this. And then the other, um, thing that we can do is on these.
+Um, when you add an audience, if you add more than one audience, we can also let them specify. Let's say, if I want to, for the sake of this example, we're going to continue this and we're going to, Yeah.
+I think you've got to look name and frame sometimes to make it easier. Yeah. Oh yeah. So right. Click On it.
+And then, uh, say apply frame is a short way of doing it. Yeah. Like a, and then I'll take everything inside of that.
+I put it on top And then you just drag the name. Oh, Oh, I need to get better habits in here.
+So this, this, um, so let's say if I add and evaluate PS, we can say, if you add more than one audience, we can let them specify whether, um, it should be a two or CC.
+Oh, I see. <inaudible>. They can say how they're being added to email. That's cool. PCC. So this way, the first one is always going to be too, because you don't want to send out an email to all BCC OCC.
+So the first of the first audience set is going to be the two. And then the other ones, if you add more than one set of audience, you can just let you choose whether.
+Yeah. So let's say you email the evaluate T you may want to also CC the site director. Okay. Yeah. So I think, I think if you sort of look at this and I don't think you need the other video, actually, you can just look at the, I'll send you this video and this, this update integrated into what re already made will address both use cases.
+Okay, cool.
+https://www.loom.com/share/f4292963aecf48e686c3d4ea7a9423f2
+success
+Medtrics
+At Rio, I really like this, a new update to the projects page. Um, a few things that we can really, uh, uh, like we can really, uh, promote to the customer.
+Clients is how easy it is to start a project and then filter by the projects. Um, we can change this to like just projects because this is going to be a centralized page that they can see everything across the institution.
+Um, and then from a, I also liked the fact that you can search and filter based on different criteria on one page.
+Um, a couple of, um, Hey David, I'm just finishing up a recording for Rio one second. So from the, on the projects page, one of the one thing that I was wondering is if there's a way for us to use that same drawer functionality that we use for sites, so that when you click view, it shows up on the right side and week on the, on that page.
+Being able to have a tab where you can add tasks, um, having a second tab where they're going to attach documents, um, or even like in the future, having a discussion on a third, another tab, um, this way it's a one project page where you can see everything.
+Because right now, in order for me to see information, I have to open up the view. Then that's where I can see the documents and the details of the project.
+Then I have to close it and then go to a separate page where I have to look up tasks. Um, and the tasks are also going to have comments associated with it.
+Um, if there's a way for us to use that drawer, if you like, it's pretty powerful because it gives you a whole page, um, that centralizes everything about the tasks and you don't have to open and close windows to do certain things on there.
+https://www.loom.com/share/71d53963d98946bbb49293ebf4997399
+success
+File Formats Supported by WebViewer | PDFTron SDK
+So for this particular update, we want to try and use the PDF dot J S uh, um, library and make the, um, Make all of our documents open in PDF dot JS.
+So right now we have only implemented it on a one specific page for PDFs, but we want to try to use that for all of the available file types and then implement that on all pages that we have documents.
+So let's take a look at the different pages on the institutional level. If you go to Uh, user's profile, they have documents attached to documents and certification.
+So on this page, when they do have a document, um, we want to be able to click on it. And also, and also add a, sorry, We want to add a, a view and download button here, a button here.
+So instead of writing out full text here, we can just have view, download, edit, and delete icons. Uh, so there are smaller and so similar to the way that we have in some of the other pages Actually like this, but without the text, this way, they're able to use a page without it getting misaligned.
+So documents and certifications. Then on the manage documents page, same thing. We want to be able to view Whenever they're expanding it, we want to be able to click a, have a view button so they can view the file in the PDF, John PDF dot JS viewer, same thing in the personal documents in resources.
+If they're opening up a file, we want to have a, a view icon so they can open it up and view it there In a requirements.
+If they have a completed document and they bring it up and click, uh, next to, if we can have a download button and their view button, if they click the view button, it'll opens up and they can see the contents without having to download it.
+Same thing in the active requirements documents. When they open up a file On the site's page, if I'm on the documents tab, in addition to the download button, we want to add a view button so they can view it in PDF dot JS Now to the admin portal.
+Okay.
+https://www.loom.com/share/77d1f65f7f0e4aeb98edc18e0a295c49
+success
+Medtrics
+Okay, so this is going to be an update of the, uh, courses page under curriculum. The problem we have here is that the groups, sometimes they can have 5,200 groups in here, and this can be a very long page.
+So in order to address this and a couple other usability problems and make some tweaks here first, um, what we can do is widen the spaces of the, um, duration directors and groups columns a little bit, and the action column, so that it's not all smushed into one, um, space here so that they have some more breathing room.
+And then we can also, we can make some room by decreasing the size of the course and rotations by about, um, 25% of what it's now.
+And then once that's done, we're going to make some design changes. The first thing is we'll, if there's more than six groups, let's just show the count.
+Like as 23 groups selected, if there's less than six groups, we'll just show the actual group names. And then let's also move the groups button to the ad groups, button to the groups column here so that, um, there are like this and we can move the, um, we can make sure that delete and edit buttons that are next to each other.
+Um, let's also make sure that the course title is bold. And then lastly, uh, for the description field, if this put a 300 character limit, if there's more than 300 characters, we'll have a view, view, more button and we click on it.
+It'll just show the rest of it and expand it just like we do on the, uh, dashboard, the announcements. And then lastly, if there's any HTML that's entered into this description field, let's ignore that on this page and just show the text so that if there's any, um, um, you know, like bold or anything like that.
+So big because this description field has a Wiziwig editor, but we don't want to show that formatting on this table view.
+https://www.loom.com/share/7fcfb5d0f0c042f08a0f9802d2417e17
+success
+Medtrics
+So for this Bob, you got to log into sandbox. And if I go to sandbox, you'll see that there's two programs here.
+There's actually three, but these two are the ones that matter. If I go to the programs page and I open up this particular one, you'll see this one has a curriculum.
+So we have the ability to create a curriculum for a particular program, or we can create, uh, a program can use another program's curriculum.
+So you'll see that this one is said to have a primary curriculum. And the second program is also set to have a primary curriculum, but if I log in and I go to, so this is one program and I go to program objectives.
+Okay. So you'll see that I made in the school of medicine, I made these objectives. Um, but if I go to the mapping page, you'll see, um, that it is actually, it is showing up correctly, the mapping page.
+And then I go to course and objectives and I go to the objectives page and I choose anatomy, have it here.
+And then I go to the mapping page anatomy load, and we'll show it here. And then I go to sessions.
+https://www.loom.com/share/707e3439f0fe4d768309f40241e72431
+success
+Medtrics Intro
+Hello, Erin wanted to create this video summarizing some of the things that we talked about, and it's going to be a quick run through of a metrics.
+As a introduction. Metrics is a platform that is used for managing a small or large GME department, which supports all different types of, uh, uh, specialties.
+And this is something that we are able to deploy and, and, uh, implement and, and migrate data from other systems.
+So that if an organization has been using another system, we're able to move the data over and implement it for all of the departments or just as one department.
+So today I'm going to be focusing on just one department as an internal medicine department. So I'm logged in as a program director here, but you can see here if I have residency programs or fellowship, I can have them all of them in one system and be able to toggle between them.
+So this is what metrics looks like as a program administrator program director. And you can see, um, one of the things that we do is we focus a lot on usability and trying to make it a, uh, engaging platform for all, uh, everybody that's using it.
+This includes the administrators, but also more importantly, the residents and faculty who have to go in there and submit the data.
+Um, so if I open up one of our residents here, John Dorian, I can see his profile and it'll show me all of his academics, uh, data in one place, including his, uh, demographic information, his, um, training history, attendance data for conferences, exams, work hours, case logging documents, and certifications such as onboarding paperwork, scholarly activity records all in one place.
+And, um, as a department metrics also allows you to create your schedules. So there are, um, you don't need to use any other platform for scheduling.
+If you're using, uh, metrics, you can use your blog, create your block schedules, who shift schedules, um, for your clinics and on-call.
+And all of that is, uh, uh, set up in a way that it's customizable to each department, their, um, block dates and, um, start and end times, and each clinic and a on-call shift, our managing our shift schedules.
+And this is something that allows a chief residents have flexibility to create what they want and make changes in real time.
+And all of this changes is presented to the residents in their portal, which cannot be sinked with their, um, personal devices, such as iPhone or a Google calendars.
+And you can see that, um, these are shift schedules for a clinic and on call, if I click into any of these shifts is how easy it is to assign someone to it and then make changes to the shift times if we need to.
+And when it comes to, uh, evaluations, metrics supports full automation of all of your evaluations for the department. This includes, uh, collecting rotation based evaluations, program evaluations, peer evaluations, and even evaluations for different lectures that are held during the day such as your didactics.
+So, um, there are different templates that can be used, meaning templates, meaning just, uh, um, how they're using the system.
+They, we allow you to create any questions in the system, and every question can be mapped to the ACG MES, uh, uh, milestones, if you, if you want to do that.
+So if I click click on one of these forms and click at it and go to manage questions here, you can see, these are some of the questions that were created by a department.
+And if I want to edit one of these, I can change the text on here. Um, and then if I take a question, I can also link them to the ACG MES, uh, milestones.
+So we have all the milestones 2.0 loaded in here also for internal medicine are ready to go. And most importantly, the automation rules allow these forms to be distributed based on the work schedule.
+So the work schedules are updated evaluations that are automated.
+https://www.loom.com/share/604be9b6b89f40e8bbc111e65b9b31e6
+success
+Medtrics
+Another important setup for new institutions are the custom demographic fields. So we'll take a look at where the demographic fields are stored.
+If you remember, we have four major user types. There are faculty, staff, resident, fellow, and student. So if I added resident or fellow user, you'll see that there are a bunch of fields here and there are also a bunch of fields on the right side.
+Um, there, there's going to be important things that we need to discuss later about some of these fields at this time.
+The key thing to note is that we have standardized fields, but if they want to add additional fields, we have a way to do that.
+And they end up on the additional info section off their demographics. So if you are on the users page and you edit a user, you can edit those demographics.
+Or if you click the view profile, it will allow you to view what's already in the system. And you can see here, it follows the same structure.
+As the other page, we have accountable a certification and for, um, citizen status, emergency contacts, the category. So these categories are the additional info categories or custom categories.
+So we'll take a look at how we create them. So under system set up user fields. What we can do here is create categories.
+So this could be Favorites and under favorites. We can have different fields here. Let's say Poof, And we can have this as long text, short text, select one or multiple choice.
+So select one, we'll say pizza. Then we can decide that we want this to be available for the residents and the students, but not for the faculty and the staff.
+So I'll save that. And then it's, it's, uh, something that we need to have a discussion with the institution and see what information they want to track and then specify what fields they need to, uh, enter that into.
+And then which type of user those fields should be created for. And then once that's made by make or edit any resident user and go to additional info, I'll have a favorite section with the option to select favorite food.
+And these other ones were already in the system. So once those demographic fields that are created under the demographics section profile, we can create reports that export this so we can create, let's say all active users from all the programs, all the roles, and come down here under additional info.
+We can select a category to export the favorites here. So we have the way that it appears here as a field name and the category name to the right side of it.
+So favorite food and our favorites. And we can export that.
+https://www.loom.com/share/10125ef2b29543a4bbee3df905f499f0
+success
+(9+) Bugs
+Hey, Mike. So there've been a few different bugs that I've been documenting. Um, while I was testing out the system or setting up the demo data.
+So for example, I'll just go through these one by one in the sandbox, sorry, it's not sandbox in the curriculum module.
+You go to school of medicine and then go to curriculum Map. How do we select a course? If it's a big screen, like the one that I have right now, which is like a two K monitor, everything shows up.
+But if you go to a smaller computer, then it gets cut off here and it's, you can't be the data past this.
+And the other problem we have here is normally that was my dog. Uh, in the, in the, on this page, normally you would see any mapping that was missed.
+So the way that this is supposed to work, as you have your curriculum map, you have your global objectives and there's map to course objectives, which accrue up more mapped to a session objectives.
+And you can review that by going to the mappings page on each of these, and you'll see you can drag and drop and you can make a mapping here.
+Um, so this one is mapped with this one here and so on, but if you forget to map one of these, so for example, this, uh, essential one is not mapped to show up as a red.here on this level.
+They'd be a red dot below somewhere that says this particular one is not mapped. We no longer have that showing up.
+It's supposed to be on this tree, this one. So that's the second book for this piece.
+https://www.loom.com/share/382eb79550a44f519270196c22e7ba5a
+success
+Medtrics
+Hi, everyone. I wanted to send this video explaining some of the documents that we're sending over. So our team had an internal meeting today just to review all of those keywords and figuring out a good game plan.
+So, first thing that I want to share is, um, this first document that we're sending over a call to Ross' keywords and system.
+This has all of the keywords that have been added to the platform by different faculty members. It's it has, um, many problems with it such as like there are spacing issues and there's also some, um, um, duplicates in here.
+And the other thing is also, it, it, it does get pretty granular. And one of the things that I feel like it's better for the school to do is, um, instead of getting so granular with the keywords, be a little bit more broad, because when you're looking for reporting, like if you have keywords that are talking about specific enzymes, um, you're not going to have too many other sessions that cover the same enzymes.
+So it's, it's not, there's not really much linking going on. So these keywords are mainly used for linking different topics together, so that you're able to see where similar topics are taught.
+But if the, if the keywords are so granular, like the name of a protein, it's probably not going to be used more than once.
+And it ends up being not very useful for seeing relationships, but if you go on a higher level and if it's talking about like certain types of proteins, and then it'll be easier to find different lectures that cover the same types of proteins.
+So, um, this is the keywords that are in there. You can review it. It's going to be difficult to keep much of these because of the fact that they don't have, um, they were just randomly added, I think, uh, um, and it also is going to be difficult to sort of match this up with the mesh keywords.
+But, um, I want to just leave that there and then going to the actual mesh document. So this is the original mesh hierarchy that we have here.
+And after looking through this, there's about 61,000 terms in here. And I feel like that's very, very broad and, uh, uh, coverage of everything.
+And then each of these, um, more granular terms get very specific. So what we try to do is we try to truncate the, the keywords to the second level.
+So if we go a zero one that's body region and then a zero, uh, the second, uh, uh, section in this coding structure, whereas this 1, 1, 1, and 2, 3 6, when we get to that level, then we're getting more granular, but it's also a not too granular.
+Um, so it gives us about, I think, 3000 some odd keywords. Let me have another document that shows that, Okay, this one, Nope.
+Paradise. So this document shows the keywords that are just to the second level of the hierarchy, and that has 2000 keywords.
+And I feel like, um, and then I, I think, uh, we, as a team, Maria also had a lot of experience with curriculum mapping.
+She went through this and, uh, her recommendations also, um,
+https://www.loom.com/share/cdacc70020264ba6b2655fe8158ff7df
+success
+Email Notification – Figma
+Hi marina for this new feature that we're building, we're going to be working on creating an email notification system and do do this.
+Um, this is a first, um, draft, the first version of this it's going to lead to, to have one new notification and we're going to be hard coding, a lot of stuff real is working on the interface for this.
+So the first thing is on the left menu, we're going to add a communications, uh, uh, page and on this page, we'll have a way to create a new notification.
+So on the new notification, first, there's going to be method type is going to be an email announcement SMS, but in this, uh, this is going to be hard coded for now.
+So it's going to be just email and there'll be able to select a module that want to create a notification.
+For first, we're going to only just have curriculum, press continue. This will allow them to select a trigger, only have sessions, scheduled data as a trigger, and then allow them to select one or more session types, and then who the audience will be.
+So the audience in this case, since this, uh, uh, session notification will either be session members or session leaders. These are people that are going to assess scheduled their curriculum session, and then they click and continue.
+And this second part we're going to skip. This is where they can create a custom message. But, um, for this, um, for a first version, we're not going to let them customize it.
+It'll just be a delivery method is going to say, uh, um, relative delivery date based on trigger scheduled date. And we're going to say X days before the trigger date, and they can add more than one.
+So they add, you know, uh, 10 days before this trigger session scheduled date two days before session scheduled date and so on for specific dates.
+And they can turn these re uh, check boxes on to set that up. And once this is set up, we'll create a Cron for it.
+And I'll send out this email notification, um, here that will look like this. And this is a design that we have from, uh, that we created recently from the HTML email notification task.
+I mean, look that up for you. H T M L so 2 8 2 5, we worked on a task to update the HTML email notification.
+And then that is, it has an, a email notification for calendar events. And that's what this design is based on.
+It's already mobile optimized. If you want to copy the code from there, unfortunately we haven't deployed it yet. And it's going to show the session named session type, how many days until the event, and then, um, the session description.
+We'll also going to show the school's logo at the top and the line of community session, a course code session, name, date, and time with the time zone at the end of it.
+Oh, so I think this is something that Rio is gonna work on the front end, and then we're going to need your help with the backend.
+https://www.loom.com/share/d4a9c3f1c7ae45d7a9f912b2d428f1ac
+success
+Medtrics
+So this outbound police shows up under medical school programs. And what we have here is a way to actually probably let me just start with my designers first.
+We can find it. Yeah. So this was my initial mock-up, um, where you start with this page and then you click new notification and I have three tabs where you go through, you select a module, you say curriculum, and then you say that I'm creating a notification for curriculum.
+Then what is a trigger that I want the trigger to be the, in here we'll have mostly going to be dates that you can pick, or it could be a, some criteria.
+And, um, so we also need to be able to add more than one criteria so that it works together and then it's gonna be used for, um, what do you want to include after the trigger?
+So it's going to be including, um, session types. So you can say like course session types or whatever it is, and then you, and then the audience is going to be who within all of these filters are getting sub selected based on what you've picked evolve.
+So if I picked curriculum, then these dates are only going to show, or these triggers are only going to relate it to the curriculum and then session, uh, types going to be selected and allows them to say, so you P you picked a session scheduled date that is now telling the system that you're dealing with sessions.
+So now you need to say, do you want it to send that to all the sessions or some of the sessions?
+So we're going to specify that by there's a session type in the future, we may add some other criteria that lets them sub select sessions, but right now we have such type.
+And then within the sessions, there's going to be people linked to those. So they're going to be linked in different ways.
+So you have, it could be session members or session leaders. So, and once that is set up, the next thing is to create the actual content.
+And then it's going to be, the delivery is going to be either relative delivery or specific dates. So you can have more than one relative delivery saying two days before, three days before and so on.
+Okay. Um, so that's what we built here. And Rio did his own tweaks on the interface and which is fine instead of a separate tabs.
+He has it opening up in a model, uh, like in a continuous manner, which I, I it's good. And I, oh, one thing that I think we should change here is it's not good to have so many items, um, having in a modal, this is better in a separate page because what just let just happen will happen to people.
+There'll be trying to build it and then they'll lose the mode. They accidentally lose a model and they lost all the work, right?
+So models are not great when you're dealing with so much data entry. So it's probably better to turn this into a separate page then, um, or I guess we can like lock down the page thing so that you have to press X or save to close this.
+Um, but that, then you're doing something different than all the other models. Um, so, so what we have here, let's go through the same thing as name of the, what is this notification name?
+So in mine, I didn't have a notification name. Then we have the content. So we're going to have this block of content show at the top of the standardized email that we'll be creating for each of these notifications we're creating, we're going to, we'll have HTML emails that are designed.
+And then at the block, they'll allow them to customize the text, but that's what we're looking at. And then what is a trigger module context?
+Um, so, so this is, I'm not a fan of how this is being organized here because you're setting the trigger.
+Um, so like the module and then the trigger, and then randomly you have session type here. It, because it doesn't really scale to what, if you're doing a different module.
+So I kinda, that's why I put this into, um, three different tabs here. So it's um, so this could be built out for various.
+Yeah. And I, I don't think I address all the use cases here either because I'm, I'm sure mine has a lot of gaps too.
+I was, but I think what we can do is you take a, take what we have the real worked on, and then what I have in there.
+And the thing that we need to address is now in the, in this use first use case where we're going to do is focus on sending out emails related to evaluations.
+So here, the module is going to be evaluations. The, um, um, the context is going to be, um, um, the evaluation submission dates.
+It's not as nice as a evaluation assignment date. Okay. Evaluate an assignment date. And then what we need to do is send not emails when evaluations have not been completed after certain days.
+Right. So in, so we, right now, you can only select a date and you can say stop before start or end or whatever, but that's not going to work for our next use case.
+Right. So it has to be you select a date and then we have to add a way to put, um, So he's got one day there you can add or remove.
+https://www.loom.com/share/4563638de5e44cba94381f50d40a1727
+success
+Medtrics
+Hey Mike. So for this task, we are now going to schedules, schedules, shift schedules, and either I can make a new shift schedule, I can open one of the existing ones.
+And when you go to the manage shift templates here, we have the option to make a shift name and then create a start time and end time.
+And the start date and end date on the right side, we have the ability to, um, put a pattern. Um, so this pattern right now is limited to one week.
+So what we want to do is, um, give them the ability to build a pattern for up to four weeks.
+So what I mean by that is, um, basically they will, we'll have like buttons here that say one week, two week, three week, four week.
+And if I get click four week, I'll get a, um, 28 check boxes here with maybe the a S Sunday, Monday, Tuesday, Wednesday, Thursday, Friday can be underneath it.
+And it can say week one, week, two week three, week four, and then four week one, I can put a pattern in one day, Wednesday, Friday, Thursday, we to maybe Tuesday, Friday, week three, maybe Saturday or Sunday, and then week four is some other pattern.
+So this would be a four week pattern that they build. And from the start date to the end day, we will repeat that pattern so that it's allows them to build a schedule for the entire year using a specific pattern.
+And all we're doing is just basically expanding this from one week to support up to four weeks and this repeating pattern.
+And, uh, uh, here's something that I'm thinking how it may work. So if I take this and repeat something like that, and then we'll just put one week, two weeks so on, and if I turn on the two weeks, for example, then I'll get a grade here.
+<inaudible> to Okay. Something like that. Okay. And now if I put a start date of January 1st or December 31st, it's going to repeat this pattern every two weeks, starting with the first Sunday onwards and this starting with the F like if a January 1st is a Monday, it'll start from that Monday onwards and build this pattern for the entire year.
+https://www.loom.com/share/ec8e577e329c444db6686e4072a2ad9e
+success
+Guide to the Perfect Personal Statement for NIH Biosketch
+Hi, Gary. So for us to submit this a proposal tomorrow, we need to have biosketches for each of our investigators.
+And this is a specifically formatted a CV for the application. And here is a sample that I found online and it starts off with some information at the top.
+Um, I can help create this document for you, but I need some information from you. Maybe you can just dictate into it like a voice memo on iPhone and just send it to me and I can put together this document.
+Um, so for example, at the top, we need to have a personal statement that follow something of this structure. Who am I including rationale, uh, for, you know, working on this project, any work in the past that has done, uh, uh, that is relevant to this project.
+And then, um, why am I qualified including accomplishments, uh, you know, in, in work with the radiology and the department versus any sort of research, uh, that may be relevant to, um, providing, um, working on a project that is about radiology reports and the potential for us to have the impact on healthcare, um, with the success of this project and creating simplified patient friendly reports.
+Uh, so it can just be a brief, uh, personal statement at the top that, um, and you can, you can simply just dictate it on your phone using the voice memo, and I can add into this format then after that we have, uh, positions and honors.
+Um, so I know you have, uh, your CV has a lot on there. Um, I'm going to pull, I'll try to pull some into here that, that, uh, are relevant and, uh, and send that for you to review when I, when I have that completed.
+Um, but if you have anything specific that you wanted me to include, let me know. Otherwise I'll try to pull that as much as I can.
+Um, some of them don't have dates. That's the only thing that, uh, uh, you may have to fill in after I move it over.
+Then the last section, this is, um, also I need your help with is the contributions to science. So this section requires us to submit any prior scientific work that was completed by the investigator.
+And this, if ideally, if this is like research, um, publications, then that would be that's relevant to this project. That'd be ideal, but if not, um, anything that is close to what we are, um, working on as specifically about patient, uh, access to radiology reports, imaging, and, um, firstly I won't have the time to review all these right publications.
+So if you can pick out up to five, um, past research projects or publications, um, and give me a brief summary again, you can just dictate it and send it to me on the phone.
+Um, just describes a few sentences of what the project was and then I can put that plus a, um, citation to that.
+And, uh, if we can include up to five items in here and then if, um, and I'll see if I can.
+https://www.loom.com/share/4e220b081a1742afb954296a0d028108
+success
+Medtrics
+Hi margarita, since we can meet, uh, I put together a quick tour of metrics. So you have an idea of what the platform looks like.
+And then whenever it's appropriate, we can do a more in depth demo. So this is what a metrics looks like.
+And you can see this is a program administration dashboard, and for an organization of your size, you'll have different, uh, programs that are in metrics.
+And each of them will have its own dashboards. And there's an institutional dashboard for GME administrators. And from a program perspective, we have certain things that we highlight on the, on the administrative dashboards, such as different Iris data that is incorrect.
+We proactively look at the data and convey that alerts to different coordinators so that they can correct different, uh, problems with, uh, with their trainees.
+Then there's also our user management, which has a directory of all of the trainees faculty members and staff. Each, each trainee also has different profiles that we can manage a variety of demographic information, um, education, histories, attendance, and so on, including documents and certifications with exploration tracking along the way.
+On the left side, we have each of our different modules. I won't get into all of them. I'll just touch on the evaluations module for a second.
+So evaluations is built in a way that it's it's, it ties directly into the ACG MES, uh, um, milestone requirements.
+And each of our, uh, evaluations are built by the program. They have full flexibility to build, uh, templates and then put in rules on when that should be distributed automatically based on their schedules.
+So every department has the capability of setting their own assignment rules and just preview what the assignment automation rules look like.
+So each director or coordinator had can, can specify different, uh, assignment rules based on the rotation who should complete this form, setting the roles, evaluator roles of faculty members evaluating, let's say first and second and third year residents.
+And when should it be assigned, putting in a rule saying two days before the end of the rotation and metrics uses our block schedule to distribute these evaluations and send out email notifications, addition to that, um, there's tracking for all of these evaluations and keeping, making sure that, um, compliance is high.
+And if this is a demo system, so that's why it's 18% compliance here. Um, but otherwise it system automatically alerts the individuals to complete it and then remind some until it's done so that we can ensure maximum compliance.
+There's also block schedules and shift schedules in here. Um, block schedules is your standard block schedule that brings in all the rotations and you're able to publish it and, uh, make sure it's thinking with it's thinking with their work hours and also any vacation time it's automatically updated on the schedule.
+And all of this eventually ties into the Iris module where metrics is able to, uh, bring in schedules for each of the different sponsored institutions and, um, have a cost reports generated.
+And we also are able to run all of the same tests that our CMS runs on that your data. So when, if there's a problem with some, some, one of the entries, you can correct it before actually generating that database and submitting to CMS.
+It's a variety of different tests that is preloaded into metrics, and it can be either run by the institutional administrators or each of the programs, um, that are managing, uh, the data.
+And so those are, those are just a quick preview of, uh, metrics. And just so you, that you have a idea of what it looks like and how it functions.
+And then there's a variety of different modules that we can go into into more detail in the future.
+https://www.loom.com/share/0a0b43db8cdb4affb9ef03077c5704b4
+success
+Medtrics
+Hi, in this video, we'll take a quick preview of the metrics, curriculum module. So Metrics, curriculum module is part of the full platform and it is the foundation of the, the, uh, the system that can be used for managing various programs.
+And as you can see, this one is set up for the school of medicine, but you can have a variety of different training programs such as nursing, allied health, um, all in one system.
+And it's possible to toggle into a different system, a different program, and have entirely separate curriculum for that. So we'll stay in the school of medicine and you can see along the left side, we have a curriculum map, Which Allows you to visualize some of this data, but you can see here, the first step of the curriculum hierarchy is the global objectives.
+So, which is the American association of medical colleges and their physician competency reference set. And then each school will have its own set of program objectives that can be created in the system.
+It broken down into sections and a particular objectives that under each section you can see is possible to toggle and do different academic years.
+And then there's also mapping tools that allow the, the objectives to be mapped from one academic year to the next, can you use a drag and drop tool to do the mapping?
+This also has search capabilities, The Next level down. Do you have different courses that are part of the, the particular curriculum courses and any sort of clinical rotations that are offered?
+This includes a search and also scheduling directly built into it. So if we have groups of students that are participating in a particular course, uh, we can link those groups directly to this.
+This is just a test environment, and then each course has objectives. So this particular one has three objectives, but it can be as many sections and objectives for each one.
+And this also allows mapping. So if I select the course and load the objectives for it, I can do mapping.
+It's slightly different interface for this one. Go ahead and map from the course, all the way to the program objectives.
+And then there are sessions underneath each of them. So every course can have sessions. These sessions include lectures, labs, and so on.
+And sketch sessions can be scheduled to the academic year, had keywords that allow it to define different topics. And then each of these sessions can also have instructional methods, assessment methods, and resources sessions can also have objectives that are linked to courses.
+So if I have a set of objectives for the session, it can be linked to a course And then everything can be searched.
+There's A full search capabilities, built into metrics, and then there's variety of reports. Also, uh, we'll be getting into each, each of these during the, uh, the demo.
+Um, but this was, I wanted to just share a quick preview of metrics and the overall structure of the curriculum module.
+https://www.loom.com/share/070c4d2e2e2e44f9bfc3902249d65b51
+success
+Meetings | Fellow
+Hi, David. So for standardizing processes for onboarding the first step there is for us to, um, let's review this, uh, document here.
+So what we could do is in, uh, let's, let's focus on decline that we're doing now, instead of trying to do all GME and UME stuff, we can start off by creating a folder in customer success.
+Let's put it under customer success. And then there, we can say, um, client onboarding and then UME under there and under UME.
+Um, we can, this templates that we have is this onboarding worksheet. I have, uh, the original document, which Maria was working on updating and once, um, so we can put this in there and every client that we're starting, the onboarding, we're going to be collecting this information.
+And then there's also, we can also put the, all the, um, upload a copy of all the upload templates into a sub folder in there.
+Um, where we, the ones that we created recently, the spreadsheets forgot the folder where they're in like these kinds of documents.
+So we have this worksheet, we have this thing. And then the next thing that we need to have in there are, um, a document that we start for creating a meeting agendas and, uh, another document for email templates.
+Um, we can do put let's, let's start making all this, uh, in Google doc and I will start copying and pasting email templates in there that as I'm creating them and sending it out, and then eventually we can take those and put it into process.st.
+Um, and then also create checklist for making sure that we do everything. And so, um, the worksheet, the templates, and then a document for star, for meeting agendas and the different meetings that we need to have.
+Um, you can even take that, um, document that we made for the RFP and putting those, uh, sample meeting agendas into there.
+And then the other Is email. The other one is with email templates that we can populate with emails as we're sending to them.
+Then that's a good start for now. And once you SEM, once you share that, um, email templates, one, I'll start email copying and pasting my emails in there, and you can start turning those into generic templates and the meeting agendas.
+I'll also copy and paste what I had so far with Chamberlain, and that can be also turned into more generic templates.
+https://www.loom.com/share/698b4f163a2341caa4a75e6aa9a72097
+success
+Untitled – Figma
+Hey, Mike, this flyer's looking really good. And I wanted to review a few of the, um, the topography stuff mainly.
+Um, the one thing that I can keep, uh, noticing is they look just looks very crowded. Uh, when you look at the text, especially when you get to the bottom.
+So, um, and also we're using too many font sizes and it's, it's, it's not really a clear hierarchy of, uh, the important items.
+So I think we can, we can adjust that with some small changes. So for example, uh, when you're doing a heading and subheading, um, it's good to mix up the light and the regular sized bond of, um, wait for the bowl.
+Wait, so then you can separate different things. So, um, I think, uh, we can either use Marriott <inaudible> and both of them should have light volt and regular.
+Um, so I said, try light here. My, it might not work. Uh, we might be just keep, keep it as bold.
+Uh, but the one thing is to try to have the font sizes match up a little bit. So <inaudible> Let me see this one.
+I think I was looking up to see what the recommended sizes, um, <inaudible> 5, 6, 24, or 24 for the subheading.
+And then for the text itself, we can try, um, 12 and see how that goes. And then for this Down here, let's try <inaudible> It's it's 24, this is 12 and then 12 again.
+And then when you get down here, I was trying to think about ways for us to clean this up a little bit.
+Um, so the call of action, instead of, um, it being the URL because no, most people are not going to go in there and type this out.
+So, and we're trying to get tech savvy people so we can just make it, so you have scan the QR code to get to this form and the interest is can QR codes apply today.
+Um, and then on the right side, in this sub, uh, the small section, you can put your contact information. Um, it should be metrics, lab.com, not metrics.com.
+Fortunately, we don't own that domain. I wish we did. Um, and then we can also put, I haven't figured out a way to put the, uh, we're looking for three, I mean, five, uh, advisors.
+Maybe we can put it, um, like somewhere above there <inaudible> Like that and say, um, instead of we're looking for saying, okay, So five advisors will be selected from various specialties, something like that.
+Um, because the wording, instead of we're looking for, it's sort of like we are going to be selecting five. Um, so it makes it look, sound a little bit more enticing, but the other than that we're, it should be good to go.
+So I'll send this to you and if you can try playing around with the font hierarchy a little bit, uh, we can, we can see if we can clean up that the, the crowded look.
+And also when we, uh, try to spaces out a little bit, so making sure that we have enough white space around some of these items that it makes, it looks a little bit more cleaner at the bottom.
+https://www.loom.com/share/6f3973af5f3946f5b089836fd098f8d3
+success
+Medtrics
+Hey, Mike. So for this particular, um, question, what we added was the ability to create administrative all the templates. And what Chris is suggesting is that there may be some instances where you want to create an admin only requirement, but they may want to only show that to the administrators in our design.
+If you create an admin, only the resident can also see it, but they can't interact with it. Um, so we can add a second check box that says admin only, and then only, um, visible to the administrators.
+So if the first checkbox is turned on the second check box, pick some becomes active and they can turn that on.
+And this on. If your design, You can just add it to the, uh, this here. Um, one check box, then a second check box would under your name.
+If it turned on, they could turn it on. And that would say Ali, um, visible to administrators. And so if that's turned on, then it wouldn't even show up on the personal portal for the student or whatever individual, sorry, on this page, it wouldn't be able to see it at all.
+And then second more, um, complex, uh, or slightly more complex workflows. When these requirements are submitted, the administrators are reviewing them and approving them.
+And after they approve them, we add those documents to the student's records. So if I go to a student's profile, I go to the documents and certifications tab.
+We'll see those documents appear here after they're approved. While we want to do is, um, if the second check box is turned on, those documents will come here and it will have this checkbox also turned on, so that it's kept confidential from the student.
+So, because if it's administrative only requirement, then we would want to make sure that the, um, student is also not seeing that.
+Uh, it's all we're doing is, um,
+https://www.loom.com/share/3ddfc7d46c224382ac8a2828078029f8
+success
+Loom | Free Screen & Video Recording Software
+Hey, my bad. Uh, I started on that tab. Then I switched to another one, but I guess was set on the tab only.
+Um, so let me do that again. So we had recently did a task where if you're downloading a rotation evaluation on the assignments page, it would add the header there.
+So we want to reference that task and then update that to include the site name where, um, and we also want to add that information up here when you're looking at a rotation evaluation that we show the site cause in the world of medical school and nursing, um, they're all going to different hospitals.
+So would they need to know the site where they're doing it in the ho in the residency market, they're all going to be in the same hospitals.
+So they only need to know the rotation name. So for medical school, they need to know that up here and also in that PDF design.
+Um, the second part was at second task was adding a sites filter here. So if we add a sites filter somewhere here, um, when they select a site, it'll pull up all the rotations for all the rotation evaluations that are linked to that site.
+So, um, so we can call it sites. Uh, and then in parentheses, um, like, uh, in italics, like, like this, we can put it with, um, uh, explain our texts, um, only for evaluate rotation evaluation, so sites, and then next to it, we'll leave for rotation evaluation because otherwise it's not gonna work.
+So it'll pull up any evaluation that are from rotations that are linked to that site. And down here, we currently don't show any, um, let me go to a internal medicine program here.
+You'll see contact. It shows the rotation name, but, and the dates, but it doesn't show the site name. So we would want to, um, show the site name somewhere.
+And I think, uh, I don't wanna ruin the design here because a lot of our pro clients already use the rotation name.
+So I'm thinking we can put it rotation name and then right under it, um, site name, and then the dates at the bottom.
+So three roles.
+https://www.loom.com/share/f12700780eca4c6fb2ff700e16057046
+success
+Medtrics
+Oh, this, this problem. It's a bit of an advanced, a feature that we have. So one of the things that we can do in metrics is create a shift schedule.
+And inside of that shift schedule, we'll have these shift templates. So for example, here we have the purple one is 12:00 PM to 5:00 PM, Monday through Friday, and then we have the am shift happening two days a week.
+Right now we don't have anybody assigned to these shifts, but, um, we can automatically fill these shifts if we want to using rules.
+So if I go to the rotations and then go to our blue button here, I can select a shift continuity clinic.
+And then say, Monday, I click a am shift. Let's say a Monday, Tuesday, Friday, and add rule. So what happens is anytime someone is scheduled to the comp continuity, I mean, sorry, the, uh, cardiac PDR pediatric surgery rotation.
+So remember we have rotations being scheduled on the block schedule. And if I schedule someone to a block schedule for this rotation, they will also be added to the shifts on Monday, Thursday.
+Well, I don't know why we shipped. This is a bug it's Monday, Thursday, Friday, Tuesday, Friday. I guess it's doing that because I clicked in that order.
+Um, but anyway, this is automatically going to be updated, um, based on the rotation. So every month thing, I have a different resident coming in and being scheduled to cardiac cardiology, pediatric surgery, and each month they'll also be added to these shifts schedule.
+The problem that an Halfman is having is you are going to be automatically putting them on these four days, but let's say on a Tuesday, a particular resident is not going to be covering that schedule for some reason.
+She wants to go to the shift schedule and I think let's, let's actually do this. So we have people showing up, um, cardiac pediatric surgery and let's go to schedule Cardiology, pediatric surgery.
+And for October 1st onwards, we'll put Bruce banner on there. And then if I go on, So I think we may have to, I don't think it happens instantly.
+We may have to run a Execute auto for run, and then I'm going to go back to that shift schedule Or internal medicine Continuity clinic.
+Um, Let's make sure that schedules shift schedules let's make sure that's the correct one that we are selecting. Go to rotations, cardiac surgery, continuity clinic am shift Monday or Tuesday, Thursday, Friday.
+Oh, wait. This is the cry. Believe that's it. And let's go back to the schedules shift schedules, open this up.
+It's going to put a new rule and box ships Open this up. So, Uh, I think I know what happened.
+Go back to the schedule, make sure we publish all and then do it again. So I forgot to publish the block schedule and that's why it wasn't getting added.
+See, now you can see that Bruce banner is automatically added to Monday, Tuesday, Thursday, and Friday because he was added to the rotation.
+So the plot problem that Ann Hoffman is having is she's going in here and removing Bruce from one of these shifts.
+And so she's gone, he's gone from the 26th, but overnight we run this Auto shift for schedules and the user gets added back to the shift.
+So all we need to do is if someone was removed from it, we have to make sure that that person stays off.
+If someone manually removed Bruce banner from it, then we need to make sure that it stays off.
+https://www.loom.com/share/2cc7ae16527d4f8db3b562ac14868a62
+success
+Medtrics
+Hi Beth. So we've completed all of the forms. And at this time we have, uh, everything loaded to the physical therapy program.
+Our plan is to, um, move them over to the other programs or make copies of these once you have reviewed them.
+So here's what, uh, we needed your help with. Um, if you open up each of these forms on part one, you can check the name, the activation date.
+It doesn't matter. Um, for the form type, we, for some of these forms, we try to figure out which type of form it is.
+Um, so when you click change form type, it'll show you what types of forms are available and a description of this, something that anything that is linked to an event, which I believe are your courses, um, should be an event type.
+If it's just a general survey that someone's completing and they're not evaluating any rotation or another person, then it can be a general survey, uh, such as the, uh, post residency feedback and exit survey.
+Those can be just be general. Then there's the program evaluations. These are any evaluations of the program or evaluations of another person in the program, but, but not in the context of a rotation.
+So let's say if it's a monthly or a, so let's, let's, let's say it's a form that you evaluate the mentor once or twice a year in that setting, it's not a rotation evaluation, it would be a program evaluation.
+Then the rotation would be any of those mentor evaluations that are completed in the context of the rotation. And here you can also specify whether confidential feedback is necessary or not.
+And then down here, if you want to be notified, when a particular form is submitted, you can turn this on.
+If you put automatic alerts, it will allow you to, it'll send you an email for every submission you've returned on manual alerts.
+It'll at least specify. It'll give the evaluator the ability to trigger a notification. So typically these can be turned off because you don't want to be notified every time.
+And if you need a, the person that's submitting the form to have a signature, basically a digital signature, you can turn this on, it'll ask them to sign that, sign it.
+Um, then on the manage, um, questions page, you'll see all the questions that we created for this forum. We skipped using the question bank.
+So after further discussion today, um, we basically abandoned the idea of using the question bank because there's not really any evaluation forms and have, um, any questions that are shared across forms in the same program.
+So you have copies of the same form in different programs, but question bank is better when you're it's use cases.
+When you have same questions being used on multiple, um, forms in the same program and it complicates things otherwise. So there's some questions that we created that in the question bank that we'll be removing or it's, it can stay there.
+It doesn't matter, um, all of your forms right now that we recreated them and they all have the questions on the template itself.
+So if you need to make any changes, all you have to do is go to the template and edit the questions directly on the form.
+You don't even have to ever go into the questions page. And then if you come down here, um, so a classroom lab, faculty evaluation, um, this, I believe will be better as an event evaluation if it's a course evaluation.
+So I changed that and then classroom, lab, faculty evaluation here, um, for Ivanti evaluation, it actually will attach the calendar event name and the person that gave the lecture automatically.
+So I don't think these fields are necessary, uh, but we put them in there. If you figured, if you're going to be, um, if you want them to type that in, and then you can see here, if you edit these questions, you'll see our scale.
+So it would be good idea to just check these, to make sure you're happy with the scale. And all of these questions will have a, a, um, option to turn on no feedback or not applicable.
+So if that needs to be turned on, they can be turned on. Let's see this one should be a like text question.
+All right. So, so some of these will need to be changed to a text question because they came in as a Likert.
+All right. So let me save and continue. And on this last page, um, you can skip this for now. We'll talk about how to assign these.
+Once we have copied them over to the different, uh, forms and different programs, so simply, um, review them to make sure you're happy with the anonymous setting.
+Um, and that's on this first page, whether you want it to be confidential or not. So if you, if something needs to be confidential, you can leave that checkbox turned on.
+Otherwise he can uncheck it. Uh, anything where you're evaluating a faculty or evaluating the program typically should be confidential. So the trainee feels confident in submitting the evaluation and, uh, without getting into trouble.
+https://www.loom.com/share/42511d6cb25343aabcfec567d08ec2e9
+success
+Medtrics
+So this is a couple of small issues. When you're going into a procedure here to edit. Um, if it's a medical school, school of medicine, Let's go school of medicine and then go to cases, templates.
+If it's like medical school, we want to hide the minimum for credentialing and then also high the minimum performance level.
+And, uh, the type also can be removed so we can update this to type and credentialing and minimum performance level.
+It can be removed if it's a medical school program for residency program and you don't have to, we don't have to hide those.
+And remember in the company portal under programs, that's where you specify. If it's a residency program or medical school, same thing for nursing schools, we can hide 1, 2, 3 fields.
+And then if you come down here, there's a section for adding custom questions. I want you to know you don't have any questions on the questions.
+Okay. Now, if we go to this template and try to add a custom question, Add questions, select, Um, on this page, there's unselect, which has typo on it.
+I should say they should not capitalize the S and then unselect. It allows you to delete Something without having any sort of alerts for it.
+So we should add a sweet alert, asking the user to confirm that they want to delete a question from a template.
+So that's all under case logs and editing the template. So I just reviewed, we have removing those three fields. If it's in medical school or nursing school, um, then fixing the type well for unselect and then adding a sweet alert.
+And then lastly for managed diagnosis and managed procedures, when we add a category, Okay, that's actually working fine. So that was a bug before we fixed it.
+So basically for templates, we want to address those items.
+https://www.loom.com/share/51276a58fc7449fa8125f9c8434f196b
+success
+Medical Education Reports - Google Sheets
+So for this, uh, three reports, first one is the site rotator report who will allow them to see your list of users that are scheduled to work at a specific site, so they can select one or more sites and then roles.
+And it will allow them to see, um, what hour, hours or rotations that they worked at each site. So this is rotation or shift.
+And if it's a shifter, it gives you total hours here. If it's a rotation, it'll just give you the start date and end date.
+And so over a period of time, which students worked at which site, this particular report is actually missing a criteria here.
+You're gonna be selecting an individual and the individual that's selected. It should be And that individual, during these date ranges work with all of these, uh, people.
+And we should update this to actually have a name here instead of just saying username. So that way it looks more realistic.
+So it's giving credit to people that have worked with students or residents during a date range. Then we have the site survey report.
+This is any given time. You select a, and it'll tell you who's on, who's working and who's scheduled to either be there because of rotation or shift and by site.
+And this is good for like emergency responses or something where you need to know who's working at a different, uh, uh, building and a, and especially if you need to return to them and just update it to have real, you know, some real names in here, you don't need to have this many items, but instead of saying first name, last name, put some real names in there and it'll make it more look more realistic.
+https://www.loom.com/share/f243bdf9531b40c2a4f7f62dceab11cd
+success
+Untitled – Figma
+Okay, Mike. So I was testing something for Ross vet and I've come across some problem with the usability here that can lead to loss of data.
+So for example, I've under sessions, this applies to sessions and course objectives under mapping. I can go and select a course, select the session, click load, and it'll bring up all the session objectives for that.
+So what I could do here is quickly do all the mappings to what I want to do, and it works.
+However, it's just as easy for someone to lose the data. So I can go in here, click X by mistake.
+And I just lost all this mappings. And some of these may have lots and lots of mappings they made, and there's not even a confirmation for this.
+It auto saves everything and that data is lost. So what we need to do here is make it a little bit more, um, add a little bit more of a process to change the, so there's not a human error.
+So some, this is a something that I I'm thinking that may work. So for example, if I have these objectives, um, if, if, um, instead of, well, instead of, um, having all of these items being editable at any given time, we could make it so that if there is at least one mapping for it's a session objective or course objective, and they, if there's at least at least one mapping in there and they click save, then it will become a list like this.
+It would not be shown as an editable field. So adding a, um, a way for them to click edit if they want to click edit.
+So if they want to edit an existing mapping, and then once that mapping is done, being able to click a save to make sure that is saved.
+So this is just an extra layer of protection. And then, so that's one way to do it. Another way that we can do is make it editable like this.
+And then if I come in here and instead of having the save button, we can just add a confirmation. If I click X, it will ask them to confirm they want to remove it.
+And If, uh, and then we'll continue autosaving and if no objectives have been mapped, we have two options here. One is either show the field as editable because then they can just go in and start making changes and add them if it, or we can show an edit button so that they can click the edit and then start editing.
+So a couple options here to consider. Um, but the key thing is we need to make sure that we protect the data that has already been mapped.
+So they are not accidentally clicking X and removing things. And also showing it in a text view like this instead of a field, it's also easier for them to see and navigate it.
+Um, rather than this, this field that can get very long.
+https://www.loom.com/share/4c45b129b819499b9237241d7d784f54
+success
+PINACLE® Express | PNC
+And Mike. So, um, one of the things that came up during this Kevin call is that when we did the PDF for the eval, the header, we, for some reason we forgot, uh, the section four site.
+So right now we have rotation at the top. And what we want to do is make sure to add the site slash rotation, and then under, and this section on the first roll, we can put the site name, then the rotation name, and then the dates as we have it here.
+Um, this is on the assignments page when you're downloading a PDF. And when you're previewing then evaluation on that page by opening on a modal.
+I don't think we show the site there either, so we can show the site there also. Um, this was part of that task that we did before.
+So we may want to reference that one, uh, in this task since, uh, uh, it'll be easier for the developer to find that.
+And then, um, the other page thing on the assignments page is they want it to have a way to, uh, like we have a bunch of filters at the top of that, um, rotations page.
+And right now all of their, uh, evaluations are done on rotations and then, but they want to be able to see all the submissions that came in for a particular site as site may have several rotations that are linked to it.
+And if they select a site, we would show list of all the, um, all the evaluations that are linked to rotations from that site.
+Um, and on that table below where we, we just call it to the system real quick, It's under evaluations and assignment, and here basically adding a site field at the top and a list of all the active sites.
+When you select a site, it'll filter all the rotations that are from that site. And we also need to show site somewhere here.
+Um, so I think, uh, um, under the rotation name in italics, we can put the site name.
+https://www.loom.com/share/9a2d13df057446e0980a43099cc8c271

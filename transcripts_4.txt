@@ -1,0 +1,985 @@
+um ability to import so right now we have a chat bot that you can create you can add a bunch of data sources to it it would be cool if I'm creating another chat bot and I want it to use the same data source I can choose another one and say just copy it over from that instead of having to upload it again
+and also for our clients they would like to ideally have control over who uses it so if they are creating a chat bot being able to say we're going to add some of these users that we enter and add them to the chat bot and once they publish it um it'll be available to them and they should also be able
+to monitor the chat bots and what people have used it for in logs and on the individual user portal use chat bots they have access to and then being able to interact with it either voice or text voice, uh, I'm not sure and again, if it's already implemented and it's easy to do we can, we can do it, otherwise
+we can keep it as text and then do this as like a future quote uhm, API, again, secondary, uhm, ideally in the future if we have a client that's using our platform and they want to add this on, it'd be nice if we can use our API to create this and add all the users.
+So I wanted to send this over to you and get your thoughts on this. Uhm? On the complexity of it.
+And if, uh. If it makes more sense for us to pick out. Uh, you know, maybe do some some of this and then do the rest as a second version.
+Uhm, it all depends on. How much time it would take essentially the cost of it. Alright, uhm. Yeah, that's all I had right now.
+Thank you.
+https://www.loom.com/share/cca4f3f009f94119bdfc3418f30c9e88
+success
+Funding Opportunities for Expansion 💸
+I keep creating these videos to share some more of these projects that's been sitting around on my inbox or to-do list.
+So we started a conversation with Capchase. last year and it didn't uh progress to anything but we got pretty far and they felt confident that they are able to give us money and uhm there was something that we needed to fill out and it.
+It was a time where there was a lot going on and we never moved forward. But I'd like us to pick up this conversation now especially since we have these big renewals coming in and one of the things that they like to look at is our bank statements from the past few months and seeing that we have cash.
+It's a lot easier for us to get this approved when we have money, uhm, and the nice thing about it is it's non-dilutive and it's built for SaaS.
+So if we can either get a line of credit or some sort of capital while we have money in the bank, then it gives us some more buffer.
+We already have a 100k line of credit from O***** and then this would be something that can expand on that.
+What I like to do is if we get something that is reasonable, uhm, we can use that to hire a uhm, the next person which is going to be a CTO.
+Uhm, so that we have someone in Philadelphia that is able to close some of the technical gaps that we have.
+Anyway, uhm, what I will do is when you're ready, I can send an email introduction with the person that we were working with.
+and we'll see how we can get that conversation going and in terms of what they need.
+https://www.loom.com/share/403bf3c32f074920a8bc1df65ba25c2a
+success
+App Design Presentation
+design that's not meant to be the entire design but I wanted to put together the general style and the, the colors and it should be pretty much the exact same app, uh we didn't do the admin side, but I said uhm, but we wanna match the branding, uhm, and then also playing in the background there.
+Uhm, but this is the landing page where we can, you can add chatbots, train it, and then see the content that was added.
+And this is the desktop version. As well as the mobile responsive view. This particular page, the metrics AI page. I'm going to work with Mike on a slightly modified version so we can do this last.
+The idea here is, uhm. What I'm going to have is two tabs so that there's two major segments of our customers that we that we want to talk to and they can pick one or the other and it will give them three use case scenarios here.
+Let me see if I can pull something up here. I was sketching this on my iPad. That's why it looks horrible here, but you can see there's the education, there's clinical practice, and then there's uh screenshot and some notes I know you, you can, you probably can't read all this handwriting.
+It's scribble, and I have a my uh, my iPad handwriting. My handwriting is horrible, but you'll see the, you'll see the concepts.
+One tab and then three features that we're highlighting, another tab with three features. That's what we'll be working towards. I'm going to have my colleague work on the design, uhm, and then for, but I want to get you the uh, at least part of it, so you have it.
+https://www.loom.com/share/d5ae10ac38694a549b3a922b5470242b
+success
+Legal Projects Update 📁
+I wanted to put this project on your radar. We recently switched over from a law firm to Kozen, and Kozen has an engagement letter with us.
+And I reached out to our lawyer there, Chris, and we had a meeting and we talked about some legal work that we need to have done.
+First is, um, we have some contracts with our employees and contract, and contractors that we want to have them review and update.
+For example, Well, we recently started doing W-2 employee training. We're still using an older offer letter. I want to have them review it and make sure we're all good to go on the, uh, all the, uh, details in there.
+Um, so this lady is trying to schedule a call with us to get that process started. I want to connect you with them and maybe we, we can do the initial call together and then, uh, you can work with, with, uh, her to see what updates we need to have done.
+That's the first phase. Second phase is for us to, uh, do some cleanup on our SaaS agreement, since that's a little outdated too.
+For example, we are now providing AI functionality. I want to make sure that we include things in there that cover that type of, uh, data exchange.
+So that's something that we'll do as phase two. Um, but working with the law firm to get these things updated, um, and also doing it in a way that we can do it over time, so we're not getting slammed with large bills, um.
+That's one of the projects that I wanted to, uh, get you involved with. Once, uh, you get settled along that same type of work, we have this company called uh, Exaltus.
+Robert is an employee of Atalem. He reached out to us saying that he has a private company. It's a consulting company, and they are, they started recently, and they are working with different medical schools, and they want to get us sales leads.
+And he sent over an agreement on uhm, what they would like us to give them as commission for providing us with this lead.
+I didn't want to engage in anything like anything immediately, and I want to make sure that we have a lawyer look at it.
+So I forwarded it to Chris at Kozen. He, he looked at it and said, I don't like this agreement. This is too one-sided for them.
+And he sent me their agreement, uh, or their Kozen standard agreement, and uh, it's still sitting in my email. What I need to do is meet with Chris, go over it, and then we send it to Robert saying, in order for us to start this partnership, one, we want to use this agreement, and two, we need to make
+sure that we talk to the Talim, and make sure they're okay with us working directly with you for getting us legal.
+Uhm, so that's a secondary project, uhm, and uhm, the first step is for us to talk to Chris at COSEN to figure out what exactly he wants us to explain to Robert.
+So I'll put this on the document and we can talk more about it and figure out a way to move forward.
+https://www.loom.com/share/152198eb92584914b3d8e78385dde29e
+success
+Organizing Notes After the Call
+Hey Silvana, I wanted to create a quick video on how we can start organizing these notes after the call. So, under discovery notes in the sales folder, we want to start, ideally we want to start just before the call so we have it ready with some the draft presentation, but we can say this is going to
+be a new folder, give the name of the institution. Inside of that folder, if you go to docs from a template, uhm, we have.
+This template that we can put in and it's called process documentation and we can put in the details of the meeting, who was there and then for the appropriate section.
+So in this particular example, it was clinical education management, um put in the the current challenges they have and the, see let me take that back.
+I think we can do a slightly different format here to make it easier. I'm going call this uh Virginia Tech.
+What we can do is um, first thing is going into Adam. Open this up and copy the transcript. And uh, start a new document.
+And paste. Paste that in here. So now we have the transcript. I can take this and go to Claude. Paste this here.
+transcript for a school. List out each of the challenges. So that would be one of the. Things that we want to prepare.
+And the second item is uhm. I also want to get a list of all the questions that were asked. And we want to, uhm.
+We want to make sure that this is accurate. So for example, this is for some reason saying E value. They actually are on 145.
+And that's that's the first one. And then. And then the second one is for these lists of questions. And for the questions, uhm.
+We can put this as. I'll show you. What we're trying to get at, essentially what we're going to do is challenges, solutions that we're offering.
+All right, and then. And at the bottom, we can put together a list of questions she asked, and what we answered.
+So that essentially one document that we can send to her as a meeting summary, as a PDF attachment. This way she's, she has the information in a written form.
+that she can share internally if she needs to. For this particular person, it's not a big deal. She's only one person that's making the decision, but for other schools, maybe they need to go to a committee.
+So, getting the transcript, um, running it through CLAWD, preparing a summary, and reviewing to make sure that there are no mistakes, um, that the AI made, and then drafting a thank you email with that document.
+Um, and we can use this as a practice session, and I can, I can review that, um, whenever you're ready.
+No rush on this. It's not a big deal if we send it to you in a couple of days.
+https://www.loom.com/share/1ca2b307588e4c919b4c69313e3be45a
+success
+Employee Handbook: Expectations for Communication and Availability
+This is going to be a employee handbook section. It's going to talk about the expectations for communication when there are changes to the availability.
+At Metrics, we will be using a spreadsheet to track changes to the availability. Um, each team member is expected to be working from their home or off, or Metrics office.
+Um, so by the When it comes to, um, availability changes, if an individual, every Friday, each team member is expected to update the changes to the availability on a spreadsheet.
+This gives everybody the flexibility to work to There are no changes to your availability. For example, if you're expected to be working from your home and you'll be at home for the whole week, you don't need to make any updates to this spreadsheet.
+If you're expected to be at the office for three days out of the week and you're. not expecting any changes, that will be, you don't need to make any changes.
+However, if one of those days, if you have to work from a different location, you can use the off location status and type right in where you'll be working from. If you're not need to run an errand during the week or go to the doctor's office, you can choose the alt hours option and write in where you'll
+be, what hours you'll be working. If you're going to be taking a day off, that needs to be submitted in advance.
+So, I'll Justworks and it will be, you can update it as PTO on the spreadsheet. After everything is submitted, on Monday, the availability will be shared with the team by Alejandra.
+If there are last-minute changes, there are two options that can be used. If you're sick, communicate that with Alejandra and she will update the sheet with sick status and communicate that with the team.
+If there are last-minute- changes to the availability, umm, because the location or hours that needs to be submitted as an emergency into the spreadsheet.
+This way, umm You know, we are building a process by which there's an expectation that we're giving advanced notice and being accountable to that, to the team, if there are any changes.
+It has to be because you're sick, or it's an emergency. We want to avoid last minute changes simply because you don't, uh the last minute changes because it's.
+Inconvenient to the rest of the team when it comes to planning out work. And the import uh especially for.
+https://www.loom.com/share/a72852e5f70f454780471bddd7a4889e
+success
+Streamlining Sales Processes and Customer Success Overview
+Hi Shruti. Our conversation today about sales and renewals got me thinking about some of the work that we've been doing with our sales meetings to try to streamline our processes.
+I wanted to create this video outlining the uh the existing slash newer process and for sales and also how it ties to onboarding and customer success.
+And for the latter part, the uh the customer success part, you can make, you can work with uh Mark, Alejandro, and Silvana to optimize that and change whatever you think would be best.
+I want to share this information so you have visibility into what's currently being done. Since a lot of that has been initiated, by me, I would like that to be initiated by the team members and for us to build some sort of reporting process or dashboard or tracking that you can monitor to make sure
+that it's getting done. That's for the other, the second half of this. So, currently, when we start this whole customer journey, we have leads coming in from the website where they can complete a form and that'll give us an email that says this person wants to be contacted.
+It includes a phone number and email address. After they submit the form, they're also presented with a cantilever. It's a page where they can schedule a meeting with us and it shows up on my calendar.
+Some people schedule it, some people don't. Another way we can get a general lead is if they email the hello at metrics lab, we can also get a referral directly to one of our email addresses.
+We collect conference leads through Google Forms. You can also get messages through LinkedIn or generate leads through webinars. Regardless of how it comes in, this is the process that I'm working towards now that we have Sylvana as an SDR.
+So if you're interested in working please feel or not this person has scheduled a meeting or not. If they did not schedule the call she would add the lead to close, add the opportunity, and so on.
+If she, and they would also she would also attempt to call them and email them. If they did, did schedule the call they would, she would lead, she would add the lead to close, add the opportunity, call the prospect, and go through a different set of steps because at this point we're trying to get the
+agenda and ask questions rather than trying to schedule the call. Anyway, uhm, so that's the first step. Once the meeting is scheduled.
+Silvana would update the opportunity status, set the agenda, send a reminder with the agenda the day before, prepare some documents for me, and also give me some information before the meeting so that I'm going in prepared.
+I would run, I would do the sales presentation. with PJ and Silvana on the call. After the meeting, Silvana would update the status and send a, sorry, this is actually prepping for the consultation, uhm, again, so I'm going to delete this because I have an unprepared notes for what happens during the
+consultation. Post-consultation summary sent and if they need a proposal, PJ would start preparing the proposal, he would review it with me, add the proposal to the contracts document and and share it with them.
+If the institution doesn't support the proposal, PJ it with me, add the proposal to document, In the sales channel, I would ask Alejandro to start drafting a contract.
+She would get the proposal from PJ. She would create the new uh contract. And I have a Google template. So if you're in the Google uh document, there's a template.
+Essentially. Please go to new documents from a template. And you can see we have this. is SaaS agreement template right here that have certain fields highlighted in yellow and Alejandro would fill that out.
+And once it's filled out, she would also generate an invoice if she needs to create. She would a new customer.
+She would prepare that in QuickBooks. Then she would share the invoice and the draft in the sales channel. Once it's all reviewed, she would send it.
+And using an email template that I provided her with. And then she would follow up until it is signed and paid.
+So this. Once. That is done. If they sign the contract there will be a handoff between me and Katie where I would outline the things that we need to set up.
+Katie would create a new project in Slack. Set up the new arrows project and then get everybody. Scheduled for the kickoff.
+Then we go through the onboarding phase with weekly meetings. Let's hear. And once onboarding is done. I have prepared. An email template that Katie is going to start using to introduce Mark as the customer success lead.
+And explaining what he'll be doing, access to the uh resources and so on. So that is the handoff that happens here between onboarding and customer success.
+And the goal is for Mark to then pick up that conversation and start a series of- quarterly check-ins. And he needs to put those check-ins on the calendar right away instead of having to schedule one every quarter.
+Essentially he would tell the client that we're gonna put this recurring meeting on the calendar if we need to move anything we can later on.
+But we- we don't have to uhm contact each other every quarter and try to put that on the calendar. So most clients will agree to that right away if they're already going through the onboarding process.
+Um and there are some steps I'm skipping here such as onboarding survey and things like that. I wanna uh. I'll see focus a little bit more time on this check-in and expansion here.
+https://www.loom.com/share/51e0cf3450e44156aa2bd3f0a5df4d81
+success
+Quick Tips for Organizing Notes After a Call
+Hey Silvana, I wanted to create a quick video on how we can start organizing these notes after the call. So under discovery notes in the sales folder you want to start ideally we want to start just before the call so we have it ready with some the draft presentation but we can say this is going to be
+a new folder give the name of the institution inside of that folder if you go to docs from a template we have this template that we can put in and it's called process documentation and we can put in the details of the meeting who was there and then for the appropriate section so in this particular example
+it was clinical education management and then put in the current challenges they have and the see let me take that back, I think we can do a slightly different format here to make it easier I'm going call this uh Virginia Tech what we can do is uh first thing is going into open this up and copy the transcript
+and uh start a new document and paste that in here so now we have the transcript I can take this and go to Claude and paste this here transcript for a school list out each of the challenges so that would be one of them the things that we want to prepare and the second item is uhm.
+I also want to get a list of all the questions that were asked. And we want to, uhm, we want to make sure that this is accurate, so for example, this is for some reason saying E-Value, they actually are on 145, and that's the first one.
+And then the second one is for this list of questions. And for the questions, uhm, we can put this as I'll show you.
+What we're trying to get at, essentially what we're going to do is challenges, solutions that we're offering, and then at the bottom, we can put together a list of questions she asked and a, what we answered, uhm, so that essentially one document that we can send to her as a meeting summary, uhm, as
+a PDF attachment. This way she's, she has the information, uhm, in a written format that she can share internally if she needs to.
+For this particular person, it's not a big deal. She's only one person that's making the decision, but for other schools, maybe they need to go to a committee.
+So getting the transcript, uhm, running it through Claude, preparing a summary, and, uh, reviewing to make sure that there are no mistakes, uhm, that the AI made, and then drafting a, a thank you email with that document, uhm.
+and we can use this as a practice session, and I can, I can review that, uhm, whenever you're ready. No rush on this, it's not a big, big, uh, uhm, big deal if we send it to you in a couple of days.
+https://www.loom.com/share/27fd54253a9f4926b6b587529756db5e
+success
+Discussion on New Goal Tracking Software
+Hello there, I'm Mike. I heard you wanted to chat about something. Did you say you need a few minutes? Can you clarify what you're asking?
+Alright, I'm listening. What's this software for? How's it supposed to help managers like me? No, we don't use any specific goal tracking software right now.
+How exactly does your platform work? Sounds interesting. How's it different from just using spreadsheets or project management tools? Does it integrate with other systems?
+Systems we might be using? That integration piece s- sounds useful. What's the time commitment for managers to set this up and keep it running?
+And how much does it cost? Probably a couple mainly in meetings and emails, but it's not very efficient. What's the ballpark cost for your system?
+I'd need to see a demo and get more details before talking budget. Can you send over some info and pricing options?
+I appreciate the offer but I'll- I'll pass for now. Send me an email with some info and I'll review it when I have time, thanks.
+It's mikefabrikum com. Alright, I'll keep an eye out for it.
+https://www.loom.com/share/86d5111970eb4ca4a91b623d17574520
+success
+Medtrics Lab - Calendar - Week of May 5, 2024 - 6 May 2024
+Aaron I hope you had a great weekend. I wanted to create this short video explaining my thoughts because I figured it's easier for me to describe it than to type it out.
+You made three points here. Uh one is about the camera, the other one was about the clients leaving and how to, how do we figure out why they left and then in the future how do we make this so that we are managing the bugs more efficiently.
+So, so that's for the first item. The reason. I've been emphasizing the camera so much on meetings is because as a small team working remotely, everyone's perception of work and each other is made up from those limited- interactions we have with each other.
+You know we have a few hours a week to influence how others perceive us because you know many of them make their impressions about each other from those interactions on calls.
+And umm ask for a small team like us when new team members are joining and they're seeing that not everyone is coming prepared to meetings or even if they're prepared they're not don't have the camera on.
+They can't interact with them like they would in a face-to-face meeting. They start to also decrease their amount of interactions and also start to perceive others on the team.
+I was coming unprepared. Even though that individual may be uh uh uh uh late to a meeting or aren't prepared or uh doesn't have the camera on because of doing a bunch of other work.
+Uh late into the night. But across the company, not everyone has uh insight into that. I can see what everyone's doing, but others on the team can only see what they see in these meetings.
+So each person is building a brand essentially. Your colleagues and others are um always looking at you and saying okay this is a person that I want to uh uh work with.
+I want to uh you know this person is a leader, this person uh someone I can rely on. And then those meetings allow you to build that brand so that you're always seen as uh you're always seen as a leader in the company because that's what you will become as the company grows as more people join.
+point. Then the other part of it is it also projects a lot of confidence when you are having the camera on because not a lot of people are comfortable with the idea of doing it and then when you always present yourself that way it uh by default people see you as a confident person.
+Umm, so confidence and building your brand so that people are also modeling your behavior is one of the main reasons I keep emphasizing the uh the camera.
+For the clients that left the second item we have four clients that I met, uh I mentioned it. Kaiser, TCC ADA, Texas DHS, and Ultimet.
+Kaiser, we know that it's related to bugs, some of the workarounds and things they have to do as well as training challenges.
+And we are tackling that. Umm, and we have a plan for them. Ultimed, we still don't have an idea of why they left.
+I'm going to be following up and trying to get that information. Um, that's one client that I was surprised by.
+PCCA DA, they left because they were merging with another hospital and they couldn't use another system. They had to use a big hospital system.
+They had no control over that. And then for the uh Texas DHS, I don't know why they left either, but it was one of our smaller clients.
+I know that we haven't been paying as close attention to them and uh it possible that they weren't using the platform.
+And it may not be related to bugs. Uh but I'm still also trying to get more information on that. So as far as, I notice like why they left.
+I see two major buckets. One is umm bugs and stability. Second one is the training and making sure that clients know how to use the platform.
+So we kind of neglected that a little bit in the past year after we left. We lost a couple of people but we're picking that up with our webinars that we're hosting as well as the content we're creating.
+And then for the third item of how do we get bugs handled better. I agree that as the team grows we need to make sure that we have more support.
+For handling bugs. I'm optimistic that as we move towards this single page application it'll make it easier for us to handle these bugs.
+The challenge right now is we don't have enough people and we don't have the capital to hire a bunch of developers at once.
+It's a tight balance that we had to operate on as a bootstrap company. We can potentially raise money from our venture capitalists and then hire more people.
+The challenge with going the end route is we lose control over what we can do with the company and what we can do with umm a pay.
+You know I see us if we can continue to grow using revenue as the company grows, we can use that capital to pay people more and for us to have a good way to control the culture of the company.
+https://www.loom.com/share/92e40748a9444880a8945a163b208105
+success
+Medtrics - 6 May 2024
+Good morning Karen. I hope you're doing well. I wanted to create this short video because I figured it's easier for me to explain this rather than type everything out.
+You make some great points here, So let's go through this one by one. So there are three things you mentioned.
+One is related to the you know the morning discussion I had about cameras. Another one is about the the clients leaving and why they left.
+And then the third thing is about the the future of how we handle bugs. So for the first thing. When it comes to the camera, one of the reasons I've been making an emphasis on that is because as a small team is working mostly on a remote environment.
+We have limited opportunities to influence how others perceive us. You know, office environment, you're seeing each other all the time.
+They get to know you really well. They see the work that you're doing. In a remote environment, very limited people will have insight into the work that each of us are doing.
+I for example, see across the company. And see what everybody's doing. You know, you know, I see certain individuals like yourself and Maria working late night and doing work.
+Um, after hours because you are you may be more productive in that. I'm like that too. What happens is in the morning when other team members show up for these meetings when uh, the individuals that were up late working, um.
+When they show up for the meeting, if they don't have the cameras on because they were up late and exhausted.
+They're proceed by others as someone that's not prepared for the meeting for whatever reason. They don't know that what was happening overnight or late night.
+Um, so their perception is there are some people on the camera and joining the meeting that are. Unprepared while I'm got up and got ready for the meeting.
+Um, and then what happens is over time when that consistently happens, those individuals, especially when they're new to the team, say this is the baseline for how this company operates and this is an.
+The perception of those individuals also, um, deteriorate. So what happens, what's the best way to handle that is, you know, trying to come up with a consistent schedule around the meetings that you have.
+So that you're always, you know, showing up prepared and I mean you, I mean all of us.
+https://www.loom.com/share/ec9151b4ef70417eafae51368de2f34c
+success
+Video Feedback on Marketing Presentation
+Hey Karen, uhm for this uh we had a chance to quick briefly check this out in the marketing meeting. A couple things that we want to address here for the subscribes.
+Fixing that typo there. And then for the images here, it looks great. And it looks like I can click on it and go to that profile.
+It'd be good if we can also do that down here. Make it clickable. And as for these features, and clinical, the colors, the orange one looks great.
+For the blue, uhm, I think it's fine. I was wondering if there's an existing color that we can use, but I think it's fine to make that unique.
+But let's match that with what we have here, so that the feature in the clinical is something that looks similar to the previous page, you know, the rounding of the corners, making sure that's consistent in the colors.
+And we also want to make this clickable here and here. So that we go to the page with all the features.
+https://www.loom.com/share/b9aec3e6db8f4545b0e18fe207d1c556
+success
+Data Monitoring and Alert System Implementation
+We started working on this a couple of years ago. We, it was always hidden because we never finished it, and then Karen finished it, and we released it yesterday.
+So on any server, if you go to the institutional portal, there is this engagement panel. And here, um, there are a bunch of different thresh, uh, criteria that we can monitor, and it's broken down by module.
+So these are the different training programs they have. So let's, let's show you something like msu-com, g-c-l-m-u-e-com, make it ucc. So we just finished on, we finished onboarding them.
+So let's say if I go in here and go to institutional portal, engagement panel, okay that's not good. Looks like we have permission zone in it.
+I'm going to go back to demo and show you there. So. Probably a bug that we need to fix there.
+But any any of these um criteria of users that have never logged in. I can go in here and set a threshold that says for you know if it's greater than five.
+So we obviously want to have every user that's logged that's created have been logged in at least once right. So probably put set this as one uh zero or greater than equal to one.
+Uhm in the past x days, ten days, that's a threshold and if it does hit that threshold then it's going to start logging alerts.
+But the cool thing here is we actually have a slack integration. And it will send us alerts from each of our servers.
+Telling us that client data has been breached. So we can set this up on different clients and it will automatically notify us on slack when something is breached.
+So we had to, what we had to do next is looking through these different criteria. and figure out what's meaningful for us to monitor.
+So users not invited. So we can set up a threshold like um greater than let's say zero in the past 60 days.
+So this means that in the past two months there are some users that were created but never invited. So someone may not know how to invite users.
+Or they don't know that they need to. So for now what I'm going to ask Mark to do is set up a few of these uhm or at least create let's we can start with a spreadsheet where we decide what is the criteria that we want to monitor and what's the threshold and then possibly create a script that we populate
+that to all of our clients and then automatically get alerts when things are happening. So here's another one where um automatic incomplete evaluations.
+So if someone has um incomplete your value. You know, maybe it's not something that we need to monitor for every client, but there's some clients that are having a problem.
+Customer success, we can say these people are not doing the evals on time for some reason. If it goes above, let's say a thousand for that client, then we can be alerted.
+The first phase is reporting. For us to use it, but eventually what we want to do is show this to the client and say, hey, here's what you can use to monitor usage of metrics.
+There's active documents, oh here's a super powerful one, active and expired. Uhm, so I wanted to show you this and also show it to Mark, maybe one of the customer success meetings, you and him can talk through, Mark can do the first pull out of all these into a spreadsheet and pick and mark off the
+ones that we should monitor and what the expected the test threshold will be and then maybe you can do that.
+Both of you can talk through it and come up with that criteria and then we can ask Marina or someone to write a script that puts that as a default for all the servers.
+This would be for clients after the onboarding process because we want to make sure we wouldn't use this for that.
+Because we want to be more hands on. Exactly. Okay, so once. This is going to be for customer success to monitor um engagement with our platform and eventually we can even integrate this with intercom so that if it drops below a certain I mean hits a threshold it triggers an email saying here's instructions
+on how you can invite people so that's that's really what the where this can go in the future because any data and metrics can be used to trigger emails and we've built a template for each of these scenarios that we're monitoring with instructions to address it then hopefully that's something that happens
+automatically even without our internet us meeting with them. This will be good for the new academic year. Yeah. Yeah. Yeah.
+Yeah. That's really good.
+https://www.loom.com/share/ee1c3a36570d472a8dec437233dbe825
+success
+Evaluation Form Restructuring Recommendations
+Good morning. In this video we'll take a look at the evaluation forms that you have shared and our recommendation for how we can restructure this in metrics.
+So this form here, overall student performance evaluation by faculty, fourth-year students, we have two sets of questions here, and for this we're seeing each question has a essentially a checklist of how this was observed and a percentage.
+And at the top we also have a scale here, two scales, superior, acceptable, and unacceptable in this is also a letter grade.
+So this is too much for the faculty to process, it'd be better if we can simplify this so that they can quickly run through this and provide their feedback and then behind the scenes you can manipulate the data to get a grade.
+So if we look at that in metrics, one recommendation here is, you know, let's put a question right at the top that says how, what is the primary method of observation, you know, we can rename this however we see, see fit, but essentially this is giving them an opportunity to say what's the, uh, what
+is the primary method that I use. I may have seen them in direct observation, and I may have seen them writing notes, but this is the primary method I use.
+So that's one way for us to structure this. We can also turn this into a checklist question where we give the faculty an option to pick more than one.
+They can say, I did this, and I did this. But we're only asking this question once instead of asking them to select it for every single clinical skill.
+And then here, for each clinical skill, what I did was I turned this into a a scale that only has three options.
+Above academic, superior to academic level, acceptable for academic level, or unacceptable. And then we can assign different values to this, so three, two, one.
+one, and then use these values to calculate a grade. This also translates really well to mobile, so they can easily answer this on a phone and get you the responses that you need.
+So that's for this tool. Here's the top section. And we can also put a comment field there for you to enter that.
+The second part for professionalism, here's how we can do that is a uhm. Simple question with comply and do not comply.
+And for each of these categories, we can put a title of altruism. And then And this allows the faculty to see this category is for altruism and choose one or two options do not comply or comply.
+So that's our recommendation on how we can turn this into metrics forms. All of this is something that we can talk through and figure out if there's a better way to reword some of these questions and make it more.
+user-friendly. But if we at least change the question options and simplify what the faculty has to select from you're gonna get a much better response and also mobile optimized means more uh higher compliance rate from the faculty.
+https://www.loom.com/share/74a6d0fd3b1149aebc6fafa76447e238
+success
+Medtrics and Competencies in Academic Training Programs
+short video we'll take a look at how metrics allows academic programs to map evaluations to competencies or milestones and then we'll look at the report so that we can track competencies across an academic training program.
+So, the first thing we'll see is, under evaluations, I go to templates. Any form that I have in the system, I can map to evaluation competencies.
+So, create a new form. I'll call this end of clerkship feedback and then save and continue. When I create a question.
+Whatever text question, this can be a Likert scale, multiple choice, text questions. These can be mapped to competencies or sub competencies.
+And each of these can be. Import into the system, so depending on the schools competency set, we would import them, or if it's a national competencies or milestones.
+That can also be loaded into the platform. So in this example, I'm. Aligning this question with 123456 competencies. Then clicking save.
+And it says right there 6 competencies and I can keep adding questions that are aligned with different competencies. Each form I create may have a different set of.
+Uh, mappings and then the trainee is going to get evaluated in the preclinical and then the clinical setting and you're collecting data across those uhm longitudinal act, academic activities.
+And if I go to the performance page, this provides us with a competency report. Thank you. The key thing to note here is that there's different ways to look at this information.
+I'm going to be covering one of the competency reports, but we also provide a PDF competency summary report that can be shared with any advisors.
+There's also a polo graphs, but it's all the same information being displayed. in a different graphic. So now we can see all of the different competencies.
+If I expand on it, I can see sub competencies and then I can see every question that is mapped to that sub competency.
+It also gives me data on who submitted that evaluation. in what rotation it was, what date it was. On the right side I can see averages for this trainee, peer averages, and all of this information is rolled up to the sub competency average.
+And here I can see longitudinal data and how this trainee may have progressed if I want to continue. I can these off and look at one sub competency at a time.
+So this trainee was getting trending in the 2s and 3s initially and then towards the end of their training, they're progressing.
+their advance into 3.5s and 4s. This applies to each of the sub competencies. You can see the trend that's going upward.
+Now if I go to the competency graphs, choose a similar date range. It's going to take the same information and display it in a slightly different format.
+we can see the competency data, the overall competency data, and then for each sub-competency. And this is for three years of data across various evaluations.
+So this has been a summary of the competency mapping and reporting in Metrix.
+https://www.loom.com/share/b9c900c00e8146ae8fe15719371994d5
+success
+Medical Education Software Inquiry
+Hello, this is Agnes speaking. How can I help you today? I'm fine, thank you. Who is this and what's the purpose of your call?
+I see. What makes you think we need medical education software? That's news to me. We're not- in the medical field at all.
+Who exactly did you speak with?
+https://www.loom.com/share/64da5f4fa42c4b12907689c92c665ad6
+success
+Medtrics Lab - Calendar - Week of May 5, 2024 - 6 May 2024
+Morning Karen, I hope you're doing well. Wanted to share this short video of going over some of these wonderful points that you've made.
+And figured it's easier than me typing everything out. So first thing. About the camera, the reason I make such a big deal about the camera is because people's perceptions of each other is very important in a small team like ours.
+It helps mold everyone else's like work ethic and how they carry themselves. Because we all of us have limited opportunity to influence other people's perception of us in a remote environment.
+We're only seeing each other in these meetings a few hours per week, as opposed to if we were in the office, we get to know each other really well and everybody sees all the great things that we're doing.
+Otherwise, you know, I may be working late, you may be working late, and then in the morning, if we are all uhm, you know, showing up where the camera's off and some people are still in bed when they're making the calls, it makes it, it makes the other people on the team member that are morning people
+and have different work, you know, they see it as like uhm. We have different people come in unprepared, even though they're not seeing all the work that happened overnight or late night, uhm it's, their perception is molded by those limited interactions they have with their colleagues.
+And then what happens over time is, when we consistently having this pattern, everyone on the team slowly starts to show up, showing up unprepared, uhm, that's why it's, it's very important in a small team to make sure that we are always aware of ourselves and how others are perceiving us and then when
+it comes to showing up for the morning meetings, you know, planning out so that we're always coming prepared and also, uhm, uh, fully alert. And, uh, I, and I, and I, know how difficult that is because I myself am a night person, but over the years I've learned that people model my behavior.
+So, if I'm carrying myself and putting the effort to show up, then they also show up. As far as the why the client's left.
+We do know um well when it comes to- Also the four clients, Kaiser is the main one. And they said they're gonna give us another, they're gonna reassess next year.
+I'm optimistic that we don't lose them. But for them, it's two things. Uh we had a meeting recently to review there.
+Uhm, why they left. And we have a list of items that we wrote down. Bugs are one of them, but certainly training is another one.
+And we're tackling that by having more of these webinars that they can join. And I'm also gonna reach out to them.
+What are doing more one-on-one training for programs that need it. As for Atala, not Atala, I'm Ultimate and other one uh TCC ADA.
+It's not related to But TCC ADA is not related to bugs. They were merging with another com- uh hospital and they were forced to switch.
+Ultimate, we are waiting to hear back and text us DHS. I don't think they were using our platform for a while.
+You and we didn't really follow up with them and have a chance to establish a good light of communication. And it's one of our smaller contracts and our attention went to all of our larger institutions.
+Um, so the main one that I'm still concerned with is about it's ultimate because that was a surprise to me, uh for Texas Tech, uh Texas DHS, it's more of like us getting into rhythm of communicating with these programs on a quarterly basis which more has been doing that now.
+As for this last idea. of uh for bugs I agree that as we add more team members we need to sort of rotate who handles bugs so they're not getting overwhelmed.
+Uh we used to do that with the team lead person that one person is responsible for that but the challenge right now is not everybody can handle all of the emergent bugs that comes up.
+You know someone like Marina may be able to tackle anything uh but some of the other devs may not be as com- comfortable so it's as we add more team members we need to make sure that we have um enough devs that are on call so that or are available or rotating.
+so that any type of bug can go to an individual um or we have one for one person for, for a night and one person for back and another one person for ops.
+um you know it's it's all about us getting to a state where we can hire more. developers and I've been thinking through this in a way that uh we've always operated bootstrapped and growing from revenue and the advantage that we have there is it allows us to control our own destiny and and make sure that
+as we make more money we can uh pay everybody more money and the company is able to um have more control over um our finances and what we do with it.
+The other option is to raise capital from a VC. And then they typically end up making a lot of decisions on those uh items and control what we can do with our money.
+Um so that's got sort of a tough balance right now. On one hand we want more devs with an easy solution that's for us to raise a bunch of money and how higher more devs.
+https://www.loom.com/share/dd5c9fad93d54e739ac8785f0b44a7ce
+success
+Financial Document Analysis 📊
+This video I'm going to go over a few documents. This is our older budget document that a previous employee was maintaining and essentially from 2019 onwards.
+How he maintained this is he has a list of all the clients and then he would put it here as blue when he when we plan to invoice them and then it would the payment would show up when they actually paid.
+So essentially this is showing that invoice and then paid much later. So we've been tracking it that way on this document and this stopped being used in end of 2022 when he left and then we started putting everything into Zenny.
+This operating expense that shows you different subscriptions and you can ignore some of these columns. I think Rio was trying to do some analysis but essentially it's month by month how much was spent and how we maintained it was we would have a budget amount and after the month is over we would update
+it with the actual numbers and um so that this this is the the budget will be there and for the future and for the past it's all um actual numbers numbers.
+For people expenses, debt schedule, same idea here. So this is the older version And then we have the, The new version that's still in the works.
+And one thing to note here. Is uhm Expenses This was never implemented This was a work in progress was to show what was the contract subscription and services for each year.
+So that we can see growth. So this first column is showing lifetime value for each of the clients. And And then here.
+For each client, we show the totals ARR and total services. And then at the bottom, you see the total and then the growth percentage.
+So from 2021 to 2022, we had 40%. And uh, I don't think we ever finished filling out the 2023 ones.
+I believe if we get out our data cleaned up, uhm, this will be easy to do in QuickBooks. So what I was doing in QuickBooks was we can create different types of budgets in here.
+We never used this in the past. So profit and loss. And then what it's doing is pulling in all the chart of accounts and we can choose reference data.
+So reference data here is 2023. And you can see we have these categories, sales, UME, GME, and then different types of services.
+This is what we had a as any to clean up. So everything in here should be GME, UME, Nursing, Allied Health, and then VET.
+VET we're gonna have it as separate. And then we have onboarding services, other services. And starting this year, we should also treat our optimizer and MSPE Maybe not the MSPE, but the optimizer as a separate service So that we can track how much money we're making from there Uhm, and then for the
+cost uhm total income One thing that we always want to check when we come in here is All these categories as COGS Is under the right one So if we see, if we see something that's R&D That means it was miscategorized by Xen So for example here, uhm Expenses I guess it's not grouping it correctly Well,
+it's still pretty good. Uhm, if I hide empty rows, it cleans it up a little bit more. But what I was hoping that we can do is for the expenses we would have a category that is called GNA and then all the GNA items will be underneath that.
+But either way, uhm, you can see it's showing the actuals for 2023 and it's putting in reference data based on that.
+So what we can do is update this, say what are we going to estimate for 2023? I really like this because if we uhm use this to fill it out and whenever we get a new contract, we know that it's going to come in.
+We know it's going to come in a certain month, we can update it in that month. And then next year's budget will reflect that.
+Anywho, I guess we can also import a budget. So let's see if I save this, does it show up in Zany?
+forecast. Okay, so it does. Alrighty, this is a great discovery. So, forecast. Wow. So, that's pretty cool. So, I I really like that functionality.
+The only thing that uhm that you cannot do is go uhm in this pry platform Okay, I guess uh Can't use it right now The nice thing about this thing is that you can actually do hiring plans so we can say at the top top right, hiring plans, you can say in six months from now we want to add a CTO and what
+the salary would be, benefits, like a percentage of that is benefits, and then that would get added to that budget.
+And we can also apply. Models, so let's say if we have a new salesperson that we're going to add, we can say this salesperson is going to have an increase of 10 percent in our sales revenue, so for that year, and then maybe 30 percent the following year.
+So we're basically saying each time we add a salesperson, this is going to be the impact on sales and all of the budget numbers will adjust based on that formula.
+https://www.loom.com/share/f86ff7f6db3e4251b5da755f2f79572d
+success
+Tips for Effective Communication in Negotiations
+Hey, um PJ. I wanted to offer you this suggestion To help you come off even more Confident and effective because you're bringing up some really strong negotiation points during these calls and you know Complimenting what I'm saying and also communicating in a very effective way there's one thing that
+you can tweak that will make you come off even more confident in the points Drive those points home. So let's see If I can find Yeah, so like usually you make the statement, but towards the end you start laughing Which depending on the setting what the statement you're saying that you're it takes away
+from that main point and also makes coming out You're doubting what you're saying at the end, but if you just make say the statement and let them pause Let them think about it and analyze it and I feel like it they'll It'll pocket pack a punch so for example here, there's also the potential of really
+blowing the site visitor away And then just knowing their stuff. Yeah, so so right there like that's that's such a AI mapping is that such a strong statement that you made uh, but laughing at the end of that took away from You know, you know that impact, you know The potential really blowing the site
+visitor away and your faculty knowing your stuff Um, so I think it it'll it'll come off uh stronger there if uh, you pause at the end without laughing um, and then There was another really strong thing that you said.
+Um And again, these are you're doing great These are minor things that I you know, because I I want you to get better and better at this and so you can Do some of these uh negotiations, uh yourself And uh, that's the only reason i'm pointing these out because you're you're saying things that deliver
+that value So here this statement with everything you have going for you. Yeah, and and even along those lines like the the misery saving and stuff I mean, there's there's plenty of reasons why turnover happens within an organization And with everything you have going for you It would be it would almost
+be to to put it plainly like almost silly for one of those reasons still to be the platform that you're using yeah for sure So again, you're delivering like that is like such a great way to put it you you have a lot going for them and then it's almost silly that that would be the reason that they're
+losing staff and I think just pausing there will will help deliver that drive that point home so I wanted to send that over to you again very minor stuff what you're saying is perfect I'm giving tips to keep refining your your pitches there
+https://www.loom.com/share/7f7041bd35ff462bbac8cc31a065dae3
+success
+Using ChatGPT for Process Documentation 🎥
+Create this video to show you how We can use Chat GPT to craft process documentation, so when I'm creating these loom videos what you can do is take the transcript, copy, put it in here, so what I'm going to do is ah type in a prompt.
+and then So, it's not always going to be perfect, but what we can do is give this, take this as a starting point.
+We can even say output as a table, and export it, create a table. Anyway, it'll sometimes it gets errors, but I'll correct itself and that's one way to do it or you can say prepare a table using Markdown.
+And then if I copy this and if we want to put this in Notion, for example, and let's say, all right.
+Okay, we're all over the limit. I need to upgrade at some point. Let's see if I can do something here.
+But let's skip that for now. But essentially, we can output it as a word, you can output it as a spreadsheet, you can also output it as this markdown, so you can copy and paste.
+So that's typically how I use ChatGPT to generate these documents, but the key thing here is, we want to output it into a format and then review everything to make sure it's accurate.
+So what I'm going to do is keep creating these videos, it'd be awesome if we start to put together uhm these documents.
+documentations of the next time someone needs this, we have it ready for us to share with the team, whether it's a new team member that's onboarding or someone else that needs a reference document.
+And I'm going to get this notion upgraded so that we can put these there.
+https://www.loom.com/share/43d16576310345cf9d5c2216b2b7532d
+success
+Organizational Channel Overview 📊
+this left side. I have it organized by categories. Projects which is for specific type of projects, onboarding projects are all grouped together, recurring meetings are here, and business team, development team.
+This project called Curriculum Unify and Portfolio, these are development projects that we're creating a temporary channel, creating the conversations there, and then we're going to close it once that project is done.
+This mobile app is also a development project. Then there's a recruitment one that started as a temporary project, likely going to turn into a regular business project, a business channel that we're going to use for all types of recruitment.
+Once we get into the onboarding section here, you'll see that these are specific channels that we created for onboarding project that Katie's managing.
+And then once the project is done, we will close it. It has Katie, myself, um Maria, and then myself. and other individuals like Mark or PJ if they need to be there.
+A Talum discussion is actually not an onboarding project, but a channel that I set up specifically for a Talum so that we can use it to discuss all types of a Talum related issues.
+I want us to, so I want to review these channels again so that I capture this in the transcript for documentation.
+So projects category has curriculum unified project. Uh channel, portfolio project channel, mobile app channel, and the recruitment channel. The onboard category has a talent discussion, client onboarding, onboard LMU-DECOM, onboard UCC, onboard onboard CHICOM, and onboard mobile.
+MyGuest. So MyGuest, uh CHICOM, and UCC, and LMU-DECOM are specific projects. MyGuest is already done, so we'll likely close that soon.
+UCC is also done, so we'll likely close that soon. LMU and uh CHICOM are still going on. This client onboarding channel is more of a generic channel that we're using for uh planning out various uh projects, and we're trying to kick off a weekly meeting for this.
+TALIM, like I mentioned, is mainly for all the TALIM conversations, and we want to make use of this more and more to make sure that we're discussing all the TALIM issues before we if we respond to it.
+Down here, we have meeting channels. So this is a team stand-up that we have set up so that when the day starts, each team member is coming in and writing down what are the priorities for the day.
+It's actually a quick stand-up and planning out the day. It hasn't been very effective because not a lot of people are using it.
+I'm going to consider restructuring it into a stand-up that is you're meeting with the team, but broken up into groups based on.
+What, what different types of business, so developers have their own, maybe customer-facing team members have one, and then the sales and marketing team has another one.
+But we can discuss that later. Then we have a client discussion. This is for, this is for any sort of client support question that comes up.
+Content-workshop, this channel is for all the content team questions. Hot leads, I'm going close this one. Because, we stopped using it, because we've been using the sales channel.
+Alright, coming down here. We have our other channels here, uhm Dream Team. This channel is for non business related discussions, sharing photos and things like that.
+All of the different birthday wishes, anniversary wishes and things so on. Dev Channel is for discussing all development things. It's usually led by developers and they answer questions, ask and answer questions to each other.
+Growth Ops is a, essentially our main conference room where we are talking about uhm whatever comes up. comes up with our US team members.
+Sales, to discuss all things sales. UX, to discuss UX is design channel for discussing anything related to design, uh features we're designing.
+Sentry Which is our tracking system for errors on the server. Plan Deploy Channel is what we use for planning out deployments of features.
+Marina would kick this off, ask questions. Chris would answer questions and then eventually deploy that. Every Monday, every Monday we are deploying new features.
+Bug Retro is a channel that automatically shows any bugs that was moved to. QA process and then the idea here is we use review this periodically.
+And individuals are adding notes on how they fix the bug. Bug prioritization automatically posts all new bugs that were created and we're essentially using this to.
+Make sure that. All new features are all new bugs are. Looked at and prioritize. They need to be done urgently.
+https://www.loom.com/share/a0611a63c6e645f3906932bbbc92a255
+success
+Customer Health Meeting Recap and New Initiative
+Hey Mike, this is something that uh we talked about earlier this week in the customer health meeting, I think. I don't know, I don't think you were there.
+We wanted to, we're going to be starting a weekly one-hour session where Chris will be available for Kaiser administrators for their office.
+And as an office hour where they can come in and ask any questions they want and get customized training. We're going to do this for a couple of, two months since the new academic year is starting and we want to make sure that they have a way to ask all these questions.
+So I want to send this out via Zoom. Well, via intercom, but we want to include a Zoom links. So this is a draft email.
+One thing that I wanted to find out from you is that if we can set up, this is not going to be a webinar, it will be a regular Zoom meeting that we have a link that they could join.
+So they can ask whatever questions they want and it's less formal and it only it'll be only be going out to Kaiser program administrators One the question I have is if we create a recurring meeting on the calendar, is it going to have separate links or will it have one link that they can keep reusing
+and then the uh the other thing is we want to also um send this out with the dates and I think we can also create a simple pdf that has the dates and the links so they can download and save it.
+So it'll be weekly um and the time is going to be uh I gotta check to see what she what Michelle said um but I'll get that to you.
+https://www.loom.com/share/d738681e7ace44f094971e3e0728a139
+success
+Making Strong Points and Boosting Confidence
+Hey PJ, I wanted to share this note because I think you're making some really great points during these calls and there's one suggestion that I have that'll help you nail that, those points even more and come off even more confident.
+Would I, so like I. You, you make this really strong statement and towards the end, um, uh, uh, you usually laugh which in some of the, I mean if it, if it is like a joke then it's okay but there in some points it, it takes away from that impact that you're making with the, uh, with the statement.
+And, uh, makes it too light of a setting or makes you come off less confident about that point that you made.
+Uh, I'll show you a couple of examples and I think, uh, you know, this is something that it'll, cause you're, you're making really great points and it'll make you, it'll, uh, allow you to negotiate more effectively.
+If you simply say the statement and let them interpret it. I'll probably. And the other aspect of that is, is the reliability of it.
+Of, if there's no, like, streamlined way for the data to go into the system through all those different things. Yeah.
+Then even if the report's, like, really pretty. Yeah. You can't really trust it to, to help you. With your decisions.
+Garbage in and garbage out, right? Exactly. But I'm. This is. And that's also an added value of, uh, for, for students.
+Getting that, that really clean, organized, and accurate, uh, MSP letter from you guys. Yeah. Because without the MSP.
+https://www.loom.com/share/f0a07472e9b74fc8a2bcaf99159e8789
+success
+Medtrics Lab - Calendar - Week of May 5, 2024 - 6 May 2024
+Good morning, Karen. I hope you had a great weekend. I figured it'd be easier for me to record a short video going into some of these great points that you brought up.
+when it comes to, for example, the meeting that I had the other day, I want- I wanted to emphasize a couple of things.
+One is the culture aspect of it and how the camera plays a big role in that. Essentially, all of us only have a limited number of hours in a week.
+where we have the ability to influence the team's perception of us. You know, unlike in an office environment where you see each other every day, in a virtual environment, people make their assumptions and And their image or their perception of you based on those limited interactions they have in these
+meetings. From a company standpoint, we also have a challenge where those interactions also help mold the company's culture in those early stages.
+So right now, we only have a few number of team members. As more team members come in, they look at what everyone else is doing and they build work ethic and work habits based on that.
+The challenge with the remote teams, in a smaller teams, is that uhm, we want to always maintain the flexibility to work different hours.
+But the thing is, so for example, uhm I know uh devs like you maybe working late hours and getting things done, and I see that, but for other team members that are on the calls, they don't necessarily see that.
+And when they see you or one of the other devs on a meeting, that's the only opportunity they have to uh to come up with what uhm your brand essentially.
+And each of you have a personal brand that you are developing with your colleagues and their perception of others on the team is made up on how they see you in those meetings.
+Um, so I like to emphasize the camera because showing up on those meetings with those cameras, helps build your brand with the rest of the team and shows them an image that they see you as a leader.
+And then as the company grows, they also have a higher um standard for their work, their work and how they communicate because they see others in the team doing the same thing.
+Um, and it's challenging for, you know, for myself, for example, I'm also in late night person. I like to work late, but when it comes to those meetings, I like to make sure that I'm coming to those meetings uh, you know, with my camera on and prepared because I know that others are looking at me and
+modeling my behavior. Um, so, that was the first thing, and uh, you know, it's not that hard. Bye.
+https://www.loom.com/share/98923d6145bd4dba9d7166e468bd56f2
+success
+Tips for Delivering Strong Points in Calls
+Hey PJ, that was a great call and uh I was thinking while it was happening and I wanted to offer a tip.
+You are delivering some very strong points during these calls and uh it's it's uh driving the point home in uhm uhm.
+During the negotiations when we're saying certain things it'll you'll have a more impact on driving that point home uhm if you do one tweak here so sometimes you you make the point but then right at the end you're you're starting to laugh.
+which uh uh takes away from that point and it it uh yeah it it makes you less confident about that point so i want to show you an example here okay and the other aspect of that is the reliability of it of if there's no like streamlined way for the data to go into the system through all those things then
+even if the reports like really pretty yeah you can't really trust it to to help you with your decisions garbage in garbage out right exactly but i've also listed like uh saving on time savings i think there are a lot of time savings that metrics it off yeah and and even along those lines like the the
+misery saving and stuff um i mean there's there's plenty of reasons why turnover happens within an organization and with everything you have going for you it would be it would almost be to to put it plainly like almost silly for one of those reasons to be the platform that you're using yeah for sure
+yeah
+https://www.loom.com/share/1f0e439f44f7497a85f097463a510092
+success
+Review of Slack Setup and Project Overview 👍
+In this video I'm going to review our Slack setup and how we are using it for different types of projects.
+So, here. Here we can see uhm I'm going to go over all of the different projects that we are working on.
+I'm going to start at the top here. I have it organized by uhm these categories. These are short term projects.
+These are onboarding projects, meeting, recurring meeting channels, business team, development team. So this first project here is our curriculum project.
+What we're doing is re-structuring our curriculum module. This is a project that August and Austin is reading, leading, and we're using this to discuss any questions that come up.
+This is an upcoming project where Karen is going to, Karen R. Augustin is going to help refactor our portfolio pages.
+because this one is actually something that I use a lot, so the chief of staff hiring process, and had Jerry, Katie, and Marcus give me feedback, and you know, essentially uhm, essentially this is something that we're going to use in the future.
+Uhm, as we hire other team members, and I'll be adding you here, uhm, yeah, once we get started with that.
+This channel, so now we're getting into the onboarding.
+https://www.loom.com/share/ab255732d2d14083bbea2f98aea301e5
+success
+Medtrics Lab - Calendar - Week of May 5, 2024 - 6 May 2024
+Hey Karen, hope you got a great weekend. Wanted to us record this short video to go over some of the great points that you made, figure to be easier than writing it all out.
+So when it comes to those uh, Damirin that we had, I was a little frustrated and split deprived and uh, but the message that I wanted to get across to everyone was, umm, we are doing well in terms of growth.
+We're getting large institutions to, consider us and we are one of the unique products in the market that can do, well probably the only platform that can do, umm, multiple types of medical education.
+So kinda go through this one by one. When it comes to the camera, what I was uh, what I was uh, pointing at was each of us at this stage of the company.
+You know when we are growing and there's only so many individuals in the team, eventually we'll end up becoming leaders in the company.
+Because as more people join, they're going to be relying on the people that have been here to establish the foundation for which they build their careers.
+So, each of us when we are showing up meetings and interacting with each other. Unlike in a fully in office environment, we all have limited opportunities to set basically build our brand.
+You for example, I know that you are doing a ton of work late night. And after hours, because I see you online and I see a you know this is something that you have the,
+https://www.loom.com/share/82145720f7ed4880b13e9113f30fe84c
+success
+Medtrics - 3 May 2024
+wanted to uh go over this permissions for curriculum and some of the reporting so under curriculum setup if we go to Permissions.
+we have the ability to specify which individuals that have full permissions over the curriculum so if i enable view or edit then whoever has that permission will be able to access the curriculum from their personal portal right now program admins have access if lisa is not a program admin and she's given
+edit access from her personal portal she'll start to see curriculum on the left hand menu and then all of the different uh sections except for the setup she won't be able to manage the setup but everything else will be available that's one of the permissions second thing is course director permissions
+so if someone is designated as course director which in the new build it's better if we rename that to uhm administrators or leaders, course leaders or course administrators because they're not always going to be director roles.
+Anyone that is defined, for example here, Robert Chase is defined as the course director. That means he would have the ability to edit everything about that course.
+And on his personal portal, you'll see a section called My Courses. And then inside of those course, he'll be able to modify the objectives, the sessions, and everything for that course.
+You can also give them more granular permissions. That says, create, uhm, custom, custom keywords. If you disallow this, they can only select existing keywords.
+They won't be able to create new ones. And then, this one, allows them to add, remove session, keywords from the sessions.
+View profiles for the individual scheduled for the course. And then, case logs for the course. Which, is for anyone that is given courses.
+Director, or of course, the new name, course administrator, or course leader, role. This session leaders, we can actually, get rid of this in the new build.
+Because no one uses this, and we don't need to, make it. going forward. The other thing I want to point out here is, yesterday I mentioned, uh, being able to auto-generate the codes.
+We have these session types here. What I want to do is add a field here called code, so lecture will have a code called lec, and then when we create session codes, it will automatically use the code.
+Course code, session type code, and then add a number to it to indicate if it's the first lecture, second lecture, third lecture, and so on.
+As for reporting, there are two areas that we want to review. One is, actually three areas. One is the search page, which allows the administrator to search the curriculum and get the data that they need and then export it to a PDF or a Word document.
+I mean a PDF or Excel document. So if I come in here and search. It'll give me course objectives. So I can here search and then click view details.
+It'll give me all the details about the course. I click expand here. It shows me my mapping data and then download this to a PDF file.
+And here I can see data from the past academic year by switching to it. For keywords, I can do the same thing here.
+Select different keywords. Search for it. And then it will give me a list keywords. I can click on it, view it, or I can download it to excel or pdf.
+Same thing for content. That's one of the places you they're generating report using search. The second is on the reports page, there's a whole section called curriculum, and we have a bunch of reports associated with that.
+Then, we have uhm whenever you have a student that is scheduled to a course on using groups, so you can see here that I have groups.
+I have MS3 class of 2023 added to this course. If I log in as a student that is scheduled there, actually, let me clarify that here.
+So you have that. You have them added to the course. This is saying that all of the third year students are taking this course.
+If I go to sessions, if I select that particular course, and I have a session, click edit, you can see all the session details.
+If I expand it, there's a section schedule here, and I can link uhm groups to that session, so it's saying, it, when you edit this, it's only gonna allow you to select groups that you have defined for the group.
+You cannot select any group, only the ones that are on this group, and then if I put that student's group into this session, it's telling the system that that individual is taking this particular session.
+https://www.loom.com/share/a508c10fa87640c4b38a9ae2c9da5781
+success
+Introduction to Rocket Lane Platform 🚀
+Good afternoon everyone. I want to sha- share this video to introduce uh Rocket Lane platform and go over how we- we will use this over the next couple of weeks to get everything set up.
+So Rocket Lane will give you a overall project plan, which has several phases. Kickoff, general setup. System setup, clinical education management, and UAT testing, and go live.
+So we've added some instructions here. We're still setting up all of the- the uh tasks and videos. So if you look in here and if you're missing anything, it's beca- it's because we haven't finished adding all- everything.
+So for example, Videos for creating custom roles. Those are things that we'll be adding soon. But feel free to work through any of these tasks and get them set up in Metrix.
+Down here you can mark off things as they are done. So these are the subtasks that you need to be completed for learner and education management.
+And here I also put in the different custom fields that you said you wanted to track in Metrix. So this video up here, creation of custom user demographic fields, will give you the instructions necessary to create those fields.
+Then you can define these fields in the system and mark it off as completed. And down here you can also mark off the overall task when you have created all the custom fields for residents and preceptors.
+There's a few different ways to look at this information. This is the timeline view, and then we have the list view, but it's all showing the same information.
+When you open up one of these tasks, there's also a chat that you can do on the right side. If you have questions specifically about this particular task, it's best to use this, um, this comment here, so that way we can see the context when we are responding.
+If it's general questions, there's a chat button here that you can use to ask general questions. And the all files page will show you any attachments that either team adds to the task, so that we have one central place to view all these.
+So feel free to get started with these tasks, and over the next few days, we'll add more content here. And then next week, when we meet, we'll review the progress on where you are.
+And if you get stuck anywhere, reach out, and we'll make sure that we provide you with additional instructions or help you troubleshoot that.
+https://www.loom.com/share/7521173b5484428d8d653d3a4cf25962
+success
+Testimonial Site Customization
+Hey, here's the testimonial site. I subscribed to it so that we have the paid version so we can try it out properly.
+And once you log in, you can go to dashboard. Open it up. Here's the two testimonials that came in. Edit space.
+And here we have a lot of customization options like the text, uh text button text, consent display, um You want to modify this?
+I don't think we need to say like social pages, maybe we can say something simpler, I gave permission to use this testimonial in uhm marketing material to other medical education, other academic institutions, without like saying social, depending on if it's a high hospital, sometimes when you hear the
+word social, they're less likely to say yes, but if we, marketing materials to our academic institutions, we're saying the same thing but without using the word social media, uh text title, question label.
+So yeah, if you want to modify it, so these are the extra settings and these are the main settings, you can also modify the questions.
+So this is the general testimonial one. We could also create. A second space. That is specifically for. Or maybe not.
+Oh, yeah, I got this one space. Um, I guess if we wanted to, we can upgrade to the $50 one.
+If you want to have one space for, one space for uhm, general and another one specific for onboarding. If you want to have one specific for onboarding for Miagwest, we can modify this.
+Yeah, and you can also modify to maybe have less questions. and just general instructions.
+https://www.loom.com/share/502c1935d58e4d5ba384c7d1f0bb0519
+success
+Content Team Update 🎬
+Hey Shruthi, so for this particular video I wanted to give you an overview of how our content team has been working.
+We have a channel called Content Workshop and it has a few individuals in it, that is uh and all of us meet every Wednesday to go over different types of content that we're working on and especially the podcast that's been our main, main project but we are now starting to do other types of projects for
+the blog. This particular one that I'm doing right now is a script that Marcus wrote for me for me to record a video and share it with him so that he can use that in an email campaign to veterinary schools.
+So what I did was I recorded it using V.io and did some quick edits to cut out all the fluff and what I'm going to do is do is email Tim.
+So Tim, Tim Doyle. is our video editor. He is on Slack. We often give him projects. He's, he works as a contractor through Upwork and he's been editing all of our videos for our MedEdge podcast.
+But we, I also give him one-off video projects to help with. So this particular one I'm gonna send him a file that I'm going to upload to Marketing.
+Let's add you here. Video Projects, and I put it in here. Upload to SPILE. Make sure that Tim has access.
+Anyone with the link? Okay. So, I take this. CC Marcus. So, uh, essentially, for this particular project what I'm trying to do is put my input and then having Marcus work with Tim and get this over to the finish line.
+You don't need to get involved with this, but I wanted to show you some of the work that I'm doing for marketing, um and how I'm trying to leverage my voice or name in these campaigns so that it's coming from a physician, a CEO, but it's going to be managed by um Marcus or Tim.
+Silvana and um what I want to do is as time goes on, try to create more of these videos that can be either be shared um via automatic emails that goes out, for example when we have a salesperson that requests a demo on the website.
+We can have an email that goes out that introduces the product, and then they're coming in to the meeting with some uh, I think we mentioned, we talked about it recently when you were on on-site, and I also want to start creating um videos for LinkedIn to leverage the audience that I have and try to
+get them to learn more about our product and possibly reach out for a demo.
+https://www.loom.com/share/fce5cfeb35284dc0bcc85fc42b1e2d64
+success
+Understanding Access Control at 1Password 🔒
+So at 1Password we have ah the development vault, it has all of the servers that the developers have access to and all the tech uhm like for example development instances, is any servers that end with the domain .metrics.dev So all of our clients have client.metricslab.com They also have a staging instance
+which is a clone of the production uhm called metrics.sg So it's kp would be, kp.metricslab.com is the production, kp.metrics.sg is the staging And then there's also a development instance.
+The key thing with the development instance is that we have a script that wipes out any sensitive data so that it's obfuscated.
+Nice. So all of our developers except for certain individuals only have access to the development databases and that has obfuscated data.
+But Guy, Chris, Rio, Karen, I believe in Augustin, they have also have production data. So if certain things need to be tested with production data, our team in India cannot do it.
+It has to be done by certain individuals. But when you come in here, if you're going to a server and it's .dev URL, all of those servers can be logged in using this password.
+Okay. And then there's a bunch of other stuff here, but this is the main one that you wanna, you're gonna probably use.
+So let me add you to this vault. Then we got, uh, this is one specific for, uhm, for uhm, Alejandra.
+So she's you need to have certain accounts, but I didn't want to add every financial. So I'm going to add you to here.
+This has, uhm, some of the stuff needs to be cleaned out. Like, we just have been piling this up. But it has bank account information, credit card, so whenever we need to make a payment or something.
+Like, instead of having to go look it up, I just use it in one password, so that it has all the details.
+And then, anything that is financial related or like used for taxes and things like that goes into this one. And this one, let's see.
+It's really only um, Chris and I that are using this, and now you guys and others, and Alejandro, uhm, we just happen to have access from the past, uhm, let's see what else we got, management, I don't know what this is.
+sounds like something that needs to be cleaned up, but, I had to, so then. and then marketing, marketing, which is like some of the shared tools that we use.
+JotForm, MailChimp, which also probably some old Operations, let me see, this is, this is actually development operations, not business operations This is, let's see Yeah, like anything like for our infrastructure I'm giving you like basically access to everything that I have so you can do whatever I
+need to do and then other I don't know what that is. Production instances. So the So the way that it works is uhm all of these passwords in the production instances and the dev instances that I showed you allows you to access to the, access the production instance.
+company portal. That's the uh super user account and once you're in there you can go to the, you can do administrative stuff as a company user or you can go to the user's page and log in as one of their administrators without knowing their password.
+Basically simulate. So if something goes wrong. Yeah. Uh, this one has support for customer support related. So yeah, so once you set it up.
+You'll have access to everything and then it will be good with this. One more password is done. Slack is done.
+Google app. And then, one path, just work you said you were working on. Yeah, I just need the password reset, I'll get it fixed.
+And then, uhm. We use that.
+https://www.loom.com/share/c471f7e2bc3d4d33ad10c53d85848228
+success
+Understanding Challenges, Solutions, and ROI
+sorry about that. The challenge is all about how the metric solves it and the ROI. And for each challenge it gave me the information.
+And I said anything else and it gave me some more information. And it's basically analyzing it and putting it into a challenge solution and ROI.
+And then I asked, I put right a list of all the questions that they asked me. And who asked it, who answered it, and the responses.
+This gives me all the information about what was asked and responded. And then the final piece, I did another, chat.
+And I asked it to analyze the transcript and give me all the risks associated with not purchasing metrics. So especially what is the risk of inaction.
+And now I have challenges, solutions, ROI, the, The questions and answers as well as the risk associated with inaction. Now what I'm doing is manually reviewing all of it and consolidating it.
+Uhm, so that it's, it's not, uhm, too verbose. I'm trying to put that into a table.
+https://www.loom.com/share/6fa6537e12c44641b440a4ad6f08d9f3
+success
+chatwebby | Customized AI chatbot for your data - 3 May 2024
+Hi everyone. I wanted to share this uh with you. I came across an opportunity for us to purchase um this product and business at a, um from a from a from the founder.
+It's a platform that is used for um. Inter building a chat board that allows a person to interact with their data.
+Um. We use something like this for through a call chat base. This is very similar to that where if I log in.
+I can create a bot that contains various websites, PDFs and then I could go in here and. I can interact with it and ask questions.
+And it's using open AI and a couple of other platforms. Uhm. And this is something that. Is a good opportunity for us because we can rebrand it and provide it to our customers.
+Since. When it comes since there's a lot of consumer placing of products like this but for hospital and university environments there is no products that they can use by providing something like.
+Like this through metrics we are going to allow them to use chat GPT and other tools in a more secure way.
+And it's a really good opportunity for us because the. You know the person that built it he's a couple of other products that he's working on and he's trying to.
+Um, sell it for five thousand dollars. And what I met with him this morning and you know it seems like a trustworthy person.
+And then there's a whole process associated with buying it through a escrow service. Um, but what I would like you to do is spend a few minutes using the platform or and any problems or bugs.
+Things that you find with it. If you can write that feedback here. Um, he said that if there's any issue.
+We'll use it with it. They're gonna address all of it before they transfer it over to us. Um, so it would be good for us to fully test it and write down any feedback or questions before we make the commitment.
+https://www.loom.com/share/c2faadcc93174dbd842511bbfd85857d
+success
+Creating Rotation Templates in Metrix
+So in this video I'm going to go over how to recreate this form in Metrix and you can create a second video for Aiden and Evan.
+And we can make this in a way that we can reuse it in the future. So in Metrix, if we go into and turn off the Spanish setting.
+Then go to admin portal, which is where they're going to be able to, they're going to have access to the admin portal.
+And I'm going to create a new template, and we're going to create this as a rotation template. So most of their forms are going to be rotation templates, because they're implementing Metrix for clinical purposes.
+and clinical use is going to be using the rotation instead of a course. Classroom-based scheduling in the first two years is going to be using the course-based evaluations.
+So if I go here and let's go to here, we'll give this the name. And for the description, take this.
+And this section here does support some formatting. So if they wanted to be bold, they can highlight it and say capital B.
+Not capital B, uh control B. And then skip activation date. Then for any time they have a form that's going to be submitted by a student, it's best to keep that as confidential, that way the school is protecting the identity of the student.
+If it's an evaluation of a student, you want to make that non-confidential. We also have the ability to email alerts for a low score.
+That's something that we don't need to set up immediately, but we can let them know that's a feature that's available.
+Then we get to the next page. We can take this question, and we're going to add that there. I don't think it needs improvement.
+So that will create a Likert question. And these items down here, they're not going to have it all listed out for each question.
+So instead, we'll have one question at the top. We'll put that as a checklist. And for the values of this, we'll use uh zero, since they should not be used for grading.
+And then we can show them how to move this up. And then there's also a way to say no feedback.
+So if you want them to have a button, so if we go to preview, you can see that you'll see a no feedback option.
+We don't need to include these fields at the top, because those will be automatically populated based on the schedule. We don't need the signature, because that's going to be collected.
+And then for these items down here, what we want to do is uhm do something like this. You'll see that it retains the options for the previous question.
+So if you're adding a whole bunch of these, one by, one after the one after another, it's easy to uh create them.
+Do not comply. And this one has an NA question. I'd like to put the lower option on the left side.
+Zero. One. And then we can add a custom title. Unfortunately, we don't have a way to put these descriptions in the middle of the form, so we would have to put that at the top.
+as part of the description. So, you can put in as and that'll appear at the top. And then for comments.
+Same thing here. Put it as text question. that over here. So that, those set of instructions will allow them to create uhm the forms that they need.
+And they don't need to worry about the last part for now. This is the setting up the automation rules. You can inform them that we will set this up later.
+For now, simply create the forms in the system.
+https://www.loom.com/share/a2dab0b5a9ca4d69bfe15b70de070b54
+success
+Medtrics - 30 April 2024
+So when it comes to check in the permissions, it's two places we want to review under the permissions here, we can check the student coordinators and confirm they don't have block schedule edit permissions.
+So for example, how might t have block permission view? Robin has blocked schedule edit. So any of the student coordinators or site coordinators will be listed here if they're granted permission.
+Thank you. Put the actual block schedules itself. If there are um anyone that is granted individual block schedule access. So if you can see here, student coordinator is the test account and do it.
+It was quick granted access. That will be shown here. Um. So student coordinator here would not show edit access for block schedule because they're not giving global access to all block schedules.
+But on the individual schedules, umm. The test account is given access to edit and view all assignments. What I can do on our rent.
+https://www.loom.com/share/241dad5713b548268377b6e0111bd86c
+success
+Contract Negotiation and Pricing Strategy 📊
+Hey Shruti, so I spent some time cleaning up the Atalem folder so that we have everything in one place. I also prepared this document that outlines all of their current agreements.
+So let's start with, I'll start with reviewing the old or the current pricing, then I'll go into the the newly negotiated.
+agreement. So this here, Ross University AUC, Ross University School of Medicine, which they sometimes refer to as RUSM, and the server for them is rsu.metrixlab.com.
+And then American University of the Caribbean is AUC, and they refer to, I mean the server is auc.metrixlab.com. RossVet is RUSVM.
+slash RUSVM.metrixlab.com. And then Chamberlain is broken up into these smaller programs, however, they're all on CUC. RUSVMetrixlab.com. So when we, the Ross University is our first contract with them and they are following a July through June academic year cycle.
+Every residency program in the United States, they start on July 1st in the country. Medical schools typically follow their clinical schedules around that same time frame.
+So this one is starting on July 1st. That's why a lot of our contracts start then. American University of the Caribbean, they started a little late, um so they're off cycle and they have this uh September start date.
+The plan is for us to sync this up either this year or next year so that the all the contracts start July 1st.
+I don't know if we're going to be able to do that this year given that we're already late. Um but we're gonna we're gonna renew this one now, this one in a couple months and then Ross vet is also in uh September.
+Chamberlain has separate contracts for each of them depending on when they started. AGNP is adult gerontology nurse practitioner program and this actually has two separate training programs.
+There is the acute care and primary care track. And the invoice is one program and we have one contract for that.
+That renews in September. PMH, the star is a July to June so we're gonna be doing that now. FNP, DNP is February so they renewed in February and the next one will be next.
+Thanks February. This is two smaller programs that was added. I can't remember. I don't remember. It's probably less than a hundred trainees.
+Uh it may have been part of this or BSN. Next year we have to probably put them with FNP, DNP renewal so that, It's not one tiny renewal.
+We're gonna have to look into that. And then BSN, they paid last year, but it was paid in advance for a July 1st start date.
+As we know, this is not gonna get onboarded. So next year, when we renew, uh renew, if they do decide to move forward with it, We'll likely have to give them 5% credit since they didn't use the licenses.
+Um, and I'll explain that later. But all of the invoices are in this folder. And, I moved all the old ones into archive.
+And I also started renaming these with the contract date. So let's ask ah um Alejandra to follow this naming structure.
+Where it has the name of the institution. And the, The start date and end date of the contract. Otherwise we name them like this.
+It's very hard to figure out what's what. So all of them are all of the current contract. I mean invoices are organized here.
+And this one is something that Alejandra prepared for sending. For Chamberlain. I told her to hold off until we're done with all the negotiations.
+So this is not going out yet and this actually is incorrect. So I'm actually going to delete it because we have the new pricing model that's going to be kicking in.
+And delete that for now. And this. This is . It likely has a invoice in QuickBooks that we'll have to remove.
+Let me do that now. Or maybe not. I don't see it here. Okay so. Going down here. Next we get.
+Thank I go into the newly negotiated pricing. So these prices were negotiated last August. We had many meetings with them about uh explaining how our pricing has gone up across all the schools and how they have.
+https://www.loom.com/share/4cdc82d4471042d2af3f5605620f0cfe
+success
+Bug on Site Rotator Report
+It looks like there's a bug on the site rotator report, where, let's see if I can find it. So site rotator report, it says.
+Home institution. But it's actually showing. So the home institution is supposed to show the trainees home institution. But instead it's showing the site that it's linked to.
+So we're simply repeating. What's on the site. So we need to correct that and show the home institution and the home institution code.
+And here it looks like. Yeah, so this is also showing site, address, city, state, zip, country. Instead, we need to show.
+the trainees home institution, home institution code, and the address for the home institution. Not the site for the rotation that's being shown here.
+https://www.loom.com/share/3f402c6e1ee340da9472d528e3c25990
+success
+Gradebook Interface Update 📊
+Hey Marina, so if you look at our gradebook, we have two tabs here. When we click on add score, it's supposed to let us add the grade for a course if you're on the course pay, course tab.
+If you're on the rotation, it's supposed to let you add the rotation grade. We probably should. We don't two buttons or one for add course grade and add rotation grade, so when you click on this, the rotation works great.
+You can select the rotation or manually enter it. But we don't have a way to enter a course grade because it still shows the rotation selector. If I choose a anatomy course down here, I should be given a drop down to pick the curriculum course.
+So I created this design here. This I realized while I was making this video that there's a problem here. Really?
+It really needs to be a simple. A simple drop down for the curriculum courses and the start date and end date and credits are always going to be on the curriculum course.
+We don't need to give them the ability to change that here. Once they select it, we can simply show what the start date is, end date is, and the credits.
+But we want that score to have a link to the GCR. And to the CCR, because the GCR is the parent that says this is an anatomy course, but the CCR is the scheduled course with the start date and end date that is for that semester.
+So your anatomy is going to be offered in that semester, and um. It has a start date and end date, but we're using the GCR to indicate that it is the anatomy course, and every semester's anatomy course is going to be linked to the same GCR.
+Let me know if that uh helps.
+https://www.loom.com/share/876b637cfb4e433998ed99a75a6ed6d0
+success
+Report Challenges
+So this report that we redid is extremely difficult to use when you have a place like Kaiser trying to select a large amount of ah uhm filters.
+So let's say I got an email today from Kaiser saying they're having some challenges with this and I went they asked me to run a report for them and I ran it from July 1st till end of the end of the month and they wanted to select all the visiting roles.
+So for me to do that, then I would come here. Select each of these one by one and as I'm clicking, the screen is moving and making it annoying to keep adding these.
+So in addition to clicking so many times, I also have to keep Deal. with this screen moving. And the other thing is, when I look at this, uhm, it's not easy for me to confirm whether I entered everything correctly because of the way that it's laid out where you have to look horizontally.
+and vertically. If it was all lined up in, uhm, top to bottom, then I can easily confirm I've got everything selected.
+Same thing happens when I come in here and I have to select something like home institution. So if I select all, then I got this.
+Long list that is, uhm, not good for the user experience. Same thing for all of these fields and another challenge is that in order for.
+For me to generate these reports, I have to go in and select all these fields. It's probably best that we have all of the fields included by default and then they can unselect what they don't need.
+And then once the report is generated, the Excel file has some columns that are, that should be capitalized or lowercase.
+We can clean that up and make it look like, look more professional, since this report contains a lot of sensitive information that goes to senior leadership.
+https://www.loom.com/share/56dd9e39affe44e59da3211fc9371d90
+success
+Medtrics - 29 April 2024
+I've been playing around with this tool over the weekend and and and I love what we're doing here Especially how fast everything is and it's awesome and I'm very excited about the next steps on this from what we're doing here I don't have any major feedback other than to for us to finish uh the things
+so that we can keep moving forward in that direction but from a general UX standpoint for the how we cut.
+we uh uh come uh uh come uh the components so that is standard I do have a few thoughts here one of the platforms that I've been using recently is UX self which is a The thing that I'm trying to get for all of our developers and team members to learn about UX.
+It's a very well designed site has you know organized content that is clean and one of the things that I want to look here.
+is to figure out what font hierarchy they're using. So that we can use the same thing in metrics because they're white space they're, Umm, sizes is very easy on the eye and very easy to find out.
+Umm, very easy to find out exactly where you are in the system. So, you know, if we take a look at, their font sizes for here umm you know this is probably an H1.
+And then you can see little check boxes and you know it's, iI think ao it's coming up with a check box that is something like this so it's easy to click and interact with and it makes it really umm use it friendly and then let's That's it.
+I want if I want to do a job posting, text field, radio buttons that are I want to basically steal what their sizes are.
+That's what I'm saying. It's like I want to one of us to go through this and kind of look at their f- forms and how they have built this so that we can use a similar interface for forms and the fonts in the system.
+So, And one other comment here is, um, when we're building the forms for date fields, it'd be good for us to set a max width so that it doesn't take up the full half, um.
+50% of the screen because the width of the field should be relative to relative to the um the content that will go there.
+So our date field will never have more than this much text so if we make it a little bit bigger than that.
+It will be ah um look a little bit more cleaner. And for multi-select In terms of um colors, um I think it's okay for us to introduce a new green color for forms like this because in the past we were using orange which sometimes signifies danger.
+If you're selecting something and it's um. a green color which is saying that you completed it. The other thing that we want to standardize is anytime we have a field like this that's buttons put it on the right side because that's where users will expect it.
+And then for sessions umm it will be umm. I deal if we maintain the details that we have on the current sessions page because clients are used to seeing that because there's some like uh additional details that we show on the D by default.
+So let's see if we go to sessions. Uh we saw type, code, title, and then we also saw leaders, theme, schedules, um group.
+You use it using it to troubleshoot whether they scheduled everything. Let's see what else can I think of here. here.
+Let me show you one more thing. Thanks. Thank you. This is one of the companies that I umm met at the conference last week and they have a way for faculty to create different sessions.
+And content in their system. And I was not video. y'all. let's see. See ya. somewhere they had a video of.
+Okay. This is not exactly umm like our sessions. This is more of creating content. But one of the things that they provide is a, simple interface where they can write the learning objectives.
+So let's say if I am a faculty member and I have these objectives or session objectives that I've created umm.
+somewhere else, I can come in here, copy and paste it, and then it will allow me to basically have that in here with one, two, three, whatever coding that we provide.
+But it's So, uhm very easy to type, press enter, add the next one, add the next one, add the next one, uhm rather than having to click add session objective, save, add session objective, save, uhm being able to Thank you.
+You know, write it in naturally, um, almost like they're writing in a Microsoft Word document, but it's creating separate objectives for each of them.
+Um, so, in our interface, what I was thinking was on this page, when we are adding or editing a session, um, when you get to the session objectives, once you click add or we add, add the first session and you type in code objective, and then when you click enter, it automatically would add another one
+https://www.loom.com/share/6745e2cf673946fca3f9ca188df18613
+success
+Exploring Medtrics Curriculum Module 🌟
+This video will take a look at Metrix Curriculum Module and a couple of the reasons why it may help an organization during the accreditation process or during a site visit.
+Metrix allows you to organize the entire curriculum in one interface. You can map these objectives to your national standards, import your program objectives, courses, rotations, and all the objectives for each of those courses and rotations, and also create various lectures, labs, small group sessions
+and other academic activities and then tag those in. activities with standardized keywords, instructional methods, assessment methods, resources. Once all of this is organized, the leadership team as well as the faculty members can go ahead and search the entire curriculum, then visualize how all of
+your objectives are connected together. In this particular example, I'm seeing a course-level objective tied to an institutional objective, which is tied to a national objective.
+When you have a site visit or an accreditation process happening, this is something that can be pulled up on-site. screen to show the site visitor how all of this is connected together.
+Same thing applies for keywords and other types of methods that are used to tag the So, let's say if I want to look for sessions where we teach microchips.
+I can search for it and it'll show me all the lectures or labs where this topic is taught. I can export this into a spreadsheet or Excel file.
+There's also other reports that allow you to see how much time is being spent in different types of learning activities and also an audit of changes that were made to the curriculum.
+If your institution is also struggling with mapping these objectives, Metrix also provides an AI-powered mapping tool. If I'm a biochemistry professor here and I open this up and I have six or seven lectures that I've created, I can click on one of them and I'll see all the objectives that are tied to
+that lecture. When I look at this first objective, I can see all the unmapped course objectives here. If I want, I can map this one by one or I can click this AI mapping button and it'll take all of these course objectives, analyze them, and give me a recommendation for which course objectives aligns
+with this session objective. And as a faculty member, I can quickly map this by approving what the AI has recommended.
+So with the AI mapping, as well as the searching and the tagging, you're able to fully organize the curriculum quickly, and then also have a way to present it to the accreditation body when they send, when they come on site.
+https://www.loom.com/share/4cb71941653c497b93c19abec4ab4b91
+success
+Italian School Pricing Negotiation 🇮🇹
+This document outlines the Italian pricing for July 1st onwards for their all of their schools for for about three months we had regular meetings with them last year to discuss the pricing adjustments and during this long negotiation period we came to the agreement that we're going to have a transition
+period of three years where we are incrementally adjusting them to our new pricing and these pricing tables include to all of the modules, however, their schools.
+modules are not using all of them, um, so if you look here, this table at the top is our standard pricing.
+This is for any institution with more than seven, 7500 trainees and the institutions are Ross University School of Medicine, American University of the Caribbean, Ross University Vet School.
+So even though this is Ross University Vet School and Ross University School of Medicine are part of the same university, for the contract they're considered two separate institutions.
+So we won't be adding them together to get that 7500. Then we have Chamberlain. So we look at these tables, there's a 15% off if it's more than 7500.
+But since we don't have more than 7500 without the BSN, Chamberlain will also be using the same pricing table. So we look at this, we have what Ross will be for next year, um AUV.
+AUC, Ross FET, and then Chamberlain we would have to adjust this based on the number of trainees. The key things here is the way that a talent's pricing works is, at the end of the year, we run a report in Metrix, so if I go to.
+our company portal, so logging in, and then company, there is this report called billable, and what we want to do is run this report from last uh May.
+May 1st, um actually we we can check to see when we ran it last time, and I believe Chris or Chris and I would have an email exchange of when the last report was ran.
+So if the last report was ran um two months before the contract ended, we would want to pick this year's report to include those extra two months.
+And what this report does is is output an Excel file that has let's say end of May so this report shows various statuses so it shows whether the user is active or not.
+which is not very helpful right since they haven't been deactivating all the users but what it what matters is if it says any of these conditions whether they logged in once whether they have at least one evaluation assigned any of these are one then it means they have used the system so what we typically
+do is add a column to the right side and sum up uhm all of these numbers and then if it's greater than one then it's telling us that this user has been in the system or something like was assigned to one of our modules.
+That means that it's considered an active trainee. If they're an active trainee then we get that total count and once we have that count we submit that for billing.
+Then if that billing number that we're submitting is more than harder students. Then last year's invoice. So let's say then we invoice for a thousand it ends up being fifteen hundred was the actual number.
+We are where we will be collecting that difference. If it's less than a hundred it's written off and then if it's significantly lower.
+Let's say we bill for a thousand and they only have five hundred students in there. If it's more than a hundred lower we they will get at most five percent credit for the next year.
+That's how we do billing for all of their schools and most of the time they're going up in volume and we end up having something that we're adding on.
+So for every server they have Ross University, RossU, then there's RUSBM and then um AUC.metrixlab.com and then c***************. And this is something that these reports are something that Chris and Maria are used to preparing so they can prepare that.
+Then what we want to do is exchange it with Chandan to confirm the numbers, see what the credit or debit will be.
+And finally, that's, once we have the numbers for last year, the school will also provide us with what their estimated student count will be for next year.
+And then we do the billing for next year based on that. So they tell us we expect to have 1,000 students for next year.
+We do the 1,000 plus or minus any credit or debit from last year. So that's how the Italian billing is done.
+And for this year, since we're going to be having a whole new statement of work that we'll be preparing, that statement of work will have all these tables in it.
+https://www.loom.com/share/53cc80a7fbcd49e985510f8e588b1305
+success
+Santhosh Cherian | Your role goes here | Uxcel - 29 April 2024
+Hey guys, I wanted to share this website. I'm gonna add you to it. This is a UX training website there's a bunch of useful materials in here.
+I'm not, I mean this is something that you could go through if you're um, later on when you have time to learn.
+But the reason I'm adding you to this is this website is umm, very, uh, use a friendly and they have paid a lot of attention to the font hierarchy, the, um, white space, and how everything is presented.
+Um, even like certain things like their, uh, skill- graphs, um, it's really well put together. And what I wanted us to do was look through and see if we can So we're going of the elements in terms of the font sizes.
+So for example, you know, creating a hierarchy of the fonts. Um, when we have this here. It, uh, going back here.
+So if I go to a page with a heading and a sub heading. So this could be courses. And if I go to here, uhm.
+I'll be the courses font size. The h1. And let's see if we can find one with uh. So, It's subheading.
+Yeah, so here's maybe h2 and the description underneath it. Um. And. Cause I'm going to all over the place here.
+But what I wanted to see if with first step is to create a font hierarchy that we could use throughout the platform and borrow that important hierarchy from this website.
+I don't mean changing our font uh type. I mean the what are the sizes that we should- standardize. Um so if it's what's our h1 size, do we want to bold it?
+Do we want to uh not bold it? What's the h2 size? And then for each of these filters, um maybe what we need.
+Is whatever size is for these things ui components. That could be the h3. And then for the body text. Um.
+What do we want to do? Then the l- I don't think we need to change the left menu but we can compare it.
+Um. So that way we're creating a hierarchy that we can standardize and use across the platform. And it might already be a good hierarchy, I don't know, but it'd be good for us to uh compare.
+And the other thing is when it comes to these fields, um. So when it comes to these fields, it's good for us to- uhm also send, set some UX parameters where if it's a date field.
+field. uuhm we have a max size for it so that it doesn't take the full width because it, it should, the size of the fields should be uh relative to the content that will go in there.
+So if we're putting the date in here, we don't need this full width and if we're- we have it shorter um that would be better.
+So you can see on this page we're kind of- . . looking at um the year and a month is shorter than these other fields.
+Same thing with uh something like a check box. So let's go down here. Yeah.
+https://www.loom.com/share/6442b80bb7f5437890c07c9b14307481
+success
+Proposal Modifications Overview
+I wanted to send you this video with this proposal to explain some of the modifications that we made based on our discussion yesterday.
+One, we have added a couple of modules such as the benefits and the uh the uh the uh uh elective application management.
+We also and removed the optimizer so that it's more in line with the conversation yesterday. We also added the all the clinical students here and then the curriculum management is uh still the same and it's here.
+So this is the annual subscription once we are fully uhm up and running with the system. But during this first transition period where you have an overlap with the existing platform, we put together this phased uh implementation and transition period and this here shows the prorated amount plus the one-time
+onboarding fee. This is what it would, the system would cost during this phase as a prorated amount. However, I know that whenever we work with an institution, there is always a limitation on what can be added to the budget from the finance department.
+So, we want to leave this. Uh, open to discussion with you so that you can have that internal conversation and we can provide a one-time transition pricing adjustment here to get you to that budget that allows us to get started with metrics this year and have that overlap period and then go forward.
+it to the full license once the renewal happens. So please review this and discuss it with internally and you can let us know where we need to be to get started.
+I think rather than us providing a number and trying to assume what your institutional budget is, it's always been more productive for you to have that conversation internally and let us know and we can make that adjustment here because we're interested in having that long-term partnership and we want
+to make that possible with that overlap with the existing system because it is always going to help you with that transition.
+So please let me know if you have any questions. And then I'm happy to also hop on a call Thursday or Friday to talk through any additional details after you have your conversation with your team.
+https://www.loom.com/share/27a4159082c54165a98d798b2a8c21d4
+success
+Case Logs and Custom Requirements Configuration 👩‍⚕️
+look at case logs and how you can configure custom requirements for students to complete diagnosis and procedures when they go to clinical rotations.
+So the first thing that we typically do is standardize a set of diagnosis in the system and then group them into categories based on.
+rotations. So here in the simple example we're seeing students are expected to see five patients with pneumonia in pediatrics, two patients with allergies, three patients with asthma, five patients with croup.
+We can edit this and change the minimum and order the category if needed. Typically, we would have separate categories for each rotation that you want the logs to be completed in.
+And then for diagnosis, we would configure how many they have to complete for every single diagnosis. You can also leave this blank if there is no minimum that's required.
+Procedures, we do the same thing. For each type of rotation, we create a category and define how many procedures they have to do as part of that rotation.
+Then, we can configure templates. Each template can have different sets of fields they have to complete. So for example, you want them to tell you what date they completed the procedure, their patient's age, the preceptor or faculty member they worked with, the complications.
+It's all up to you what information you want them to complete. Most of the time, it's best to keep it simple.
+Ask them to submit the date, the rotation that they work or working in, and the preceptor. And it'll it'll make it very easy for them to log cases.
+There's also a way to define different types of um diagnosis for that particular clinical setting. So here it's saying for pediatrics, I want to have these four diagnoses.
+And I also want this to be used only in pediatrics rotations. I can come down here and say pediatrics. So with this configuration, learners will only be able to use this template if they are assigned to a pediatric rotation and they would only be able to use this set of diagnosis when they log the cases
+. We can make it as granular as possible or we can have one template with all the diagnosis and all the rotations so they can log it whenever they want to.
+We'll be going over this in more detail and configuring it to basically to match your requirements. First thing that we want to look into is a list of all the diagnosis, minimum requirements, and the categories, list of all the procedures, the categories, and the minimums for that.
+https://www.loom.com/share/e37a73e4d682428b85658002268ab718
+success
+New Academic Year Webinar Update
+Alright, so hey Marcus and Katie. Creating this uh uhm video to go over this new webinar. It's an updated version of last year's webinar.
+We're going to cover getting ready for the new academic year. And Marcus uhm you can help uh lead the conversation and Katie and I can cover the different sections.
+Uhm so for example in the intro you can start to do the intro slide and then when we get into the webinar uhm there are five checklists that I've prepared and we're going to split this up between Katie and I.
+Uhm she may take one or two and I'll take the the other ones. So the first one is going to be the finalize the academic year.
+Like we're currently coming to an end of an academic year. What are some of the things that we want to do to close out the year?
+Then getting ready for the new year. We can uhm update the users in the system and make some changes to that.
+Then we want to prepare the schedules, review the evaluations that we have configured, and then some engagement strategies that we have.
+Uhm so you can do this slide too if you feel comfortable doing that. And then when we get to here, you can pass it on to whoever's going to be taking this slide.
+Say, you know, let's get started with finalizing the academic year. Uhm, you know, what are the things that we want to cover?
+And then whoever's covering this slide will go ahead and run through this checklist. So, so I'm going to create, I'll create this video with that includes the, uhm, what I'll be covering if I was doing this slide.
+So at the end of the academic year, we want to make sure that the outstanding data is closed before we go into the new year.
+So what are some of the things that we want to check for? First thing is we want to cancel any outstanding evaluations.
+If there are overdue evaluations that preceptors or faculty members have not completed, either we want to have them completed before the end of the year or we want to go ahead and cancel it.
+Canceling an evaluation is um and we'll go over how to do that. The next thing is uh reviewing outstanding work hour violations.
+If you're a GME program we want to make sure that all of that is reviewed and closed out. Review outstanding case logs that needs to be signed off on.
+Any documents that are expiring as well as any. See you soon. Umm onboarding requirements we still have to review. So let's go through each of those one by one.
+We want to start with evaluations. On the evaluations and assignments page we can filter for evaluations that have a overdue status.
+And go in here and select the ones that we want to cancel. And then under the action menu click the cancel button.
+If you notice here there's a cancel option and a delete option. Cancelling and evaluation will remove that from the reminders list and the preceptor or resident will not be able to complete it.
+But you maintain your record that it was canceled. Yeah. If it gets deleted and you're removing all evidence that it was ever assigned.
+So my recommendation is if something has been correctly assigned and it's been umm it hasn't been completed cancelling is the best option.
+If it was incorrectly assigned you can delete it. Next we want to review all of the outstanding work hour violations.
+Some under work hours violations. We have a list of items umm that may have been sitting around and these are violations that occurred on the work hours module.
+So if anything any of these items are marked as pending ending. We want to review that. You can click this blue uh hours button to see what work hours triggered this violation.
+What the trainee wrote. Then we want to put in a response as an administrator on what was done to address this work hour violation.
+Then that will change the status to review it and we have closed out this violation. As for case logs, if you're logging cases in metrics for this your training program, it's good to go to the case logs page and then filter for case logs that have a status of pending and make sure that by for the end
+https://www.loom.com/share/2765a93623514f42a72013a19d344393
+success
+Managing Courses & Rotations in Medtrics
+In this video, we're going to cover how Metrix organizes all of your courses and rotations in the system and how it's tied to different curricular courses as well as different rotations at various sites.
+So we'll get started with the framework under Gradebook called Graded Courses and Rotations. Essentially, here we'll see after we have configured everything, information organized into categories.
+So core rotations, we have elective rotations, we have the academic courses for your first and second year, and depending on your training program, what we need is a list of all courses, their codes and names, and it has to match exactly what you have in your student information system, because this
+information is what we use to send data out of the platform in the future if you need to do some sort of integration, or if you're downloading data and importing into Metrix, the course codes allow you to match the data to make sure that it mirrors what's in the other platforms the university is using
+. So we recommend using Metrix. Then going into your student information system and exporting a list of all of the courses, all of the rotations, and their names.
+And we will provide you with a spreadsheet that you can use to populate this information. Our team will review it, and we'll do a bulk import to have this all created for you.
+Once the graded courses and rotations are set up, each course can be linked to curricular courses. So for example, we have biochemistry that is created in the gradebook, and then we have biochemistry that's created for that particular semester.
+So this particular semester or year, we have a biochemistry course, and this is connected to the biochemistry course, or whatever course name it is, in the gradebook.
+On the clinical side, we have something called rotations. So every rotation that is in the system is mapped to a site.
+So Hospital X is offering dermatology here, and each of those rotations are also mapped to that gradebook rotation. This allows you to schedule them to different hospitals, but the grades are all being connected to the same dermatology uhm gradebook rotation.
+So what we need is, on this side, for rotations, you want to get a list of all of the different sites that you have to have students going to, and then for each site, we'll need to collect a list of rotations that are offered there, and then we will use that to map it to the gradebook rotations.
+So scheduling can use these rotations at different hospitals, and the registrar can use the that that uh uh map that grade back to the course or rotation they need to get credit for.
+So to review, in the gradebook, we have rotations and courses that match what's in your student information system. These courses are mapped.
+These courses down here are mapped to courses in the curriculum. You know, this includes anatomy, biochemistry, and so on. And for the clinicals, under schedules and rotations, we create each of the rotations that are offered at each affiliated site.
+And those are mapped to the graded courses and graded rotations that are in the gradebook. So you may have dermatology being offered at several hospitals.
+So you'll have multiple entries here. Each of those dermatology rotations will be mapped to the same gradebook rotation that allows us to capture that grade for the transcripts or other records that is stored in the pseudo-information system.
+https://www.loom.com/share/23c639d3e79b41dc8e4d7aeddb073d2a
+success
+Setting up Leads and Opportunities in Close
+So, we got a new submission for a demo from our website. I have to check to see if I added you to the hello inbox.
+This is where the leads come in. So, I want to show you how I set up these leads. So, if this came in, copy the name, go to close.
+One of the first things that I do is check to see if that institution already exists. It looks like we have them.
+And we haven't talked to them in a few years. But it looks like this is a different person there. So what we want to do is, since it already exists, I don't have to create the lead.
+Otherwise I would have created a new lead. And then, for this particular lead, it's a organization type is GME. They apparently requested a demo in the past.
+And what I want to do is add the contact. And I would create a new opportunity. And when we do the opportunity, we want to make sure we're on the leads.
+And hot chasing. We don't know the uh amount. And this is a contact. Save. Now if I go to opportunities, I'll see that.
+Here let's uh we gotta make sure we're on the right pipeline. This one is not it. This is the leads pipeline that we have to look at.
+And it'll be, should be showing up here. There you go. And I usually like to call them immediately. So I'll leave this on while I call them.
+Good morning, Freddie. This is Santosh calling from Metrix. Hey, how you doing? So um, you were on our website, we're checking out the software, and I saw that you sent in a Consultation request, would love to hear more about what you're looking for If you have a few minutes.
+Santosh. So um, the reason this conversation for us, on our side, came about, uh, was because we wanted to take 145 Consultation.
+Okay. On the reporting, we're, you know, 40 articles, 40 records, and um, it's not very easy. Okay, that's great. In terms of ah reporting challenges that you're mentioning, is it specific to you?
+to a type of ah workflow or what are you using 145 for? Yeah. Yeah. Okay, so So is there anything particular that that changed that or is it simply a general feedback and you're exploring or is there anything prompt?
+Yeah. Okay, yep. Yeah. Yeah. yeah yeah yeah You had to pay for it separately? For the same data, or is it?
+Yeah, yeah. Yeah. Yep. Yeah. That's an AI, AI curriculum mapping, right? Okay. Yeah. I see. Yeah, I mean that's uh it's a common common trend that we are seeing in UME where a lot of organizations have been using multiple products and then each vendor has a separate fee so it kind of adds up.
+But if you have more consolidation, it um it it saves uh both uh real money and opportunity cost. The one question I had is like um so you could renew it for um one year for 145.
+Are you looking to uh use if you find a product that is a good fit are you looking to get something up and running sooner so that you have some overlap or was there a timeline that you're you have uh determined?
+Yeah, what do you use switching to canvas? Oh God. I'm not sure if that's uh what you're trying to say, but I know uhm that it won't be 5% per year.
+Okay. And so getting back to your point uhm, you don't have a hard deadline. right now, it just so happens that, um, our, um, our precocious, um, team met with somebody in your company, and he, um- Is it Dr.
+Kogan? No, it's not Dr. Kogan. I do remember him, though. Because I remember, uh, it was I think my colleague, um, spoke to him a couple, a few years ago, um, because I say, uh, because when you, when the request came in, um, it came in through your institution, so it had some notes that, uh, we talked
+to Dr. Kogan in twenty, twenty-nineteen, I think, um. at, uh, maybe probably at the ACGME conference or something, or I mean AMC conference or something, and, uh, Okay.
+Okay. Awesome. Um, let's see. So what you're um describing is uh pretty much our the bread and butter of what we do.
+Um and we support all four years. Um, including these curriculum. It's all built for AMC's standards. It um, so if you already have it in 145 in a similar standard, we can easily move that over.
+Um, quick scheduling. Uh, evaluations. Competency management, uh case logging, um, we also do MSPE generation. So, um, so my recommendation is, um, since it looks like you're trying to consolidate into one platform, um, I can do an initial call with you and give you a high-level overview of the different
+modules. Then, we can, uh, have a series of separate meetings with different, um, departments, maybe the clerkship team, the curriculum team, the pre-clerkship, and student affairs.
+So, that way, um, we can present the solutions that are specific to them, rather than trying to cover everything in, uh, one, uh, call, because there's a lot, and then, uh, usually, if they're, if it's broken up, they're able to answer, ask questions that are more targeted towards their operations.
+https://www.loom.com/share/f312c3a451084a1ebca347e3781c7b2c
+success
+Front (3026) - 29 April 2024
+I think we can remove hi there and then keep this um uh instead of hello um e and gm e we can say uh metrics administrators because we also have nursing and bed schools so we'll keep it generic and be better.
+umm since we already kicked off the training. Thank you. It's uh, we want to be, we may want to tweak this a little bit and say that upcoming training.
+And then for any time we're putting a time down, it's good to- put the um time zone also. and uh.
+for the copy um. I think we can- remove this until we have a full schedule. Kind of looks a little confusing when we have one event and then a different time here.
+If we have a full schedule it would have been a little bit more clear that this is the future. We just leave it at the time.
+And then leave this out and for the other copy like this heading it's okay to be centered or these these items let's left justify it so that it looks more consistent.
+I was doing that UX training on that website that we recently found and they were talking about this and how it's better to be left justified instead of centering text.
+But I think for the title it's probably okay. This whole section is probably okay but everything else being left justified.
+And then for. I think there was another email. But this email. From last week I think there's also a duplicate here.
+You can get rid of one of the hey there's. And then we have an extra dot period here. And we can maybe some extra.
+Based we can tighten up here and here and this one should be good to go.
+https://www.loom.com/share/8b088470030b401e908d787cb1ef1421
+success
+Proposal Review and Cost Analysis 📊
+Hi, Jackie. I'm sending over this proposal that the team put together, and I wanted to run through a few things here.
+Based on our discussion, we have updated the student licenses to include both years, so that all the clinical students are covered.
+We've also included the clinical application manager. The time off module, as well as, uhm, the uhm, uhm, the onboarding module.
+I think these are the ones that we talked about yesterday that we wanted to include. If anything needs to be added or removed, uhm, beyond this, that we- anything that we missed, please let us know and we can make that adjustment.
+And then the curriculum module is here. We also removed the optimizer from the package for now. And, uhm, down here we have the annual re-renewal cost, and for the first year, uhm, the implementation is going to be about two, a couple months, and we put together the first phase from August 1st to February
+27, 2025, so that we're trying to time it for when the existing contract ends. Uhm, normally if, if this was transitioning in the next, uh, uh, uh, two, two to three months, we could simply go straight into it, uhm, and get started when the, uh, new year is starting.
+But since we have that overlap, we want to figure out a way to fit metrics into your budget without having to wait until next May to get started.
+So this is the prorated cost with the implementation. But one of the things that I'm leaving open here is, uhm, you know, we understand that budgets are limited and there's only so much that can be added when an existing budget item is already there for the, the other platform.
+So, uhm, you know, you can discuss this with your team and please let us know. Uhm, what we can do here to, uhm, get to a point where you can get started in August and we can make the adjustment for that first year as a courtesy to, uh, absorb that cost from our end to get you started so that we are
+building that long-term relationship. Uhm, so, uhm. This is something that, uh, we'd like you to help us come up with a budget.
+https://www.loom.com/share/1e6f2327d0d747f093f091387895ff47
+success
+Why You Should Praise In Public & Criticize In Private | Radical Candor - 16 April 2024
+Um one or two explain why i was asking that. I had a uh when during one of our one of once with my one, once with Karen, she mentioned something that made me, uh a little concerned.
+I was going over some design changes and umm. She had a good idea for making some tweak to one of the pages.
+And I said let's- let's go and we can do that. It's a good modification. I don't remember exactly what it was.
+But one of the things that she said to me afterwards was like uhh yeah if it- don't mind I'm gonna uhh tell real if uhh if you ask that this was something that you were okay with doing.
+Or you said you suggested we do. Which made me a little concerned because that indicated to me that she was not feeling comfortable with bringing an idea or presenting something to me.
+And for me it seemed as though that she would be concerned that you would be upset about it. And that's not a good thing because you know if.
+If someone has an idea for a feature or design or modifying something they should be they be feel very comfortable with with bringing that up with any one that's a senior member of the team.
+if they are uh it's sucking it and that's why I mean I said that in the other last week in the meeting you know it's something that I don't want her to be stuck in the middle of any sort of debates about design and uh because it's not a good place for a new team member to be in and uh if if she is doing
+something any team member does something that is um wrong or at a- we have to coach them and make sure that they're not in a position.
+First of all we have to make sure that we encourage them for- Thank you.
+https://www.loom.com/share/4c2d670cc73242c984067b741a8654d4
+success
+AI Tools for Natural and Human-like Emails
+Hey Silvana, so I wanted to share this with you. This is Claude, one of the AI tools that I've been using for emails.
+Because it makes the text sound more natural and human-like. And uhm. I think I can add you to our account.
+But even if you use a free account, the output is pretty good. But essentially, the prompt I used is. This is a sales presentation.
+Based on this transcript, please write an email. Summarizing this. And it. Pasted the transcript in here. You can get the transcript directly from the recording by copying transcript.
+And then it prepared an email. But the first draft, I didn't like how the requirements were separate from the answers.
+So I asked her to rewrite it in a way that I can have requirement um one after another. You have requirement, solution, requirement.
+I like to use the word uh um challenge if it's something that is their existing use existing medical school or hospital and they're facing a challenge.
+In this particular case, they're starting a brand new school and it also pulled out all the questions they asked and what the answers were and then wrote out the next steps.
+So I would really take this, double check all the uhm. Things that they suggested, let me, that I wrote and then send this in a well formatted email.
+https://www.loom.com/share/7832fe829fc741f4b6b27fff55e9ac7f
+success
+Dashboard Announcements and Welcome Messages 📣
+So on the dashboard we have the announcements functionality. When you first get started with Metrix the dashboard is what every user sees when they first log in.
+It's a powerful tool to provide them with some context to the platform how Metrix will be used by that person and also to provide any initial training materials.
+So I recommend that as you get started over the next few weeks and define the processes for the system you create a welcome message that can be shared with all of the new users when they first log in.
+You can create custom messages for students and another message for faculty members or you can do one message for everybody.
+Key thing is to have something here when they first access the platform. It'll be a welcome message from your, your, you with instructions as well as any hyperlinks to resources that'll help them succeed.
+And metrics announcements can also be formatted with different types of text formatting. You can also include attachments here and select who will receive this email.
+You can choose one or more roles. And then you can also say whether you want to send it out in an email or simply show it on the dashboard.
+If you want to test it out with your existing onboarding committee members, you can also include it as an email.
+Otherwise, it's fine to keep it as a post so that it shows up on the dashboard when your users first sign in.
+And over time, as you use the platform, the announcements features can be used to send out important updates to your learners and educators.
+https://www.loom.com/share/cceb941839d04db28f6965d840814453
+success
+Offer Discussion 📈
+Truthy, hope you're doing well. Took me a little longer to put this together because I wanted to meet with Chris, my partner, and talk through this with him so he's in alignment.
+Chris is the other managing member of the LLC and has been helping me build the company. Since 2014. So I want to make sure that everything that we discussed is something I share with him and get his um feedback on it and any any concerns that he has so I went over this with him and he's uh definitely
+in agreement with the things that I have outlined here um and I also even though he hasn't met you yet he's very excited about having someone like you on the team because I think it'll allow us to expand to the next stage of growth um so a few things at the top I started writing out different things
+that I'm currently managing that I want to spend some time with you in the beginning to train you on um some of these items so that you could take ownership of it and we can you know expand on this list or modify this list as needed over time but I figured I'd at least start with putting some of these
+items down on a document and down here I've put together three separate offers uhm and before we get into the numbers I also want to point out something what I see happening is over the next couple of years you know maybe even shorter depending on how quickly we're growing uhm working towards uh getting
+you involved with all areas of the business and then considering whether you're you're interested in a role of something like chief operating officer uhm as the company's growing again this is something that potential career path uhm all of this is something that uh we can figure out and and uh sort
+out as we are working together uhm you know I don't wanna guarantee it I also don't know if you're gonna if your mindset is gonna be the same in a year from now but this is a potential uhm based on your interest and your background.
+So the first offer here essentially is uhm what I had mentioned on the calls is having all cash as a W2 employee where you have the 130k base and then the 30k target bonus which is something that you and I would define uhm as goals and then once those goals are met at the uh at the end of the year uhm
+it would be a bonus that gets paid out based on company meeting its goals and the individuals meeting it uh their goals and trying to do all of the goals in a way that is achievable uhm and the reason I structured this way is so that uhm you know as a company with a certain amount of cash flow uh monthly
+cash flow is is uh the most important thing uh by the end of the year when we get to uhm the bonus time we're expecting for our revenue to go up and then we'll be able to pay out the bonus as well.
+That being said, we also talked about the shares and this first option is essentially less bonus but some of that being uhm structured as equity and then the equity is vested over four years that that uh like our stock standard whenever we offer shares is over four years.
+Um, one thing that I want to point out here, I'm going to go into how we value the shares in a second.
+But one thing I do want to point out is, um, you're going to be, you would be coming in as a partner like myself or Chris with these shares.
+But in a other tech startups, a lot of times they go through series A, series B, series C, and the earlier shareholders are getting bought out and they're cashing out when there's another level of fundraising.
+As a bootstrap company, um, we are right now not planning on doing another round of fundraising. Again, that could all change depending on our needs. Um, and we are not planning on selling, you know, we're not, I'm not building the company with the idea of selling it.
+I'm all open to all possibilities depending on the situation. And there may be an acquisition that happens down the road, you know, chances are there is because in our market, a lot of times it does happen, um, but I'm not planning on that.
+So, if, when you, for individuals that do have shares, what I'm anticipating happening is, you know, as our revenue goes up, and we have more cash flow, making it possible for individuals to shell, sell back the shares to the company, so they can cash out, and get that, um, in, in, in cash, uh, when
+they want to, and the company has the opportunity to buy it back. Um, that is in the event that we are not getting acquired, or we're not getting an additional fundraising, and, uh, right now, I don't have a timeline for that, but given the pace that we're growing, uh, you know, maybe in the next, uh
+, uh, three to five years, um, obviously, there's going to be preferences for people that have been here longer to have their shares.
+Their shares bought back first, if they want to do any sort of, uh, uh, uh, uh, sell, uh, selling, but I wanted to present that because it's going to be, um, slightly different than what you may have heard from other slander tech companies, uh, and the reason I like going this route is it allows us to
+control our own destiny and what we're doing rather than having venture capital funds investing into us and then having to force, uh, raise another round and then having to sell to another venture capital fund.
+It allows us to grow at, at a, um, our pace, control the culture, um, but for the shares. Um, we will need to grow a little bit more before we can start to buy these shares back.
+And it will be at that, at the value at that time. Um, health insurance is included and I believe our budget right now is for the, uh, $350 or four hundred dollars.
+I think it's $350, $350 per, for the plan and there are several Aetna plans that, uh, that is fully covered.
+https://www.loom.com/share/2b5df4e0346e431bba8279455d298cd3
+success
+Overview of Webflow Structure
+Aaron, so I wanted to, I was in Webflow, and I wanted to give you an overview of how it's structured.
+So, when I go to this home workspace, you have the opportunity to open up a designer, or you can open up the editor.
+The editor is where it's a CMS that you can use to create new pages and edit the content, but it won't let you change the styles of the page layout.
+So, if I open up this particular view, it Gives me. You know, a left menu that has, you know, these are all the different pages that we have.
+Collections are meant to be Different types of content that we could have, uhm, so for example, like use cases, there may be many use cases and it allows you to create multiple use cases and put it into a collection.
+Blog posts, has another, where you can create multiple blog posts. So if we want to edit the blog post layout, this is what we would use.
+So if I go to pages, it allows me to select what I want to edit, and then here we have components.
+Components are meant to be the reusable sections that you can use in different parts of the system. And then, for example, testimonial slider.
+And then on the right side is where I can click on and edit the CSS of it. You know, what's the position, what's the spacing, the min width, max width.
+So, let's go to, let's say, something like the blog. One of the things that I've been trying to figure out is like how do we make sure that these things are the same size.
+So, I can probably go in here. Let's see. Anyway, so you can see how it's editing using that stuff on the right side And one of the things that I want us to do is Clean up the blog.
+So one thing we want to call this Blog oh wait Yeah, we need to think about that we can call it MedEdge for now I'm not sure if we want to call it MedEdge, but MedEdge Blog.
+So we're kind of showing this MedEdge as our content channel and in terms of the look of the blog I wanted us to go with something similar to this where We have a clean header at the top And then we're going to embed a way for them to subscribe and as you come down We have a red And then all of the different

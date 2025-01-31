@@ -1,0 +1,985 @@
+Calculate Case Log Duration total in Stats Widget on Dashboard – Figma - 23 May 2022
+So this new update to metrics is going to add something to the dashboard For us students. And it's going to this dashboard.
+Widget is going to be controlled by a setting under system, set up settings lab. This setting that is called cases, display case duration, total calculator on the dashboard.
+And we can have, if this is turned on, We'll show this little widget on the student's dashboard. And the key thing here is we have a select course, the date range button fields here, and the course that we're selecting here is supposed to be Graded course rotation.
+So under grade book set up, we have graded course rotations. So these graded course rotations are connected to The rotations that we use for scheduling.
+And if I click edit on one of these, you'll see that there's a link from a regular rotation to a graded course, wait, book rotation.
+So when we look at that student dashboard, what we're doing is we're, we're allowing them to select a graded course rotation from the grade book, which may be linked to multiple regular rotations.
+And we are Displaying aggregates based on the greater course rotation. So let's take a look at this here. So assuming that we selected, let's say anatomy 1 0 1 here, and we chose a date range.
+When we click calculate, we're going to look at all the cases that were linked to different rotations That are connected to that anatomy 1 0 1 graded course rotation.
+So let's do this. So we have case logs, Case logs are going to be connected to rotations And rotations are going to be connected to Graded Or A log as a case, have K state.
+And, uh, we will draw a line here So, and then we have users, Users are logging the cases and users that put on user schedules, Which is also connected to rotations.
+So I believe we have a direct link from the case logs or rotations. Now, if not, we may need to use a connection from the user schedule.
+But the idea here is that if I'm selecting a course, which this lists out all the graded course rotations, that All the way to course rotations that are, um, Connected to any of the rotations that the trainee Should.
+It gets a little trickier than that. Um, So A course let's say anatomy is linked to a graded course rotation.
+https://www.loom.com/share/e485b93282fc42d797dfdaf74e1fec23
+success
+Medtrics - 7 March 2022
+So for the purpose of this task, what we need to do is on institutional portal, under programs, a search for Internal medicine here, the code review On this page.
+We need to update this to Have a sector, a field that has the total number of slots that are licensed for that program.
+And this field already exists in the back in the, uh, database. What we need to do is enable that on here, so that we see number of number of slots as a field typer into your into, and once that's added We're going to have the slots appear on the programs page.
+So the total number of slots that are brief program with the number of active residents with that program as the primary program.
+So this showing 14 residents in the slots that's allocated, and then there's 20 residents that is currently active with primary program equals to addiction medicine fellowship.
+And if we have a number that is greater than the number of allocated slots, or less than the number of allocated slots, it will be a rep.
+Otherwise it will just show us black so that they can, they can quickly identify any discrepancy in the number of, um, actual residents versus number of allocated slots.
+And we'll be on. Also want to do is at the top, right? Do something similar to what we do on the evaluations page, where We can do download, uh, as an Excel.
+So same data that's on the dashboard. As you hear it, download to Excel, similar to the active requirements page. And when they click on that, it'll download the program information as well as the slot act, um, available slots, active residents, active trainees, And the director information program status, all that into an Excel file.
+So when he draws up, provide a sample Excel follow, that looks like And let's go back to the programs For a second.
+https://www.loom.com/share/d08cba018d724ee98f9d4c4c96415814
+success
+Display interactive Case Log Duration total in Stats Widget on Dashboard – Figma - 17 May 2022
+Good morning, Mike. So, So this setting is good and we can turn it on and off. Um, it would be good if we automatically controlled this setting based on the program type in the company portal.
+When you create a new program, there's a dropdown that allows us to determine what type of program it is. And there's G uh, residency medical school and nursing, I believe in there.
+And we can turn this on automatically for the, when it's a nursing program And any student with the primary program as nursing, then that would make sure that we don't ha we don't accidentally forget to turn this on for some of the programs for medical school and residency programs.
+We don't need to turn this off. So that's in And the programs page, and the company portal, This, this here, nursing and allied health.
+If we have it turned on, then
+https://www.loom.com/share/0765427c085a4fd98cfc7a6cedec8157
+success
+Medtrics - 8 February 2022
+So, this is going to be a guy that we create for Chamberlain students, um, that are going to be, um, getting oriented to metrics for the first time.
+So we want to cover the basics of metrics. The first thing that we want to emphasize in the article and the guide is the URL.
+In order to access metrics, it's C U dot metrics, lab.com. When they arrive on this page, we can include a screenshot that points at this button.
+That's what the, um, the single sign on that they should use to get into metrics. They should not use the, we want to point out that they should not use the login option down here.
+They should use the single sign on option. And once they have logged into metrics, there'll be taken to the homepage where you can S uh, right now it's going to be empty, but in the evaluation section will show different evaluations.
+They have to complete the, my profile section. We can let them know they can update their photo here, and then also use this space to store any personal, um, academic documents.
+They want to store and have it in one place. Um, the photo and the documents are the two things that we can highlight here.
+And then coming down to the calendar page, this is going to be a place where they will see all the rotations they're scheduled to there's the month view.
+And the week view, main thing to highlight here is that it can clip the sync with my calendar button and sync this URL with Google, apple, or Microsoft next is cases.
+So case page is going to allow them to log clinical cases as they see different patients. So to do a lot of a case, they would click on the new case button.
+And here we can have screenshots that show the different sections, select a date, and it'll show the rotation that they're scheduled to for that particular date here.
+They want to select their faculty for their practicum course. We use a word practicum in there assessing the fact that practicum course faculty, and then they're going to select the preceptors that they worked with, um, for this particular patient.
+And then the diagnosis field they can search in here and find the appropriate ICD code for their diagnosis. Um, instead of scrolling down, it's best to type in and start searching and that'll give a more results.
+And then the same thing for procedures, they can type to search and find the appropriate procedure that they did. And down here, these are, we don't need to go into specific details of every field here.
+Uh, we can simply say you can fill out the other sections, um, based on the instructions that are provided. So for this three sections of the top, we can have specific instructions.
+And then for the rest, we can tell them to fill it out as, as a wish. These are custom fields that are created by each of the programs.
+And once the cases at log, um, point include a screenshot of this and say that, um, cases will be reviewed and approved by the faculty and periodically, and you'll see the, uh, pending approved or rejected status based on the, uh, stat based on what faculty have decided.
+If a case log is rejected, he can resubmit that You can edit and re resubmit that The search, the search field here allows them to search for all the items that are, they have logged.
+The export tab allows the individual students to export their cases. If I click search here, it'll bring up all the ones that I have in the system, and then click the download as PDF or Excel option to export for metrics.
+The diagnosis seen column, or the tab will show me all the different diagnosis that I have logged. Um, this may take, you can, we can say that depending on how many cases have been logged, this may take a little while to load, And it gives them account of the different cases that they have logged procedures seen, Same thing.
+So that's everything about case logs. Then we have the evaluations, uh, page and the, for me tab will show all the evaluations the students have to complete.
+And as a, um, they can come into this page and complete the evaluations. And the about me tab will show all the evaluations that have been submitted and we can click on view and it showed the evaluations that have been submitted by other individuals about me.
+So the first tab is for what I need to complete the second tab for while those had completed on me.
+And then the evaluation summary page will me a report. All of the cases that have been logged. And then the schedules page also shows the, my schedule is that shows me all the rotations that have been scheduled to.
+https://www.loom.com/share/93ed28cefec24044811b999fa76b4408
+success
+Medtrics Intro
+Good morning, Alison hope you're doing well had a few minutes a day. So I wanted to create this video that gives you a big picture of what metrics is and what we're trying to do over the next year.
+So metrics is a complete, uh, re learning management platform for healthcare. And, uh, we do everything from curriculum to demographics, student management, um, evaluations, case logging, clerkship, scheduling pre-clinical scheduling.
+So it can be implemented in different ways. And current focus of, uh, Michigan state is to start with the clerkship component of metrics and the curriculum component.
+Those are the two projects that we're currently doing, and this is a tentative timeline that we have for the implementation.
+The clerkship project is, uh, still going on because we ended up expanding the scope of that. We also are working with Jessica for migrating all of the curriculum into the, all of the curriculum for pre-clinical and Conklin to metrics.
+And then we're also supposed to start a project for enrollment and compliance. We started some of that work already where we can track whether or not the students have met graduation requirements and ideally move away from the FileMaker system that the school is using.
+And we're creating a dashboard that that can be used by the team to know when the other rotations have been scheduled for pre for clinical students.
+And eventually this Fe data will also feed into our document generation tool for generating MSPE letters. The grade book is I believe Kirsten said it's going to be handled on campus solutions.
+Um, the, uh, we can, we're collecting the clerkship evaluation. So any sort of data that needs to go from clerkship into campus solutions, we can, we can, uh, set up an integration for that.
+And eventually for pre-clinic complete clerkship, uh, scheduling, um, for basic sciences that can also be done in metrics. And later in the year, we're also going to be releasing some LMS capability if the school wants to take advantage of that.
+So the way the system works is this is what the administration side looks like. And when the, uh, administrators log in, we have a variety of different modules on the left side, and each of those modules, uh, covered different functionality.
+And then every individual user has their own personal portal, where they are able to log in and see the data and submit data that they need to, uh, um, they're responsible for as part of their training.
+So starting with the users, if I go in here, we have a 312, we have 312 students in here as soon as an administrators.
+So if I go ahead and open, one of these accounts, we'll see the student's profile, demographic information, education, history, attendance, exam scores, evaluations, work hours, case logs, documents, and certifications.
+So this documents that certifications can be used for collecting different onboarding documents, such as immunization records and others HCLs BLS, those kinds of paperwork.
+And we send out reminders to the administrators, um, when something is expired and if something needs to be renewed, currently we are in the process of, um, setting up the schedules.
+So the let's go to sites first. So all of the MSU sites have been added to the system. And these sites are linked to different rotations that are offered at each site.
+So every rotation that is that the student can participate in at each of the base hospitals and other electives are added here.
+And once those are in here, the school is able to create schedules. And so you can see here view Mon Trenton is one of the schedules that we have imported, and these are the upcoming academic year schedule.
+And when did this is published, the students can see that in their account and they can sync that with their personal device.
+And no, um, no one, uh, the rotations are starting and ending. In addition to that, there's content that can be linked to this, or the students can have goals and objectives and other content pushed to them via email.
+Then for evaluations, we create different evaluation templates and these templates are linked to those rotations and metrics would use the schedule to automatically assign these evaluations to the students or faculty, and then send them reminders.
+So they're completed and reports can be run. So there's attending evaluation. Our clerkship students do an evaluation of a clerkship and so on in here, and this is only for the clerkship, but we also support evaluations for pre-clinical courses, basic sciences courses, different lectures and labs that they have.
+So we haven't gotten to that side of the implementation yet. We're currently focused on the, uh, clerkship implementation. And once those evaluations that are assigned, you'll see all of that being tracked here.
+You can see one of the forms that were submitted by the test student. These have responses and comments at the bottom.
+So that's this part of it is almost done. The evaluations on the, um, scheduling. Next part we're working on is case logging case.
+Logging allows the students to log all the patients that they saw, uh, and make sure that they're seeing certain diagnosis as part of their training.
+So if they go to a cardiology rotation, making sure they are kind of CHF patients that they're seeing, they go to internal medicine, Making sure they're seeing enough diabetes and other kinds of internal medicine pathologies.
+And we haven't created this yet. Once it's defined, the school can create a set of diagnosis, set of procedures that students have to do.
+And as those cases are being logged, metrics will track whether or not those requirements are met and then that can be used to calculate their grade.
+So those are a few of the modules that we've been working on for the clerkship team. In addition to that, we're also migrating the curriculum.
+https://www.loom.com/share/abe9bf8274994d10b849b6112e759441
+success
+Medtrics - 8 February 2022
+So for this first guide, we're going to be creating a document that students can review when they start at the university and they're getting oriented to metrics.
+So, first thing that we want to emphasize there is their login page C U dot metrics, lab.com. And once they arrived there, we can, um, we want to have a screenshot that it points to the Chamberlain university button.
+So students who use the single sign on option to log in, they click on it, they would enter their Insta institutional login, and then there'll be routed back to metrics, to access metrics.
+We want to explicitly say that they should not use the regular login option. It should be using the Chamberlain single sign on option.
+So now I'm going to log into metrics as a student, um, so that we can go through the student functionality.
+So as a student at Chamberlain university, sorry, I logged in as a faculty, As a student at, uh, Chamberlain university.
+When they first arrive, they're going to be arriving on this page. We can let them know that the left menus, where they're going to be navigating to, to find the necessary information, um, in the middle, they'll see evaluations, if that needs to be completed.
+And the, my profile button allows them to, um, add, um, any personal documents they want to track and metrics, click on that, and they can put in, uh, any files that they want to track for their academic, um, progress, any, uh, any, any.
+https://www.loom.com/share/3ed33203771b4faab4d937c337590353
+success
+Medtrics - 1 March 2022
+Hey, David. So when you call her, start off by saying, um, you know, introducing yourself and saying, Hey, this is David from a metrics calling.
+Uh, I don't know if you remember our conversation from a few months ago and hopefully she does. And, uh, then going to, you know, it's been a long time since the last time we spoke and, uh, you know, uh, my J sometime it's been when it's been this long and a lot of stuff has happened in the world.
+One of the openings that I like to do is, you know, it seems like a lifetime ago since we last spoke and that ends up being a nice icebreaker.
+And, uh, I feel like lot's been happening and ask her how she's doing. How's the program doing? And has there been any, um, uh, challenges, uh, in the last, uh, um, you know, few months as they went through onboarding with all the COVID spikes and see if, um, you know, ask her if she still is she's working from home and if, if they have any, um, or if everybody's back in the office, and then once you have some discussions about how she's doing, how the program is doing, then you can transition into, Hey, I also wanted to ask if you had a chance to, um, uh, if they, they, the residency management system has been brought up by the team and see if there's any, any, uh, discussion about exploring any new platforms.
+And then if there is an interest in there, you can say, you know, this will be, we'd love to have a, a, um, reschedule that demo that we couldn't do last time.
+And then we can go into it. If they haven't had a chance to discuss it, then you can say, Hey, um, we are, we have done a lot of work in the last year.
+We've been, um, working with, uh, several large institutions to expand a lot of the platform. I'd love to meet with you.
+It doesn't have to be something that we bring everybody into at this point, I can meet with you and show you some of the things we've been working on.
+So at least you have an idea of what we're, what we can do. And if it's, if it comes up in any of the discussions internally, you can, um, you can, uh, uh, you know, uh, present us as an option.
+So, so, so basically if she says they have been talking about it, asking for the demo, um, with multiple people, if they haven't talked about it, we can try to ask her to meet with just with her, just to give her awareness of our platform and what we do so that she can keep that in mind for the future.
+https://www.loom.com/share/57844042c2a1494485764efc88a0dd70
+success
+LucentRad – Figma - 4 February 2022
+Hey slogan on and re so I was looking at the emails and if we're going to try to simplify the full report, um, who would say, this may be a way we can do, I modeled it after raised design here.
+Um, w if we have a bunch of reports loaded, um, you can click next report, previous report, and then it will pull up the text here, the header text there, then each of the different, um, body part.
+So this should be coming from a structured report that they're filling out. So you can see here, we would give them a template to use, and the templates will have different body, uh, sections here, and they will be filling out the appropriate section for pathology.
+And then on the right side, we would provide the simplified version with different, if we have, we have the guidelines and there's multiple sentences being created for each finding, um, each would show up in a separate row, and then you can click a little arrow or click, click, click on it, to click a drop down and maybe get another version of it.
+So, for example, if I'm talking about the spleen and I put speaker the, it says, speak to your doctor at your next visit, I can click on it to select one of the other options, or then have one of the options be Right, my own simplification.
+So you can either choose the first two or the L that's one, and then it gives him a text field to type it in.
+Um, and maybe it would also be maybe in the, we can also incorporate feedback here, like the easy to follow moderate suggestion.
+So this is a quick mock-up, um, it's, uh, it can be improved to make it look nicer and, um, add more things here.
+But since we're, our goal is eventually to be matching up to existing phrases. Um, having the phrases appear in a separate line and given event dropdown to switch options, um, would make it easy and then they can write their own if they need to.
+https://www.loom.com/share/a137ce58e622444b971af8aedde86891
+success
+Medtrics - 31 January 2022
+And this video, we'll take a look at how to handle core scheduling and metrics. So courses are managed by pre-medical or preclinical teams and in medical schools.
+And the first part of setting a PE core schedule begins with creation of user groups as cool can create a set of groups for different courses or have one set of groups that are used across multiple courses, either way, a group's creation starts with coming to the groups page on the users groups tab on the users page, and these groups, can we create an, a spreadsheet and import it into metrics, or they can be created one by one in metrics once they are created, they can be populated with students using different, uh, different, uh, randomization rules.
+So for example, if I want to populate, um, couple of groups here, I can go ahead and select those groups, select students of certain role, and then say, I want to populate these grew with these two groups with X number of students in each group, and then metrics will automatically allocate, um, students into each of these groups based on the number of students.
+I want each group. So this can be done based on, um, number of students or number of a percentage of students, um, in each group.
+So if we have a hundred students and you have four groups, you can say put 25% of the students in each of the groups, or they can say put, uh, if you have a hundred groups, a hundred students and you want to create, you want, you have 10 groups, you can say, put 10 students in each of them.
+And that'll give us a 10 groups with 10 students each. So once groups are created, you can also click the preview groups tabs, to which to see what students are put into each of those groups.
+Another thing to note about groups is that groups can be linked to a specific academic period, or they can be permanent groups, groups that are linked to academic periods.
+Um, can we, uh, it should be used for, um, courses where students are, it should be used for, um, groups that are going to be used for one course, and then, um, does not need to be persist from one academic period to the next.
+But if you have set of groups that you're going to be using over and over across multiple academic periods, then you can use a permanent group.
+This is mostly useful for putting a different faculty or preceptors into groups because they are always going to be part of the school, but students will be there enrolled for one semester at a time.
+So once these groups are created and populated with students, next thing to do is under courses in rotation. We have all of the courses already created and each course is linked to a specific academic period.
+And then what we can do is go ahead and link different groups that we have in the system. These are not great names.
+So I probably should not use these in the screenshots. Um, but we can put these students into a particular course and you can see that I've put this group into this, uh, in this course.
+And now every student that is in this, every student that is in this group is going to be available for scheduling for this cardiovascular course.
+And once I have the groups linked up, I can go to sessions, select a particular course. I can see a session here.
+If I expand that and click add to schedule, I can go ahead and I'll see that I have that group available for me for scheduling.
+And typically there may be multiple groups that are linked to a link to a course, and then each of those groups will be listed here and I can select the one that is going to be used for this particular session.
+So let's say an anatomy course has labs happening every Monday of the week. You may have four or five different anatomy groups being created and then put those anatomy groups into different sessions.
+So I'll have those five groups show up here. I can select one of them. That group of students will be scheduled to this session.
+Then I can create another group for the next week. And those a different set of students can be there for the next session.
+So the way that the groups are created in metrics can vary from school to school. Um, but every group that is part of a course will be available for scheduling.
+And they're linked to sessions based on which students be covering in which students are going to be.
+https://www.loom.com/share/f5832ea100a84194aec20178923100d0
+success
+Adtalem Product Management Team Introduction - santhosh@medtricslab.com - Medtrics Lab Mail - 2 February 2022
+Hey, Jess, how are you doing? Hope all is well in Dallas and getting ready for the storm. Um, Chris has been, uh, anticipating, uh, power going out.
+So hopefully that's not true. I want her to take a few minutes to give you an update on these, uh, priorities that we're working through.
+Um, figured out it record a video since it's faster than writing everything out. So for Ross, Matt, and Ross AUC, the key things that we're addressing here is the faculty, um, have a way to download different evaluations that were completed on them.
+But since there's so many students, it's not efficient for them to look at each form and, uh, we're building a report, uh, it's, it's an existing report.
+We're adding to their portal that allows them to look at aggregated data for the evaluations. So that's something that is going to address both AUC and Ross meds, uh, uh, concerns.
+And, uh, that I believe is the last critical item that it was on their onboarding sheet. Um, we're expected to finish that in the next few days, so that should be out there for the MSPE.
+I didn't get a chance to join the most recent meetings, but I've been keeping up with Chris and it sounds like, uh, the priority is for us to have the first component out there so that you, if the schools can start building the templates, and Chris mentioned that the standardization is not happening.
+So we are, um, kind of work on this, um, this, uh, this module as a priority on our end and get that out so that the schools can start building it in and then we can work through any issues.
+So that's, that's uh, after the last meeting, Chris had, uh, uh, the asset team to, um, prioritize that since it's, uh, we're not waiting on any standardized templates.
+There are also a few issues that Kevin mentioned in the last call, which I think a couple of them, um, were already resolved or like a dropdown had something that wasn't showing up correctly.
+Um, but those are sort of like one days has to, that we have addressed, uh, and got out there for Ross vet.
+The main thing is the schedule optimizer. And, um, the, for this case optimizer, we actually have hired, uh, two contractors that is going to be helping us build this.
+And one of them is actually an engineer from Google and he, uh, we're going to be building this on the Google's infrastructure instead of IBM like evalu was using.
+And then there's going to be a lot of benefits for this, for the school. Um, I believe in the car, on the past system, it was a spreadsheet that they're sending over to evalu and then the optimizer was running and a spreadsheet was coming back.
+We're trying to do this in the system so that the school can submit this information and have a result come back to the, uh, the schedule automatically built, um, in metrics instead of having to exchange spreadsheets.
+So we need couple more pieces of information, information to get started. Kevin is going to be coordinating with the school on this.
+And, uh, um, once we have that, we're expecting to start development on this it's, uh, later this month, and it's going to take about a couple months for us to build this out and they should be amplified at the time.
+I would say about three months to, um, build it, and then they should still leave a lot of time to iron out any issues and make sure everybody's trained.
+Um, for CU we are pretty much done with the UAT, so they should be ready to go live. Um, there is still a couple of, or reporting related items that came up we're, we're addressing those, um, um, as a smaller tasks where we are adding a case log report that allows them to just pull certain things, a total hours for calculating the number of hours the trainees, uh, covered, which is unique to see you and not to a format vet and then evaluation reports they needed something's tweaked.
+So these are, um, relatively smaller items compared to these other schedule, optimizer and MSP. But the team is aware that the priority is, um, the reports and anything related to current implementation for Ross med and AUC.
+The schedule optimizer is something that is not a panel going to be handled by our current development team. Their contractors are adding, so that's not going to affect our timeline for anything else we had planned.
+And the MSPE is also something that is a priority. So they see, um, we're probably going to be prioritizing the cus, uh, reports, um, before finishing the MSPE because since they were ready to go live, but the Ross , um, reports and smaller issues that are part of the, uh, project that is ending, that's going to be the number one priority for the next few days until we get those resolved.
+Um, I think this captured most of the major projects. I think there may be another, a couple other ones that I may have missed, but, um, they are not on a time sensitive items.
+Uh, if I, if anything else comes up, I'll follow up. So, so hopefully this was helpful. Uh, we'll try to, uh, keep you updated of anything else that pops up, or if anything changes.
+https://www.loom.com/share/7e5ce2f801ca485d8cfc2f613093a2ac
+success
+Onboarding Ideas
+So the goal is to make the system as automated as possible for onboarding. So first step there's actually two, two parts of that is that I want to do the first part is to preload as much of the setup information as we need for different types of implementation.
+So the, um, in order to, for example, I'm running a worksheet, This is my original one. Yeah. So when it comes to Demo But here are the, here are the things that I'm thinking about.
+So I'm creating a new program. What I want to be able to do is instead of having to upload milestones and stuff like that, I just select from a program dropdown.
+I want to create an internal medicine program, or I want to select, I want to create a nursing program. And then when I do that, it's going to automatically have all of the milestones because these milestones were important.
+We can just have it preloaded as a migration that fills it in. We don't need to go look for a spreadsheet, a spreadsheet and all that.
+Yeah. So for like the milestones 2.0 a specialty, um, ones is, that's not a global objective. Is that more of a, that's a program objective, like for I Milestones 2.0, it's actually stored in a completely different part of the database.
+It's not even on the curriculum. We have some, we have milestones table in there, but you don't even have to worry about that part.
+It's sort of, um, When I'm just thinking of like a big, create a new program and it's like a GME program, would it be just specifically like the ACG and meeting milestones or would it be like if you're creating an internal medicine program, would it be internal medicine, milestones?
+Do we know if you're getting family medicine? So, so what, what what's going to happen is if you're creating a new program, it's going to have a dropdown at the top that says, I want to create an internal medicine program.
+If I select internal medicine program and click continue is going to load a model or page, um, below that sort of like where we do evaluations part one and part two part three, and evaluation set up for part one would be select the type of program you want to create.
+Part two would be these settings that show up and some of these things would automatically be turned on because I chose internal medicine.
+Yeah, it's going to be GME is going to be a PGY 1, 2, 3. We don't need to do it for all specialties, but let's do it for the top specialties.
+And then medical students are going to be turned off faculty. We're going to have a bunch of roles turned on, uh, staff.
+We have a bunch of roles turned on. That means that we also have a bunch of these low row roles already preloaded into the system.
+Okay. So we need, we can look at, um, you know, just go fair. They're the ones that we've set up so far and James and MSU and Kaiser, and see what other roles that they create a standardized list of clean roles that we want to always use categories, document categories, and that.
+So basically we will have sections here for turning on all these, all those document categories will already be in there, but we're just going to turn chat boxes on.
+It'll all be on by default and we'll just uncheck the ones that don't need exam scores. So I think that'll be really helpful for setting this up.
+Just some of this is just kind of hidden in pages unless you know what you're doing. And then if we do this in a way that we build this page and at the bottom, we also have a section for settings.
+So all of the, for example, there's, I'm going to make, compile a list of all the crap all over the place that we can put into one page for a program set up.
+So this is one part there's each program should have, um, review of all of these settings and have this turn on, who should be doing what, like the, this is another thing which of these need to be turned on and off for each program.
+So, so we all, a lot of times we forget to turn these things on because we're not doing as part of the initial setup, you had to go to the system, set up and do this, and then it's not so easy to enter some issue.
+Why can't we got to set it up? Exactly. So settings the stuff on that previous page, the work hour types, the document types, exact event types.
+Um, and then the, um, so once, once we have it, all of it in one page, we can also, we can use that for initial setup, but in the future, we can have this as a annual thing that we present to the program directors.
+What was the program admin that says it's time for your annual audit of your program. Can you go through this and make sure all of your settings are good?
+So then you're putting it back in their face, a little confirming, all the things that you want is correct. So you're more likely to have everything correct because every year the program coordinators and directors are auditing these things.
+So, um, anyway, so the reason I'm saying this is because the first you don't have to do this immediately, as well as recording it.
+https://www.loom.com/share/69a3d5efecef4b429c89efc819c37229
+success
+Medtrics - 27 January 2022
+And Mike. So for that report that we just did, um, um, for these case law pages, um, two things that we need to adjust there is when we export from this system, um, let me see if I can Um, let's see.
+So, uh, we need to, um, tweak the headers a little bit also. Um, so when we update that task for breaking up the demographics into separate columns, uh, we need to also make sure that these, the headers here, instead of calling a procedure date, we can just a K state procedure time.
+Instead of that, it would be, uh, um, case duration. Okay. Sorry, case time. And then there's the procedure duration in minutes case duration in minutes.
+And there's also a feedback duration in minutes, so we can rename those. And let's also, we also need to do some stats at the bottom where it would be, um, I think you had it, uh, designed for the Eva, uh, the, uh, Xcel report.
+We can probably apply here where there was like a blue header, and then we can have a tally at the bottom here that shows the, um, total number of, uh, cases.
+And then for feedback duration and procedure duration, we can sort of get a feedback duration and case duration, total number of minutes.
+So let's see. Maybe we can do as, um, Or maybe we can even put it on the top somewhere. Cool cases.
+Yeah. Okay. Yeah. So essentially we want to rename this to.
+https://www.loom.com/share/420aabbcf8ae4786bb98223c3c965bcd
+success
+Re: Medtrics - 27 January 2022
+Hey, Mike. So for that cast, we did, you just wrote up where you have the demographics being broken up into separate columns.
+In addition to that, we also would need to do some more cleanup on this report based on today's call. Um, one thing we sh we can try to do is apply that design.
+You have four reports, uh, so it makes it look nicer at the, you had like a blue header and all that.
+So we did in the past for Excel reports and then, um, break up the person's name into first name, last name, so they can sort it if needed and put their role in another column.
+So, first name, last name, role. And then for the, um, for the M um, date column here, we can call it K state instead of procedure, date, case time, and to proceed instead of procedure time, then for duration, let's call it case duration in minutes.
+And then for feedback duration, I would call the feedback duration in minutes. Um, and then for the supervisor, we want to call that a, I think we have it somewhere supervisor, we can call that, um, faculty, and then we also need to add a column called preceptor, or that's a new field we added.
+So supervise, uh, supervisor will be renamed to faculty and also show their role in parentheses and then have another column called preceptor with their name and role in, in parentheses name.
+And then for the seasons are, and then supervisor comments going to be renamed to faculty comments. And once we make those column changes, um, we also want to have a section at the top showing some stats.
+First is a total cases, then total duration, I mean, a case duration total. So that's going to be basically tallying up the, um, case duration column, which is right here and then dividing by 60 to get the, uh, in hours.
+And we can show it to like the second decimal places. And then for the feedback duration in minutes, same thing, we'll show it in hours.
+So this is going to make the report more usable for, um, the faculty.
+https://www.loom.com/share/39bee2adda1f4896aa91219dc81a0355
+success
+Inbox | Medtrics | Intercom - 27 January 2022
+So whenever we have a blog that needs to be written up the process for deciding when to write it up is, uh, based on how critical it is.
+If it's an issue that needs to be solved immediately because it's stopping the client from doing something urgent, then we have to write that good lab issue immediately.
+And whoever's dealing with that support issue can write it up. And if it's something that is non critical, you can simply tag the reply as a bug.
+And then this will go into product board and then it can go through the product or workflow. And you don't have to write it up.
+If it's a bug that you're writing up, the there's a quick links button at the top, right of Intercom. If you don't have the quick links app set up, you can just go to the app store, turn it on.
+And these links will appear. Some of these are outdated, but if you click on the new bug, it will start up a new bug, uh, and get lab, choose the bug template.
+And then you can fill that out. The important things to include here is a video under the screenshot section. You can, um, put a loom video.
+Um, if you can also include a screenshot, if you like, but the little video is important, so that developers know how to get to that bug.
+In that video, you want to show exactly how to recreate the bug. This how to reproduce section is, uh, is good to write, but if you can capture that in a video that's sufficient, then in the spec section want to create a checklist and this checklist should include what needs to be fixed, um, and how to fix.
+And what is the correct solution? Uh, you don't want to just simply describe what is wrong, because then the developers have to figure out what needs, what to do about it.
+So if something is, if a button is in the wrong position, like let's say in the left side of the screen, instead of right, don't simply say, what is on the left side of the screen?
+You want to say move button to the right side of the screen. Um, and then maybe even have a little screenshot or, um, a mock-up of it if necessary.
+And then you can also include the Intercom URL from here so that when this is released, David can include this URL in the release notes so that you know, that it's, uh, it's, uh, out and you can test it and confirm with the client.
+So once you fill this form out, actually, um, at the top, there's also an important section here, naming of these, uh, bugs.
+You want to include the module name, so such as Cases, the module or the portal that affects in institutional admin or personal portal, then the actual page.
+So if it's in the case, log cases, module logs, page, and the logs tab, and then write down what the issue is.
+And I'm going to copy this.
+https://www.loom.com/share/19267198315e46309a6bd5cc4f00201e
+success
+Medtrics - 25 January 2022
+So this particular task is the third, uh, out of the case logs one. And for this one where we're trying to do is give course directors the ability to view case logs.
+And what we want to do is under the curriculum, we have course directors being added to a course like family medicine.
+And then we have students being attached to that particular, um, particular core course. And what we want to do is if, so if a group of students have been added to a course, the course directors, we can add it permission here that says, allow course directors to view case logs, um, for students in their course.
+And when that's turned on, the course, directors will see something like this, where they open up on their personal portal cases and then a review logs page, and that'll show similar to the admin portal it page, where they can select one of the trainees that are in their, in their course and see the logs data.
+And they'll be able to export it to Excel and PDF. Um, based on the previous task we're talking about.
+https://www.loom.com/share/fa2daaba9e65466ba6f32da36d076d4c
+success
+Medtrics - 25 January 2022
+And Mike. So the second task is for the case logs logs page. If I'm in the system and I have access to the program, admin portal under the, under the logs page, um, if I search for something, I'll get a bunch of results here.
+What we have here is a way to download this to a PDF and it looks okay, but what we also need is a way to download an Excel.
+So adding an Excel file here, a button here. So if I click that it'll export whatever results I got and we can, we want to specify to the developers that they should use the same endpoint as the, what we're using for the log download.
+So it will be an export that resembles exactly what we have on the log of download, but it's only for the results that we have, um, pulled up on that page.
+So that's on the program admin portal, but in addition to that, um, in the personal portals, we have the ability for site administrators and medical students to be able to run, uh, uh, see that same page.
+So if I log in as a, um, Bonnie here and I go to the cases page, we'll have, uh, a export page here and I can search and it gives me results here.
+And, um, Bonnie hasn't logged anything. So it's log something here. Okay. Bonnie can do anything here. So you can see a coal has these reports and it, well, Actually it looks like we do have an export functionality already for the, the student and resident portals or shooting portals.
+And what we can do is basically tell the developers to copy this functionality to the admin portal. Um, so if the admin is looking at it, we have a download button as PDF as Excel, and it'll show an export like this.
+And like we did in the last task, um, it'll be broken up these demographics and broken up into separate columns, but that's already, we handled on the other tasks.
+Um, so all we're doing in this particular one is pointing them to the, um, trainee portal and sewing how the, there is a download to PDF and Excel here.
+And we want the same, uh, download to Excel added to the admin portal, um, so that they can export it from there.
+https://www.loom.com/share/7acdab353c304d328f2eee48571796a8
+success
+Medtrics - 25 January 2022
+So this second task is for again, for the logs download report. And right now we can run this report from here.
+But what we want to do is on the logs page. If I am, um, coming here and I do a search and I get a result, um, let's pick something maybe that has a results.
+https://www.loom.com/share/4a87f540e21b4f808f603cc19fef853f
+success
+Medtrics - 25 January 2022
+So Mike, in this video, we'll take a look at the first, um, task, which is going to be on the cases, log, download logs page, want to select criteria.
+And then if I choose one or more residents or select individuals and select a date range, it'll generate a spreadsheet.
+Let's do this, delete a school of medicine, select all to like this download CSV. And if I open this up, it will show a column at the end called demographics.
+And what we want to do is instead of having one column called demographics, we want to have separate columns for each of the sub, uh, custom questions that are in, in cost in this section here.
+So if we have multiple custom questions, each of those questions we'll have a separate column and then it'll have the responses.
+And that's all. If I open this up here, you'll see right now we put all of that into a demographics column.
+We're getting set up demographics. We'll have each custom question listed out along the top, and then the responses for those, um, under, under that.
+So you can see an example here. This was, um, medications and there's someone chose sugar. So instead of showing it in here, it would have a column called medications.
+And then in that cell for that user would say sugar. So that's the first task, basically breaking this up into separate columns based on the custom questions that are created for that program.
+https://www.loom.com/share/162200cbc27845c48e01b1854b13cdb1
+success
+Medtrics - 25 January 2022
+And Mike. So for these three tasks, um, under reports, we have a few different, uh, case log reports here. The main thing that we want to work on is this, um, case log downloads a report.
+And what we want to do is under the curriculum functionality. So under Cordic alum set up curriculum permissions here, um, we want to add another checkbox here that says, allow course directors to, um, I love course directors to view case log data.
+Um, and then, then, um, explain that if that is turned on the case log data for students that are in groups linked to that course will be available, um, to that course director.
+So for example, if we have family medicine here, the course director is Perry Cox. And I go in here and add the PT and mentorship group here.
+And then that means that any students that are part of the PTA membership, their logs data will be viewable by Perry Cox in his personal portal.
+So if this is set up and under curriculum permissions director, we have an option that says a law course directors to view, um, case data.
+Then we will have a, um, we will have the reports page appear in the, um, personal portal. And that reports page will show the logs, um, download.
+And also on the case logs logs page, they'll be able to see the case logs for all the students.
+https://www.loom.com/share/ad81acdc98e54ce79a8528a186e77781
+success
+Case Logs – Figma - 24 January 2022
+Hi guys. So for this particular task, it's a few different UI updates. And this came out of, uh, two meetings we had with the client today.
+And most of the updates that we changed, we did a very excited by and looking forward to, uh, getting the students on there.
+But there are a few things that we need to address before they go live. And I try to put all of them in one issue since we want to avoid merge conflicts, given the short timeframe, but if appropriate, you can split them up.
+So I'm going to start with the student portal here. So currently we have, this is a screenshot from the current, the current, uh, client's database.
+And if I go into metrics here, I'm going to go into the staging server And use acute care here. And on this acute care, we can see under cases.
+There's a lot of custom questions they created. And on the template, if I edit this, you'll see that they have added those custom questions to the form, and they gave it as custom question name with questions underneath that section name, then question underneath that there's also fields that they have enabled at the top.
+So what we are doing now is, um, uh, making some tweaks so that the way that the fields appear on the student's side, it looks more natural.
+When a student, when a new person is entering it. So it's more intuitive. So if we look at my design here, first thing is number one, we have multiple, um, we have columns here where there are four fields here, three fields here.
+Some of these fields have long texts in there. So procedures and diagnosis names, they can be pretty long. So to make room for that, it will, let's switch to a two fields parole and use it at a grid that supports that instead of four.
+And instead of three here, it'll be two, a uniform. Um, every row has two fields and that gives it more room on the screen to fit more texts when they're, uh, longer texts, uh, in those drop-downs.
+Then we have this, uh, rotation field that we recently added. We're going to rename that to my scheduled rotation. So it's indicating what rotation that they're scheduled to, and also show this bootstrap alert here that says, please select a date to view schedule information here, um, so that they know that they have to select a date before they can see the information.
+And as soon as they select the date, it'll the bootstrap alert would disappear. And it just showed the information that we show.
+Now, then we're going to rename this supervisor field to faculty. So currently supervisor, I'm going to rename that to faculty.
+Then the primary and diagnosis fields. Currently, they appear at the top of the page, under patient info. Instead of that, let's give that a specific diagnosis section.
+So we have managed diagnosis, primary diagnosis, secondary diagnosis. If these two fields are enabled, we'll show the diagnosis section with the primary diagnosis, secondary diagnosis.
+If they're not enabled we'll, we won't show it this section at all, same thing with procedures. If the procedure section is enabled, then it will show the procedures performed section with those in here.
+And then at the bottom, any of the custom sections that they created, we'll show them in a separate card like this.
+So if I go down here, you have a custom section called patient information, and that would appear under patient information.
+Same thing with visit details right here. And it's going to show up under separate card here and then additional details at the bottom for the notes.
+One field that's also getting updated here is the feedback duration. Normally you would have shown up the bottom here, but instead we can show that in the case detail section going forward.
+So if the feedback duration field is enabled, it will do two things. One is that it would appear in the case details section.
+And it would also be a dropdown similar to case duration where we show increments of 10. So you can look at the way that this field is created right now, where it shows you a dropdown with, um, up to one 20 where it's increments of 10.
+So those are the updates that we're doing to the student portal here. And then on the list view of the student portal, we currently call this column supervisor gonna rename that to faculty.
+Then the next section is preceptor and faculty view. So if you pull down the staging server here, you can actually log in as acute faculty test or a good preceptor test, and you'll be able to review, um, the necessary information and see what the client is seeing if you want, if you'd like to.
+But the idea here is that we're going to update this model when they're reviewing a case to include, um, the section of the top bolt for the preceptor and faculty models.
+We're going to call it review case at the top of your case with the template name and for both of these preceptor review and faculty view, we're going to show the student faculty and preceptor information at the top.
+So we are currently at the top. If I'm looking at it as a faculty, I don't see the preceptor information at the top.
+https://www.loom.com/share/ab225ec7900a4b14a456f013b78dee5b
+success
+Medtrics - 21 January 2022
+So the idea here is, um, we can update this layout, the design, um, to match our newer reporting functionality. So for example, if we look at the events report that we recently updated, you can see the newer design.
+And then, um, we have the ability to select people here and these people selection dropdowns should be updated to include all users that are part of that program, including anybody that's inactive, um, and it can include, uh, um, the, it can, it can including inactive users and then we can put a little sign next to it in italics that says inactive.
+Um, and we can also, um, make it so that We are using, um, Let me see. It's not going to work.
+So, um, essentially we can use, um, uh, this dropdown and we can show all users that are affiliated with that program, um, that are inactive or active or inactive.
+And with next to their name, we can show in italics, whether if they're inactive, if they're active, it doesn't need to say anything.
+Um, and this, this way we're showing, uh, both the, uh, trainees as well as any faculty members. Um, and that can select more than one user if they want to.
+So key things are, um, all users indicate, um, whether they're act inactive and then allow for multi selection, if they want to do that.
+And we're going to apply that to this report, the case log download import first. Um, and then once that's done, we can see if we want to do it for other reports.
+https://www.loom.com/share/645a2ccee4b3400eb0b5f45cefa26891
+success
+Loom | Free Screen & Video Recording Software - 21 January 2022
+Area. So for that email that you received with the, um, quotes from accessibility, um, here's a draft of the email that you can send back.
+And I rather have you get into this habit of, uh, or build up the skills to have these kinds of discussions.
+So I'm going to explain what I'm thinking here. So she sent over, let's pull this up. Okay. So sh she sent over these numbers, but unless I'm missing something, it doesn't really indicate whether these are annual rates or monthly rates, because that's a huge difference.
+Um, so first thing I did here is thank her for the information she introduced someone in the email. So it's always good to say hi to them also.
+So great to meet you via email. And then we had a few questions about the pricing, are these monthly or annual rates, and then she's asking us for page counts.
+So the assumption here is that we have to first define which plot plan size we fit into and then number of domains to calculate the rate.
+So if we there's, what I explained here is that, how do you want us to do that? Do we want to look at the total number of unique templates that we have in Django and then calculate a number of, uh, pages because that's who, if we try to do it based on a client, it's very difficult to do that because we may have, uh, lots of user created content that we can really factor in.
+And that changes throughout the year, depending on how much they're using the system. So I explained that here, and I'm hoping that they will come back to us and say, calculate the number of unique pages based on like the templates that we have.
+And then we would come up with an S I think we would probably fall under, um, the standard. And we look at the unique pages and then it would be four 90.
+Uh, and I think this is going to be probably annual rate. So four 90 per year for MSU is what I'm thinking is the number's going to be, but let's send that over to them.
+And then we'll see what they say.
+https://www.loom.com/share/bd87074b393f4333b214328bed8c6d54
+success
+Chamberlain Next Steps - 1/20 - Google Slides - 21 January 2022
+Hey, Maria. So the, um, this, this document, I, I really, uh, wanted to say that this is, this is not what I saw last night and in terms of just a screenshot of it and see the percentage, I didn't really, um, see that it, how it was getting calculated and the fact that we have this, and you said you're working on something else.
+I did want to give you some feedback on how to incorporate more of the UAT into this. Um, the first thing is the user acceptance testing should not be focused on the development tasks.
+That should not be the focus of it because that's sort of telling them that we don't have things that they user needs.
+Instead we need to, um, we don't, we need to focus on the actual UAT checklist and start creating a standardized checklist that they're going through when they're, when they're approaching the end of the implementation.
+So for example, like for, um, St James, we're doing the clinical implementation at the end of that, it should be a checklist that they can go through and confirm that everything is working.
+The, that spreadsheet that Chamberlain is using is a good starting point. If we could take out all the elements from there that is not specific to Chamberlain, um, such as like login and log a case and confirm that all the fields are in there, and those could be different checklists that they're marking office completed.
+So this document that you're creating, we can actually share with them and have them updated in real time on a Google doc, as they're testing it.
+And then your spreadsheet can be updated in real time from what they've walked off as complete. And at the bottom of that, we can also have a few items that are development related, and that will capture anything that is specific for development, but the actual UAT progress should be based on the checklist items that they're testing as functionality that users attesting, that the features are configured the way that it should be.
+So that will then change this in a way that every, at the end of every meeting, they're seeing a percentage of the features that are configured and ready to use.
+And then a small percentage of that would be anything that specific to them that we are agreed to do custom development for, but ultimately in a few months, a year, there should be almost no development because we have all the features that they need.
+So I think if we can merge what you have with the UAT checklist that an institution is using or manually testing, that will be amazing.
+https://www.loom.com/share/8bd7305739ca40acad597428698e842e
+success
+Chamberlain Next Steps - 1/20 - Google Sheets - 21 January 2022
+Emory. So the one or two go through this, uh, and, um, uh, this new template and give you some thoughts on how to incorporate some other ideas for future implementation.
+The, I really liked this, uh, this structure here, the fact that it's pulling from another thing that automatically calculates, um, the, the main thing that we want to keep highlighted here is the full UAT.
+So I was thinking that we can, um, take that UAT, that it would be useful for us to, um, create a standardized UAT document.
+So if we're doing a clerkship implementation, there are certain things that we want them to test at the end of it.
+And certain things that they need to confirm that everything's working, because we started developing some of these UAT tests internally.
+And that's what we provided to Chamberlain that they started using. Um, it's also customized to their specific forms and stuff, but if we look at that spreadsheet and we built, um, the original data source for this to incorporate the UAT items that are supposed to be manually tested and have the development items also in there this way, this can just be UAT progress like that.
+And it can capture both the manual testing stuff, as well as the development cause it's supposed to be user acceptance.
+https://www.loom.com/share/465557def5b449418730bfa778f70037
+success
+Kaiser Permanente - Internal Medicine - Oakland - PGY 1 (6/24/21-6/23/22) - 20 January 2022
+Hey. So for this, a bug that we have, um, with Iris supported by a client where if we run a report, let's say if I do this from 12, 9, 1, 2001 to 1231, 2021, and this 12 31, 20 21 is the end of the fiscal year.
+And I look, I run the gaps in schedule report, and I ran it, ran it for internal medicine, Oakland. If we take a look at this user here, um, here, you can see, it's saying there's a gap from 1231 till 1230.
+So it's showing it backwards. It's supposed to show it correctly from, uh, if it was true, it would have been, it should have been correctly, uh, shown as a 12 30, 12 31, but this is not correct.
+Anyway. So if I look at the actual data, you can see that for Brianna, she's scheduled to allergy, um, from sorry, wards from December 17 through December 30th and then allergy from December 31st to January 6th.
+So this is not true. And in addition to that, um, for some reason, all of these are showing up backwards.
+Um, so I believe it has something to do with the, uh, uh, the end of the fiscal year, maybe happening at the same time that they're changing rotations.
+So if we go to Tracy here, um, she has the same thing. She's ending the elective here on December 30th and they started the new one here.
+So maybe it has something to do with the fact that the fiscal year is ending at the same time as the rotation ending.
+https://www.loom.com/share/dc665d6bc27c4940bf58ae5ab3d8a510
+success
+Medtrics - 20 January 2022
+Hey, Mike, this is, Hey Mike, this is a task that's also pending. I wanted to hand to you. Um, recently you did a permission update to the course directors, where they can view evaluations of students that are in their courses.
+This is going to be an expansion of that, where we're going to add the evaluation summary report. Um, this first report on the personal portal, under evaluations, which become a expand expandable, um, menu, and the reports will have evaluation summary, but key thing here is we're not going to show everything all the, all the assignments would only be able to, they would only be able to view evaluations off anyone they have permissions to view.
+So if you have Perry Cox added as, um, director for cardiovascular, if there's, you know, 200 students that are added into a group and put into the cardiovascular course, and the permission to view evaluations is turned on, which is that task that you did recently then under their personal portal, under evaluations, that reports, they would be able to run reports for that.
+So essentially what we are adding there is a reports page with this first tab evaluation summary report, and then letting them let the developers know in that specs, that they would only be able to run reports on individuals that are part of that course, um, or rotation based on what group has been added to that quarter rotation.
+https://www.loom.com/share/3cc2acfc4b1a460a944d34bd63557d8f
+success
+Medtrics - 20 January 2022
+Hey, Mike. So this is a pending task that we need to put up. Um, the way that we currently do evaluation reports is, um, you can do it on the admin portal and run reports for people that have admin access.
+But we need to do is in the curriculum. We have courses in rotations and we're linking a bunch of students to these courses and rotations using groups.
+So we put a bunch of students into it and say, they're going to be part of the, um, the family medicine depart.
+Um, uh, they have a new county medicine rotation. They have to do internal medicine. And these course directors era that are in the system, we'll also need to run reports on these students.
+So what we want to do is take the reports, evaluation summary report, and make it available on the personal portal.
+And it will be under, um, evaluations and then reports. And under the evaluation reports, they will have the, uh, evaluation summary report for now, um, and evaluate evaluation summary report.
+We'll, uh, we'll have permissions on it so that if I'm running a report, um, and I select date range, select the form, I would have the options to do filtering and all that stuff that we currently do, but it would only be for the individuals that have permissions to view.
+So if I'm a course director, I have this view and I would only be able to run reports on the, either myself, the evaluations that were submitted on me, that I have permissions to view, um, or for users that are in my, uh, added as a group into the courses that I'm course director for.
+Uh, so Perry Cox is course director for, um, let's say for cardiovascular here, any group of students that are added here, um, he'll be able to run reports on.
+So that's um, so what we want to do is the, um, added, add the design for on the personal portal.
+Under evaluations reports as a sub sub menu on the reports phase, have the evaluation summary report, explain how the course directors will have permissions to view reports for evaluations, for any students that are LinkedIn groups or any users that are linked as groups.
+Um, any students that are LinkedIn, who's not any users. And then, um, have also be able to run, um, um, reports on, sorry, not the reports that we need to also have a permission that we can turn on.
+So under curriculum permissions, director permissions, we can have a checkbox that allow course directors to view evaluations, um, running a view, evaluate, uh,
+https://www.loom.com/share/b8d7f4da6bed47be98ef789bc4223e23
+success
+Medtrics - 19 January 2022
+And my quick explanation on this. So the Irish database is something that pulls in information from all the different schedules in metrics and generates a separate table in the database for, um, building these reports for a reimbursement from the government.
+So the each fiscal year, which is different than the academic year, they have to generate a report and send it to the federal government and get reimbursed for all the training that this happened during that year.
+This all regenerated, all data will pull the schedules for every single resident and fellow at that organization that worked during this timeframe.
+Um, if you do it by site, you would allow you to select a specific site and look at the schedules that are linked to that site.
+So if there's a rotation that's linked to that site, it will put all the schedules and pull that. So this is a faster way to regenerate specific areas of the Iris, uh, but in a large organization like Kaiser, if they triggered the all button, it will pull everything again.
+So we, from a UX perspective, we should get rid of this all option and replace this with a, uh, a multi-select where they can select a few of the, um, sites and same thing here, select a few of the programs and regenerate for that this way, having this all off, they want to do all, they can always click this button, but otherwise it's something that they're going to accidentally hit and then may have to wait a long time.
+In this case, it may be a bug because it shouldn't take hours for that. Uh, but, um, sometime, um, in the next a week or two, we can add a task to change this interview tree select where they can select multiple.
+And then from both of these, we can remove the all option because if they want to do all, they should do this.
+https://www.loom.com/share/da2fd61302334c438c28f7b86095eb90
+success
+Student Portal
+So in this video, we'll take a look at the personal, uh, the portals for medical students and some of the core functionality that they have, they have access to.
+So as a medical student at a university, when I log into the platform, I have different tasks that I have to complete.
+And I am also being informed about different things, uh, regarding my education. So right on the dashboard here, we have different announcements that has been shared with me, uh, from my organization.
+And also from here, I can see any evaluations that I have to complete, uh, statistics on anything that I have completed in the past, if there are any.
+And then I can always go to my profile to review my basic information and see any documents that have been added by my school here.
+I can also set up a signature if I need to set up a signature for signing my, um, evaluations or other paperwork.
+If I have any academic documents that I have to load into the system, um, so that I can store it in one central place, then I can do so.
+Um, on my personal document section, I can add any document I want and have it organized in one place. Then the other mate, a major functionality for students is being able to see a calendar that shows where I'm supposed to be working.
+So my calendar here is telling me different, uh, um, hospitals or different settings that I'm supposed to be working at.
+And right now this is showing me it continuous. So, um, assignment that I have at a specific hospital for OB GYN, but sometimes I may also see events that are happening where I can, I'll be covering a clinic for half a day, or if I have a lecture that I have to attend, those items appear here, I can toggle between the week view and the month view.
+And then I can also sync with an external calendar here by clicking on here, copying and pasting this URL into my Google, apple or Microsoft calendar as part of some of my, um, clinical rotations, uh, courses that I complete, I need to log cases.
+So these cases allow me to, um, keep track of all the, um, patients that I saw. So I can come in here, click a new case and then fill out a form that captures that patient's information and put that into my record as a type of patient that I've seen.
+Um, I can also export my data from metrics and then even see, um, statistics on how I have, um, met the requirements that I have.
+So if I, if my school tells me that I have to meet certain number of these cases, um, metrics keeps track of whether or not they met those mate, uh, minimum requirements and market is complete.
+Another important part of my workflow is evaluations, and I can see, um, evaluations that were completed by my faculty members on me.
+So if I go to the system and open up a form, I can see what a faculty wrote about me and how I am performing in a specific, uh, training program.
+So in this case, this preceptor evaluated me and when I was working on the pediatric rotation and this is how they graded me.
+And then the, the evaluations page also allows me to complete evaluations on other individuals. So these are some of the forms that I submitted, um, on faculty or, uh, or courses that I was parked.
+I was in, um, this toggle up here allows me to switch between what's incomplete and what's completed, and then make sure that they're all done on time.
+If I need to, I can also download them to a PDF. And so those are the, the core functionality of the medical student, uh, portal.
+There are other modules, but these are the main things that a student needs to be aware of when they start using that.
+https://www.loom.com/share/255d26c6837b46308d00d3b471b74b16
+success
+Medtrics - 18 January 2022
+Hey, Mike. So this is an email that came in from, um, Kevin and they had some usability issues related to the evaluation summary report.
+And we can make some tweaks here to improve this. So the first thing is, for course evaluations, if I go to, um, you have to go to a school of medicine here, I go to values in summary and click load assignments.
+You have a course evaluation so I can choose that form. But when I come down here, if I choose course it will run the report for all courses.
+Um, while we want to do is give them a way to select evaluate tours, just like we can set up an evaluator.
+We want them to click on this and be able to select a, a course so they can run it for one or more courses instead of the, all the courses in the system, which becomes overwhelming.
+The thing to note about courses is also each course is linked to an academic period. So we will need to give them a way to select an academic period and then select one or more courses within that.
+So the best, the way that I can think of handling that is we borrow the design from evaluation templates. So if I go to core, see Val assignment rules and which courses you want to include.
+So we give them an inter a similar to basically copy this interface so they can select all or, um, some and also switch the academic period.
+So that's where the core. So when I click on this, it would up here under here. The other updates that they're looking for is when a PDF that we asked them to when they asked the system to send them PDFs, um, it will send them a PDF with all the same names like evaluation, summary report or something like that.
+Some generic name, what we need to do is be more intelligent with those email PDF names and could be more descriptive, of course, selected the name of the course by the title, faculty Val's and name of the faculty.
+Um, so essentially if they, if they, um, well, we want to do is if they sell, if they don't select any grouping, it would be based on, um, whatever the standard name we currently have.
+But if they select a grouping and they choose to have it separated into separate PDFs for each group, we would use the different group to name them.
+So if I choose to group, by course, then each of the file names would have the course name as part of that.
+Um, same thing with like Jews by evaluator. Then it would show us, include the evaluators name as part of that.
+And this is for the emails that I've emailed you, the PDF that I sent to them via email, Let's see, We'll have it generated and sent to me and we'll see what the file name is.
+So that's for the second thing. Third thing is multi-select. So for the evaluate Tor and evaluate T fields here, if we show a list of the users, but this list can be ridiculously long.
+If you're dealing with a place like Ross, where they have thousands of users. So instead of having these types of fields, it is better.
+If we use the evaluate turn evaluates, he feels like we have on the assignment rules page, where they can expand and collapse and it'll show actually the best one is from the manually assigned page.
+So if I choose, Actually I take that back. So it's a, we could use it similar to these, but with the ability to multi-select.
+So this would have a little box in it, and each of these would have a box in it, so I can select multiple trainees here or I can select all .
+So that's for The evaluate and evaluate tour fields. Essentially, we replaced this with, um, one of those multi-select options. So it's going to be the same fields that the evaluations assignments page, but with the option to select more than one.
+https://www.loom.com/share/628b5843ebd64726aa093f3332044bb3
+success
+New Issue · Medtrics Lab / Medtrics · GitLab - 18 January 2022
+So for this new functionality we're adding, it'll be added to the logs page and cases. And for the locks page under table, we're going to add a second tab for results that are shown, um, went into administrator or anybody that has access to the logs page, uh, looks up case logs.
+So either an admin or a specific individual with the ability to view the logs page from the personal portal comes in here, they will search for submitted results.
+And what we're going to do is add a second tab so that if I'm looking at a results here, it allows me to see individual submissions.
+But the second tab will allow me to see aggregate data on the custom questions that have been included on those logs.
+So the client is creating a set of custom questions here, and when the students submit those results, we want to be able to see aggregate data on those custom questions.
+This is what that looks like. Submitted logs will show everything as is statistics tab will show the custom questions. There are three different types of custom questions.
+There are multiple choice checklists and text questions. And what we're doing is I'm showing all of it in a format that is similar to our evaluation summary report.
+And we don't have to worry about the PDF for now. It will be simply showing this in a printable format if they want to print it.
+And it's going to show all the multiple choice questions, total responses, percentages. Again, these totals and percentages are based on what they pulled up.
+So they're going to use the filters at the top to pull up a bunch of results. When they click on the statistics tab, they're showing the same aggregate data for the logs that were pulled up on the first tab.
+Um, it's not for everything in the system it's specifically for what was pulled up on that tab. And, uh, we also need to make sure that this is something that will work with a large amount of data.
+Um, so if it's something they will, um, that'll work with a lot of submissions, um, could we have several hundred to a few thousand logs that are being pulled up and that'll, it'll work on the statistics tab.
+If it becomes a speed issue, then, uh, we may need to consider adding a way to, um, have this email to them once the, uh, um, like if, if there, if more than X number of logs are pulled up, then we made, when they go to switch to the statistics tab, we may need to have a way to have that report email to them.
+Um, but for now the, we w we want to focus on the interface And making sure that we can get the data there.
+Um, but this particular client is not going to have a lot of beta initially. So if we can do the email option as a follow-up task, if necessary.
+https://www.loom.com/share/817c87cd9a8a47f384f6fde98e406d7f
+success
+New Issue · Medtrics Lab / Medtrics · GitLab - 18 January 2022
+They will see a new report under the social results. So if I go in here and I apply a bunch of filters and I click search, I'll get results at the bottom and are right now, these results can only be viewed one at one at a time, or I can download it and see a table, but I can't see any reporting data, meaning like aggregate data.
+So what we're going to add here is a second tab. So for any results I pull up, I can switch to the second tab and see aggregate data.
+And this aggregate data is going to look like a very similar to the evaluation summary report, where we show the, uh, the field, the options, the total responses, along with the percentage.
+So we have, this is what it looks like for a checklist, sorry, multiple choice checklist and text question. And the fields that we want to include are the standard fields.
+Sorry, let's go to case logs templates. And if I edit one of these templates, we have standard fields that are, they can be turned on.
+So we want to include these fields on there as a report for things like, um, um, actually let me be more specific here.
+We want to do all of the fields here, except for, except for M date. We don't need to show the case.
+Um, yeah.
+https://www.loom.com/share/69aea4ed5c13471a9fd2e2af1879384f
+success
+Medtrics - 9 January 2022
+And Mike, so this functionality is for giving global PR uh, permissions to view the schedules to specific individuals. So currently we have block schedules and shift schedules as the two types of schedules that can be created for a department in the, uh, uh, for clinical schedules.
+And for each of those, we could go in there and we can give specific individuals, permissions, um, curriculum, schedule, administrators, I can give a block schedule.
+So I added, I added this particular schedule called effective date, and then I can select an individual and this individual will be able to view and edit this schedule.
+I can do the same thing for shift schedules. I can edit one of these schedules and then set up admin users and they can view and edit the schedule.
+But what we don't have is a global permission that says these individuals should be able to view or edit view or, um, and, or edit all block schedules and all shifts schedules that are part of a department.
+And if someone is hired as a chief resident or, or a schedule administrator, they don't want to be going in there and specifying for every single schedule, who's going to be able to edit it because that can lead to a lot of manual errors.
+So we want to have a global setting that, that applies for all schedules that are part of the department. So what we can do is put that, um, in school of medicine, you're going to see an extra menu item here, system set up permissions, and here, what we want to do is, um, be able to select an individual.
+And then we're going to add another check box at the bottom that says, um, similar to this first one here says calendar administrator, we'll say block schedule administrator, and then another one called shift schedule administrator.
+And if that's turned on this individual will be able to, um, we'll be, may, we'll be able to, um, should we, should we, we should do two things.
+One actually, um, it'll be a block block schedule and block schedule administrator shift schedule administrator, and inside each of that, we can have a specific, uh, uh, checkbox for view permissions and then edit permissions.
+If you click edit permissions view should automatically be given. So for both shift and for block Schedule, we'll have view and edit permissions.
+And if that's turned on, they'll be able to view and or edit the schedules that are created in there in this department on their personal portal.
+So this we're dealing with people that do not have admin privileges, and we're giving them the ability to manage schedules for our department.
+https://www.loom.com/share/b210f5d23d22456785bc0b5813ff7a81
+success
+Schedules
+So let's take a look at this, a spreadsheet I'm sending over the spreadsheet, this video. And, uh, another document that I created that may, um, it was just my attempt to try to put some of these constraints together.
+Um, so the first thing is we have, this is a schedule, uh, business rules for a veterinary school. And then we first gonna have this mandatory and elective classes.
+So think of rotations as classes and each class, uh, and the mandatory students have to complete each of them. So each of the, each unique one.
+So if they're bovine, they have to complete the requirements of bovine. And if you see here, the students have to complete once to complete this lab.
+So within the, these are the weeks that are offered, it is offered. These are the days of the week that it's offered.
+And this is the minimum number of students, maximum number of students, if you're less than a minimum number of students, they don't, they won't be this, this, uh, this session would not happen so of the week to Monday, they only have 10 students, it would not happen.
+So it's happens when there's a minimum and they can support up to a maximum number of students, sometimes the courses or classes that are offered in different patterns.
+Um, so in this case you have the communications class being offered Monday, Thursday, and, um, Thursday here. So it's, it's different.
+Um, four weeks, one through seven and four weeks, nine through 12 versus week eight. But the key thing here is the students don't have to complete both communications courses.
+They would just, each student has to complete one of them. They would just need to be placed into one of these sessions because the requirement is for them to attend at least one, sometimes some of these, there are different constraints.
+So in this one, the students must attend an entire week to complete this class. So emergency is offered Monday through Friday and then offered weeks one through 13.
+So if they're scheduled to the Monday, they would automatically schedule two Mondays to three Monday, Tuesday, Wednesday, Thursday, Friday. Um, and that's for that one, for some of them, you had to attend both days of the same week.
+So for equine, if it's offered two days, if a student is scheduled to the Monday, they also have to be scheduled to the Thursday.
+Another constraint is sometimes the students need to be scheduled in pairs or threes. So students will be asked to create a group.
+And if they're in a same group with somebody else, that those two students will have to be scheduled together throughout the, um, required coursework.
+So if they have to do it two times a week and every other week, um, those students in those groups will always be scheduled together like John and Sally will be in the same group, um, throughout the entire set semester.
+And, uh, that's how it needs to be structured. There's some more complex rules here, whether something needs to be done.
+Um, like the physical class needs to be done in 2010 to 21 days before the surgery one. So that's, so there are constraints where if you've been scheduled to something, the next assignment can only happen after certain number of days, um, or a certain number of sessions.
+So I think that's something that we need to discuss a little bit more detail, so we can skip that for now, as for the electives, each student will submit a preference list to the school, and then the school will put that into the optimizer and we have to make match up Stu um, two electives per student and try to maximize their preferences.
+And each of these intro courses cannot be scheduled with any of the, Okay. Yeah. So maximum of one intro to clinics rotation per week.
+So if this, although these mandatory ones are in to clinic, these are not mandatory and they need to be able to match, uh, put them into, into, uh, a schedule so that you don't have more than one of these intro classes happening in the same week.
+And then there's a few other constraint. Uh, each student must be need to reschedule once per week. The entire classes are gonna be scheduled here, divide them into some.
+So this, this can be a combination of some manual assignments. And then, um, rest of pre-filling some of these courses, for example, if they need to be the entire class, we can pre-fill that in, before we send it to the optimizer, this one, you have to be scheduling in groups of three and they have to be together for those throughout the semester.
+And the trio groups will have to have one week off during the three week rotation. So minimum of 14 days between one assignment to the next.
+So if they're scheduled to a surgery, um, assignment, they're going to be assigned in groups of three and then they would have a week off and then they would have the next surgery assignment.
+Um, Well, get you more details on the surgery, one, uh, separately. Um, you can read through it to see if it makes sense.
+We have a follow-up discussion with the client to get some more clarification on these. Um, but I think they should give you a big picture idea of how those constraints have to be created.
+And then based on one of, some of the things that Sam sent over, I created a, this document kind of, um, putting some of these things into a document that outlines what we maybe we may need to create.
+So this may or may not be helpful. I just found the province very interesting. So I was just trying to spend a couple hours just writing it out and maybe completely useless.
+https://www.loom.com/share/e28466e64bd04dbbb7bdfb35d55504d6
+success
+Sample of Sem 7 for Optimization (September 2020).xlsx - Google Sheets - 7 January 2022
+Hey Sohn. So wanted to send over a few things. Uh, first thing is this document in this is going to be in a folder with a couple of files, and it is a document that was sent over to our us from our client.
+And I'll quickly explain how it is structured. So we have some mandatory rotations which will, we can just call it courses.
+And then for each of these courses, they are offered certain days and times. So in this bovine course, you have happening weeks two through seven, seven through 12, and each of those weeks it's offered on a Monday.
+And you can see that it has start time and end time. Then for the next one, it's offered these days also on a Monday.
+Then if you look at, let's say equine, this is offered Monday on Thursday, along these days, uh, these a weeks.
+And it also shows the start time and end time. Um, and there, some of these courses have two separate patterns.
+So for example, for equine, the first pattern is it's offered a Monday and Thursday. And then the second pattern is, is offered Monday and Wednesday.
+Another one is offered Tuesday and Thursday. And on the right side of the note section, it tells us how they should be scheduled.
+So for the first row, it's saying that student must attend once to complete this lab. So this is a mandatory rotation, but the student has to complete one Monday out of all of the possible Mondays to have completed this course.
+Then we have, um, must students must attend an entire week to complete this Monday through Monday. So in this particular example, number six, they would, the courses, um, classes offered all 13 weeks and they have to complete, um, a Monday through, um, Monday to have that complete.
+If they're assigned to a Monday, then they have to be assigned Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. Um, and then the next student will come on the following Monday.
+So that's how this particular one is assigned. And then for the next one, student must attend both days of the same week to complete this.
+So in this case, if a student is scheduled to week two, they would have to assign complete the Monday and Thursday to have completed this course.
+They don't have to do it every week. They just have to do any one of the Monday, um, Thursday, um, schedule.
+And then since these three are the same course, um, another student may complete the course by doing the Monday, Wednesday, a different student may complete it by doing the Tuesday, Thursday.
+So this, um, To this also, so they don't have to take all three. They only have to TA as students only have to be scheduled to one of these three, uh, in order to complete it.
+And another constraint here is that, um, in some scenarios, students will need to be attending in pairs. So they had to be in groups of two to three and all those students have to be scheduled together throughout the entire.
+Um, let's see each Farrow students need to be forming a group and scheduled a total of four times in the same group of pairs two times for physicals and tube times for surgery.
+And they need to be done 10 to 21 days. Um, physical needs to determine days before except for week one, which would be only be, so that's a weird scenario.
+Um, we can get into that one later, a little bit more in a discussion. Um, but the idea here is sometimes the students need to be done in pairs and they have to always be together in those pairs.
+They also have to have sometimes have a gap before the next assignment. So if I'm scheduled to something, then I will need to be scheduled to a, in order before I can be scheduled to the same rotation or same course again, I would have to have a gap.
+https://www.loom.com/share/398d075ca6774481a92c29130b97b49d
+success
+New Issue · Medtrics Lab / Medtrics · GitLab - 18 January 2022
+So for this task, we have a new report that's being added to the case logs page. And essentially how it's going to work is both on the admin portal, as well as the personal portal.
+If someone has access to the logs page with this, um, section, I should be able to search for any of these filters and bring up results.
+And for the results that I bring up, I'm going to have a second tab where I can see a report.
+So the first tab will show the, uh, the results of submitted logs. And the second will show, um, statistics. And basically for any custom question that has been submitted on the logs that I pulled up, it'll show stats.
+This would be a custom, multiple choice question, custom checklist question, and a custom tax question. And we're using the same design as the evaluation summary report.
+Remember that custom questions are created under case law custom questions, and it can be added to the templates. And that's the data that we're using to generate this report.
+And we'll be able to, um, export this to a PDF also, which will follow the same design as the evaluation summary report.
+The one other thing that I wanted to mention is, um, we also, in addition to the custom questions, we also want to include the data from these fields.
+So if any of these fields are submitted, um, we want to include that in the report. The diagnosis is something that we a diagnosis and procedures, and we don't need to include for now.
+Uh, but any fields here, plus the custom fields.
+https://www.loom.com/share/38ff81df15f74be08f97fae298b050f8
+success
+Loom | Free Screen & Video Recording Software - 6 January 2022
+David. So we have a meeting on the calendar ready for tomorrow. So I was hoping we can move the OKR planning to that, but I wanted to send a video, explaining a few things and seeing if you can think about it.
+Um, and the main, uh, one of the main things that I want to have on the OKR for you this quarter is, um, you and I working more closely together on the business side of things, because it's not really going to be scalable for you, especially from a financial is being one of the most important roles in the company for us to not have more direct, uh, um, communication more frequently.
+And also I want to go over on a, like a scheduled basis, different, uh, sales and communication strategies that, um, with clients, so that this is something that you're really getting a deep understanding of.
+Um, otherwise it's going to be really difficult to have a, a chief financial officer role, you know, it's, it is helpful what you've been doing so far with the finance.
+Uh, it's in, uh, if you, if that is your interest and getting more into the business side of things, um, it is right now, it's been mainly been bookkeeping and filling out forms and completing things, which is definitely very helpful.
+I'm not saying it's not, um, it's, but we need to sort of focus some of the energy into mastering the business and having a more intuitive understanding of these negotiations we're having.
+And then, so that you're able to make decisions and help strategize and not simply be providing different spreadsheets and transactions.
+Um, and I want you to be able to make those decisions when it needs to be made. And it, it is, um, I think the only way to do that is to spend enough time working together, um, uh, over extended period of time.
+And like I've been doing with, uh, Chris and David Ward more recently, so that, and you're able to also, um, you know, step away from the development side and then lead the finance side as a, uh, from the strategy perspective and not just the, uh, the bookkeeping perspective.
+So first thing I want to do tomorrow is sorta talk, come up with a plan to do that, and I will commit whatever time necessary to do, make that happen, um, and having some sort of consistent schedule.
+And if you, if you're not interested in, you want to stay focused on the development side, uh, that's fine. Also, I just, for me personally, I just need to know which direction you want to go into.
+Um, but the finance side, it definitely needs, uh, more, um, communication and collaboration than we've been having in the Past.
+Um, otherwise it's it, it's very difficult to do that. And from a development perspective, it's okay. You know, if you're working directly with Chris and figuring out tasks, that's fine.
+Um, if that's the direction you want to go to, um, either way, I'm fine with doing whatever works best for you.
+And tomorrow we can talk through some details. Um, and if, um,
+https://www.loom.com/share/ea52eaae0ea94b288d3af53d4eb5a163
+success
+Medtrics - 18 January 2022
+For the evaluations and case law, sorry, a case logs page where if you are an administrator or anyone that has permissions to view case logs for other students.
+So if you can access the logs page, it could be on the personal portal of the admin portal. Um, we're going to give them the ability to filter the results here and add a second tab.
+So if I pull up search result, I'll have the results as we have it now on the submitted logs page and a second tab that will show statistics, um, on what was submitted.
+So if I go to this design here, you can see on the submitted statistics, uh, page, I can see a report that uses the same design as the evaluation summary report for multiple choice checklists and Texas text questions.
+And this is going to include all of the case, uh, custom questions that are part of the case templates, as well as the questions that are in the enabled fields section here.
+So if any of these fields were submitted as part of the results, um, so when I search and filter here, it'll bring up search results.
+And then on the second tab will show the report for the same data, um, in a, a aggregator report so that they can see how many people responded, uh, to, to the different, uh, options there.
+So to summarize.
+https://www.loom.com/share/afc88c3c40bd46d2bfc7764c3615219f
+success
+Loom | Free Screen & Video Recording Software - 6 January 2022
+So, Hey, David, I'm going to, I'm going to have to, uh, meet tomorrow, uh, for the OKR. Um, I know that I saw that we already have a meeting scheduled for tomorrow so we can meet at that time.
+Uh I'll do, I did want to send you this video to go over a few things. Um, so you can think about, uh, I think about them before the meeting.
+So the first part is, um, I'm trying to, one of the things I want to talk about is what, you know, just to get a general idea of what, um, your plans and interests are, because we haven't been talking on a consistent basis.
+And partly because I haven't maybe been able to join these, uh, um, meetings that we have scheduled every two weeks.
+Um, so I'm, I'm, I've been out of the loop on a few things, so, and, uh, I want to figure out, um, which direction that you're wanting to go into.
+So for example, if you are interested in looking for something else and figuring out a different strategy for yourself, then that's fine.
+And I want to help plan for that. Um, but if, if your long-term plan is to at least in the short term long, you know, next week continue to stay on, uh, is to continue with metrics and getting more into the finance role.
+Um, and the, for me, the more important thing is to spend part of next quarter, working with you to con uh, to have more discussions and an ongoing basis, like multiple times a week, so that you're actually able to help, you know, uh, from a finance perspective, make decisions and strategy because it's chief financial officer role, you know, it has to, it's something that requires more than just the bookkeeping aspect of it that, uh, it's definitely helpful that you've been maintaining the books and filling out the forms, uh, but it's more of the strategy and being able to, um, make decisions and communicate on behalf of the company and, uh, you know, build relationships on behalf of the company assets, you financial officer.
+So if that is, you know, that's, the more in a bookkeeping can be outsourced to anybody, that's going to fill out the spreadsheet and reconcile the books, but the people relationship building aspect of it, and the strategy part of the business, that's the part of the chief financial officer that the company needs.
+And for me to, for me to be able to scale the business so you can decide, uh, I want you to think about what is, what, what you want to do, and if it is to continue building on that, uh, finance aspect of it, uh, planning out the OKR KRS in a way that you and I are working more closely together to, you know, the way that I've been working with, uh, um, Chris or, or David, a ward, so that there's more regular communication and calls.
+Um, so you're mastering the business and learning to make those decisions for yourself, um, instead of, um, um, helping with different pieces, uh, after the decisions have been made.
+So I want to help you do that. And the second thing I wanted to focus on as part of the OKR is helping you also, um, take on more of a leadership role within the team.
+So for example, like, you know, you're doing a lot of work to help the team with different areas. And sometimes when that is delivered to the team, when they slack message, it's not really being heard by everybody and working and having a few meetings with you to figure out strategies, for example, how do we get the health, uh, dashboard more active and, uh, developing a process by which people can provide you with feedback for that.
+And that is a, you know, having a more like a structured meetings for delivering your ideas to them, and then getting feedback for it.
+Uh, the OKR, for example, having a way for you to get those regular updates to you and basically selling your ideas and needs to the team.
+So you're getting what you need as a chief financial officer, to make sure that it's, you're able to do what you're you need to get done.
+And it's, it's not something that I can write in a book or it's in a document. So I wanted to sort of plan out time this water to work through different projects and see how to talk through how to approach it similar to the way that David water and I are doing this externally for sales.
+And then for the last side is development. So regardless, I mean, you, I want you to decide which, which, you know, what you want to do for your future.
+Um, if you want to leave, that's, that's, uh, you know, I have to, I'll support you and then I help you with whatever you need to do to get that accomplished.
+And if you, um, or if you want to stay and you want to do finance that's, I want to meet with you and meet we'll help you build up your experience on the business side.
+And if you, and the third option is, if you don't want to do the finance article, if you want to stay on do purely development, that's also fine.
+Um, but if you're going to be doing it, one of the things that is important is you're not going to be, if you don't want to be full doing full-time development, we definitely need to start looking for someone to take over, um, some of the backend development in the us time zone.
+So.
+https://www.loom.com/share/eed228b91b384496a00ab786bae70795
+success
+Meeting recaps - santhosh@medtricslab.com - Medtrics Lab Mail - 17 January 2022
+we've had a few minutes, a one to review these questions and figured if you get to record a video than to write everything out, first thing is, um, um, for this question in toward to clinics and communications course or anything like that, um, you are correct.
+And I, I don't think I may, maybe I didn't do a good job explaining that in that video it's there it's one course and they have to make the requirements for it just happens to have a different availability on the eighth week.
+So, um, again, this is something that, um, it's also one, another thing that I want to mention is this is a September, 2020, uh, document that we're reviewing.
+And these availabilities may change in 2022. So, but the general, um, format of it is gonna stay the same, where it should the different types of requirements.
+They have attend one per week or once per Monday, or once per Thursday. So in this example, it would be intro to communications.
+It's saying must attend once to complete this. So it's available, um, all of these weeks, Mondays and Thursdays, but on week eight, for some reason, the Monday one is not available.
+That's why they put it into a separate role, but it's not two separate rotations. It's one rotation, same thing with this equine.
+It's saying that it's available Mondays and Thursdays all of these days, but for week 12, maybe the professor is not available on Thursday.
+So they're going to do it on Wednesday for week eight. Maybe the professor's not available on Monday, but they're available on Tuesday so they can have the session on Tuesday.
+Um, but the students have to attend to both days of that week to complete the rotation. So they cannot attend a Monday and the following one day they have to attend a Monday and a Thursday, but Tuesday and Thursday or the Monday and the Wednesday.
+Um, but these are not separate courses. These are one course. And if the student finished the requirements on week two, they're not expected to also meet the requirements will be 12 and week eight in the schedule.
+The expected to be the same for every week. No, it's, it wouldn't be same for every week. Um, we would need to schedule out the full semester all at once, but it wouldn't be the same because students are expected to complete one assignment per week and so on.
+So next week we meet different set of students. Um, we're not going to be scheduling. We've got a time w we need to have this semester scheduled all at once.
+And if they need to make any changes, they would make that change manually in our system. Uh, we would optimize it once at the beginning of the semester, send it over to them and they would have made any manual changes when students have to be done in pairs.
+So it, it has to be the same students, um, four pairs pairs, and for three hours, the students will stay together for the entire semester.
+And the idea here is that those students are going to be working on certain like projects. So in this case, these are mostly surgery labs.
+They're going to be doing certain surgeries on a patient, on a animal because we're a veterinary school and they need to be together and work on the same animal.
+It wouldn't be different. So pre-filling, so, um, for this optimizer to work, um, they may have some preferences for some of the students.
+And in addition to that, and we can also ask them to do some of the scheduling manually. If some of these parameters are too difficult, um, we can ask them to do that manually.
+And pre-fill it so that the optimizer already has some information to start with. So these are the, um, uh, let's see.
+So for example, these two right here, divide the class into six evenly, half the group on, um, Tuesday and other half on Thursday.
+So if we want them to do that manually, we can just pre-fill those. And not even, not even have to worry about this, the, the optimizer, um, and there may also be some students that need to meet certain requirements on certain days.
+Um, they will put that in manually And it bought the student's preferences. Um, they're basically all the selecting, um, the electives, I believe they selected one or two electives.
+They need as a preference, the rest of it we're going to automate. So that also makes it easier. Um, so it would outfit as a student, they would say, I want, I'm interested in, um, two of these electives and then the, uh, optimizer would factor that in and try to schedule it.
+And the rest of it all will all be automated. We can try to get more information on the performances in our next call.
+We're trying to schedule a call with the school to get some more details. So what to do if there is no actual possible yet.
+So this is something that we have would have to figure this out. Um, I do know that it is successful successfully being solved by IBM's see flex platform right now, which is similar to all our tools.
+So it's the IBM's version of the optimizer. So they do that. The other company that, um, the school use is currently solving this for them using Aussie osteophytes.
+Um, so we make it is solvable, but we have to figure out what they're using all of the constraints or some of them.
+https://www.loom.com/share/dd321472edbe4bf187e67a66cec68eb9
+success
+Review Questions
+Hi Sohn. Hi Tom. Hope you guys are well had a few minutes. So I wanted to review your questions and see if I can make things a little bit clearer.
+So starting with the first one here On the example of intro to clinics communications course. Um, so what you're describing here is correct, uh, in the initial video, maybe I did not explain this.
+Um, clearly let's take a look at that again. So for these courses that have two rows, they're expected to, uh, complete the requirements for the course, not the requirements for each role.
+So let's take a look at this first one. Students must complete once attended ones to complete this core as soon as much must attend at least once to complete this lab.
+Um, so for this example here, it's available Mondays and Thursdays in weeks, one through oh seven and weeks, seven through 11, nine through 11 on the eighth week.
+For some reason, the professor's not available on Monday. So it's only available on Thursday. Um, so if the student is being scheduled by the optimizer, they only have to meet the, uh, the Elliot to attend the lab once in any of these weeks to meet the requirements.
+And so if they can, if they attend the Thursday on the eighth week, they don't have to attend all of these other weeks.
+Same thing for equine here and SAC weeks, two through seven, nine through 11 and 13, it's available Monday, Thursday, but we 12, for some reason, the professor's not available on Thursday.
+So they're going to hold it on Wednesday week eight. Professor's not available on Monday. So they're going to evaluate, they're going to have it on Tuesday for this set of courses.
+Key thing is they have to attend both days during the same week. So if they attend the Monday a week, two, they have to attend Thursday of week two.
+They cannot attend a Monday a week two, and then a Monday a week, week three, it has to be the same two days of the week for Let's see, second one and expect to be the same each week.
+So we are expected to complete the schedule once per semester. So we have to build the entire semester schedule all at once at the start of the semester and each week, it will be slightly different depending on the students and the sessions they're attending, but we're not going to be scheduling it week at a time if that's what you're asking, but they have to schedule all of it.
+And then it's going to be different based on which slots are available, which students are attending because some of these courses only require one day of the entire semester to complete the requirement when students have to be done in pairs.
+Yes, it has to be the same pairs per week. So we look at this document again, some of these are let's see pear.
+So he had to F pair. Um, here, they have to be the same students every time because they're going to be working together on the projects and they need to be together.
+And for this also in three hours, so three students at a time. So for this one here, number of students must be an even number.
+That's not really a group. That's just, students need to be that, that is students as an even number, but for this requirement, and for this one requirement, they are creating groups and they're, um, the students are expected to form their own groups and then those groups are going to be what's scheduled.
+So when we're doing the optimizer, we would get, uh, we would, we would be providing a list of those group IDs and those group IDs would, can contain a bunch of students.
+And then that would be what's scheduled into the individual students. And well, I guess we need to also account for, um, each the assigning each, each of those students in those groups and making sure that, um, we're tallying up the requirements for the individual students within that night.
+So we would schedule based on the groups, but we also need to keep track of the individual student's requirements as for mentions of pre-filling the schedule.
+Um, so this is something that can help us make the problem easier. So some of these constraints we can ask the school to pre-fill manually to make the optimizer run faster, or make sure it solves the problem.
+Um, because the last question that you have here, we do need to solve this because currently the school is using another platform to solve this using the IPM Plex optimizer.
+So they have the other platform uses IBM, sleep plaques, and they do have a solution being generated. School is trying to replace that with our system.
+And so we have to have a solution, but what we could tell them is, Hey, do some of this work manually so that our system finds a solution.
+And it's something that we would, you would need to tell us that these are the ones that we need to remove.
+And we can discuss that with the school. Um, I know there are still a few more pieces that are missing that we need to clarify.
+Um, the, but we're trying to get a meeting with the school. As soon as I have that, I'll send it over, um, or we can meet.
+And one other piece is the student's preferences. They are not expected to provide a full rank list like we had in the past.
+This they're simply providing a list of, um, elect like cup to one or two electives that they are, they want to do.
+https://www.loom.com/share/b593b5eb251142f6a91cec6cc0cd9c30
+success
+Medtrics - 13 January 2022
+Hey Maria. So to explain that issue here is how it works on the case pay case logs page in metrics logged in as a resident here, I can select a template and add a new case, and there's a supervisor field here.
+And by default, initially it shows all the faculty members that are part of the program. Anybody that's, some of the faculties are type, but as a resident completes the requirements for a certain procedures, we mark them as credentialed.
+And if they're credentialed, their name will also appear here. So they can act as a supervisor for other residents. She is saying that if she is, if a PGY two resident is logging a case, they don't want that PUI two to be supervised by another PGY two resident.
+Who's their friend. Um, we don't really have a way to prevent that from happening. And, uh, um, it is something that we can consider adding in the future.
+But in the meantime, it's something that they need to address as a policy and convert, communicate that to the resident.
+They should, they shouldn't be selecting their peers. Um, it's the only way that you can hide someone is to, if they're not credentialed and we don't want to credential a resident, um, to prevent it from the dropdown because you're taking away, um, their academic completion, uh, to prevent it from a dropdown.
+So what we need to do is, uh, um, let her know that this is something that we will, um, add to our list of some as a, at a setting in the future so that it will, um, it will be a setting that they can turn on that says if, um, if you're a PGY two resident logging in this dropdown will not show anybody with the same role and that will solve their problem, but we're not going to do that immediately.
+It's not, it's a nice to have feature and they just need to communicate their policy with their resident residents. And in Intercom, when this comes up, after we communicate this, what we need to do is, um, tag it as a feature request.
+So if I click on this, I can click client feature request and save it. So while we need to do is, um, put a note and the ability to, um, actually I want to add a, I think that will prevent same role from, So what's happening here is I'm writing this note.
+I'm tagging it. Now, this message is automatically going to get sent into a product board so that Mike can flag this and put it into product board as a feature request for the future.
+https://www.loom.com/share/3cf6cff8cb2f4858bc9a1c78b9fa41da
+success
+Streams | Fellow - 13 January 2022
+David. So before we finalize the okay, ours for tomorrow, uh, wanted to get some, um, my thoughts to you about the ones that you have here in general.
+Um, it will be great if you can turn some of these into some sort of measurable goals, um, measurable key results, as best as you can.
+I know some of them are different, more difficult and, um, others to quantify into measurable number, um, but setting some sort of goal and then working towards that would be the best for key results.
+Um, another thing that I wanted to try to talk through is, um, for these things that were discussed with novel, um, I would prefer to have you work with me on creating this hiring process, as well as, um, the job requirements that we need, uh, to make sure that we have a clear way of hiring someone.
+And then, um, this one would give you, um, um, a way to get into that process more rather than just me working on it with someone else.
+And then you just reviewing it after I'd rather work directly with you and others can provide people feedback on it.
+So adjusting some of these development things so that you have time for it. So for example, the client health dashboard, it's not really something that you should spend a lot of time this quarter, mainly because others have not really made use of what you already built.
+And if anything, this quarter, we I'd rather work with you to figure out some strategies to sell what you have done to them.
+So they make use of it. I feel like there's a lot of value that can get out of it already, but they're not really seeing the benefits yet, and I can work with you on, um, some ways to present it.
+So that similar to the way that I'm selling the product to clients, you're sort of selling what you have built to the team.
+And it's a good practice for conveying those ideas to the team. And I, once I see it, I feel like they'll start using it more anyway.
+So rather than doing development, it more development would be better for us to cut back on the development side and I can help you with the, uh, how we can a strategy to get them, to use it more this quarter.
+And then next quarter, maybe get back to building new things based on what we learned. And then for the third, um, areas I'd like to also incorporate a key result on, um, being at the office.
+Um, and, uh, this is something that we had in plan for you and real to be back, uh, sometime, um, after you guys had left.
+And I want that to happen starting in February, uh, mainly because of three things. One is we're getting really, uh, into doing a lot of these onboarding and more larger clients coming onboard.
+And it's not very efficient, uh, for us to do everything remotely. And for me, I'm having multiple meetings with different people to communicate things that are happening.
+And it's things that takes five minutes on a face-to-face interaction after a meeting ends up being a zoom call that needs to be scheduled and coordinated.
+Um, and if we, you know, even if you can't do two days, uh, uh, starting February, maybe we can do one day.
+I think it'll one, it will give others a chance to interact with you and for you to work with them.
+And, uh, and then, then for you and I, to also have some, um, planning sessions in person, um, I also spoke to Rio about this and I told him that, you know, if he cannot find a place right now having some budget for him to stay at a hotel, um, when he's coming down.
+So this is the first reason is being coming more efficient as we take on these bigger clients. And the second reason is, um, for getting that experience, working with the team in person, because it is especially important for, um, anyone like you or Rio that haven't worked in a larger company with, in an office setting to get that experience now.
+And so that as we add more people, um, you're comfortable with the, uh, uh, with the team and, um, leading the team in a direct interaction because eventually it will be something that each person has to do.
+And it's good for you to build that skill up now, little by little. And I think that's very important, um, as we try to add more people.
+So, um, you know, I, it's not something that I, I want to say, like everybody needs to be there all the time.
+I personally don't. I prefer to work from home too, but I try to go in there because newer team members are not as efficient when they don't have people to mentor them and coach them and communicate the one on the regular basis.
+So put that into the key result as some sort of goal that you have. And even if, um, you can start with one day, that'd be something.
+And then as the winter gets better, we can increase that. Um, and then we can also try to plan it in a way that you have, um, and we're making use of that.
+They are to, um, more efficiently so that it's not always going to be possible to plan everything out, to happen that day, but at the very least, uh, it's, uh, it can be coordinated better than we have done in the past.
+So to summarize, um, first is turning it into measurable key results. Um, second is cutting back on some of these development things so that you have time to work me on The hiring process, the job requirements and so on.
+https://www.loom.com/share/60306db48bef4afab0557fad4429c1ca
+success
+Editor - Guide 1: Templates | Stonly - 5 January 2022
+So wanted to just record the video as I'm previewing it for any changes. See, I feel that it would be good if we, um, Specify that course and session sort of belong together.
+Um, this needs some tweaking, Leave it at a session scheduled to manually, cause they're probably not going to be assigned quarterly.
+Um, and then the other piece is Maybe what we can do is group them. Um, It's not gonna work even as it is, and then They can figure it out thinking this is good.
+I'm overthinking it. So leave that. And then.
+https://www.loom.com/share/a94886ac24ce41b0a2cc866bd3212cef
+success
+Streams | Fellow - 13 January 2022
+Hey, David. So, um, some, uh, things I've been thinking about for your OKR, um, you can finalize these into measurable key results.
+Well, in addition to that, I wanted you to see if we can modify some of this because based on the things that we talked to novel about, we will, I'd rather have you put some more time into the things that we need to do from a business side then for development.
+So for example, um, the client health dashboard, you've already done a lot of development for it. I don't know if it's, I don't think it's something that you need to spend a lot of time on it this quarter.
+Um, other than the other than spending time working with me to show the value to the team and getting them to use it.
+Like, I want to try to, um, uh, like go through like almost sorta like we're, you're selling a product to them, just like we have, we do to the clients and figuring out how to present this to the team in a way that they're going to start using it.
+Because until now I don't think no, uh, Ken and Chris have started using this in a meaningful way, and I see a lot of potential from it, even without any doing any more development for it.
+And it's, it's better for them to put some time into it and show, and just like you have, and for you to also present the value to them a little bit more.
+And I have some ideas on that we can talk about, but from a development perspective, maybe cleaning up some of the things and making it a little bit easier, but I don't think you should spend a lot of time developing it.
+Um, and then, but from my operations slash finance perspective, I do want to work with you on figuring out a good hiring plan.
+And, um, I, I believe it's best done by me. You maybe Chris and reel providing input, um, others can provide like in a general input on like, you know, handbooks or questions and stuff like that.
+But I feel like people that have been here the longest have more perspective on, uh, the company, the finances, um, I'd rather work, you and I worked together the most and then others can provide input on that.
+For example, hearing and hiring point, how do we hire someone, um, create the job descriptions for the people that we need, and then putting that out there and creating an interview process.
+So that's, I'm gonna need your help with that. So incorporating that in here, um, and cutting back on some of the development responsibilities, and then the other area also is, um, I talked to Rio about this also, um, figuring, uh, I want to put some measurable thing in years four and per Rio to being at the office, um, starting February 1st.
+And if, um, because there's two reasons why I want this to happen, one is, you know, we need to be as efficient as possible.
+And this is something that can only happen if there is some direct communication.
+https://www.loom.com/share/f263f51fe9a54c85acd4b69eaf102c75
+success
+Streams | Fellow - 13 January 2022
+Hey, David wanted to go over the OKR one more time and give some thoughts on here first, if we, um, great.
+If you can turn some of this into more measurable, okay. RS, I'm a key results. Um, but more importantly, what I wanted to highlight is trying to cut back on some of the development items so that, um, you can address a couple of things.
+One is I'm going to need your help, Oregon, uh, over the next quarter, building out this hiring plan, writing these job requirements and, um, and, and having a way to get these, um, uh, the two people that we talked about, uh, an account executive and the developer.
+So this is, um, something that will be good for you to go through that process with me. So having that and OKR for that, um, and then we can coordinate with other people to get input and help us build that plan.
+Um, but it is something that I would like you to help me lead on, uh, that since, um, this is something that, um, one I'd like to have your input on it.
+And two, it also is good for, from a, um, but your own experience also to go through this process with me so that we can have something solid that we're going to use for future hiring plans.
+Second thing is, um, I do need you and real, I already spoke to Rio about this, um, having a, um, a plan to be at the office starting February 1st.
+Um, ideally, and there's two reasons why I find this very important one is we're getting to a point where we're having a lot of rapid things that are getting done and growing, we're getting taken on onboarding and it's important for us to be very efficient.
+Um, and that efficiency happens when the team has really good chemistry and are working together. And for me, a lot of times, right now I have many one-on-one meetings with different people to convey information back and forth.
+And it's, it's getting to a point it's, it's not really efficient for me to do this. Um, and, uh, and in the past, we've moved fast because people are, are in more direct communication with each other and it doesn't, it can be, uh, in the beginning, it can just be two days a week.
+Um, or for you, even if you can do one day a week next quarter, I mean, of this water and then scale up from there, uh, out as, uh, as the spring time stores, that would even be fine.
+Um, and then for Rio, I, I told him that if he, you know, he can't afford to get a place, um, this is something that we can have, like a hotel or something that he can stay at when he comes down to stay here.
+And, um, As for paying for it, this is something that last year when we had adjusted salaries for people to stay in Philly, like after I started stopped paying for the apartment, we, the plan was for you guys to have a salary increase so that you can pay for the apartment.
+Um, and so either he's going to have to like figure out a way to calm it down or.
+https://www.loom.com/share/c042606183e243a2978701a45b030fa1
+success
+Medtrics - 17 January 2022
+So Maria, so first a part of it will be about sites. So we want to introduce Jay I'll present it as if I'm presenting to the client.
+So metrics offers a way to track sites, um, that you're affiliated with. So these sites are set up under our institutional portal and it is something that can be imported from a spreadsheet.
+And the way that it works is we go to sites and we can create each hospital that students are being sent to.
+And when they create that site, we can define them as external sites, since they're not part of the St James university.
+And once an external site is created, we can click on it and define any leadership at that institution, plus attach any agreements to it.
+So these are affiliation agreements or other contracts that are linked to this specific site. Those are the documents or the main thing that you can add and for leaders, but all of this information is optional and that when you get getting started, the main thing is the site name and the site ID.
+And we have it. Um, we have it set up so that we can start adding rotations to it. So once all the sites that are imported under our regular program, admin portal, we have the school of medicine program and in system set up rotations, we are able to upload all of the rotations that are offered at each site.
+So when creating a rotation, it would give it a rotation name, rotation code, and link it to a site. So let's do that here.
+Add rotation name code. So code is something that can be created based on, uh, the name of the rotation, select one of these sites.
+These are sites that we just went over. You pre create them and it'll show up on this list, search for it and link it to that.
+And sites also, sorry, rotations can also be linked to the curriculum rotation. So remember that we already have curriculum implemented for St.
+James, and we can link that to a particular rotation in the curriculum. And for now we'll skip the rotation directors and administrators, since that's not going to be set up for St.
+James at this time. So once the sites and rotations that are entered, we could also add rotation resources. These are attachments that are linked to a particular rotation.
+So if someone is going to family medicine at metrics, hospitals Southeast, we can have a bunch of files that are shared with the students before they start that rotation.
+So this could be different forms. They have to complete or different articles they have to read. Um, so if you have any files that are need to be shared with the student that can be done here, now let's focus on users.
+So in metrics, there are four different types of users that can be created. Each of these types of users have different portals associated with them.
+So every user metrics has a personal portal and there are four personal portals based on that user type. And if someone is given a, a, a administrative access, whether it be the program admin portal or an institutional admin portal, then we give them an extra, a button here to access those portals.
+So if I take away this user's admin access, then I will just have the personal portal. So I can always toggle into that by clicking on it.
+And you can see, this is, this is Perry Cox, and he has the faculty, uh, access. So those are the four user types and inside of each user type, we have use a rolls.
+So if I scroll down here, there's a roles field, and I can define different roles. So user types and the user roles underneath it.
+And depending on what their individual's function is, we can give them a specific role roles can be customized to your institution.
+So you can create as many roles as you like. And this is something that we'll go through in a few minutes, and we'll, we'll, um, create faculty, staff, and medical student roles.
+So they're available for you to use. And one more thing to highlight here is, um, site is the same as home institution.
+So every user can be linked to a home institution. And this home institution is something that is meant to be their employer.
+So if a external or preceptor or attending physician is employed by us or in the hospital, you will select that as a home institution or students.
+The home institution is always going to be St James, because that's who, um, uh, that's where they're enrolled. And when it comes to roles, we can also create some specific roles that are tied to external sites.
+So if you want to have a, um, site coordinator role, and it's only linked to external institutions, when you select an external institution, you'll see that role available.
+But if you select the St James site, then you would only show roles that are part of the, uh, St.
+James staff and students.
+https://www.loom.com/share/39c38ba1202e4774b69c874664f100f8
+success
+Streams | Fellow - 12 January 2022
+Hey, Mike. So creating a video for you so that it'd be easier for us to go through everything rather than typing it all out.
+And, um, so first thing, yes, it would be very helpful. If you can, uh, start a Google doc, put your dates on there and ask others to do it.
+You can share it in the company channel. And, uh, and then once we have it on there, you can also put it your dates on your calendar and block that out as for the OKR.
+Um, I went through it and, uh, it's definitely, uh, a really good start. I may have good points on here.
+Uh, one thing that needs to be done is to turn this into the format of an objective and a key results and for the objectives and key results, we want to make sure that you're turning.
+Um, so for example, for this one, one of the objectives could be that you want to, um, become a, a better UX lead, a director or a leader.
+And underneath that you may have specific key results that you're going to put in there saying define and implement, you know, a certain number, certain processes in the company.
+Um, so research, design, research plan and implement certain processes, um, and define like kind of either, if you know, what process to implement, like the, for example, you already did that.
+We did thing. Um, similar, you, you had talked about the, um, having some mechanism to keep things in sync when it goes into get lab with different ID numbers.
+So think about any process that need to be defined. And the key result should, um, will be specifically implementing certain number certain, uh, processes, then implementing it with the team.
+Another one could be, um, the, um, um, maybe finding a mentor that is on a larger company as a UX director, um, having a set number of hours that you're going to dedicate per week for studying leadership in a UX.
+Um, so that's, or another one could be for finding a eh, intern, um, so that you can learn how to mentor a manage peop uh, at, uh, someone.
+So that's, so I would say this needs to be turned into, uh, two or three different measurable key results for one.
+And this one, both of those are pretty clear, um, key results. So you can probably group those together with any other, uh, major projects for this quarter as an objective with under an objective that talks about designing functionality for metrics.
+So, um, so these are, are talking about designing and getting feedback about metrics features, and so that plus anything that's like MSPE, um, anything else you can think of that our major project for this quarter, um, can be a measurable key results as what are you going to be completing for that for us?
+So that's one, then there's two, and then the third one, um, could be related to third objective could be related to user flow diagrams.
+So the objective could be improve, um, uh, your knowledge of metrics with creation of by creating user flow diagrams and then define key results as three, each of the three user flow diagrams you're going to finish.
+So, um, so you can plan that out as like, what does it mean to be finishing those three diagrams? So you can say, uh, create and publish user flow diagrams and, um, and, uh, Figma or that, that platform that you used for the retreat, the, where it shows diagrams and flow charts.
+So create and publish, uh, um, use of flow diagrams for evaluations, um, use, create and publish user flow diagram for curriculum, and then maybe case logs, pick three modules, and then specifically put those as key results.
+So that it's measurable and where are you going to publish it? And then that will be the third objective with key results.
+I don't think this is something that needs to be a key results. This is sort of just has been on the, uh, on there for a couple of years, couple of quarters.
+And I feel like you finished most of it. He sort of does, you can finish that up. If you want to turn this into key results, maybe defining something new, such as I'm going to write a blog article about this.
+Um, and that could be a key result. And the other area that you're doing now is Intercom. So it would be nice if you can fit that into somewhere, maybe under this OKR becoming a UX director, um, you know, putting some measurable key results for Intercom.
+So how can you measure that? It could be, um, your key results could be, um, Make sure that Intercom, um, responses are Intercom issues are closed within a, uh, within a week.
+So whatever Intercomm issues you're dealing with, uh, close them within a week. And then that would be a measurable key result.
+And that involves like coordinating with other team members and making them getting the responses that you need to answer those and close them in a week.
+I don't know, I'm throwing ideas out there, but we want to think about all the things that you'll be doing this quarter and trying to turn those into measurable, um, key results.
+https://www.loom.com/share/cadf461ffd0b402ebacd06eb84d9254e
+success
+Accepted: Medtrics Demo w/ UT Southwestern UME @ Fri Jan 21, 2022 4pm - 5pm (EST) (Santhosh Cherian) - santhosh@medtricslab.com - Medtrics Lab Mail - 12 January 2022
+Hey, uh, Mike. So we had started talking about processes a little bit yesterday, and you did a great job with presenting these two new processes to the team and especially emphasizing the importance of why they should do this to help us speed up your process and making sure things are getting done.
+A couple of, uh, um, feedback that I had. One is for this feature requests one, it would be better if we changed that to a form that just pops up so that it doesn't get posted each time someone clicks on it, otherwise you just have this blank form that gets posted and they had to click on it and open it up.
+It just streamline, um, and prevent something from posting until it's actually completed. And then the other thing is this urgency thing is a very subjective field.
+People can write whatever they want in there, and you're may not get any actionable item from there. I would recommend that it's better if you use that impact score or impact, um, score that we created for product board.
+And I think it was, um, let me see if I can find it So we had an impact 1, 2, 3, 4, 5, and And, uh, one was little improvement on user experience.
+Um, some improvement on user experience. For four, we can actually tweak this for Um, sorry, dramatic, uh, for all users at one institution, uh, Some improve and on user experience for Users at all institutions Dramatic improvement Of user experience at all institutions Here we go.
+So a little improvement, some at one institution, dramatic improvement in one institution, some improvement for all institutions, um, dramatic improvement for all use it at users that all users At all institutions.
+So basically if it's something that is specific to one institution, it's not going to affect everybody, then it's lower priority, but if it benefits, everybody gets higher.
+So if they can pick one of these options and you can put this text into that dropdown, then you can prioritize that based on this feedback.
+Um, and then, and then basically if it's something that hits this five or four, and if it's an easy task, we should write it up immediately.
+And if it's something that is not one of these, then you can, um, put it into the product board. So when it asks, gets added to the product board, there's two places.
+It can go. One is the, just putting into the backlog and it just stays there, but it second is putting into the backlog, um, and adding it to the roadmap.
+If it gets added to the roadmap, the understanding is we'll be working on it in the near future, maybe weeks, months, if it's just added to the product board backlog.
+Um, it's a long-term thing that we'll come back to it, maybe months down the road. So to summarize, um, um, updating this urgency, to have some sort of like, uh, information that you can make a decision on because otherwise people are going to just put high, medium, and low, and that's not going to really meet anything.
+But if we have this information, then we can use that to decide whether it's something that should be prioritized or not.
+And then once you have that information, you can either add it directly to get lab. If it's something that's super important and quick, if it's not, um, if it's not, if it's super important, but not quick, you can add it to the roadmap.
+So for short term project, if it's something that's not important, but nice to have, it can just go into the backlog and stay there as an idea for us to review some time in the future.
+When we have more time and resources.
+https://www.loom.com/share/7dac747c616a4ddfa64f00c1bc154b79
+success
+Fwd: Renewal Time for ARH - santhosh@medtricslab.com - Medtrics Lab Mail - 12 January 2022
+So here's what's happening with the ARH. Um, I gave a Ken a script to give a call to her yesterday and asked him, well, ask she, I think he wasn't able to reach her, but then she sent a follow-up.
+He sent a follow-up email asking about the same items and this included any missing, uh, sorry, any new programs changes to the existing number of students and also asking whether they wanted to do something with medical students.
+So here's what she sent back. Um, we are currently awaiting a response from ACG AME regarding our accreditation. So, um, if they have no warning, they're going to be asking to increase the number of trainees to nine, or sorry, by nine over three years or three more residents per year.
+We don't need to wait for this for us to do the renewal I'm. Um, I don't know when that'll happen.
+Maybe a few months, they also said that the surgical residency is on hold. Um, she's working on a new GI fellowship.
+If they get approved, they may, they may add that into metrics. And the, she also said agreed that she would want to hear more about the medical students side from 14 of our hospitals.
+Um, so I sent her an email, just schedule a demo for that. Um, if the contract is already expired, um, I say we can go ahead and send the renewal and get that paid.
+Cause she said, she's willing to process that. And you can add the, um, add the inflation percentage with that we've been adding, um, if it's not expired or like, um, very close to expiration, we can see if we want to consolidate the students side into that.
+Uh, she, she's gonna probably have to go through some sort of approval process for that. Um, uh, after we give the demo or maybe still be a few weeks until we get everything, uh, signed off on it.
+So, um, I'm not a hundred percent sure. Um, which is a better report approach if, um, um, if she's, if she's saying that she's willing to pay right now, maybe best to just get that processed and then we can handle this separately either way, that's the situation and would also be good for you to, um, uh, document a few of these bullet points somewhere.
+Um, so for you have for your record when you're going, if we don't remember it on the next year, uh, at least on a renewal time, we'll, it'll come up and we ask about their new programs.
+So maybe in QuickBooks or notion or somewhere, somewhere, we define that there, they have a GI fellowship that's coming up and they're also planning on increasing the number of, uh, I am residents.
+https://www.loom.com/share/3d0dd6fd6de2457d8e4393f26b9ee3ed
+success
+Alright, you win... - santhosh@medtricslab.com - Medtrics Lab Mail - 12 January 2022
+Hey Mike. So one or two, uh, instead of, uh, being able to meet, I wanted to just create a video that goes over these things, um, for the time off for the quarter.
+Yeah. It would be very helpful if you could start a Google doc and then she put it on a company channel and people can write that in.
+Um, you can also put this, the dates that you're, you're doing, uh, taken off on your calendar, asked for the  the, um, the, um, the key thing's going to be is, uh, turning things into a, um, measurable key results.
+So you have the objectives and then you have key results underneath it. So being able to turn this, for example, this is a good, uh, objective, uh, but what are the specific items that you want to focus on for this role?
+Um, so, you know, complete a certain course or watch, uh, I mean, uh, uh, find a mentor, um, throwing random ideas that you can define those, um, the defined processes.
+Cause a big thing here is going to be, um, leading the, for deleting the design department, as you're you're already starting to do is how do you interact with different members of the team so that you're gathering the ideas and learning and putting those into an organized structure and then, uh, prioritizing different projects, um, and then delivering and communicating on the sort of like defining some of those processes could be one of those key results.
+Um, but something you need to turn that into a key result, that one or more key results that are measurable.
+This, this is a key result here. So it's sort of saying you're, you can see that as a measurable key result, um, that can be part of an objective.
+And so this is also key result. Um, so for the case study for KP, um, I don't know if this is really needs to be a key results since it's been there for a while and you know, it's not going to be a quarter long project, whatever needs to be, just finish it, you can just finish it.
+But I feel like, uh, it's, it's been a long, like a couple of quarters and it just needs to be finished.
+And then, uh, maybe a key results from this could be, um, like taking it a step further and, um, writing a blog article about it, something cause like internally the case studies one thing, but what we want to focus now on is like, how do we tell the story of metrics to other people?
+And if you want to turn this into a key result, it could be something like I'm going to write a blog article about how I did this or, um, or something farther than that.
+Then just finishing last quarters then for this is a good key result completing the design for it. So I can work with you on that one.
+And Let's see. Um, And then, um, Yeah, so I would S.
+https://www.loom.com/share/e742a964e48b4385a3ee3fb1f8725272
+success
+Streams | Fellow - 12 January 2022
+Hey Mike. So I wanted to, uh, uh, create a video to go over these things. Um, so it's easier for us to, uh, uh, communicate around that mean typing everything out.
+So the first thing is, yes. Uh, it'd be very helpful if you could start a Google doc with your baits on there and then ask others to do that, he put it in the company channel.
+You can also put your dates onto your calendar so that it's, um, marked off. Um, so for OKR, the key things here is going to be turning things into the, an OKR format where you have an objective, um, at most like let's say ad most three objectives and free to those objectives having, um, let's say, uh, um, about three key results.
+Um, I'm just thinking about, because you can decide that for yourself, but you need to have an objective and then key results underneath that.
+Um, so that in each of those key results would be measurable. Um, I'll also send you that Google video. It'd be good to review that also also that he can see how that's, how the structure is.
+So the first thing here, this is a good objective. Um, or if you want to turn this into key results is sort of devoting X amount of time, um, per week on what is the specific things that you're going to do?
+Um, or there's two ways to do. One is you can say, I want to, um, research and implement a successful strategies for being a UX director.
+And then underneath that you can have specific items that you'll be doing this quarter towards that goal. So one of them could be something like, um, define certain document and communicate certain processes.
+So you can list out those processes or kind of generally say, they're going to try to define, um, cause you already started doing that with the winded stuff.
+There may be more processes that need to be defined. That could be one of the things and you can reach some of those may require research.
+Then another one could be, if you have, if you want to find a, a mentor, um, on LinkedIn, someone that works at a larger company as the director of UX and seeing if that person would be meeting, willing to meet with you, like once a month or something that we could be another one, another one could be, you know, a certain, um, courses or articles or something that you want to dedicate X amount of time per week to building your leadership skills as a UX director.
+So I'm not sure what that would be. I'm just throwing ideas out, spending a little bit more time, defining this into measurable key results.
+So this one is already a key result. So, um, you're going to be working on designing and, um, uh, different features this quarter.
+And this could be, that could be an objective where design a high priority functionality for metrics or something along those lines.
+And then you can put something like these two under there. Um, cause those are all things that are designing and testing and maybe there's other projects that we need to complete, but the objective there would be something along designing features and then putting these things under there.
+Um, so that'd be the second objective with a couple of key results and anything else that you want to add.
+And then there's the, um, user flow diagrams for three of the metrics, uh, modules. So this one, um, could be a, an objective for this could be, um, create the customer.
+Um, the objective could be create a, um, create customer experience or sorry, build user full diagrams. That could be the objective.
+And then underneath that you could define the three metrics modules that you're going to create the, um, user flow diagrams for.
+And I believe the, um, curriculum, um, evaluations and maybe case logs could be the three that you start with. Cause they're heavily used the scheduling stuff.
+I feel like it's really complicated and maybe something that, um, can wait, but curriculum is also complicated evaluations and case logs, um, could be a good, good three to start with.
+And that will involve you working with me, Chris and creating this map. And the purpose of this is also to help you master the system.
+So you're able to go no, the hard work from end to end, um, rather than just focusing on specific areas as you're building them.
+And then once it's built, this is also something that can be used to new team members on how things work for this particular one.
+I don't, I don't feel like this is something that needs to be a K risk key results. Cause we had it in there on the thing for the last couple of quarters.
+And the best thing is to finish this as a finish or whatever it is. If you want to turn this into a key results, I guess like the marketing thing, maybe you can have a marketing OKR and say, turn the case, study into a blog post or something along those lines.
+So that it's not just finishing the case study. It's actually, um, doing something new with it and having a measurable, I'm saying this is well turned us into something that can be marketed.
+Um, Okay.
+https://www.loom.com/share/cfc6f147145e4a988c77decec517e471
+success
+Editing Contract Renewal Process - Tettra - 12 January 2022
+So this process is something that is used by customer success, and it's going to be used today once a year when we're renewing our contracts.
+As we know, most of our institutions sign an annual agreement with us and our contract says that it'll auto renew unless they canceled 60 days in advance.
+But before we send over any paperwork, we want to make contact with our primary contact at the institution. So the primary contact is usually the person that is our champion at the organization.
+And this person is usually the first person that reached out to us initially for the demo. And it was communicating with us to what the sales process, and then what's also involved with the onboarding and we want to reach out to this individual and because they're going to give us a real feedback on how things are going with metrics and also discuss any potential new opportunities, as well as address any budget concerns, if they're considering canceling or, uh, or, uh, cutting back on metrics.
+Uh, this individual may not be the primary decision maker and, uh, um, but this is going to be the person that's closest to us when it comes to metrics.
+And when it, when we do this renewal, it's always important to call first and wait, uh, sorry, call first and then send an email the after, um, we try to reach them and then saying, um, we're reaching out because of this reason and then send an email immediately afterwards saying, okay,
+https://www.loom.com/share/197af6ed93b94246983b44b2d6d579c1
+success
+Re: Inbox (2,176) - santhosh@medtricslab.com - Medtrics Lab Mail - 11 January 2022
+Hey, David. So I'm working on something for MSU and it's a few different things, but, um, one area that I wanted to ask, uh, your opinion on is, um, for them to be able to track whether a student has met his certain number of weeks, um, on the, uh, has been scheduled to a certain number of weeks of, um, specific rotations.
+So as a, for graduation, um, we pull up a, so this was, uh, from today's implementation meeting with them. Um, if I look at this complex document that they sent over, we can see that for, um, required rotations and electives.
+They have categorized them into different types of rotations. Um, and then we, they have to make sure that the students are meeting a certain number of weeks of that.
+And they just basically looking at the block schedule and being able to, uh, uh, tell whether it's met and if they're moving all of the scheduling into metrics, um, um, it'll be, it will be an extra work for them to be able to manage this and this other platform.
+So I'm working, um, on a thing with, um, a plan for how we can handle this specifically the, for the query, um, where if someone is scheduled on the block schedule and that rotation is linked.
+So we have this rotation that's in here, that's linked to a curriculum rotation, and then that curriculum rotation is linked to a graded rotation.
+So it's, um, user schedule has a rotation rotation is, uh, linked to the curriculum rotation, uh, and then curriculum core slash core rotation is linked to the greater rotation.
+So if that's the link that exists, is it going to be possible for us to create a page where they can select a student and it'll show all the graded rotations that are required the number of weeks, and then next to that, um, each item showing the user's schedule from the block schedule.
+So it'll be basically one column chose the rotation named from graded rotation. And then the next column would show the actual schedule for that rotation from the block schedule.
+And then the third column would show the number of weeks, um, that they were scheduled for. And the fourth would basically show the, um, for the number of weeks, we already have that requirement being captured now under the graded course where we have a weeks into your field.
+So if we have this field and then, um, for each of these graded course rotations, being able to pull up the appropriate scheduled, um, user schedule using the relationship that exists from block schedule, uh, assignment, uh, to the rotation, to the curriculum rotation, to the graded course rotation, if that is possible, um, or if it's going to be something that we should look of a another relationship, cause it's, I don't know how there's like four levels deep, and if that's something that's gonna cause a speed issue.
+https://www.loom.com/share/d109a029c2564903a82f030892ea068d
+success
+8 - 1/11 Implementation Meeting - User Permissions & Scheduling Imports - Google Slides - 11 January 2022
+Hey, David. So for implementation at MSU, we've come across so many issue with being able to track the requirements for graduation and whether the students have been scheduled for the appropriate number of rotations.
+This is something they track in another system. They send us a screenshot of this, where they have picked up a student, uh, uh, picked a student and he can see all the requirements and whether they have completed it.
+Um, so I have a general idea of how to handle this and talk to, um, Rio about some of these things.
+One area that I wanted to get your opinion on is right now we have the user schedule and that user schedule has a rotation.
+That rotation is linked to a curriculum using the curriculum link here. And that's the curriculum course, um, uh, of curriculum curriculum, course rotation object.
+And this curriculum course rotation objects will eventually be linked to the graded course rotation, um, where we are giving them the ability to define the number of weeks that are required for graduation.
+So the question is with this relationship, is it possible for us to efficiently create a page where I can select a student and see all of the graded course rotations that they have to complete and, um, show which assignments have been made on the block schedule, um, for those, for that particular rotation.
+So if I have a family medicine rotation, that's added to a graded curriculum and I select a student, I want to know that a family medicine rotation has been scheduled for January 1st to January 31st.
+And that information will be coming from the user schedule via the relationship that exists from graded course rotation to the curriculum course rotation to the, um, this rotation and the assignment that's on the block schedule.
+It also has like three or four levels deep of in terms of linking. And if it's possible to pull up that information efficiently and show it on a table so they can look at it and verify the student has everything scheduled for graduation.
+https://www.loom.com/share/48bc310e70214f579c8ec2c4e52a3963
+success
+Accepted: Medtrics Demo w/ UT Southwestern UME @ Fri Jan 21, 2022 4pm - 5pm (EST) (Santhosh Cherian) - santhosh@medtricslab.com - Medtrics Lab Mail - 12 January 2022

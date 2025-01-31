@@ -1,0 +1,985 @@
+The separate tab and yeah, so it needs to be shown as a. A separate tab. Sometimes it works. So the first time the page loads, it shows up at the bottom.
+But once I go back. It works fine. And now I'm switching from here to here from curriculum permissions to event-based.
+So if I try to switch from the curriculum permissions director leader permissions tab to the event-based session event types, it doesn't work.
+I'm not able to go anywhere from there, but if I go back to pull for me. I guess the problem is you can't go from a sub tab to a different tab.
+So we have to make sure that we fix this and Ahem. Come up with a maybe what we have to do it instead of having these sub tabs in here.
+It may be better for us to use a card here. So instead of so that so that we have managed full permission.
+And then underneath that we'll have director slash leader permissions and in collapse, this, the full permission if you want to look at the other one.
+Yeah, I think that will. This will work better if we're going to have problems with tabs. So this way the users know that the section is at the top and then they can scroll down to the bottom and look at the second permission set and if they need to collapse it, they can click on the collapse button
+. And it'll be ideal if we have a expand and collapse button on the card so that the administrators know that it's clickable.
+https://www.loom.com/share/4f2b2dda608b473c9736c6a4d71017d7
+success
+Sites - Webflow - 1 September 2023
+Hey PJ, so this is what the editor looks like for Webflow and what I can do is go to the left side.
+And, let's see here, I think, yeah. Use these menu items to go to the different pages. So let's say when I edit the blog's post template.
+And when I go here, it'll show me Thank you very much. Thank you. The post template here with the sample post.
+And I can switch to different posts here and then click on an element. And on the right side, I can adjust the font and the color, font sizes, the height.
+And so for example. Here, it'll let me choose the font size of 16 as a default and then the height is 24.
+Let's see if I can do something here. So, this here is defining what content shows up in this element, in this div tag, so this I just wish- it to bio, now it's not showing the body anymore, it's just showing the MyPro bio.
+But instead of that, if I go back up to post body, it'll show the full text. Up here, we can also do the same thing here, h1, h2.
+So I think that's for the h1. Let's go to h2. Anyway, I don't have all of it figured out, but some of the functionality is pretty easy.
+We can change it and then the nice thing is also we have a staging environment. So when we are ready to publish it, we want to make sure we uncheck it, state, publish the staging, and we can make sure that it's all good.
+So one of the things that I'm focused on is the typography stuff because I'm not a big fan of how things look here and I think that was a Thank you.
+Yeah, so this is a site that I'm using to set up the scale that we want to use. And one thing that I'm noticing is that it doesn't show me the, it shows me the size, but it showed me the line height.
+So I'm going to have to calculate that. And put that on a spreadsheet so that we can use it. But other pages on this website is also using the same you
+https://www.loom.com/share/566bd8727ecb4e3998c26fc692cb43f3
+success
+JIRA Development Board Overview
+Good morning, everyone. We'll take a look at the JIRA Development Board and talk about some of the changes that we have implemented and explain how we'll be using it.
+So the first thing is on the board itself we have this left menu, I mean on the project we have this left menu and the active sprints page will show all of the tasks that we are currently working on in this sprint.
+And you can see here zero days remaining and then we can complete a sprint and then move that. Into the next sprint, if there's something that's incomplete and the board itself mirrors what we had in GitLab where we have to do, doing, needs testing, needs changes, code review and ready.
+So ready is, is something that we've renamed. It used to be called staging. It's called ready and it shows you the count of how many issues are there.
+There's also a change to the table. It's, I mean, the, the view, the card itself. So it's showing you the name of the issue, what is called a summary.
+Then, underneath that, it'll show you the module. Then it shows the story points. And for story points, we're using a Fibonacci sequence.
+If you come down here, it's supposed to, well, it wasn't added as a drop down. It was, it's a numeric value for now, but it's supposed to only use the Fibonacci numbers.
+And the higher the value, it means that more effort is required from the developers to fill this. So what we wanted to make sure is we're always updating the story points.
+And if the the planning team, the product team I also want to, going forward, avoid the, the the terminology we've been using, business versus developers.
+You know, it's, it's a product team that is doing the planning sessions and the product team is coming up with the specs, the design.
+And the story points for the task, but the developers are going to be the one that ultimately decides what is the right story point.
+So it's going to be that you're allowed to change this number as needed when you're working on a task. And there is this little four dots here.
+This is indicating how long a task has been sitting in this status. So if I were to move this over to the next status, then I'll restart and you can see.
+Seven days in this column, 20 days in this column. So that's what this is indicating. You can hover over to see the the number of days.
+There's also if if a client was added to the task, we're showing the client name here. So in this instance, there's no module n a, but there's a client name added.
+So that's what the board is showing. When we open this up, we can also see the details here and we're always using the standard template for bugs or features.
+So if a user, if one of the metrics team members is creating a new task and they choose bug, it will pre-fill with the bug field the bug template.
+If you go in there and choose feature, it'll show the feature template. Please know that bug is the default issue type, because we never want to misclassify a bug.
+In the past, we had accidentally created tasks because the previous default was task, so we had entered a bunch of bugs as task.
+To avoid that, I put the default as bug. So that we always make sure that it's entered correctly. And then there's also the status of backlog.
+Then there's to-do doing any changes and all that, so the default status is backlog. But if something, needs to be done immediately, you want to make sure that you put it as to-do so that it ends up on the board.
+I put this backlog status so that we're not cluttering up the developer's task list. So we want to make sure that it's always updated to-do so that it shows up on here.
+So the next item here is this is more for the product team that's planning things out essentially this backlog view will show what's in the current sprint along with the story points, the title, the, the status and who reported it.
+That's what's showing under the, under the task. And you can collapse it and see the next upcoming. Sprint and we can use this interface to drag and drop tasks from one sprint to the next if we need to.
+We can also update the sprint at the bottom right here by choosing the appropriate sprint. So, if you're adding an urgent bug to the task, I mean, to the current sprint, you want to make sure that you update the sprint field so that it ends up in the developer's workflow.
+Then we have the full backlog. In the full backlog, we have bugs and features, and as we work on it, we're updating the different fields.
+So, in the, in the here we have something called, shade here. For features, we have something called design status. So whenever we are ready to start working on a, a feature, we put that design status as candidate.
+Once the design status is candidate, it shows up on Mike's list so that he can start working on the design.
+When he puts this puts a Figma link in there. It becomes design in progress. Then once the specs are done, it goes design specs done.
+https://www.loom.com/share/82149f9c4b5b4f0db37e8b8c551ccea7
+success
+Context and Next Steps
+So what we'll do is we'll start on the right side of the board and then work our way backwards. Okay.
+Actually, not the right most one. So these, we need to spend another separate discussion reviewing this whole section here. Timing not right.
+And yeah. Like it's good for an LS mark if we can review because if you've already demoed with them in the past, it's good for us to revisit them because they may have some reason that they didn't talk to us at the time or move forward.
+Same thing with ghosted. Yeah. Loss contract is most likely not going to lead us anything right now. Loss contract means that we were in a bid or something and we didn't get the contract, whatever reason it is.
+So it's not worth investment right now because in the last two years we didn't get the contract, it's unlikely they're switching again.
+Yeah. But this is definitely worth revisiting but I'm not going to focus on that today. Client. Awaiting payment. So let's start with here.
+MHC. Medical Health Centers. I was saying the name so that, yeah, this one I'm going to put this in. Now here's one thing.
+It's going to be a low value contract, but it's going to be a very high work. I don't really care too much about us closing this one because of the conversations that we had.
+If they were going to say yes immediately, we were going to take them, but the amount of work that's involved for them is not worth it.
+I definitely would like people to start using, especially since I'm going to put in the notes tab right there. If we click on that.
+So should we put that, I think it may be better here so that it's timed to that opportunity why we change the status.
+Yeah, I mean we can honestly use both. Yeah. Because. This one in particular is really nice for right after a communication.
+Yeah. So that way when you browse through the discussions we've had, you don't have to read every individual email. Yeah.
+Every time you have a little discussion, just post a note somewhere on the board here, summarizing the beginning and end.
+Yeah. So I'm going to say we're moving this. To having not client is not ideal fit for us right now.
+So, and then notes like these can be, yeah, yeah, exactly. So like, there's the status notes and then there's the notes about the client, I feel like.
+Because the notes about the client can be really useful. If you made contact with someone but then I end up having to talk to them, being able to go in and you can just be like, this dude is very iffy about the idea, this person seemed very excited.
+Yeah. Like, you know, like little details like that so you know what you're getting into. Yeah, so attention has a direct link into here so it can populate certain things in here.
+You can look at that also see if there is something that we want to do with that. So when we get to that, I'll show you some of the notes that were pulled in for attention right after the meeting.
+Yeah. So, and then the other piece that we haven't really assessed is like all the custom fields that we created whether for the link, lead and for the contact and for the opportunity, whether we want to keep all of them, what do we need to be tracking.
+So this particular one, for example I don't think they have an electronic system at all. So custom field, let's say if I were to put car and vendor let's see, we don't even have an option here and his choices.
+No, probably there's a none option. So put it as none. And then the other one was how do we, how do they hear about us?
+Let's see, lead sourcing was a referral, client referral. Okay. It was referred by St. James. I guess we don't have a good place.
+Put that. So I'm going to just put that as part of the opportunity. All right. So this one is out.
+So this is an interesting one. We met the program director and, program director at a conference and she was taking over as DIO.
+So this, this is a, this Ponce Ponce Health Sciences University and they have a medical school and they have this GMU department.
+They're in Puerto Rico. They're she's taking over, she came for the medical school side and they don't have a big budget.
+They're really like metrics and they are currently on e-value, they want to get rid of it. The quote that we presented to them initially, it was too high and then I negotiated with them for the first year to come down on the price or then that also seemed too high.
+Eventually went back to like, let's try one program. That didn't work either. So it kind of just like fell through and what we need to do is revisit this soon for next year.
+So the best next step here is email, either email, I email or someone email as me email, Lillian who's a pro, the DIO to get conversation started for next year present.
+https://www.loom.com/share/e657aa76f4604d42855de3bb1a79406b
+success
+Declined – Figma - 12 September 2023
+Good morning, everyone. I wanted to share this video of the design that our team is working on for the decline functionality from the student portal after a student has submitted a request.
+The administrators can either approve or decline the request, and once it's declined, they will see this new status as this request change declined.
+And then, when they click on it, they'll be able to open it. It will show you the decline status and the administrative comments.
+This comments field is also something new that we're adding. Same thing when they're editing the declined request. It will show you the status and the notes at the top and then they'll be able to update those fields and then from the administrative side, I don't have the design here.
+It's going to have a third filter. Bye-bye. Where it's going to show the declined option. So that part is not, the design is not changing.
+It's just we're adding one more filter there. So this is. Currently in the design stage, we're going to get this over to our dev team this week and so we can start working on it.
+We have any thoughts after looking at this video, please let me know. And I'm also sending a spreadsheet. That shows the academic progress report.
+This was something that I had talked about last week that summarizes the rotations that the students have been scheduled to.
+And I was planning on sharing an interface that you can use to test it directly, but I realized that this new report that we added, it actually is e-mailed to the administrator.
+It's not something that's shown on the, on the screen, so I'm attached it as a excel file. So once this is released, you'll be able to select the data and then says, click the e-mail button and it'll e-mail.
+I'll use this excel file that has all the columns necessary to break down what the resident
+https://www.loom.com/share/b958339f86a94f8db87bb114dc6120e7
+success
+DV board - Agile Board - Jira - 28 August 2023
+A dev project that we're using for planning, so under projects dev you can see that this This backlog allows us to see everything that is currently being worked on.
+It shows us story points for each issue and I can click on it and make updates as needed and as I scroll down we can see the upcoming sprint and tasks that are being prepared and then the backlog.
+So this back log allows us to see what needs to be prioritized and they can also move things from the backlog into a sprint if I need to like drag and drop.
+Thank you for watching! To the sprint. So this is what we're using for our our development planning meeting and then for the backlog refinement meetings.
+Thanks. We have this view that allows us to look at the features and bugs and it's going to be, let me see, there's a, Thanks for watching!
+By creating. So using this functionality we could easily go through this in a meeting and then say what's the name?
+Like it should be updated. It to us to make sure that everybody understands what the issue is because normally when a client facing team member is adding ideas to this list, they're simply putting it quickly into the into the backlog and during the backlog refinement or renaming it adding the design
+status. So I can say this, this is something that we're going to pick out for working in the next sprint impact level, story points, the clients, and then once this is updated, it goes into the design planning.
+So for that, Thanks for watching! We have the design status. Actually, I'm gonna pull in a separate filter for that.
+So Mike and I use this filter. Thanks for watching! That allows us to see anything that is a candidate design in progress or design done.
+And then we make sure that designs are added, specs are added, and it's marked as specs done. God. So that's when we know that it's ready for developers to work on.
+And then the last meeting that we have is the as she said, so backlog refinement, we go through it and add the story points, impact level, clean up the task, design Me meeting, we go through anything that has a design status.
+And then during the development planning meeting, we go through the backlog and review review. So everything that's currently being worked on, update the status if needed, and then add new tasks into the sprint.
+So for us to do that planning properly, we will need to make sure that all tasks are coming through one place and there's visibility into what things are being worked on.
+If some things are in here and some things are in good lab, it's not going to be easy for us to plan things and also be aware of what's coming up in the future.
+https://www.loom.com/share/31fb1d336139441e98478dc01306f7d8
+success
+Medtrics - 28 August 2023
+Hey PJ, so in order for her to get these forms into the system she'll have to edit the milestones that we have in this in in metrics and I took a look at her form and the easiest way for her to edit this would have been to go to the edit manage questions page and then add a question like out of go to
+the link question choose the one of the sub competencies and then she could have came back here choose link here and she could have rewrote those options so what she essentially what she would be doing is choosing the ACGME sub competencies that we preloaded and then this link option import link option
+allows her to rewrite it in her own language if she wants to do that. But this functionality is broken so I added a bug to the backlog.
+There is a second way she can do this and that is on the questions page. So on the questions page I've created a new category called customized milestones.
+And so what she can do is go here, write new narrative, and then go into one of these screenshots. So let's say this one is performance of procedures.
+So that's going to be the, I believe the performance of procedures to the PC2. Add that here. Go back to edit.
+And choose this link. And now you can see that it shows up as the ability to edit here. And then she can rewrite this however she wants.
+So she can type in performance of procedures to ensure progressive development. And she can put that into here. And then each of these levels, she can rewrite how she wants to do it.
+And once it's rewritten. She's going to save it and she's going to say save it under customized. I'll stones and after she saves.
+All of them. She can make a new form where she's going to import from this category. Each of these questions that'll make her the new form.
+And that's really the best. Process for her. And if this may be a good thing for you to schedule a, you know, 20 minute call with her and show her how to do it.
+Or you can create a loom video. If you do schedule a call with her and you want to do it at a time when I'm available, I can hop on the call if needed.
+I don't, I don't think it's a good idea for you to transcribe all this for her. That's going to be taking a long time.
+If it was minor tweaks, it would have been fine, but this is going to be a lot of text to type out.
+It's best for her to do this. If she doesn't, if she doesn't have the actual text in a Word document or editable version let me see if I can do something here.
+Yeah, I'm sure there's a way for us to get the text out and right now the easiest thing is for her to contact whoever gave this form, and there's a way they can download it into a PDF or save it as a PDF.
+That'll give her this, this form, and it's because this still looks like it's coming from Medhub. These screenshots are from Medhub, so whoever sent this email to her, I think it's some guy named Justin who's on the email chain, that person can save it as a Word document or PDF and then she can
+copy paste.
+https://www.loom.com/share/6277210400594ae28bd54e9856bba4de
+success
+Understanding Screen Functionality
+And so I wanted to show this functionality here because it took me a while to figure this out. So if I go to projects or issues and then under screens we can see different screens that we can we can use in each of these screens are represent like what shows up in the when you're creating that type of
+issue. So you can see that the main two that we're using for development is the metrics agile box screen and the metrics agile screen.
+So if I go here I go here and configure, then I can see all the fields that show up there.
+So for example, if I go in here and remove this and go to create and choose bug, you'll see that it no longer shows up.
+So we have the priority and if we, we're going to rename this to if we're going to rename that to severity, then it'll get updated on their severity.
+And if I go to the agile screen and then click this here and I remove this when I create the feature, it won't show the priority anymore.
+So that's what these screen types are for. And there's more advanced things like issue types, screen themes and all this stuff.
+I, I don't know how all of those stuff work, so, but we mainly want to focus on these two so you can customize it how you think is best.
+https://www.loom.com/share/853e19b4441a4ed697d65ff5c4baa829
+success
+Temporary Workflow for Handling Declined Rotation Requests
+This is going to be a temporary workflow that we're going to use for handling declined rotation requests. So on the admin portal under schedules, clinical schedules, schedule requests, we have these requests that were submitted by our students.
+Since we don't have a way to decline these requests, what we have to do is take a screenshot. Of what has been submitted and this can be done using a snipping tool on windows.
+And this allows you to save an image into a Microsoft Word document and if there's an attachment that can also be downloaded and saved.
+And then open up the student's profile and under the documents and certification we can upload that request so we are keeping it for our archives.
+Once it's been saved. We can go back to the, the clinical schedules page and delete that request. This will allow the students to go ahead and resubmit it with whatever changes you want them to make.
+So the first step is a screenshot, save it into word document. Upload it to the documents and certifications page on their profile and delete the record and we can inform the student that they can resubmit it with the changes.
+In the future, we're going to have a declined option here so that there's no need to save those screenshots that will be available to the administrators under the declined section.
+https://www.loom.com/share/b3b8886d7b4e46f6a24bc993c6bf8e18
+success
+Conflict Resolution in Uploading Session Schedules
+Hi, Prasad. So, the idea here is that if you're uploading a session schedule and you have the same time, same date, same location, and the same leader is telling us that these records are, you know, have the same lecture at the same place and it's trying to tell you that it's a duplicate.
+So if they're loading something, a lecture is happening at this room with this faculty member and why is it being added more than once?
+So, that's the reason that we're uploading it. And it's asking, do you want to create duplicates? If so, continue, continue the upload.
+And if you can download the conflict as a CSV, then you could review it and confirm that it's, it's good.
+If there's a better way that we can do this, I'm, you know, totally open to it. But the goal is to tell them that there's a conflict and and give them a way to override if they want to continue creating the duplicates.
+I can also change the language a little bit. The uploader file may contain duplicate records with the same values. With identical values, with the following identical values.
+And so, uploader file may contain duplicate records with the following identical values. And then, listing out the values here. So it's essentially checking for conflict.
+And we're also I should clarify that it, it could be date, time, and venue. So we have two records that are the same, happening in the same place.
+It doesn't have to be all four. Daytime and venue. Daytime and session leader. So you can have a lecture that has a conflict that this person cannot be in the two places at the same time, or you can have a, an event that has a conflict.
+So you have a auditorium that is booked. Twice. So that's what we're trying to prevent here.
+https://www.loom.com/share/bd1e4b2edd814715af1be8119086b42a
+success
+Jira Overview
+Hi, Guy. So, I want to start off with a big picture overview of what we are doing in Jira. And this may be a little disorganized in terms of how we implement all of this because it's, yeah, like I'm not familiar with all of the different features in Jira yet.
+So, what I'm going to be doing is picking out those things that I'm familiar with and then you can look into it more.
+So, for example, right at the beginning when we log in we have a dashboard that allows me to see things that are assigned to me and the different projects that I'm part of.
+So, the two main projects, actually three main projects we're using in metrics are growth ops and content ops. So I'll start with the dev.
+So in Jira we can create two types of projects. So there's the let's see if I can close this. It shows like various types of projects in here, but there's really two main ones.
+One is a software project and the other one is a business project. So, if I'm doing a software project, I have the option of having a backlog and I have spreads and it's more of an agile process.
+If I go into growth ops, for example, and you can see there's software projects and then there's business projects, for business projects, there's no spreads and there's no backlog.
+It's just a list of tasks and then you can assign statuses and work on those. Tasks with due deadlines. In our dev project what we have here is a backlog.
+And these are all the ideas that we have collected from our customers and it's written up into A. So we have the current sprint here.
+That shows all the sprint items. Then we have the upcoming sprint and then everything else is into backlog. And we can click on it and we can view and move it up to the next sprint or move around if needed. In a good lab, there's very limited search and filtering that's available.
+So for example, if I have, I can go in here and say filter tasks from any of the projects that I have and I want to do more and let's say Okay.
+If you go to all issues, it gives you a little bit more filtering options. So, I can go more and I want to show all the issues where design is done and it gives me anything that's design done, but I don't want anything that's already in development.
+So I can say it's actually status, it's going to be status of to do. So anything that's done but it still hasn't been started on.
+That's where this flexibility and I could turn on different columns if I want to add more columns. And from a search you can also use JQL to write your own queries to find information.
+So this is very useful for us to find things and have a saved search for different types of jobs that we're working on.
+Going back to the dev project and if we go to releases we are tracking everything that's released here and I can look up what went out and see all the issues for that which has been very helpful.
+Then we have, let's say I want to customize this project and what we can do is go to project settings and in project settings I have issues and issue types and we have created feature bug as toot custom types and these custom types can either be created in the project or it can be universally created
+. It can be created in Jira and used in multiple projects. So the way that Mark has set this up, I believe these are universal project task types that you can use in different projects.
+If I open one of these up, let's say bug. It will show me all the different statuses that I can use for bug in progress, needs testing, needs changes and so on staging.
+If I want to add a new status, I can do that. Then there's also, layout, if I want to customize the way the order of the fields.
+Screens to customize. Let me see if I can edit this. So you can see how those fields show up on the page.
+So if I create a new feature or bug. You can see that this is the order that these buttons show up and it lets me customize that.
+I'm going to go in there one day and clean out some of the things that we may not need so it's a little less intense.
+And then Mark had also added a custom script. That pre-populates our standard template for writing up bugs and issues. I'm not sure where he saved that, but that was also something that is really helpful because everybody that's writing up an issue can follow the standard template.
+We can also create custom fields here and, In terms of apps, there is an app store that you can use to add extensions to the metrics for your instance.
+We currently have a few of them that we have added. Sometimes, we'll have a few of them that we have added. For example, one of the things that we've set up is Slack, so if I want to add a Slack Thanks for watching.
+Bye. Whenever a task from Slack I can go to slash, zero, create, and then it'll bring up a model for me to create a task.
+I can apply that to different projects. So, these are the different apps that we have turned on. Some of them are helpful, some of them are not.
+You can check it out. Overall, the big thing is we have software project, business projects, each of those have different tasks types with different statuses, some automation that's built in and there's also a lot of automation that we're not using yet so, for example, if I go back to this page, it
+https://www.loom.com/share/b1bd44348f084a579530d32bbe2a4f42
+success
+JIRA Cloud Integration in Slack
+Good afternoon, everybody. So I wanted to share this JIRA cloud that we have in Slack. It's been around for a while, but we haven't used it.
+I actually finished updating it. I removed some of the apps that we are no longer using and then fixed the app so that we could use it for our task creation process.
+So you can see here I was playing around with it under my account. If you want to make a new task in JIRA, you simply go slash.
+JIRA and then you can either create, so if I want to create a new issue, I can say new task, it'll bring up the window and I can say does it want, do I want to put it to growth ops, dev or content ops.
+And new task, I put a description here, pick an assignee, and then due date and then click submit and it'll create that issue in JIRA.
+So it's really convenient for us to create these tasks directly from Slack. When it comes to dev tasks, it obviously doesn't bring up the template for those events, for those tasks, at least it can get those initiatives.
+We can add potential ideas into JIRA, into the backlog and then we can go back and add those details later if we need to.
+https://www.loom.com/share/485de24f76894ffbb86ea067d3eea8b9
+success
+Loom: Understanding User Permissions and Evaluations
+So if I take a look at the permissions for this user under system set up permissions and April's here, click edit and I scroll down it looks like they have specified specific templates and a role for the people that, for the evaluations that she should be able to see.
+I believe the template part should be fine, but there, if you say that April should only be able to see evaluations that were done on clarity.
+So, if you're not evaluating clerkship CAs, we're never going to see any evaluations because you're not evaluating clerkship CAs. Instead, it should either be blank, or we have to select all the student roles.
+To another clerkship CA, Beth let's see, no, man. See you next week. Bye-bye. So, we're using a different permission set here where it says manage evaluations for site and it's showing all the site specific evaluations.
+This is a newer evaluation set that we added. So, I believe it's the best approach here is for us to give them a what we can do is on the staging environment test to see if we enable this and choose
+https://www.loom.com/share/c24816ed75bd447a86bd315d0fd37aa0
+success
+Schedule Request Feature Update
+This functionality has to do with the schedule request feature where a student can submit a rotation swap request and the administrators can approve or reject it.
+Currently when we have a review that's coming in for the administrative side, they're able to open it up and review and approve it, and it will show up under the approved section.
+What we don't have is a way for us to track anything that was rejected or declined. So this feature is meant to add a new status or a request status.
+And then under the request status menu, we want to have pending, declined, and approved. And if I click on declined, I can see all of the options.
+All of the, all the student requests that were declined. And then on the student portal, if something is declined, then they're able to see the button to review and resubmit it.
+So it would go, essentially go back to the similar status as pending. With, with the note that's I'll include a design for the student side.
+So it's obvious what that looks like but for the admin side, it's, we're not going to be really changing any designs.
+It's going to be simply showing the approval. And declined in a, a separate filter so that the administrators can keep track of anything that was declined.
+https://www.loom.com/share/432aec872ed54c9696bb3be7179025dc
+success
+Loom: Troubleshooting Evaluation Access Issue
+So this issue is going to require some research. So yeah, the issue that they're having, is not the reports, the, is that she cannot review evaluations that were submitted on students.
+So let's go to, ,staging server here. ,and... We look at system setup permissions and April here, she's given ability to Thank you.
+Manage the evaluation site. See you next week. Bye. So all of these permissions have been set up. And if we look at another coordinator.
+Actually, I see the problem here. Yep. So, what I'm noticing is that on her page, they have specified which evaluation form Thank you.
+Bye-bye. She shouldn't, she should have access to it, but also said choose roles for whom is authorized to conduct evaluation reviews.
+So, saying this is they selected her. So it's saying she could only review evaluations of anyone with her role. What they're, they're never going to have an evaluation because you're, you're not really evaluating clerkship coordinators.
+What, what, what they need to do is either remove this so that the templates will be shown for all the student roles or specify each of the student roles.
+If you look at this other coordinator, for example, that is also a clerkship CA. Slippery lower part candor.
+https://www.loom.com/share/64b78770525c42a792372f9be6d18f4b
+success
+Loom: Creating an Anonymous Evaluation Form
+So, for this particular issue, they're asking for, this is a program director and he's asking for a way to create an evaluation form that they can collect feedback anonymously, I mean, from a faculty member telling the program director that president is struggling.
+The best way to handle this is for them to create an evaluation form. That's anonymous and open even on an open form type.
+So once they set it up as a confidential form. So this is. And then templates and we have confidential setting.
+So this needs to be enabled. And then we also need to enable the under assignment rules. And then should this be automatically available as an open evaluation enable that.
+So this would allow the faculty members to submit this and anonymous evaluations are not automatically shared with the student resident.
+And they will have to be published manually. So the faculty and the program director can go into the system and they will see it as an anonymous evaluation.
+But they also have the ability, they can be given the ability to reveal who the evaluation is. So, collecting anonymously, but if this is something that there is you know, you want to identify what the faculty is, we can give access to the administrators to do that.
+Thank you. Thank you.
+https://www.loom.com/share/ab85df01a36449f891e197c3aa2c6720
+success
+Loom: Understanding the Issue with Marshfield Clinic's Server
+Hi, Mark. Hi. I was going to call you. Hi, Marshfield. Hi PJ. So this is Marshfield Clinic, one of our clients, their server.
+And when I look at Marshfield, it's a little bit different than some of our other clients. And if I go to this support request, she's saying Western Master Schedule is not showing any of the rotations.
+So if I go to institutional portal, but I'll switch over to program portal and then she, they have different regions of with different offices.
+So we go to Western. And then go to schedules and master schedule, and they're going to. And that is true.
+So let's see if we can figure that out. And if I click so this block schedule will have two views.
+One, you can see the individual. All right, let's. Students on the left side, or you can do it by rotation, sort of saying, I want to see all the students and what they're scheduled to.
+Or I want to see all the courses and who's in those courses. So if I go into one of these students.
+Thank you. Thanks. Accounts and I try to assign a rotation. I'm not getting anything here. So it, it tells me that there's something wrong with the setup.
+So if I go to the schedules page, I can click edit. Look at the schedules. And what I'm seeing here is that you, you either, you either have the ability to select a specific site and it'll only show rotation from that site.
+Or if you don't select anything, then it'll show rotations for everybody, like all sites. So what we need to do is she selected one site here and and I think it's not showing any of the rotations because there's not going to be any rotations linked to some emcee marshfield.
+So we've got rotations. I don't see any rotations linked to that. So that's why it's not showing up. And let's double check that.
+If I go to sites, you see marshfield view rotations, no rotations there. So they're choosing a site with no rotations and there's no schedules, not showing any rotations.
+So you can explain that to her and help her troubleshoot that. And then the next step is to either, did she show the, did she pick the wrong site or did she forget to add rotations for that site?
+Thanks.
+https://www.loom.com/share/f716db0072ac44d2a1f2d12c66a18534
+success
+Customer Health Document Update
+Hey PJ. So this is a document that I started last month to keep track of customer health and some notes.
+We had a meeting about it. The second sheet on this, the goal was to create it at least. Source document to access servers and other things.
+So on this, you'll see the list of all the clients. And if you highlight this and click on it, it'll take you to the production instance, staging instance and dev instances.
+The I know I haven't checked all of them. So if you, if any of them gives you any error, please.
+Let, let me know. So I think the Yale, for example, it says Yale. This is incorrect. It should be YSM.
+Ysm.metricclamp.com. This up here. Yeah, and then I think Purdue, yeah, Purdue, may also have, yeah. This Purdue's one is also wrong, so it should be Purdue CVM, and let me see if I recognize anything else.
+Yep. So this is the best place, and I'll pick I'll fix Purdue. But if you run off, run into anything else, let me know.
+https://www.loom.com/share/7221c4cc35f0427ba5c43844fb574961
+success
+ACGME Site Visitor's Requirements for Evaluations
+In this video, we'll take a look at how we can meet ACGME site visitor's requirements for evaluations. So the site requires site evaluators requirements as upload evaluations in a combined PDF.
+The evaluation should be specific residence fellow and not blind documents. Evaluations may be from individual evaluators. And or in aggregated format.
+So for current residence, we have to submit evaluations for rotation evaluations for by faculty, 360 degree evaluations and semiannual evaluations.
+So for example, for a three year program like to have six residents or fellows files to from each year. We go back to metrics.
+What we want to do is on the evaluation summary report that can be by access by going to evaluations reports and evaluation summary if it's a three year program.
+We want to choose a three year well, we can we can do a one year date range. Let's go to going back from August 1st.
+2022 just to August 31st, 2023. And then this is going to bring up all of the evaluations that were assigned during that day range and all of the one year. Once that we're submitted.
+So for these forms we can choose add all listed items or we can choose select a specific templates that we want to include.
+And then at the bottom. Under the evaluate T section, we can choose the residents that six residents from PGY1, PGY2, PGY3, and that would allow us to pull multiple reports that includes data from all of these forms.
+https://www.loom.com/share/9b75d3166ae545fb97568b4fcf653133
+success
+Understanding ACGME Requirements for Resident and Fellow Evaluations
+In this video, we're going to take a look at how we can meet ACGME's requirements from site visitors and this is for you about looking at resident and fellow evaluation performance.
+So ACGME requires that training programs submit evaluations for a six, a two residents or fellow for each of the academic years.
+And this, for example, for a three year program they like to collect six residents evaluations two from each year. And this should include their evaluations from their faculty, their peers nursing staff, other other support staff, as well as semi-annual evaluations.
+So to pull this report, what we have to do is go to metrics, go to evaluation summary report that can be accessed by going to evaluations, reports, evaluation summary, and then we can do a date range.
+So I, for this example, I'm choosing a date range for the past year, load assignments, and then I can see all of the assignments that were made during that date range and all the submissions that were collected.
+On the right side, then I can pick and choose all of the forms that apply to apply to the resident.
+So it could be faculty value in the residence peer valuations, as well as valuations from hospital staff, such as nursing or allied health professionals.
+So once you don't want to include any evaluations where the forms were submitted by the evaluator, such as faculty valuations, will we choose the forms where the resident is getting evaluated?
+So let's say, for example, I choose this one. So if I choose all of them, then I come down here.
+Under the group results section, I can choose six Bye-bye. Residence. It's two from each PGY level. So I'm choosing these two.
+So if you had a PGY 1 Residence evaluations, maybe it needs to be a, the role needs to be adjusted, but here I'm choosing PGY 2, PGY 2, PGY 3, and PGY 3.
+And then I can choose the Generate Report button, and metrics will email me a PDF for each of these residents.
+One PDF for Adam, one PDF for Alison, one for Manisha, one for Tiffany. So four PDFs that includes results from each of these forms that I submitted.
+And that'll give me what I need to submit to ACGMA.
+https://www.loom.com/share/a34b774346ed4daf8bc4fa3bc0011119
+success
+Updated Institutional Work Hour Report [🎥]
+Hi, Sam. So this is the updated institutional Work Hour report and this is on the institutional portal under reports And I believe it's under work hours and it's called institutional report and what we want to do is update that to our new reporting format and Rio can help you with information on how
+that report pages can be loaded. Like I think that he has a standard page that he built. That we can reuse for all the reports.
+So if you look at, for example, our schedule site rotator report, we have a standard format for it where we have filters at the top, options and then the table at the bottom that shows the results with the ability to export to excel.
+So what we're doing here is essentially changing this report so we have the new filters at the top and then we want to be able to give them a date range to select data for a specific date range and we're using the same date range that we used in the previous version.
+Programs will allow us to select one or more programs. The type of violation is a new field that we're adding so that we can select specific violations that we want to show at separate columns.
+And then we want to include this include for users with inactive program affiliation. What happens is when they have select the date range and apply this and click the filter button or load, sorry, the generate report button, it's going to show the data here.
+And we have each of the different training programs and metrics there. Compliance percentage. So the compliance percentage is coming from the existing report, but this highest training percentage and lowest training percent is something that is not being displayed as a column in the existing report
+. We'll be right back. So we're going to look at the base for this particular program for this specific date range.
+We're saying of all the individuals that are in that program, pick out and show the ones, show the individual with the lowest compliance percentage and the highest compliance percentage.
+And these are different work hour violations that can occur when you select the type. So if you turn any of these check boxes on, then different columns will appear and we'll show the count.
+So that's what this report is showing and when we click on one of these violations we also want to bring up a modal that shows the details of that violation.
+So it gives us the name, the rotation, the details, the trainee comments, and the administrative comments. So if I go to metrics, voodoo.
+Work hour violations page, you'll see that information being displayed on this page. So let's do a wide date range. So this is under the duty, our violations page.
+You can see it has all this information and the same information we want to display on the model that shows the name, the role, the rotation details, the training count.
+So let me know what questions you have after watching this video and along the other videos and for the front end part if you feel comfortable with pulling the existing report and modifying it, you can go ahead.
+If not, I Rio is available to help with that. And then it's a matter of us modifying the backend to load the data that we need to display it on this table.
+And then the P the export to PDF and Excel. We only need to do the export to Excel option for now.
+And then that'll allow us them to manipulate data outside of metrics.
+https://www.loom.com/share/93d7d38db143414e937334cfcee94b2c
+success
+Loom: Troubleshooting Schedule Issues
+Hi Melissa, so I've been looking at the schedule to see what's happening with the students Actually, we're looking at the students account to see what data She has associated with her and when I opened her profile I can see that we have the education history and on this page we're seeing a block schedule
+assignment for May to June. When we go to the schedules page, I can see that we have block schedules for the fourth year students, but this schedule does not include the third year rule.
+So even though she has a schedule, she's not going to show up on the schedule. Even though she has an excitement, she's not going to show up on the schedule because her role is not selected.
+So to fix this issue there's one, what we can do is click edit, go down to CV and three blue, enable that, then save it.
+Now we have CVM 3 and 4 students showing up here, and then we can go into this schedule, search for her.
+Thanks for watching! And click edit, and we're loosing a, You back up database here, so it's a little bit slower.
+Let's delete that. Thanks for watching! So now that data is gone, let's go back and delete it. Again, this is not your actual server.
+This is a test environment, so. Thank you so much for watching. Delete account. There we go. So after we delete that schedule, you can delete this, delete the user.
+Please let me know if this helps and if you have any additional questions.
+https://www.loom.com/share/8b1c5ca9137b4a82a9b6552212bafc93
+success
+Adding Grades into Metrics - Explained
+In this video, we'll take a look at how to add grades into metrics under the great book Menu item on the left nav.
+We have grades on the grades page. We have two tabs rotation grades and course grades. The rotation grades allows us to add grades for clinical rotations.
+There are a set of filters at the top for us to filter the grades that we have already entered. The first filter is for us to select an academic period, which can be a semester or academic year.
+We can also filter by roles, a person, the graded course rotation, the site, and the add score button at the top right allows us to enter a grade into the system.
+So I can select a student or a resident and then under the person field select a graded course rotation, the date when I'm entering the grade, and then I can also link this back to, the student's schedule.
+So there's two options for doing this. First option is select existing block schedule and metrics, and this allows me to select a particular rotation, and we're only going to see the rotation that is for this particular, and the weeks allows us to enter how many weeks this rotation was scheduled
+for. If we don't have the scheduling data in metrics, we can manually enter that into the gradebook. So I can select a rotation.
+And then start date, end date, and the number of weeks. Then the score field allows us to enter the score.
+So the score, let's say, is 80. Score type allows us to define whether it's a score type for midterm, final, and so on.
+The status, whether it's a pass-fail, or whatever the status of it is, we have entered into the setup. Secondary status if needed.
+The description field, if I want to type in text, that will be included with the grade. And the comments section allows us to enter comments that we're providing.
+By the preceptor for this rotation. So these comments can be entered manually here or as we'll review later, we can enter this from the actual evaluation form when it's submitted and all of at the bottom.
+We have a way to. Attach a file. So if this evaluate this, this grade is coming from an evaluation that was submitted on paper, we can scan it and add it as an attachment here.
+The second tab here for course grades. Allows us to enter grades for preclinical courses. And here I can select a course and then link it back to the schedule and add the score, the type, the primer secondary status, secondary status, description, and add comments and attachments if needed.
+So between rotation grades and course grades, we're able to capture the grades for all four years of medical education, the medical school.
+This information can be published to the student. The next the second way that we can add grades is from directly from the evaluation form.
+So under evaluations and assignments. When we have a form that's submitted, we can open that up. And at the bottom.
+Let's see if we have any of that. So at the bottom of an evaluation form that's submitted, if Gradebook is used by the institution, we'll see a section called Add Grade.
+And from this evaluation form, I can fill out all the necessary fields to add a grade directly to the Gradebook.
+And this is showing the same fields that we reviewed in the previous section, and it's going to be linked to this evaluation form.
+So if we have an evaluation, it's best to submit that grade. It's not coming directly from the evaluation form, so there's a relationship in the database between the form and the grade.
+If it's not coming from the evaluation directly, those grades can be added directly into the Gradebook. There is also a way to import grades into metric using a spreadsheet that will be something that we can assist with.
+It's on our end.
+https://www.loom.com/share/ef33defdc7bc4ed4a65f6a8ab6ee64a8
+success
+Academic Progress Page: Tracking Student Requirements and Clerkship Rotations 👩‍🎓
+All right. In this video, we're going to take a look at how we can use the academic progress page to keep track of students requirements and especially for clerkship rotations.
+So the academic progress page, which lives under this great book is something that both the administrators and the students have access to.
+Administrators are able to see data for all of the students and each student can see information about their particular schedule.
+So if I go here, I can click on, for example, the student here, Lucy Bennett, and this will bring up all of the different categories that are in our graded course rotation, and I can continue expanding that to see cup subcategories in each of the courses.
+And then there's columns that gives us total number of weeks or credits for each category. So if we look at do something here.
+See you next time! Bye! So, if we look at this column here, for Lucy Bennett, she has mandatory courses and mandate core rotations.
+And then for the columns, we have a total number of required weeks for core rotations and a total number of required credits for mandatory courses.
+That's showing up in black. And then the green number indicates how many credits or how many weeks she's been scheduled to already in our system.
+And then the remaining is giving us a count of how many weeks this student still has to be scheduled for that particular category.
+So if we go to our schedules, so right now, for example, we can see diagnostic medicine is so internal medicine is zero and under rotations i'm going to map an existing rotation to internal medicine save that See you next time. Then go to the schedules and we'll look at Thank you.
+Lucy and add her to the internal medicine rotation for four weeks and published come back to the schedule and now we can see that lucy has been scheduled to internal medicine 13 weeks and she still has 12 weeks remaining, I'm sorry, she has a requirement of 12 weeks and she's been scheduled
+for 13 weeks, so she has zero remaining. So this page allows us to look at each student's requirement and make sure that they're, they have been scheduled to the appropriate number of rotations for the core rotations and electives.
+And from the student side, they can also do the same thing. They can log in and see what electives or rotations they still have to be scheduled to.
+https://www.loom.com/share/cf80d31b32294761a0f310829b8969ad
+success
+Setting Up Graded Courses and Rotations in Metrics
+In this video, we're going to take a look at how to set up graded courses and rotations in metrics. On the left menu, under Gradebook, we have the Setup page, and the first tab on the Setup page is Graded Courses and Rotations.
+A graded course or rotation is essentially a list of all the preclinical courses or clinical rotations that are offered at the institution, and it's categorized into into groups based on whether they're required, not required, or whether they're core clerkships, or whether they're electives
+. So these categorizations can be determined by the school, and each course can have a specific number of credits, and each rotation can have a specific number of weeks that needs to be completed for it to be for it to count towards the, to the student's grade.
+So first let's take a look at the filters at the top. We have a way to see which of these courses or rotations are active or inactive, and then I can also filter by whether the courses and rotations.
+And we'll start by creating a new weighted course rotation. So I'm going to say, I'm going to click on Add Graded Course Rotation, and let's say I want to deal with courses first.
+So we'll call this there are five fields, actually six fields that we can fill out. On this window, first is whether it's a course or a rotation.
+So we chose course, next is code. So I'm going to call this required. The name is going to be mandatory courses.
+The description I'll put in, these are mandatory courses. And for required credits put in 50. So now I'm defining a, essentially a category.
+Of mandatory courses, and it's saying that the total number of mandatory credits that I have to complete is 50. Click save.
+And I scroll down, and I can now click to expand that category. And underneath that category, I can add all of my mandatory courses.
+If necessary, I can also create subcategories underneath it. So let's say there are mandatory courses, and I want to have subcategories for all of the different first year courses versus the second year courses.
+I can have two categories, one for first year courses and another one for second year courses. But for the sake of this example, we'll simply create the courses in here.
+So I'm going to click. Add add button underneath the category. And then let's create our anatomy course. So for code, I'll put in A N T one oh one name is going to be anatomy and description.
+This is the anatomy course. And we'll put that as five credits. So. So you cannot have two courses with the same code.
+So which is why we received an error says this course already exists. So I changed that to anatomy 102 and we're able to have this five credit course under this mandatory.
+Very quickly. So I can keep adding as many courses as I want. And the idea here is that the total number of mandatory courses that the student has to take is going to be 50, but the school may offer more than 50 mandatory courses.
+And the student sorry, for mandatory courses, you want to have the total number of courses to add up to the total category.
+For elective courses, on the other hand, the school may offer more elective courses. Than the total number that is required.
+So if they require 50 elective credits, the school may offer up to 200 credits worth of elective courses. And the students can pick and choose to make sure that they receive at least 50 credits.
+So that's how we set up all the courses for our school under the gradebook. For rotations, we do the same thing with weeks.
+So I want to click add new. Graded course rotation. I'll change the first drop down to rotation, but in the code as core.
+And I'm going to give the name as core clerkships. Acquired weeks is 50. And if I expand on the core clerkships I can add each of the clerkships.
+It's like internal medicine, it's a code of IAM, internal medicine, and let's say that's 12 weeks, save. And now we have total number of credits for 12 weeks for internal medicine and that is added underneath that core rotations category.
+So this has been an overview of how we create greater core rotations. In metrics which allow us to define the total number of credits for each course and each rotation, as well as the total number of credits or weeks that are required for the category and then in the next video, we'll take a look
+at how this can be helpful in planning out to scale. We'll take a look at our schedules. Thank you very much.
+https://www.loom.com/share/2e73e52bd5244508ae08e409d8d81aec
+success
+Testing Environment for Lottery 🎲
+So Mitch, this is a testing environment for lottery. I wanted to give you access to this so you can try it out.
+I'm on the admin side and when you're on the admin side to access the lottery you have to enter in the slash lottery to the URL.
+So metrics.dev here and then slash lottery. Once you're on this page you can see the setup for the lottery and we have set this up for CVM 4 with all of the sites.
+And if I want to see the different blocks that are set up, you can go to the previous phase. So there's different phases of the lottery.
+It starts with adding all the sites and roles, then it goes to creating blocks. And on the blocks page, these are a bunch of sample blocks that we put in.
+This is for the sake of testing. It may not be the actual blocks that you have for these rotations. And I'm going to advance.
+So student preferences is a phase where students can actually add preferences. Now, we have this test account that we have used in the past.
+That's called s-a-student.com. Password is l-m-u-mitch. And on this user's account, so I have to do here. Okay, so it is now in the student.
+And now I see the lottery page. And if I go to the lottery, I can select preferences, I don't have any preference preferences right now.
+I click new, and then when I select the site. It'll give me all the blocks that are in the system.
+There are, this is one of the known issues that we're fixing right now, where if you select the site, it's still showing you every block that's available not the specific one that you put in.
+Like it should be filtering by the specific site. I can click add. And come down to the bottom to submit.
+We're also going to be changing into autosave. And this allows me to adjust the ranking. So we'd love to have your thoughts on the different columns we have and confirm that we're showing all the information that is necessary.
+For the students, as for like the issues related to sorting and things like that, we are addressing that as we speak.
+It's something that the team is working on. Today, the but the one thing that we want to make sure is we're showing everything.
+For example, is there any code or anything that needs to be shown or is the name of the rotation and the name of the sites?
+Is it sufficient? And for the blocks, we have the block dates. And these are currently entered as two-week blocks, but it does, it doesn't matter for for now, since these are going to be two weeks when you actually make the act, the rankings for the students, you'll have some of them that
+are two weeks, but most of them will be four-week blocks. And that setup is going to be done later. It's not going to be done on this testing environment.
+https://www.loom.com/share/7e811dc2bdec43e38f7e2bcfc5a5c0f1
+success
+Setting Up the Grade Book in Medtrics
+In this video, we'll take a look at how to set up the grade book in metrics So under the left menu, we have the grade book and Inside of that we have the setup page So on the setup page there are three tabs graded course courses and rotations score types and score statuses so we can start with the the
+second tab which is the score types and what we can do here is specify a particular type of academic activity that we want to consider as a grade so for example if I go in here and choose on the right side we have a button add score category click on it then I can select a course and this is selecting
+a course from our curriculum then I can give it a name so let's say this is going to be mid-term total points gonna be out of a hundred of that description field that I can add and the date that this is going to be viewable on the personal portal if I want to do that then click save so I have mid-term
+total points and the publish date that I can add so we have another grade that we want to add let's say for the same course I want to also add the final grade so if you do that I click add score category again select the course so enter the name final grade define the number of points add description
+if i want to and choose publish date we'll skip publish date for this example and click save next we have score statuses so score types allows define what we're grading and score statuses will allow us to define how we're going to grade it so at to add a new score status we can click the add score status
+button and let's say this is going to be pass fail name is pass and sometimes we may have a primary score type and a secondary score type so pass fail and if they pass we may want to have a secondary score type this is something that some score status that some schools may use but for more schools it's
+either going it's going to we're only going to use a primary type. So name, type, and description of the three fields that we have to fill out.
+Click save. Okay, it's not a lot I'm going to create it because we already have a duplicate, so we already have a pass in here.
+So, if a score type exists with the same name, we won't be able to save, create another one. And if a score type has already been used.
+It's not like, it's not letting me just edit it. So we have pass fail as the score status, and then we have midterm and final as the score type.
+Now, if we go into the first tab, here's where we can define all of the different courses and rotations that are available in our training program.
+We'll be covering this in a separate video.
+https://www.loom.com/share/7a8d244d68f94d91843b7a8f295e8b0a
+success
+Panda Dock Setup Overview 👀
+Hey Maureen. So I wanted to give you a quick overview of the Panda D*** setup that we have under templates.
+We want to confirm that you have access to this consulting agreement. Actually I'm going to move this over to, this may be a duplicate.
+I'm going to leave that for now. But internal contracts, let's open that up. And it has start date, the dates, one of the names.
+And then at the bottom, we have name of the person who who's going to be signing it. And this is going to be me on the right side.
+Title, responsibilities, and amount. And usually, I would modify this and add some bullet points and specifics that their responsibilities are, actually up here.
+And then would send it to them via PANDADOC for them to sign. And this would only apply for our contractors, and if if it's for anybody that's an employee, we were still working on the paperwork for that.
+So I'll send this to, you already have access to PANDADOC, and what I want to confirm is that you have access to the template, and we also have some drafts that we wrote.
+So for example, Rohan, Vipul, Prasad, Vish, Kwemi Maria, Guillerme, Marina, so. Let's say, for example, I opened up Marina and we ordered to put July 1st when we had the adjustment of the salary, it should have the addresses and.
+We also have some draft here of her responsibilities and here. You we can pull this let me see if what's updated or not.
+So, we have updated Marina to be 45. Guillerme has been changed to a $4,500 fixed rate per month, and I'll send that to you separately.
+And then for Prasad, Whipple, and Vish, we've added a 10% raise. And for Maria, we've also added a 10% raise.
+She's a salaried position. I'll send this to you via email for the developers. We could go ahead and set this up and send it to them.
+They're not really going to have any changes in their responsibilities. I would like to hold off on sending it to Maria until we put down some responsibilities in there, since we're trying to put a.
+Maybe a score cards and things like that. But for Bev's we can send that out. And then for Rohan, he's not getting the race yet since he started recently.
+So in my email, I'll summarize this in terms of amounts and their titles. Subs by www.zeoranger.co.uk And we should already have drafts and I'm happy to look it over before we send those out.
+https://www.loom.com/share/a865684331c845f7bd83ba48e30454ef
+success
+Work Hours from the Resident Perspective
+In this video, we're going to take a look at work hours from the resident perspective. The first thing to note is that residents and fellows cannot log work hours if they do not have a published schedule for that day.
+When we arrive on the Work Hours page on the resident portal using the left menu Work Hours link, you'll see a calendar view, and this is default to a weekly view for this week.
+If we want to go back to the previous weeks, we can use the left arrow. We want to go forward in time, we can use the right arrow.
+The today button will allow us to go back to today's date. The month view will allow us to switch to the month view.
+So, to log work hours, again, we have to make sure that we have a schedule in the system. And when you go into metrics and you try to log hours, there are two ways to, actually three ways to enter work hours on the desktop view.
+First is we can drag and drop one of these tags at the top. For example, if I'm trying to log work hours for the day, I may use a regular shift.
+So this is going to be the most commonly used shift tags. You would use a regular shift. That indicates that you worked during the day as a normal regular clinical shift.
+And when you drag and drop it to the calendar, it'll bring up a window where I can specify I can specify the exact start time and end time but one of the things I can note here is that it's telling me that there are no schedules on this window that came up it's saying no schedules have been published
+for this day on the block schedule. Work hours can only be logged for scheduled days. Please contact the schedule administrator to publish schedules.
+So if your resident is contacting you saying that it cannot log hours, the first thing to do is check the block schedule and make sure the schedule has been published.
+So let's go to today's date where I know that there is a schedule published. And I will drag and drop again and now not
+https://www.loom.com/share/2e04cbe9820442f0bf7431782e098959
+success
+Understanding the Lottery Functionality 🎉
+Hi, Mitch. I wanted to create this video to go over the lottery functionality quickly. When you're logging into this testing environment, you can use the account test a student at metricslab.com test the password is going to be LMU Mitch or lowercase in one word and once you're in here you can go to
+the lottery page by putting the it in the URL slash lottery, fix something there. This is on the admin side.
+I have three lotteries that are running and we have a CV. M for this one is being run for CVM for blue.
+Double check the role of our student. By the way, you can you can access the administrative side of lottery by logging in.
+As your account. It's going to be your email address with the password lmumich with the lowercase in one word and then putting it into the URL, the lottery URL.
+It's not going to show up on the left menu yet. So on this page if I go to CVM four and I go to users state student is actually CVM one.
+That's why it wasn't showing up. Let me fix that. And then, I've got a lottery showing up, and if I go there, I can select preferences, okay.
+https://www.loom.com/share/e139e68ea6074745977bdfb51089b4df
+success
+Loom: A Hospital's Loyalty and Financial Struggles
+Good afternoon. I mean good evening Marcus For Karen Berger, I don't really have much to show here on the screen.
+She is from Lewis Weiss Memorial Hospital and they have have been with Metrix for many years. They're one of our earliest clients, either one of the first five that we onboarded.
+And the hospital is a very small community hospital and they are currently going through bankruptcy. Actually, they've been going through bankruptcy last year.
+They have a new owner, I believe. This is something that we don't really want to discuss with them. I'm saying this for contacts.
+They haven't paid our bill last year or this year. It's like a $7,000 bill. And Karen and the program director and others are very, you know, embarrassed by that situation and, you know, they're because of the bankruptcy, they are not prioritizing our bill.
+And because they were one of our first clients, we also have been flexible with them and because we don't want to shut off their software and this year Karen you know called us and said I don't know what in this bill is going to be paid if you guys want to turn off the system go ahead but we're still
+continuing to provide the services and support They need the program, and it's not really within their control, and they've been loyal to us for many years.
+So I'm not as familiar with their training programs. Workflows. Chris usually works with them. One of the things that we can emphasize with Karen, she is a very heavy support user.
+She's someone That's not very tech-savvy. So when she's trying to do something she may get stuck and she reaches out to us and we do We did over the years have done quite a bit of hand-holding and these are not difficult things or that and The team finds it easy to answer questions and help helping
+her with troubleshoot certain things. And she is very appreciative of the help that we're providing, and this is one of the main reasons that she really likes Metrix.
+So that's a good story to focus on, and she will really praise us for support. And then the other piece that we can also emphasize with her is competency-based milestone.
+One of the things that we do really well compared to other platforms is, well not even compared, I I'll just, I'll say that there's no need to compare with the other systems.
+We can simply talk about where we do great. Go into and show you something here. So these are the DCGME's milestones.
+So every specialty in the United States have a milestone's document and these are something that every training program has to report on biannually.
+So, a program director has a C, Critical Clinical Competency Committee that they define, and those individuals work with the program director to specify where each training stands on these milestones.
+Metrics has all of these milestones pre-loaded and allows the administrators, the directors to create performance evaluation forms using these milestones.
+So you can drag and drop them onto a form and build your forms. So I recently helped Karen with the, updating some of her forms.
+So I know that she went through that process, and it may be a good point to bring up of how she builds the forms, how easily she can do that, and does tying in the milestones and what she, they do with the data.
+We also can talk about if she has any insight into how the trainees and the faculty members are finding the system.
+Specifically, are there time savings or numbers that she can provide because that's something that I'm looking to identify for myself or some other calculations like how much time is it saving their residents, how much time is she saving her, how much time is saving the faculty members, and the compliance
+percentage is another thing. Important thing to note, you know, was how is their compliance percentage in getting evaluations completed on time?
+Yeah, so I'm not sure of all the things that she's going to talk about because again, I'm not familiar with their setup, but definitely support their evaluations, and then any stats that she can provide.
+https://www.loom.com/share/fce246b85ac54296bdb17d06d809ca0e
+success
+ACGME's Work Hour Rules in Medtrics 🎥
+In this video, we're going to start to look at ACGME's work out rules and how metrics helps organizations track those work hours and make sure that students, sorry, residents and fellows are not violating those requirements.
+And these work out rules rules are critical to maintaining compliance with ACGME, and the ACGME, or Accreditation Council for Graduate Medical Education, is the nonprofit organization that gives hospitals the ability to run these training programs.
+And it's important that these training programs meeting their rules and otherwise they can have citations that are issued to them or they can have their programs closed.
+These ACGME workout rules are applied to anyone that is in training during their residency or fellowship. And there are several rules that we have to adhere to.
+Metrics automatically checks for these rules when trainees are submitting their work hours. So in this first video we'll take a look at all the different types of violations that metrics can check for.
+So So here on the Work Hour Logs page, we have a legend that lists out the different workout rules that we check.
+Eight hours off. This means that when a trainee is logging hours, they have a lot of work to do. to be they have to have a gap of at least eight hours between shifts for them to be compliant. So let's say if I worked for a hospital from 8 a.m. to 5 p.m. and they tell me to come back in at 6 p.m., that's
+a violation because I only have two hours off, one hour off between those shifts. So once I get off my shift, I have to be off for eight eight hours before I can come back in for another shift.
+The next one, 80 hours. This violation is, rule is checking for, whether trainees are getting overworked. A resident or a fellow must only work a maximum of 80 hours per week when averaged over rotation.
+So remember that in metrics, residents are scheduled to rotations on the block schedule and in order for them to complete their training they may be doing rotations of different lengths some four weeks some two weeks and what we have to do is take those total number of hours that are logged by that
+resident during that rotation and average it over the seven-day week period. And if that average is going greater than 80 hours per week, then that's a violation.
+Third night, so there's a shift type that we have in metrics called in-hospital call, and a resident is not allowed to work more than, every third night in hospital call.
+So what that means is they can work one night, like overnight, and then they cannot work the next night. But they can work the following night, so if they're if they are asked to work back to back nights on a hospital in hospital call, then that's a violation.
+24-hour call. This is a rule that states after you have done 24-hour shift, you have to be off for at least 14 hours before you can work another shift.
+Next one it says 24 plus four hours. This is saying that a resident can work for 24 hours but they can then do another four hours of administrative work if they need to finish up paperwork.
+So 24 hours of patient care, but the four hours of administrative work, they cannot be seeing any patients during that time.
+Next is moonlighting. So trainees are allowed to log moonlighting shifts. But first year residents are not allowed to moonlight. So if we have any first year residents logging work hours and they're selecting moonlight, that's a violation.
+Home call, that means they're working from home and waiting for it to be called in. And if they are called into the hospital, then they have to use the in-hospital call shift type.
+Remember that PGY-1s or first-year residents are not allowed to take home call because they need more direct supervision. Days off, so you must be off more than at least one day off per week average over rotation.
+So if you're working over a seven-day period you have to be off at least one day. So it doesn't have to be the calendar week.
+We're speaking about it from the context of any seven-day period. You have to have one 24-hour period off. So those are the ACGMEs violations.
+That we track in metrics.
+https://www.loom.com/share/7d5b3263d5f043ef9f417351dbf99109
+success
+Analyzing Financial Reports 📊
+Hi Alejandra had a chance to look through the report and great work on this We do need to check a few things here So one thing I noticed is that We have Kaiser Permanente 2023 showing $1.97 for services and $30,016 for subscription.
+So when we go into this other report I filter for Kaiser Permanente here. And then when I go down to 2023, we can see that we have an invo- choice 1267, and there's three things for subscription, so what we can do is add all three together, and we get 182, let's see.
+It's gonna be services. 182.926.96. That'll be for subscription. And then for services, the only thing that we had was data migration consulting here.
+So this is one, two, three, four, five. And this adds up to $15,000. So we will put that here. And then for last year, we will go to here.
+So it's one, two, three. 172, and I believe we have that here. So we can move this over to subscription and last year we did not have any services.
+It was all subscription and the year before we have one two three four. All of this is one. So this is a lot of confusing.
+Two, three, let's see. So it's 155.721. There and goes here like this and then the year before that. And. Thank you.
+This is 2019. And to 20,000. So that's right. So I think that's good. And then what we're want to do is see if there's anything else like that.
+So, for example, this looks not accurate. There's almost never going to be a service that we're offering that's that much.
+It's going to be a lot less. So you want to make sure that this is correct. Yeah, so you can look for any big numbers like that and see if it needs to be corrected like this one here is going to be subscription.
+Thank you very much. Thank you
+https://www.loom.com/share/708893ae53af4b9fbdb35f57b0dd1372
+success
+Clinical Schedules Feature Request
+So this is going to be a feature request for the clinical schedules functionality and this will involve adding a new status and also adding a new field.
+In terms of status, we want to have approved and declined. So if a student submits a request, when the administrator looks at it, we want to have an approve button, a decline button, and a close button.
+If I click the Approve, it'll bring up a sweet alert that says, are you sure you want to approve this rotation request?
+And I can click Approve or Close. If I have a request that I want to decline, I will click the Decline button.
+It will bring up a sweet alert that allows me to click Decline or Close. And I also want to give the administrators a way to put a comment here.
+So when the administrator is declining it or approving it, they also have the option to write a comment. So it'll be a notes field.
+With a text box and that gets saved and when the student and the notes field you can also we also want to put a little so it'll look like this font here with the text under it that says notes are visible to the trainee.
+And then once it's saved, it's gonna be visible on the student's side when they look at it. So if we go back to the student's side, oh, one thing I wanna say, I want to mention is once we have the decline option, we also want to show that as a status.
+So pending, declined, I mean approved and declined. And if I go back to the student portal. And go to Schedules, it's going to have a schedule request change submitted.
+If it's declined, it's going to turn red and it's going to show schedule request changes. Declined and if they click on this button they'll see the notes and and we want to have a decline status at the top.
+We can show that. As a bootstrap label at the top right here that says decline One small tweak to make here is any fields that don't have any data, like attachment, let's put NA or none so that it's clear.
+And if something was declined, they can edit it and resubmit it to the administrators.
+https://www.loom.com/share/23885bb545394939b5c31c3b6b29ef6e
+success
+Improving Usability of the Report 📊
+Okay, so for this report or download, I wanted to provide some feedback to improve the usability while we're updating it and I'm assuming this should be my tweaks.
+If it's a big problem, please let me know One is as we scroll through this report. It's hard to know when a week starts.
+So if we can put You can always put Monday on a new row So we have two columns. If it's Sunday ends on the left, instead of showing Monday on the right side, we can start Monday on the left side, and then also use a black.
+Sorry it's not black it's actually three three three three three color for the cell background for monday and white for text so this way as you scroll down the page you can easily identify where a week starts and we don't want to do that for the other other days only for monday so that we can identify
+where a week starts also this could be due to missing data. We want to make sure that the event is shown as well as the speaker and the venue.
+And this may not be showing it because they never added it. But if it's not being shown on the report.
+Put speaker, speaker in bold with a name in regular text, and then venue in bold and name of the venue or location, I think is what we call it, and the name of the venue.
+So in one row underneath the event name. And we can put that in italics. The last thing is, instead of using this military time, let's use AM and PM.
+So it will be 1 PM till 2 PM. And we can increase the width of this row, this column, to make sure that it shows up on one line.
+Thank you.
+https://www.loom.com/share/85bea7a4b40e4dacb1a61980e366a05f
+success
+Understanding Curriculum and Course Permissions
+Hey, hey Marina so looking at this if you if we look at CT 24 and Well, I guess, here's the confusion, this is, I'm not referring to the my courses section, I'm referring to the curriculum session, I'm in a page, and then, under objective map, that's where we have the AI mapping tool.
+So if we go to this functionality, go to, switch the program that's on here. If I go, Robert Chase is there.
+In charge of foundations of medical. So let's log in as Robert Chase. So the My Courses page. Visually shows what they're scheduled to.
+For the personal and let's do that again curriculum robert chase setup Curriculum permissions, course director permissions, turn this stuff on, and now go back to personal portal.
+That's weird. I'll try something here. Okay, so now, okay. I'm seeing the problem here. This is my misunderstanding here. So if I do have course level permissions, it does show up in my courses.
+You're correct, and the AI mapping. Okay, I was wrong, because I didn't understand how this was working. Thank you, thank you for clarifying.
+And that it makes perfect sense.
+https://www.loom.com/share/60d18d0b601c4c14a7e1bd84ac7be8e2
+success
+Feature Request for RotationSwap Functionality
+So, this is a feature request for the RotationSwap functionality. What we want to do here is, instead of, two things actually, one is instead of having a Save button and a Close button, we need to have a, approve reject and close button and when we click approve we want to have a model or suite alert
+that pops up that says are you sure you want to approve this rotation swap rig? Request. Yes, and the buttons should be approve or cancel.
+Same thing for reject. If we get a request and we want to reject it, we click the Reject button and says, or instead of Reject, let's use a decline.
+So we click the decline button that says, are you sure you want to decline this rotation swap request? And we also need to use buttons that are standard.
+So if we go to the other models that we have in the system, this is how we show the buttons For some reason we're using these large buttons here.
+Let's get rid of that and on the top right We want to have pending approved and declined as statuses so we can and then on the student side, if something is declined.
+If something has declined, it will show up with a status of decline next to it. And let's log back in there.
+So rotation change request. This is how request change was submitted and it needs to be changed to schedule change was declined and the button will be in red and they can view it.
+It and delete it. Also
+https://www.loom.com/share/31cf0a9f182c4165880256c1d984ca72
+success
+Understanding User Affiliations in the Institutional Portal
+Hi, Jen. I looked into both of those users that you mentioned and I want to explain how how the scenario may have occurred.
+So on the institutional portal, I can see all of the users, so I search for Laura and I got her account and I click edit demographics and looks like she is in the system but she's her primary affiliation is the HEMON program and she doesn't have a secondary affiliation to the internal medicine.
+San Francisco program. So she's not showing up in your account. Same thing for the other resident, I mean the fellow that you mentioned.
+So the other fellow is affiliated with the cardiovascular program I believe and is not affiliated with the internal medicine. This can be corrected or updated on the users page under your program if you go into users page, affiliate people with this program and I can search for both of those users and
+click affiliate. This will now affiliate the user with your program and they'll be available for selection in all of the different menus.
+Please make note of their roles so that if you are affiliating Different individuals with your program and they have a role that has changed since the last time you use them for example the fellow that graduated and Is no longer at Pty3, but now is a FEL one role in the other program When you go into
+the different menus? He or she is going to be showing going up under the fellow rule. Yeah, I just want to.
+I wanted to confirm that fellows do show up in here, yeah. So once you make the affiliation, the fellows should show up in here.
+https://www.loom.com/share/a9b6e7a32fc640ed8b41f482ea589e20
+success
+Updating Document - Need Your Help! 😊
+Hi Alejandro, so what I wanted to do was get your help with updating this document and What we want to do is start by this second column and you can see here you have ultimate dot metrics lab calm as the link.
+We want to apply that to all of these and add a couple of other columns here. So the server name would be production.
+Aging of and we want here is a GPS of the med So, it's the client name dot metricslab dot com for this production, then for staging, it's So we can also improve this by turning this into a URL.
+And text could be off the med. So we want to basically put all the URLs here that we need when we need to look something up.
+So I can click on this, go to the production server, I can click on this to go to, the staging server and then I can click on this to go to the development server.
+So see if you can apply that to all of them and confirm that the links work. So each one Like all of the production servers will end with .metricslab.com, all of the staging servers will end with metrics.sg, so this one will be arh.metrics.isometriclab.com arhmetrics.sg and then arhmetrics.dev.
+So you can apply that to all of these items and confirm that the links work. If the links do not work, let me know and I can get you the correct name.
+https://www.loom.com/share/415bfdf959614129a35260566d948c35
+success
+Understanding Elective and Rotation Requests for Michigan State University
+Good afternoon. So in this video, we're going to review what the students see when they are making a request to switch or Select an elective or rotation.
+They want to complete we're looking at the student portal at Michigan State University on a testing environment and I'm using this one because we already had some test data and this is not a real student's account but for the sake of testing, the team there used this account.
+So if we look at this schedules page on the student portal, we have a list of different rotations that are scheduled for the student for the upcoming year and on this on this page we also have a way to see contact information for that site and when.
+When we have a scheduled rotation that allows a change, so for example we have a placeholder rotation here, this is meant to be an elective, the student can go in there and request a rotation.
+By selecting a site, selecting a rotation, and then fill out the details for that clinical experience. So I can say this is going to be at this hospital.
+What's the rotation name? What course does it, or, or curricular requirement does it fulfill? Who's the, who's going to be the administrator there?
+That person does not exist in the system. I can fill that in. And then, who's going to be the supervisor, fill that in, and I'll also select the dates that I want to do this rotation and upload an attachment.
+This could be a signed approval or some sort of document that I want the, the, the team at the, my institution to just see, and I also can add more notes here.
+So once this is submitted, it's visible to the administrator who can then approve it and the student receives an email saying that the rotation was approved.
+If it's rejected, it comes back to them and they can resubmit it. You can see here, we have something that was submitted in the past, and I can look that up.
+And if it hasn't been approved or rejected, I can also edit it and make changes. And resubmit it. If it's already been approved, then I cannot make any change.
+So this is what the student portal looks like, and then on the administrative side, as we saw on our meeting last week, administrators can review what was submitted and approve it.
+https://www.loom.com/share/0c4b8087b8ba4364bed0db7683e4db25
+success
+Tweaks and Updates for the Student Side of the System
+I wanted to summarize some tweaks that we need to make on the student side. Everything is looking really good, and this is something that we wanted to clean up.
+So one thing, the schools don't want to reveal the number of students that are ranked. The rotation so we can hide this column for now commented out for the open slash total week we can remove the open part and simply show the total slots that are available and then for the drag and drop let's put that
+on the left side all the way on the left side and on the right side add a action column where you can delete and enter if you need to and then when you delete it you ask you have a sweet alert that shows are you sure you want to remove this rotation from your rank list and then when they click yes it'll
+be removed. For the administrative side Actually, so one more thing from the student side, they need So
+, on the administrative side for lottery, one small tweak that we need is we have to add a way to delete a lottery and also a way to go back in previous phases.
+So I should essentially change this to next phase and then add a button. This previous phase so if someone made a mistake they we can correct it and then for we also need to have a way to delete a lottery and that delete option later on we can lock it down based on some criteria but for now we have
+to have a way to to clean this up if there's some mistakes.
+https://www.loom.com/share/262086676ad54eecb6aa2e5ab19034ea
+success
+Tweaking the Lottery Functionality 🎲
+Hi Marina, so I'm looking at the lottery functionality again to make some tweaks that will make It easier to manage So on the administrative side one thing to note is that one thing to note is is that the status here for example it says lottery closed I believe it's supposed to be lottery closes because
+it's not closed yet so in phase five so it closes it should be the sentence and the other Another major problem is that there is only a way to advance the phase, but never a way to go back, which is a big problem because if you miss something, you miss the block, there is no way to go back and fix it
+. It would be ideal if there is a way for us to also go back to the previous phase and either having another button that says previous phase and then a next phase button.
+Yeah, that's the best I can think of right now as a solution since we have so many phases. We can improve that later, but at the very least having a previous phase button so the client makes a mistake, they can go back and fix it.
+The student side. So, on the student side, we don't need to list out all of the sites. All of the roles.
+We can simply show the name, the open date, the closed date, and Well, it's kind of redundant. There. The open date and then status with the lottery closes on this date and we don't need to show this twice.
+Then when I go to the select preferences Let's comment down the rank by so we don't need to show the number of students that ranked it and for We also need to, I'm not sure if this is showing total slots or open slots.
+If it's showing the total slots, let's keep that. But we don't need to show the open slots. Remove open and then keep the total and we also need to show the block number if we have that and then it seems to have lost the ability to edit or remove here.
+So if we want to remove an entry, we want to be able to do that too. So let's go in here select So I'm not sure why I can't add that there Maybe it's because this is closed.
+Hooray! Okay, so to summarize here, it's going to be the removing this open here and then only showing the total slots and then we're going to hide the rank.
+We also want to be able to remove from the list from this page by having an action column. So if we're going to put the action column on the right side, it'd be good for us.
+To have the dragon drop be on the left side so that they're not accidentally clicking both of them.
+https://www.loom.com/share/4c7cc8ee86714347af70d8d4ced46ebb
+success
+Improving Document for Training and Client Communication
+Hey Mike, so this document is great and it's something that we can use for training internally and share with clients.
+There's one more change that we want to do here is to make it more concise and also the language, see if we can make it simpler and easier to read.
+Because when it comes to something like this, software descriptions, it can be overwhelming if you're looking at a lot. On a text like this.
+So here's what I wanted to try. So if we take each of these sentences, or we can, you can try using the whole row at a time.
+So if we do. I was trying a couple of different prompts. So we do this. Let's see. So, let's see.
+So we can deliver the same message. So we can go back to this and edit it. Alright, so yes, if we can do that for all of it, and then I'll manually edit it again to add some more points and then, we'll finalize it.
+https://www.loom.com/share/2b0a38fc773c4fd68860efc546f7ba33
+success
+26 July, 2023 - Understanding-Medtrics-Competency-Reports
+So in this video, we're going to take a look at the different competency reports that are available in metrics. So the first one is the competency page that's on the performance competency tab that is in the performance page.
+This report brings all of the different competency averages together on one page that you could interact with and dig deeper into the data.
+So first thing I did was I chose a wide day range from 2020 to 2024 for this demo user that we have here.
+And then if we come down, I can turn on different settings and generate the report. And as we get to the bottom, you can see that competency performance is broken down into a hierarchy.
+And this is the highest level. And then patient care has an average for the highest level. And then if you go deeper into that competency, we have sub-competencies in here.
+So the same thing applies for EPO's. So the hierarchies recreated based on the school's data. And then it'll have averages.
+And if you go into the sub-competency, it'll have averages for those. And then each question that it's mapped to that sub-competency, we have averages for those questions.
+And this continues into each of those core competencies in sub-competencies. And as we get to the bottom, we will have comments that were added by the Evaluate source.
+There is also a competency committee report that we provide in the second page. And on this, you can select a day range, choose the different components of the competency committee report, and then select the user.
+This report has schedules at the top that controls all of the clinical rotations that were submitted that were completed by the trainee, the competency performance with the averages, any attendance records, case logs that were entered in that day range, exam scores, and comments that were submitted
+during that day range. Then we have the puller graphs with the competency graphs, and we select a day range, and then metrics will create separate charts for each of the core competencies and sub-competencies and again, we call it incompetencies, but it for each of the schools, if they're using EPO's
+milestones, objectives, the data structure is going to be the same, it's going to show the averages based on what was collected on the evaluations.
+There's also a scatter plot that gets generated, that shows the data over a period of time and how it is spread across the different responses, and then there's also a reviews page where it's a mentor or director, it can look at each of the students' performance and then submit a review if needed.
+Those are the reports that are on the performance page, in addition to those reports on the evaluations reports page, we have the evaluation summary report.
+This report can also be used to see performance data, although it doesn't map, competency averages, but still we can come in here, select a day range, choose one of the forms, and then see how we want to group that data and then run it.
+If I group the data differently, the averages will be adjusted based on the grouping, but I did in group the data and group this response here, and it's simply averaging based on the question, choose the total responses, percentage, and the response mean.
+And for comments, I also have a way to search inside of the comments that we're submitted and find what I find.
+So it's simply a way to select the submissions, see the averages, see all the comments, and then export that into PDF.
+On the evaluation reports page, we also have a subcompensy report. If I choose this with the same date range that we have selected earlier, I can choose a role.
+We're looking at the metrics subcompensy report. This is exported in Excel format, and it contains evaluation data or competency data for multiple trainees in the program.
+So if you run this for a large number of trainees, it can be emailed to you after it's generated, and it may take some time to pull all the data together.
+Essentially what it has is all the trainees listed on the left side, and along the top, we have the different subcompensies.
+And each of those subcompensies have an average, and this data is getting pulled from those evaluation averages, and they're rolled into those subcompensy averages, and then we have a summary here.
+And this report has two sheets. The first sheet has these average, average for every subcompensy for the entire date range.
+And in the second detailed view, we have the separate roll for every subcompensy. So you can see here, this is a user, and we have the subcompensy.
+And for each subcompensy, we're showing how many times this trainee was evaluated on the subcompensy, the average for that subcompensy, the peer number of evaluations, and the peer average.
+With this data, it's a administrator or director or dean can look at it and make a decision on whether or not there was sufficient number of sampling over that period of time.
+So if you, for example, if you have a competency, that was only assessed one time, then that may not be enough data to make a decision on whether or not the trainee is competent.
+And if you have more confidence that the individual is competent or not competent in that competency or EPL. So first sheet will give you the summary, the second sheet will give you the number of times the trainee was evaluated.
+https://www.loom.com/share/b5f6a370f6da4ef3a65ca94dabbd73c5
+success
+Institutional Work Hour Compliance & Summary Reports
+Video we're going to take a look at the compliance report and the institutional report for work hours. These reports can be accessed from the institutional portal under reports page and under the work hours section.
+So if we can scroll down to the compliance report we can and then click select criteria. I can select a date range, select the programs that I want to include.
+These are the different training programs. That may be logging hours, and the roles that I want to include. And then once I select that, I also have the option to include users that are inactive, for example, any alumni.
+Once I click download, this will generate an Excel file that includes a list of all the residents and the hours that they logged during that day range.
+It will also include the following information includes the role, the primary primary program, the compliance percentage, and list of all of the days that they missed, as well as the overall program compliance for that specialty.
+So if I'm dealing with an internal medicine program, it'll show the compliance for internal medicine. The key thing to note here about this report is is that it factors in whether or not the sampling period is enabled.
+So if the sampling period is enabled and you have defined specific sampling periods where the residents have to log hours, then the compliance percentage will only include those days in the denial So, if you have, we have a 30-day period that there's supposed to log hours and they only log 15 days out
+of those 30 days, then it's considered 50%. On the other hand, if there is no sampling period defined, then it will look at the entire year and use that.
+As a denominator, the total number of days in the year and then number of days that they log for that range.
+That's if you're choosing the entire year. If you choose a specific date range, it'll use the number of days in that date range and you have the denominator and the number of days that were logged.
+As a numerator. That's how this compliance percentage is calculated. The second report we're going to review is the institutional report which can be run on the same reports page and when you select the criteria for institutional report, we have the same filters that we can choose, the start date and
+date, or the from and to date, the programs filters, the roles filter, and an option to include inactive users. When I click download, it'll generate a spreadsheet that includes a list of all of the programs, whether they require logs on weekends, whether compliance email are enabled as well as the
+total number of trainees, total number of days without logs, the percentage that they logged, total hours that were logged. Average hours per week, total days off, not including weekends, total, and then a count of all of the violations that occurred.
+And this is all being summarized for the date range that we selected. So those are the two reports that we can run on the institutional level to see the performance of our organization and see a bird's eye view into compliance as well as.
+Violations that have occurred at the organization.
+https://www.loom.com/share/fafe32df33ae453db937ad273b3bc76c
+success
+Understanding Form Assignments in the New System
+Hi, Jin. I'm looking at these forms and I am noticing that these new 2023 and Intern form and 2023 2024 resident forms Both have assignments already and I'm assuming it's for the first block So this is where we typically change this from a rotation form to a program form type and it doesn't allow those
+form types to be changed to once there are assignments There may be a way for us to change that on our rent.
+I'll have to look into that and follow up. Before we do that, I want to make sure that I understand your goals here.
+Are you looking to have this form assigned? I understand your goals here. Are you looking to have this form assigned?
+It's not a text to match the evaluations. If we use a program eval, it's simply going to use the roles and roles of groups to match forms.
+So if you say supervising physicians and core faculty members evaluate PGY1s, then it'll take all the PA, supervising physicians and core faculty members and assign a form to have them evaluate the PGY1s.
+So I'd like to know a little bit more about what you're trying to accomplish and then I'm open to having a call and discuss this because I want to make sure that if we make any changes, it's not going to cause any issues with, who gets the, yeah, who gets the assignment.
+And yeah, so if, so the two things that we have to figure out is, are you trying to keep the context?
+You know, do you need to know when the rotation was assigned and if so the rotation form, is what we have to use.
+And then if you're trying to assign on a specific date, the rotation template doesn't allow you to do that. And the reason that we used to have that functionality and it's, we disabled it because the rotations change each month.
+And if it's on a specific date, then it's going to assign on a specific date and it's not going to be used.
+And you're going to be you're going to have to set up multiple rules to make that work. So,
+https://www.loom.com/share/aac19398d2404d85a2add0ff8544f109
+success
+Reporting for Work Hour Logs & Violations
+In this video, we're going to take a look at the different reports that are available for administrators that are working with work hours.
+First, we'll take a look at the program administration portal. We're going to have an administration portal if we go to work hours, logs.
+There are going to be four tabs here. First tab is by rotation, by month, by logs, and by people. Each of these tabs will give us different information about the logs that were entered into metrics.
+So, on the By Rotation page, it allows us to see information about the logs that we're seeing. Actually all of the logs that were submitted by residents or fellows for specific rotations.
+So if I scroll down, I'm going to see a couple of things at the top. One is a legend, which allows us to see what types of violations or different color codes that we're using on the page.
+And then once we get down further, we see the number of residents that we have on this program. And then a way to select a specific month, for example, right now we're in.
+August, but if I want to go to the previous month, I can use the previous month button, or I can use the next month to go to the next month.
+And as we scroll down further, we start seeing each of the residents list it out. And for each resident, I'll see the rotations that they work during that month and for each rotation I'll see all of the logs that they entered for that month.
+So here I'm looking at Robert Chase who was in dermatology and I can see all the hours hours that were logged for dermatology.
+It gives me the total hours per day, the shift type, the little checkbox next to the shift type indicates that it was finalized and then if there was no log entered.
+Then it'll say day off because the resident shows that option when they finalize the hours that they did not work that day, then the red no log tax indicates that no logs have an enter for a specific day.
+And as we scroll down we can go see all of the residents that we have in the system. If no entries have been made, you won't see any hours log.
+If I go to the previous month, it'll show me all of the logs that were entered for the resident for that the previous month.
+So here Robert Chase again have logs for different days and he also has a violation that occurred that shows the violation details.
+Along with the comments that he put in for that particular violation. So we're presenting the information all in one place.
+The rotation details, the hours they logged, as well as the violation, and the comments that the rest of the time. So that's the first tab, the by rotation tab.
+Next we have the by month tab. On the by month tab, it allows us to select a resident and then I can simply see the logs that they entered.
+By month. And on here, it would show hours. And whether they have been finalized and whether if there's a violation it'll list out the violation and whether that violation have been commented on.
+Next we have the by logs page. The by logs page allows us to select a date range, start by selecting the start date and end date, different work hour types or shift types, the roles, or specific individuals.
+And then I can see the logs that they So, for example, I have all the log shot showing here for Robert Chase and this is showing everything that was entered for August and only Robert Chase has logged his hours.
+And this table at the bottom will show name of the person, the hours, the entered, the site that they entered in, what they were working at, the rotation that they were working in, and any comments that they entered while they loved the hours.
+I can also search this logs page. Using the search bar. There's a way to export this into a PDF or an Excel directly from this page.
+Next we'll take a look at the Buy People tab. This has the same filters at the top with the start date and end date, work hour types, roles or people, and then on the bottom where we have the date of showing, it gives us totals for each person.
+So it's going to tell me that Robert Chase Chased log hours of regular shift for 16 hours and then what the total hours were so this by people page is showing us total hours by each shift types and then by logs is giving us each of the logs that they have entered.
+So under the program administration portal, we are seeing all this data for the residents or fellows that are part of this program.
+If I go to the institutional portal, and the logs page, I am seeing all of the same information for the entire organization.
+Here I can filter by program and select specific. To make programs and their residents, or I can see all residents in my organization.
+So that's the difference on the institutional level for institutional administrators. They're able to see the work hour logs for the entire organization, for the program portal.
+You can only see hours for the program. Next, we'll take a look at the second reporting option that we have, which is the violations reports.
+https://www.loom.com/share/acab9b1922064b808bdd1dd8a7e226d9
+success
+Understanding Medtrics Competency Reports
+So in this video, we're going to take a look at the different competency reports that are available in metrics. So the first one is the competency page that's on the performance, competency tab that is on the performance.
+Page. This report brings all of the different competency averages together on one page that you could interact with and dig deeper into the data.
+So first thing I did was I chose a wide date range from 2020 to 2024 for this demo user. So I can go to the data center that we have here and then if we come down, I can turn on different settings and generate the report.
+And as we get to the bottom, you can see that competency performance is broken down into a hierarchy and this is the highest.
+And then patient care has an average for the highest level. And then if you go deeper into that, that competency, we have sub competencies in here.
+So the same thing applies for EPOs. So the hierarchy is recre- ied based on the school's data. And then it'll have averages.
+And if you go into the sub competency, it'll have averages for those. And then each question that it's mapped to that sub competency, we have averages for those questions.
+And this- continues into each of those core competencies and sub competencies. And as we get to the bottom, we will have comments.
+That were added by the evaluators. There is also a competency committee report that we provide in the second page. And on this you can select a data.
+A range choose the different components of the competency committee report and then select the user. This report has schedules at the top that shows all of the clinical.
+The two presentations that were submitted and that were completed by the trainee. The competency performance with the averages. Any attendance records case logs that were entered during that day range exam scores and.
+On events that were submitted during that date range. Then we have the polar graphs with the competency graphs and we select a date range.
+And then metrics will create separate charts for each of the core competencies and subcompetencies. And again, this we call it competencies, but it for each of the schools, If they're using EPOs, milestones, objectives, the data structure.
+Is going to be the same. It's going to show the averages based on what was collected on the evaluations. There's also a scatter plot.
+That gets generated that shows the data. Or a period of time and how it is spread across the different responses.
+And then there's also a reviews page where it's a mentor or. Director can look at each of the students performance and then submit a review if needed.
+So those are the reports that are on the performance page. In addition to those reports. On the evaluations reports page, we have the evaluation summary report.
+This report can also be used to see performance data. Although it doesn't map. It doesn't show the competencies, competency averages.
+But still we can come in here, select a date range, choose one of the forms, and then see how we want to group that data.
+And run it. So if I group the data differently, the averages will be adjusted based on the grouping. But I didn't group the data, group this response here, and it's simply averaging based on the question.
+It shows you total responses, percentage, and the response mean. And for comments, I also have a way to search inside of the comments that were submitted and find what I need to find.
+So it's simply a way to search inside of the comments. It's a way to select the submissions, see the averages, see all the comments, and then export that into a PDF.
+On the evaluation reports page, we also have a subcompetency. If I choose this, with the same date range that we have selected earlier, I can choose a role.
+We're
+looking at the metrics sub-competency report. This is exported in Excel format and it contains evaluation data or competency data for multiple trainees in the program.
+So if you run, this for a large number of trainees, it can be emailed to you after it's generated and it may take some time to pull all this data together.
+Essentially what it has is all the trainees listed on the left side and along the top we have the different sub-competencies.
+And each of those sub-competencies have an average and this data is getting pulled from those evaluation averages and they're rolled into those sub-competency averages and then we have a summary here and this report has two sheets The first sheet has these average averages for every sub-competency for
+the entire date range and in the second detailed view we have the a separate role for every sub-competency so you can see here this is a user and we have the sub-competency and for each sub-competency we're showing how many times this trainee was evaluated on this sub-competency the average for
+https://www.loom.com/share/802781802c27474393a620b7772fee1b
+success
+Work Hours for Residents & Fellows
+In this video, we're going to take a look at what the resident or fellow sees when they are logging work hours so we have logged in as a resident and first thing that we can see on the dashboard is a couple of sections related to work hours hours.
+On the right side we have a log hours button and then if there was any violations that we need to review that will appear on the dashboard.
+Right now we don't have anything to review so it doesn't show up. So now if we go to the work hours page on the left menu will be taken to the page where we can log work hours.
+First, we'll look at it from a desktop view and then we'll look at it from a mobile view. So logging work hours and metrics requires a published schedule.
+So if you have a resident that is trying to log hours and they get an error message that says there's no public schedule published schedule They may reach out to you.
+The first thing to check is make sure the block schedule is published So if we go to work hours, I know that this resident has a work published Schedule so we'll take a look at the calendar So, on the calendar, we have a few options.
+By default, it loads on the Week view. I can see this week. If I want to go to the previous week, I use the left arrow to go backwards, and I can go forward using the right arrow.
+The today button. Allows me to go back to this week. Then there's also the month view, which allows me to go backwards and months.
+To log hours, there are three ways that we can put hours on the calendar. First is using this drag and drop function at the top where I can select one of the shift types and you can see at the top that we have four shift types published.
+This is showing the shift types that we selected on the admin portal that we want to make available to the residents.
+So I can drag and drop to the calendar. And you can see that this shift popped up, and this regular shift is what they will be using for the day shifts.
+And that's going to be the most commonly used shift type where they work in a regular day shift from 8 a.m.
+To whatever time they're finishing. That's the first. So the dragon drop is the first way to log hours. The second way that we can log hours is simply to click into the calendar and then this will bring up a window where I can select the date, which is going to preload to the date that I clicked into
+. Then I can select the shift type, and it'll show me the same shift type at the top. And select the star time, select the end day.
+So if you're working by default, it's going to say same day, that means that You're working your start time and end time is in the same day But if you're working if the resident is working an overnight shift, you would want to select the next day and that allow you to select a time that is in the next
+day, so shift type Start time and day and then the end time are the required fields and then we have the comment field Which allows us to make a note if we want to Although at the top of this window, there is also a button called copy last shift.
+This allows you to copy your all the all the options from the previous shift and so that you can repeat it so we have select we have two ways that we reviewed on how to log hours and the third way is to use this create button at the top.
+This will bring up the same window that we were looking at and where you can enter all the information necessary to log that shift.
+And a quick tip here is that if you have logged hours for a day and the next day, day you work in the same shift you can simply go back to the calendar, hover over the hover over that shift and then click the little repeat button.
+To repeat the same hours to the next day. It simply will copy, copy the shift from one day to the next.
+It's a one click. Copy let's do that from a previous page here so I'm going to copy this regular shift here and I'm going to move that that to the right place.
+And then I can click to copy this from one day to the next. And then, The next thing that we can do is also use the drag functionality to adjust the hours as needed.
+So I can move things around, I can increase the size, decrease the size as needed. To adjust the shift type.
+Sometimes the system will also provide a warning when you're logging hours if there's going to be a violation. So for example, I received a notification that if I log this shift type, it'll cross an eight-hour off-filation.
+So you want to make sure this is warning you in case you are entering something incorrectly, incorrect it before you finalize it.
+So now that we've reviewed how to log hours on the desktop, let's take a look at at what it looks like from the mobile.
+So if you look at the mobile page, It gives you a different interface by default it'll arrive on today's date and you have the one-day visible and then here I can get I can click that create button to bring up the same window and log hours.
+And I can also use the copy button if I need to copy one shift to the next day. Actually, I'm sorry, when it comes to logging hours on the mobile, it actually takes you to a table view, so I can see the log, and I can see the list of log shifts, and each of them will have an edit, repeat.
+Delete option and when I click on the edit I can edit the day and then adjust their time. If I want to add a new shift, I click on add shift and it'll bring up the same window here that we were looking at the desktop and that will allow us to log the hours for create a new shift.
+https://www.loom.com/share/2b3740e70f384ac084f83413d131a410
+success
+Design Review: Consistency and Simplicity [🎥]
+Hi, Ericsson. So I want you to take a look at the original design and see if we can stick to a similar format because I think, keeping it consistent and simple like this is going to be better for delivering the content because, so for example, when it comes to the header, the cover page some of
+the key elements here is the title the contact information, how long the client has been around and then the logo and that, and then if we go to the second page, this left side here allows people to learn product or by the case study.
+So one of the things you can do is go into so this is the draft here. And I take this, go to chat.
+Dt. Actually let's do this, let's do this other one. Say this is a draft of a case study, and we can say, We can take that.
+And put this in here. Let's see if we can do something else. This transcript could include filler words which are transcribed when they appear as a part of the transcript.
+And we always have to make sure the alignment is good. And here. So, I'm not sure if we had stats.
+So, if we had any, I think there was a completion percentage that was added. So we can talk about that later.
+And then here, when it comes to the text, one of the things that is important for us to make it readable.
+Is the use of white space and also when text is broken up. So like when a text is broken up into columns like this.
+It makes it harder for users to read it. The reason why is you have to keep going from line to back and forth back and forth.
+But if we use it as the full page, it's easier for users to read it and also. The justified text where there's uneven spacing between them also makes it harder for a person to read it.
+It looks better, but it's not good for the reader. So, what we. Want to do is make it left justified also the spacing between the thing.
+So, for example, if it's. This is size 12 font. The spacing between them is 16. So it gives it a little bit more breathing room.
+So it makes it more visually appealing. And then same thing here. This some white space. Having a sub header. So we can do this.
+Take this. Create a I look for this So here take this. Copy. So create a title for that. And we can do that for all of them.
+So like, so this makes it the challenge and then the orange text makes. Stand out. And then for you can see the quotes using.
+This gray or some sort of bar to emphasize the quote and then having the ball. And then I guess I'm right about which is Slack or different refers.
+So this is the theiu that Kyle Madagotzzi notes right here as well. Kyle really makes it visually more engaging. And then I also, I'm a fan of using this 3333 instead of black.
+So that it's, it's a slightly different. Variation on the, on the, on the black color. So I'll share this with you and you can make a copy and I think it's, it's good to try.
+To create this in Figma is it's, it's an easy tool to learn since you already know since you already know illustrator and all of the editing tools are.
+On the web and and it's going to be easier for us to go back and forth on feedback also.
+https://www.loom.com/share/0f6715754fef403e93c65c8d41550d93
+success
+Understanding Competency Reports in Metrics
+So in this video, we're going to take a look at the different competency reports that are available in metrics. So the first one is the competency page that's on the performance, competency tab that is on the performance.
+Page. This report brings all of the different competency averages together on one page that you could interact with and dig deeper into the data.
+So first thing I did was I chose a wide date range from 2020 to 2024 for this demo user. So I can go to the data center that we have here and then if we come down, I can turn on different settings and generate the report.
+And as we get to the bottom, you can see that competency performance is broken down into a hierarchy and this is the highest.
+And then patient care has an average for the highest level. And then if you go deeper into that, that competency, we have sub competencies in here.
+So the same thing applies for EPOs. So the hierarchy is recre- ied based on the school's data. And then it'll have averages.
+And if you go into the sub competency, it'll have averages for those. And then each question that it's mapped to that sub competency, we have averages for those questions.
+And this- continues into each of those core competencies and sub competencies. And as we get to the bottom, we will have comments.
+That were added by the evaluators. There is also a competency committee report that we provide in the second page. And on this you can select a data.
+A range choose the different components of the competency committee report and then select the user. This report has schedules at the top that shows all of the clinical.
+The two presentations that were submitted and that were completed by the trainee. The competency performance with the averages. Any attendance records case logs that were entered during that day range exam scores and.
+On events that were submitted during that date range. Then we have the polar graphs with the competency graphs and we select a date range.
+And then metrics will create separate charts for each of the core competencies and subcompetencies. And again, this we call it competencies, but it for each of the schools, If they're using EPOs, milestones, objectives, the data structure.
+Is going to be the same. It's going to show the averages based on what was collected on the evaluations. There's also a scatter plot.
+That gets generated that shows the data. Or a period of time and how it is spread across the different responses.
+And then there's also a reviews page where it's a mentor or. Director can look at each of the students performance and then submit a review if needed.
+So those are the reports that are on the performance page. In addition to those reports. On the evaluations reports page, we have the evaluation summary report.
+This report can also be used to see performance data. Although it doesn't map. It doesn't show the competencies, competency averages.
+But still we can come in here, select a date range, choose one of the forms, and then see how we want to group that data.
+And run it. So if I group the data differently, the averages will be adjusted based on the grouping. But I didn't group the data, group this response here, and it's simply averaging based on the question.
+It shows you total responses, percentage, and the response mean. And for comments, I also have a way to search inside of the comments that were submitted and find what I need to find.
+So it's simply a way to search inside of the comments. It's a way to select the submissions, see the averages, see all the comments, and then export that into a PDF.
+On the evaluation reports page, we also have a subcompetency. If I choose this, with the same date range that we have selected earlier, I can choose a role.
+And what this report does is it will create a spreadsheet with averages. For each student or each trainee that is part of the program.
+The benefit of the subcompetency Excel report is that it'll show averages. For the entire class as opposed to the performance page report.
+It's look you're looking at each student one at a time. So since this is going for. Multiple students may take some time.
+So let me open this up. And we can see here. There's Multiple students may take some time. So let me open this up.
+And we can see here. There's a lot of averages for each of the competencies or sub-competencies in our training program.
+So you can see PC1, what are the averages, PC2, and this is showing it for the entire student body. On the details page, it'll show you all of the different evaluation responses, that lets those averages.
+So it shows you for each sub-competency, number of times it was evaluated, what the average was, and the number of times the peers are evaluated, and the average was for the peers.
+So this report is meant to be looking at all of the students while the competency report is not listed. So the performance page is meant for individual trainees.
+https://www.loom.com/share/32269da9773643b6a2a457b5b42840c0
+success
+Competency Reports in Metrics
+Good afternoon. In this video we're going to take a look at the competency reports in metrics. So on the performance page if we look at the tabs, the second tab here is competencies and this report is meant to bring all of the data that a trainee has accumulated over a period period of time and it groups
+the results into competencies or milestones or whatever EPOs or objectives that the school's using essentially regardless of what type of competency structure you're using, it will group that data and show the averages for those competencies across the date rings that you
+chose. So for example, here I'm looking at four years of data for this trainee from all of the evaluation form.
+And then I generate the report and I come down here and here we have the highest level which is patient care.
+And if I expand that and I'll see the second li- level of the hierarchy and then all of the different con- questions that are associated with that, the responses are received and then I can see averages for each level of the competency.
+So, question averages gets rolled up into the competency averages and then goes rolled up further into the core competencies. So, same thing if we're using EPOs, the different levels of the hierarchy will.
+You'll get averaged together and you can see how the training performed. This chart here is showing data over time and I can turn on or turn things off.
+If I want to focus on a specific competency or EPO and then as we go further down into the page, we also have a section for questions that were not mapped to the competency or EPO and then all of it at the bottom we also have comments that were written out by the evaluators.
+The second chart here is for our competency reports, which I'll send a sample with this email. I can't show it on the screen because of the because it's, it's a PDF report, but it shows all of the rotations that the trainee completed if they're, if this is related to a clinical
+rotations. And then it also shows averages for each of the competencies compared to their peer. The competency graphs then shows the same data as polar.
+And it compares the student to their peers. So it's breaking it down by all of the different competencies and the sub competencies.
+So in this particular exam, for example, we're looking at competencies, but if you want to, if a school's using EPOs like Yale's using it.
+https://www.loom.com/share/2063a70397ca40bb8dd7c51b5cffd6c9
+success
+Analyzing Growth and Financial Data 📊
+So what I did was I started a Google document for us to do some reporting on our growth and I gave you access to QuickBooks.
+This document has a column 2014, 2015. 2016 and so on. Let me do something here. You can kind of see,um...so mer,emerging these together, and then you can see that 2014 was a total subscription and total services from a client.
+And if I look in QuickBooks and I go to customers and I open up, let's say, one of our customers, ultimate and you'll see here 2019 invoice anything that is paid so what we want to do is, for 2019 what is the total that was paid we may be able to do a report, for this let's see sales by customer detail
+and if I do hmm tilt you can see that group by month here. In cash air hose let's see, cost of air.
+Class. Okay, so this report should have everything that we need. And what we're doing here is. Turning this into a summary report.
+So I'm going to export this to Excel. And I'm going to load this. Here. I saw way way. We'll do format data filter views, create new filter.
+And then what we want to do is filter by each of the clients in here. So let's say ultimate again, clear.
+And you can see the product and service. Only 5000 plus 2500 is going to be the subscription. And also added notes here.
+So we'll have. Total subscription. It's going to be. 7500. So that was in 2019. So what I want you to start by is create for each year three columns.
+So it's going to be. Resist for each year three columns for each year three columns. I'm alternating the colored columns.
+With white columns, so it's easy to track. So 2019 total subscription for alt. The med was and if I hundred, then if we look at here for 2019 total services is We had.
+$1,500.00. Actually what we can do is put in the, Let's start with getting the numbers. We'll get 2,500, 1,500. And then if we go back to here, 2021, we had, an increase here.
+9,985. There's this friction. If we highlight all these, these are all subscription is $12,495. Then total services. So, this for example is a little tricky because we have two payments that is coming in on the same year.
+And it's because 2020 was invoiced late. And they paid late. So this actually here and in the notes paid in 2021.
+And then 2021 invoice was at the end of the year. And that was the, this, this, this, which is 12,870.
+And you can see I'm looking at, I'm highlighting these three and it gives me the sum at the bottom. And then the next year we have this, this, and this.
+13, 263. 25. So you can see. It's a big project but it's an important project for us to do some tracking on how we have grown over the years.
+So we have ultimate starting in 2019, then we can see. How much they have grown from one thing to the next.
+So what we want, we need to do this for each of our clients. This, once I've done one client, I can go in here, remove this, and then, Choose another client.
+And then we go from the beginning to the end.
+https://www.loom.com/share/579aa6ac0d8f48799337e4a8a920ff0a
+success
+Understanding Evaluation Types and Dates in our Program
+Good morning, Jen. So for sending out evaluations on a specific date, you can do that using our program evaluation type.
+And the general surveys also support adding a specific date. So the difference between the rotation evaluation and the program evaluation is that the rotation evaluations will use the schedules to assign those forms.
+And for program evaluations, a resident can evaluate the faculty member or the faculty member can evaluate the resident and it's assigned on one or more specific dates.
+So if I were to make informed here, let's say this is a resident. Valuation has all of the options that the rotation form has in terms of confidentiality.
+Continue. I can add questions. And when I get to the last page. There's going to be a section when this.
+Should this be automatically assigned? And if I choose yes. Here I can choose specific dates. So this is a button that allows us to add multiple dates.
+And then once this is saved. On each of these dates, you'll have a copy of this form assigned. And then the email will go out to the appropriate evaluator.
+https://www.loom.com/share/f7f918fe9bee43598776b2804071035b
+success
+Adding Resources to the Customer Dashboard
+Hi Maria, so this customer dashboard, I added this second sheet here and this is pulling in the list of customers from the first sheet and what we want to add here is some resources that allow us to find information quickly.
+So for example, the ultimate URL. So I believe this is. And then customer support meeting URL. So in meeting notes in Google Trap we have these two documents.
+And then here I'm wondering if we can add a URL to, to front that will have filtered. So let's say from, And if we use that, yeah, so if we do that, then it would pull in all the conversations from that customer.
+So that way. So this is going to be, But you have a new report that we're using for the ability of users, meaning does a user count towards their, light, the level licenses.
+And this report includes, ,data on all of the users with and within a certain date range, it'll show you how many records were created by those users.
+So, ,this would typically create a new column that adds up the values of each of these, each of these columns.
+And if that number is greater than one, then it means that they use the system and they're billable. But for the customer success, ,stamp point, we can, we may be able to use that to see how many, like the higher the number, the more the system is being used.
+So I'd like you to take a look at this report and, you know, I don't want to do anything crazy in terms of putting it in.
+I don't want to do anything to any power BI or anything like that yet. But I'd like you to do this, think about like the data that's on here and brainstorm ideas on how we may be able to use this to make decisions on engagement.
+Well, to this task too.
+https://www.loom.com/share/a3267aab2fb94be3b1c4f06ae0127310
+success
+System Updates and Future Plans 😊
+Good afternoon, Jen. I hope you're doing well and that you're off this long weekend and not on call. I wanted to share a short video updating you on a couple things that we changed in the system based on our previous discussions.
+For example, the CCC report we had talked about the field and then being able to select multiple residents one after another without downloading the same report again.
+To avoid that error, we had switched the type of field we're using here and instead of radio buttons, the administrators will be able to now search for a resident and select that individual to download the PDF and when the next time they're selecting another person, they can start typing and finding
+a, finding the next person and, you know, we're also working on a way to select multiple residents to have that PDF email, or the setup PDFs emailed to the administrator.
+That's something that is not done yet. Once that is released, it'll allow the coordinators to export reports. For all residents in the program, and have a set of PDFs sent to their email.
+But right now, we switched out the field to avoid any issues in the future. Another update that I wanted to share was related to that forms.
+Part 2, where we're managing questions, and we had discussed some challenges when we're editing a question. And we're if we go in here and we,
+https://www.loom.com/share/0b8f5120eb154637b4cd882b480549de
+success
+Exploring the Power of Claude.ai
+Hi guys, I wanted to share this video with you with this AI tool called Claude. You can access it by going to Claude.ai.
+It's similar to ChatGPT and their new version is supposed to be pretty robust. ChatGPT is still better in some ways.
+One of the advantages of this tool is that it supports attachments and large amounts of text. So, one of the things that I try to do here is I downloaded two PDFs.
+The first one is a research file. Research article. So, if I go into here. You'll see this PDF here. It's a research on virtual reality and augmented reality.
+And another one is a article from facebook. Engage substantial res UX as I did was I so one is a, a business article.
+Another one is a academic research article. And I took both articles and I. Attached it here and I gave it a prompt that says I'm attaching two PDFs.
+The one is a research article. The second is blah, blah, blah, whatever topic it is. Read both articles and create an outline post and.
+It used the text in those articles to compile. A blog article for me and I also asked to include citations.
+And one of the in a second version, I also went as far as saying only use information, learn from these two PDFs to create the outline.
+Do not make up content. So this limits the AI from creating fake information and then it helps me create an article.
+So we can do this with multiple articles. So let's say we have a topic and we find. A bunch of different articles from different with different perspectives.
+We can attach each of those here and then ask it to use that information to craft a new article. So it's really powerful for us to.
